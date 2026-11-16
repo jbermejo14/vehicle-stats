@@ -1,10 +1,9 @@
 'use client';
 
-import React, { useMemo } from 'react';
+import React from 'react';
 import { useData } from '@/context/DataContext';
 import { BadgePill } from '@/components/telemetry/BadgePill';
 import { TelemetryTooltip } from '@/components/telemetry/TelemetryTooltip';
-import { TipoPropulsion, EtiquetaDgt } from '@/lib/dgtTypes';
 import { 
   ResponsiveContainer, 
   PieChart, 
@@ -18,107 +17,79 @@ import {
   Tooltip, 
   Legend 
 } from 'recharts';
-import { Zap, Fuel, Award, Filter, RotateCcw } from 'lucide-react';
+import { Zap, Fuel, Award, Filter, RotateCcw, Flame, CheckCircle, ShieldAlert } from 'lucide-react';
 
 export function FuelsBadgesView() {
-  const { filteredRecords, filters, setFilter } = useData();
+  const { 
+    fuelStats, 
+    badgeStats, 
+    fuelBadgeMatrix: crossMatrix, 
+    filters, 
+    setFilter,
+    kpis 
+  } = useData();
 
-  // Aggregate Fuel data
-  const fuelStats = useMemo(() => {
-    const total = filteredRecords.length;
-    const map: Record<string, number> = {};
-
-    for (const r of filteredRecords) {
-      map[r.propulsion] = (map[r.propulsion] || 0) + 1;
-    }
-
-    const order: TipoPropulsion[] = [
-      'Gasolina',
-      'Híbrido (HEV)',
-      'Eléctrico Puro (BEV)',
-      'Híbrido Enchufable (PHEV)',
-      'Diésel',
-      'GLP / GNC',
-      'Otro'
-    ];
-
-    const colors: Record<string, string> = {
-      'Gasolina': '#FF5500', // Electric Orange
-      'Híbrido (HEV)': '#00E599', // Emerald Neon
-      'Eléctrico Puro (BEV)': '#00E5FF', // Cyan Neon
-      'Híbrido Enchufable (PHEV)': '#3B82F6', // Blue
-      'Diésel': '#F4F4F6', // Titanium White
-      'GLP / GNC': '#FF9E00', // Amber
-      'Otro': '#52525B' // Steel Gray
-    };
-
-    return order
-      .filter(f => map[f] && map[f] > 0)
-      .map(fuel => ({
-        name: fuel,
-        count: map[fuel] || 0,
-        percentage: total > 0 ? parseFloat((((map[fuel] || 0) / total) * 100).toFixed(1)) : 0,
-        color: colors[fuel] || '#FF5500'
-      }));
-  }, [filteredRecords]);
-
-  // Aggregate Badge data
-  const badgeStats = useMemo(() => {
-    const total = filteredRecords.length;
-    const map: Record<string, number> = {};
-
-    for (const r of filteredRecords) {
-      map[r.etiquetaDgt] = (map[r.etiquetaDgt] || 0) + 1;
-    }
-
-    const order: EtiquetaDgt[] = ['0 CERO', 'ECO', 'C', 'B', 'SIN ETIQUETA'];
-    const colors: Record<string, string> = {
-      '0 CERO': '#00E5FF',
-      'ECO': '#00E599',
-      'C': '#10B981',
-      'B': '#F59E0B',
-      'SIN ETIQUETA': '#52525B'
-    };
-
-    return order.map(badge => ({
-      name: badge,
-      count: map[badge] || 0,
-      percentage: total > 0 ? parseFloat((((map[badge] || 0) / total) * 100).toFixed(1)) : 0,
-      color: colors[badge] || '#52525B'
-    }));
-  }, [filteredRecords]);
-
-  // Cross Tabulation Matrix: Fuel x Badge
-  const crossMatrix = useMemo(() => {
-    const fuels: TipoPropulsion[] = [
-      'Gasolina',
-      'Híbrido (HEV)',
-      'Eléctrico Puro (BEV)',
-      'Híbrido Enchufable (PHEV)',
-      'Diésel',
-      'GLP / GNC'
-    ];
-    const badges: EtiquetaDgt[] = ['0 CERO', 'ECO', 'C', 'B', 'SIN ETIQUETA'];
-
-    const grid: Record<string, Record<string, number>> = {};
-    for (const f of fuels) {
-      grid[f] = {};
-      for (const b of badges) {
-        grid[f][b] = 0;
-      }
-    }
-
-    for (const r of filteredRecords) {
-      if (grid[r.propulsion] && grid[r.propulsion][r.etiquetaDgt] !== undefined) {
-        grid[r.propulsion][r.etiquetaDgt]++;
-      }
-    }
-
-    return { fuels, badges, grid };
-  }, [filteredRecords]);
+  const totalFuelSum = fuelStats.reduce((sum, f) => sum + f.count, 0) || kpis.totalRegistrations;
+  const termicosCount = Math.max(0, kpis.totalRegistrations - kpis.electrificadosCount);
+  const termicosPct = parseFloat(((termicosCount / (kpis.totalRegistrations || 1)) * 100).toFixed(1));
 
   return (
     <div className="space-y-6">
+      {/* Top HUD Energy Telemetry Cards */}
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+        <div className="bg-card border border-border rounded-lg p-4">
+          <div className="flex items-center space-x-2 text-zinc-400 mb-2 font-mono text-xs">
+            <Fuel className="w-4 h-4 text-accent" />
+            <span>TOTAL AUDITORÍA FLOTA //</span>
+          </div>
+          <div className="font-mono text-2xl font-extrabold text-white">
+            {kpis.totalRegistrations.toLocaleString('es-ES')} <span className="text-accent text-xs font-mono">regs</span>
+          </div>
+          <div className="text-zinc-500 font-mono text-xs mt-1">
+            Volumen consolidado para el periodo activo
+          </div>
+        </div>
+
+        <div className="bg-card border border-border rounded-lg p-4">
+          <div className="flex items-center space-x-2 text-zinc-400 mb-2 font-mono text-xs">
+            <Zap className="w-4 h-4 text-emerald-400" />
+            <span>ELECTRIFICACIÓN (ECO + 0) //</span>
+          </div>
+          <div className="font-mono text-2xl font-extrabold text-white">
+            {kpis.electrificadosPct}%
+          </div>
+          <div className="text-zinc-400 font-mono text-xs mt-1">
+            {kpis.electrificadosCount.toLocaleString('es-ES')} vehículos HEV, PHEV y BEV
+          </div>
+        </div>
+
+        <div className="bg-card border border-border rounded-lg p-4">
+          <div className="flex items-center space-x-2 text-zinc-400 mb-2 font-mono text-xs">
+            <Award className="w-4 h-4 text-cyan-400" />
+            <span>0 CERO EMISIONES //</span>
+          </div>
+          <div className="font-mono text-2xl font-extrabold text-cyan-400">
+            {kpis.ceroPct}%
+          </div>
+          <div className="text-zinc-400 font-mono text-xs mt-1">
+            {kpis.ceroCount.toLocaleString('es-ES')} unidades 100% eléctricas y PHEV
+          </div>
+        </div>
+
+        <div className="bg-card border border-border rounded-lg p-4">
+          <div className="flex items-center space-x-2 text-zinc-400 mb-2 font-mono text-xs">
+            <Flame className="w-4 h-4 text-orange-400" />
+            <span>COMBUSTIÓN TÉRMICA //</span>
+          </div>
+          <div className="font-mono text-2xl font-extrabold text-white">
+            {termicosPct}%
+          </div>
+          <div className="text-zinc-400 font-mono text-xs mt-1">
+            {termicosCount.toLocaleString('es-ES')} unidades Gasolina y Diésel (Etiqueta C)
+          </div>
+        </div>
+      </div>
+
       {/* Top 2 Donut/Bar Charts Grid */}
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
         {/* Propulsion Breakdown */}
@@ -270,7 +241,7 @@ export function FuelsBadgesView() {
             Matriz Cruzada: Propulsión Homologada vs Etiqueta DGT
           </h3>
           <p className="text-xs text-zinc-400 mt-0.5">
-            Cruce de tecnologías de tracción con su respectiva calificación oficial de emisiones DGT.
+            Cruce oficial de tecnologías de tracción del parque de vehículos con su respectivo distintivo ambiental asignado por la DGT.
           </p>
         </div>
 
@@ -279,7 +250,7 @@ export function FuelsBadgesView() {
             <thead>
               <tr className="border-b border-zinc-800 text-zinc-500 uppercase text-[10px]">
                 <th className="py-2.5">Tipo de Propulsión</th>
-                {crossMatrix.badges.map((b) => (
+                {(crossMatrix?.badges || ['0 CERO', 'ECO', 'C', 'B', 'SIN ETIQUETA']).map((b) => (
                   <th key={b} className="py-2.5 text-center">
                     <BadgePill badge={b} size="sm" />
                   </th>
@@ -288,17 +259,17 @@ export function FuelsBadgesView() {
               </tr>
             </thead>
             <tbody className="divide-y divide-zinc-900">
-              {crossMatrix.fuels.map((fuel) => {
-                const totalFuel = crossMatrix.badges.reduce(
-                  (sum, b) => sum + (crossMatrix.grid[fuel][b] || 0),
+              {(crossMatrix?.fuels || []).map((fuel) => {
+                const totalFuel = (crossMatrix?.badges || []).reduce(
+                  (sum, b) => sum + (crossMatrix?.grid?.[fuel]?.[b] || 0),
                   0
                 );
 
                 return (
                   <tr key={fuel} className="hover:bg-zinc-900/40 transition-colors">
                     <td className="py-3 font-bold text-white">{fuel}</td>
-                    {crossMatrix.badges.map((b) => {
-                      const count = crossMatrix.grid[fuel][b] || 0;
+                    {(crossMatrix?.badges || []).map((b) => {
+                      const count = crossMatrix?.grid?.[fuel]?.[b] || 0;
                       return (
                         <td key={b} className="py-3 text-center">
                           {count > 0 ? (

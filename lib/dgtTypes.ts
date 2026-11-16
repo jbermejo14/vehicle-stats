@@ -130,6 +130,26 @@ export interface DisplacementBracketStat {
   percentage: number;
 }
 
+export interface FuelStat {
+  name: TipoPropulsion;
+  count: number;
+  percentage: number;
+  color: string;
+}
+
+export interface BadgeStat {
+  name: EtiquetaDgt;
+  count: number;
+  percentage: number;
+  color: string;
+}
+
+export interface FuelBadgeCrossMatrix {
+  fuels: TipoPropulsion[];
+  badges: EtiquetaDgt[];
+  grid: Record<string, Record<string, number>>;
+}
+
 export interface Co2BracketStat {
   range: string;
   tramoIedmt: TramoIedmt;
@@ -171,4 +191,54 @@ export interface FilterState {
   search: string;
   startDate?: string;
   endDate?: string;
+}
+
+export interface AutomotiveGroupStat {
+  groupName: string;
+  total: number;
+  percentage: number;
+  brands: string[];
+  eco0Pct: number;
+  avgCo2: number;
+  topBrand: string;
+}
+
+export interface OriginCountryStat {
+  country: string;
+  code: string;
+  flag: string;
+  total: number;
+  percentage: number;
+  isDomestic: boolean;
+  topBrands: string[];
+}
+
+export interface BodyTypeStat {
+  code: string;
+  label: string;
+  category: string;
+  total: number;
+  percentage: number;
+  avgKw: number;
+  avgTara: number;
+}
+
+export interface WeightPowerBracket {
+  range: string;
+  label: string;
+  minRatio: number;
+  maxRatio: number;
+  count: number;
+  percentage: number;
+  color: string;
+}
+
+export interface MunicipalityStat {
+  municipio: string;
+  provincia: string;
+  total: number;
+  sampleCount?: number;
+  percentage: number;
+  isFleetHub: boolean;
+  fleetHubReason?: string;
 }

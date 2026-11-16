@@ -8,7 +8,12 @@ import {
   PowerBracketStat, 
   DisplacementBracketStat, 
   Co2BracketStat,
-  FilterState
+  FilterState,
+  AutomotiveGroupStat,
+  OriginCountryStat,
+  BodyTypeStat,
+  WeightPowerBracket,
+  MunicipalityStat
 } from './dgtTypes';
 import { SPAIN_PROVINCES } from './spainProvinces';
 
@@ -708,4 +713,434 @@ export function computeEuroStandards(records: DgtRecord[]): { norm: string; coun
       percentage: total > 0 ? parseFloat(((count / total) * 100).toFixed(1)) : 0
     }))
     .sort((a, b) => b.count - a.count);
+}
+
+// -------------------------------------------------------------
+// ADVANCED TELEMETRY // AUTOMOTIVE GROUPS (OEMS)
+// -------------------------------------------------------------
+const BRAND_TO_GROUP: Record<string, string> = {
+  'SEAT': 'Grupo Volkswagen (VAG)',
+  'CUPRA': 'Grupo Volkswagen (VAG)',
+  'VOLKSWAGEN': 'Grupo Volkswagen (VAG)',
+  'AUDI': 'Grupo Volkswagen (VAG)',
+  'SKODA': 'Grupo Volkswagen (VAG)',
+  'PORSCHE': 'Grupo Volkswagen (VAG)',
+  'LAMBORGHINI': 'Grupo Volkswagen (VAG)',
+  'BENTLEY': 'Grupo Volkswagen (VAG)',
+  'MAN': 'Grupo Volkswagen (VAG)',
+
+  'PEUGEOT': 'Stellantis',
+  'CITROEN': 'Stellantis',
+  'OPEL': 'Stellantis',
+  'FIAT': 'Stellantis',
+  'JEEP': 'Stellantis',
+  'DS': 'Stellantis',
+  'ALFA ROMEO': 'Stellantis',
+  'ABARTH': 'Stellantis',
+  'LANCIA': 'Stellantis',
+  'MASERATI': 'Stellantis',
+
+  'RENAULT': 'Grupo Renault',
+  'DACIA': 'Grupo Renault',
+  'ALPINE': 'Grupo Renault',
+  'MOBILIZE': 'Grupo Renault',
+
+  'TOYOTA': 'Toyota Motor Corp',
+  'LEXUS': 'Toyota Motor Corp',
+
+  'HYUNDAI': 'Hyundai Motor Group',
+  'KIA': 'Hyundai Motor Group',
+  'GENESIS': 'Hyundai Motor Group',
+
+  'BMW': 'BMW Group',
+  'MINI': 'BMW Group',
+  'ROLLS-ROYCE': 'BMW Group',
+
+  'MERCEDES-BENZ': 'Mercedes-Benz Group',
+  'MERCEDES': 'Mercedes-Benz Group',
+  'SMART': 'Mercedes-Benz / Geely JV',
+
+  'VOLVO': 'Geely Holding Group',
+  'POLESTAR': 'Geely Holding Group',
+  'LYNK & CO': 'Geely Holding Group',
+  'GEELY': 'Geely Holding Group',
+  'LOTUS': 'Geely Holding Group',
+
+  'FORD': 'Ford Motor Company',
+  'TESLA': 'Tesla, Inc.',
+  
+  'MG': 'SAIC Motor Group',
+  'MAXUS': 'SAIC Motor Group',
+
+  'BYD': 'BYD Auto',
+
+  'OMODA': 'Chery Automobile',
+  'JAECOO': 'Chery Automobile',
+  'CHERY': 'Chery Automobile',
+
+  'NISSAN': 'Alianza Renault-Nissan-Mitsubishi',
+  'MITSUBISHI': 'Alianza Renault-Nissan-Mitsubishi',
+
+  'MAZDA': 'Mazda Motor Corp',
+  'HONDA': 'Honda Motor Co.',
+  'SUZUKI': 'Suzuki Motor Corp',
+
+  'LAND ROVER': 'JLR (Tata Motors)',
+  'JAGUAR': 'JLR (Tata Motors)',
+
+  'PIAGGIO': 'Grupo Piaggio',
+  'VESPA': 'Grupo Piaggio',
+  'APRILIA': 'Grupo Piaggio',
+  'KYMCO': 'Kymco Kwang Yang',
+  'YAMAHA': 'Yamaha Motor Co.',
+  'SYM': 'Sanyang Motor (SYM)',
+  'KAWASAKI': 'Kawasaki Heavy Ind.'
+};
+
+export function computeAutomotiveGroups(records: DgtRecord[]): AutomotiveGroupStat[] {
+  const total = records.length;
+  if (total === 0) return [];
+
+  const groupMap: Record<string, {
+    total: number;
+    brandsMap: Record<string, number>;
+    eco0Count: number;
+    co2Sum: number;
+    co2Valid: number;
+  }> = {};
+
+  for (const r of records) {
+    const brand = r.marca ? r.marca.toUpperCase().trim() : 'GENÉRICO';
+    let group = BRAND_TO_GROUP[brand];
+
+    // Fallback if brand not mapped: inspect fabricante
+    if (!group) {
+      const fab = (r.fabricante || '').toUpperCase();
+      if (fab.includes('VOLKSWAGEN') || fab.includes('SEAT') || fab.includes('AUDI') || fab.includes('SKODA')) {
+        group = 'Grupo Volkswagen (VAG)';
+      } else if (fab.includes('STELLANTIS') || fab.includes('PSA') || fab.includes('FCA')) {
+        group = 'Stellantis';
+      } else if (fab.includes('RENAULT') || fab.includes('DACIA')) {
+        group = 'Grupo Renault';
+      } else if (fab.includes('TOYOTA')) {
+        group = 'Toyota Motor Corp';
+      } else if (fab.includes('BMW') || fab.includes('BAYERISCHE')) {
+        group = 'BMW Group';
+      } else if (fab.includes('MERCEDES') || fab.includes('DAIMLER')) {
+        group = 'Mercedes-Benz Group';
+      } else if (fab.includes('HYUNDAI') || fab.includes('KIA')) {
+        group = 'Hyundai Motor Group';
+      } else if (fab.includes('TESLA')) {
+        group = 'Tesla, Inc.';
+      } else if (fab.includes('FORD')) {
+        group = 'Ford Motor Company';
+      } else {
+        group = 'Otros / Independientes';
+      }
+    }
+
+    if (!groupMap[group]) {
+      groupMap[group] = {
+        total: 0,
+        brandsMap: {},
+        eco0Count: 0,
+        co2Sum: 0,
+        co2Valid: 0
+      };
+    }
+
+    const g = groupMap[group];
+    g.total++;
+    g.brandsMap[brand] = (g.brandsMap[brand] || 0) + 1;
+    if (r.etiquetaDgt === '0 CERO' || r.etiquetaDgt === 'ECO') {
+      g.eco0Count++;
+    }
+    if (r.emisionesCo2 > 0) {
+      g.co2Sum += r.emisionesCo2;
+      g.co2Valid++;
+    }
+  }
+
+  return Object.entries(groupMap)
+    .map(([groupName, data]) => {
+      const sortedBrands = Object.entries(data.brandsMap).sort((a, b) => b[1] - a[1]);
+      const topBrand = sortedBrands[0] ? sortedBrands[0][0] : 'N/A';
+      const brands = sortedBrands.slice(0, 5).map(b => b[0]);
+
+      return {
+        groupName,
+        total: data.total,
+        percentage: parseFloat(((data.total / total) * 100).toFixed(1)),
+        brands,
+        eco0Pct: parseFloat(((data.eco0Count / data.total) * 100).toFixed(1)),
+        avgCo2: data.co2Valid > 0 ? Math.round(data.co2Sum / data.co2Valid) : 120,
+        topBrand
+      };
+    })
+    .sort((a, b) => b.total - a.total);
+}
+
+// -------------------------------------------------------------
+// WMI // ORIGIN COUNTRY & "MADE IN SPAIN"
+// -------------------------------------------------------------
+export function resolveOriginCountry(wmi: string): { country: string; code: string; flag: string; isDomestic: boolean } {
+  const w = (wmi || '').toUpperCase().trim();
+  if (!w) return { country: 'Desconocido', code: 'XX', flag: '🌐', isDomestic: false };
+
+  // Spain: VSS, VSE, VS6, VR3, VR7, VSX, VSA, VSG, VSR, VNV or starting with VS
+  if (w.startsWith('VS') || w === 'VR3' || w === 'VR7' || w === 'VSR' || w === 'VNV') {
+    return { country: 'España (Nacional)', code: 'ES', flag: '🇪🇸', isDomestic: true };
+  }
+  // Germany: WV, WA, WB, WD, WP, W
+  if (w.startsWith('WV') || w.startsWith('WA') || w.startsWith('WB') || w.startsWith('WD') || w.startsWith('WP') || w.startsWith('W')) {
+    return { country: 'Alemania', code: 'DE', flag: '🇩🇪', isDomestic: false };
+  }
+  // France: VF, VR1
+  if (w.startsWith('VF') || w === 'VR1') {
+    return { country: 'Francia', code: 'FR', flag: '🇫🇷', isDomestic: false };
+  }
+  // Romania: UU
+  if (w.startsWith('UU')) {
+    return { country: 'Rumanía', code: 'RO', flag: '🇷🇴', isDomestic: false };
+  }
+  // Czechia: TM, TJ
+  if (w.startsWith('TM') || w.startsWith('TJ')) {
+    return { country: 'República Checa', code: 'CZ', flag: '🇨🇿', isDomestic: false };
+  }
+  // Slovakia: U5, U6
+  if (w.startsWith('U5') || w.startsWith('U6')) {
+    return { country: 'Eslovaquia', code: 'SK', flag: '🇸🇰', isDomestic: false };
+  }
+  // China: L (LA-L0)
+  if (w.startsWith('L')) {
+    return { country: 'China', code: 'CN', flag: '🇨🇳', isDomestic: false };
+  }
+  // Japan: J (JA-J0)
+  if (w.startsWith('J')) {
+    return { country: 'Japón', code: 'JP', flag: '🇯🇵', isDomestic: false };
+  }
+  // South Korea: K (KA-K0)
+  if (w.startsWith('K')) {
+    return { country: 'Corea del Sur', code: 'KR', flag: '🇰🇷', isDomestic: false };
+  }
+  // Italy: ZA-ZR
+  if (w.startsWith('ZFA') || w.startsWith('ZAR') || w.startsWith('ZAM') || w.startsWith('Z')) {
+    return { country: 'Italia', code: 'IT', flag: '🇮🇹', isDomestic: false };
+  }
+  // UK: SA-SM, WMW
+  if (w.startsWith('SA') || w.startsWith('SL') || w.startsWith('SH') || w.startsWith('WMW')) {
+    return { country: 'Reino Unido', code: 'GB', flag: '🇬🇧', isDomestic: false };
+  }
+  // Poland: SU, PL
+  if (w.startsWith('SU') || w.startsWith('PL')) {
+    return { country: 'Polonia', code: 'PL', flag: '🇵🇱', isDomestic: false };
+  }
+  // USA: 1, 4, 5
+  if (w.startsWith('1') || w.startsWith('4') || w.startsWith('5')) {
+    return { country: 'Estados Unidos', code: 'US', flag: '🇺🇸', isDomestic: false };
+  }
+  // Sweden: YS, YV
+  if (w.startsWith('YS') || w.startsWith('YV')) {
+    return { country: 'Suecia', code: 'SE', flag: '🇸🇪', isDomestic: false };
+  }
+  // Turkey: NL, NM
+  if (w.startsWith('NL') || w.startsWith('NM')) {
+    return { country: 'Turquía', code: 'TR', flag: '🇹🇷', isDomestic: false };
+  }
+
+  return { country: 'Otros Países (UE/Global)', code: 'GL', flag: '🌍', isDomestic: false };
+}
+
+export function computeOriginCountries(records: DgtRecord[]): OriginCountryStat[] {
+  const total = records.length;
+  if (total === 0) return [];
+
+  const countryMap: Record<string, {
+    country: string;
+    code: string;
+    flag: string;
+    isDomestic: boolean;
+    total: number;
+    brandsMap: Record<string, number>;
+  }> = {};
+
+  for (const r of records) {
+    const meta = resolveOriginCountry(r.wmi);
+    if (!countryMap[meta.country]) {
+      countryMap[meta.country] = {
+        ...meta,
+        total: 0,
+        brandsMap: {}
+      };
+    }
+    const c = countryMap[meta.country];
+    c.total++;
+    const brand = r.marca ? r.marca.toUpperCase().trim() : 'OTRO';
+    c.brandsMap[brand] = (c.brandsMap[brand] || 0) + 1;
+  }
+
+  return Object.values(countryMap)
+    .map(c => {
+      const topBrands = Object.entries(c.brandsMap)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 3)
+        .map(b => b[0]);
+
+      return {
+        country: c.country,
+        code: c.code,
+        flag: c.flag,
+        total: c.total,
+        percentage: parseFloat(((c.total / total) * 100).toFixed(1)),
+        isDomestic: c.isDomestic,
+        topBrands
+      };
+    })
+    .sort((a, b) => b.total - a.total);
+}
+
+// -------------------------------------------------------------
+// BODY TYPES // AF (SUV), AB (HATCHBACK), AA (SEDAN), ETC.
+// -------------------------------------------------------------
+const BODY_TYPE_LABELS: Record<string, { label: string; category: string }> = {
+  'AF': { label: 'SUV / Crossover / Multiuso', category: 'SUV & Crossover' },
+  'AB': { label: 'Dos Volúmenes / Compacto', category: 'Hatchback / Utilitario' },
+  'AC': { label: 'Familiar / Station Wagon', category: 'Familiar' },
+  'AA': { label: 'Tres Volúmenes / Berlina', category: 'Sedán' },
+  'AD': { label: 'Coupé Deportivo', category: 'Deportivo' },
+  'AE': { label: 'Descapotable / Cabriolet', category: 'Cabrio' },
+  'BB': { label: 'Furgón / Comercial Ligero', category: 'Comercial' },
+  'BC': { label: 'Furgoneta Mixta Adaptable', category: 'Comercial' },
+  'SA': { label: 'Autocaravana / Camper', category: 'Ocio' },
+  'ND': { label: 'Sin Especificar / Chasis Cabina', category: 'Otros' }
+};
+
+export function computeBodyTypes(records: DgtRecord[]): BodyTypeStat[] {
+  const total = records.length;
+  if (total === 0) return [];
+
+  const map: Record<string, { count: number; sumKw: number; sumTara: number; validKw: number; validTara: number }> = {};
+
+  for (const r of records) {
+    const rawCode = (r.carroceria || 'ND').toUpperCase().trim();
+    const code = BODY_TYPE_LABELS[rawCode] ? rawCode : 'ND';
+
+    if (!map[code]) {
+      map[code] = { count: 0, sumKw: 0, sumTara: 0, validKw: 0, validTara: 0 };
+    }
+    const item = map[code];
+    item.count++;
+    if (r.potenciaKw > 0) {
+      item.sumKw += r.potenciaKw;
+      item.validKw++;
+    }
+    if (r.tara > 0) {
+      item.sumTara += r.tara;
+      item.validTara++;
+    }
+  }
+
+  return Object.entries(map)
+    .map(([code, d]) => {
+      const meta = BODY_TYPE_LABELS[code] || { label: `Carrocería ${code}`, category: 'Otros' };
+      return {
+        code,
+        label: meta.label,
+        category: meta.category,
+        total: d.count,
+        percentage: parseFloat(((d.count / total) * 100).toFixed(1)),
+        avgKw: d.validKw > 0 ? Math.round(d.sumKw / d.validKw) : 100,
+        avgTara: d.validTara > 0 ? Math.round(d.sumTara / d.validTara) : 1400
+      };
+    })
+    .sort((a, b) => b.total - a.total);
+}
+
+// -------------------------------------------------------------
+// WEIGHT TO POWER RATIO // KG / CV DYNAMICS
+// -------------------------------------------------------------
+export function computeWeightPowerBrackets(records: DgtRecord[]): WeightPowerBracket[] {
+  const brackets: WeightPowerBracket[] = [
+    { range: '< 6 kg/CV', label: 'Superdeportivo / Alto Rendimiento', minRatio: 0, maxRatio: 6, count: 0, percentage: 0, color: '#FF5500' },
+    { range: '6 - 8.9 kg/CV', label: 'Dinámico / Deportivo', minRatio: 6, maxRatio: 9, count: 0, percentage: 0, color: '#F97316' },
+    { range: '9 - 11.9 kg/CV', label: 'Gama Media / Turismo Estándar', minRatio: 9, maxRatio: 12, count: 0, percentage: 0, color: '#38BDF8' },
+    { range: '12 - 14.9 kg/CV', label: 'Utilitario / Urbano Eficiente', minRatio: 12, maxRatio: 15, count: 0, percentage: 0, color: '#10B981' },
+    { range: '≥ 15 kg/CV', label: 'Vehículo Pesado / Baja Potencia', minRatio: 15, maxRatio: 9999, count: 0, percentage: 0, color: '#A855F7' }
+  ];
+
+  let validCount = 0;
+  for (const r of records) {
+    if (r.potenciaCv > 0 && r.tara > 0) {
+      const ratio = r.tara / r.potenciaCv;
+      validCount++;
+      for (const b of brackets) {
+        if (ratio >= b.minRatio && ratio < b.maxRatio) {
+          b.count++;
+          break;
+        }
+      }
+    }
+  }
+
+  return brackets.map(b => ({
+    ...b,
+    percentage: validCount > 0 ? parseFloat(((b.count / validCount) * 100).toFixed(1)) : 0
+  }));
+}
+
+// -------------------------------------------------------------
+// MUNICIPALITY STATS // FLEET & IVTM HAVENS
+// -------------------------------------------------------------
+export const FLEET_HUBS: Record<string, string> = {
+  'ALCOBENDAS': 'Sede neurálgica de empresas multinacionales de renting (Arval, LeasePlan) y grandes corporaciones.',
+  'MAJADAHONDA': 'Sede de flotas de renting y servicios financieros de automoción.',
+  'MORALZARZAL': 'Municipio de la Sierra de Madrid con IVTM bonificado y alta concentración de vehículos de flota.',
+  'VENTURADA': 'Municipio de Madrid con tasa mínima de IVTM legal. Foco masivo de domiciliación de vehículos de renting.',
+  'ROBLEDO DE CHAVELA': 'Histórico municipio bonificado para matriculación de vehículos de empresa y renting.',
+  'BRUNETE': 'Municipio madrileño con condiciones tributarias favorables para flotas de empresas.',
+  'NAVACERRADA': 'Enclave de domiciliación de vehículos corporativos y flotas de renting.',
+  'ROZAS DE PUERTO REAL': 'Población <600 hab. con miles de vehículos matriculados por cuota mínima de IVTM.',
+  'AGUILAR DE CAMPOO': 'Hub de domiciliación en Palencia para flotas de transporte e industriales.',
+  'COLMENAR VIEJO': 'Importante sede de empresas de vehículos comerciales y renting.',
+  'POZUELO DE ALARCÓN': 'Mayor renta per cápita de España y alta densidad de vehículos de alta gama y directivos.',
+  'LAS ROZAS': 'Sede de empresas tecnológicas y flotas ejecutivas.',
+  'PATONES': 'Municipio de la Sierra Norte de Madrid (<600 hab.) con cuota mínima legal de IVTM (foco masivo de renting).',
+  'COLLADO MEDIANO': 'Municipio madrileño con bonificaciones fiscales para flotas de empresa.',
+  'FINESTRAT': 'Enclave en Alicante con alta actividad de rent-a-car y flotas turísticas.',
+  'BOADILLA DEL MONTE': 'Gran concentración de sedes financieras de corporaciones y directivos.'
+};
+
+export function computeMunicipalityStats(records: DgtRecord[], limit: number = 20): MunicipalityStat[] {
+  const total = records.length;
+  if (total === 0) return [];
+
+  const map: Record<string, { total: number; provincia: string }> = {};
+
+  for (const r of records) {
+    const rawMuni = (r.municipio || '').toUpperCase().trim();
+    if (!rawMuni || rawMuni === 'CAPITAL' || rawMuni === 'ND') continue;
+
+    if (!map[rawMuni]) {
+      map[rawMuni] = {
+        total: 0,
+        provincia: r.provinciaNombre || 'Madrid'
+      };
+    }
+    map[rawMuni].total++;
+  }
+
+  return Object.entries(map)
+    .sort((a, b) => b[1].total - a[1].total)
+    .slice(0, limit)
+    .map(([municipio, data]) => {
+      const isFleetHub = Boolean(FLEET_HUBS[municipio]);
+      return {
+        municipio,
+        provincia: data.provincia,
+        total: data.total,
+        percentage: parseFloat(((data.total / total) * 100).toFixed(1)),
+        isFleetHub,
+        fleetHubReason: FLEET_HUBS[municipio]
+      };
+    });
 }

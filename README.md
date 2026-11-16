@@ -23,15 +23,16 @@
 
 ---
 
-## 🧭 Las 7 Vistas de la Consola de Telemetría
+## 🧭 Las 8 Vistas de la Consola de Telemetría
 
 1. **Command Center (Visión General):** KPIs globales animados (Total matriculados, % Electrificación, Media CO₂ flota, Potencia media en kW/CV, Marca líder y Modelo top), serie temporal evolutiva y feed en vivo.
-2. **Mapa & Ranking por Provincias:** Mapa coroplético interactivo en escala térmica negro-naranja con recuadro inset para Canarias, Ceuta y Melilla, y conmutador entre volumen absoluto y tasa por cada 1.000 habitantes (censo INE).
+2. **Mapa & Ranking por Provincias:** Mapa coroplético interactivo en escala térmica negro-naranja con conmutador per cápita (censo INE) y **Radar Municipal / Hubs de Flotas (IVTM)** con detección de sedes de renting y beneficios fiscales locales.
 3. **Combustibles & Distintivos DGT:** Gráficos donut y barras del mix energético (Gasolina, Diésel, HEV, PHEV, BEV, GLP/GNC) y matriz cruzada propulsión vs distintivo ambiental.
 4. **Ranking de Marcas & Modelos:** Top 20 marcas y Top 25 modelos con buscador instantáneo, filtros por categoría (Turismos M1, Motos L3e, Comerciales N1) y **Comparador 1 vs 1** frente a frente.
-5. **Ingeniería, Potencia & Masa:** Tramos de potencia motriz (kW y CV), cilindrada (cc) y diagrama de dispersión cinemático (*Scatter Plot*) de Tara homologada vs Potencia neta.
-6. **Emisiones CO₂ & Tramos IEDMT:** Histograma de emisiones WLTP, distribución fiscal del Impuesto de Matriculación español (exención $\le$120 g/km vs tramos 4,75%, 9,75% y 14,75%) y cumplimiento de normas Euro (Euro 6e-bis, Euro 6e, Euro 6d, Euro 5+).
-7. **Importar DGT (.TXT):** Interfaz para procesar ficheros de microdatos adicionales y visor de líneas parseadas.
+5. **Industria, Consorcios & Origen WMI:** Cuota de mercado por Grupos Automovilísticos matrices (VAG, Stellantis, Renault, Toyota, etc.), trazabilidad de factorías de montaje (*Made in Spain* vs importaciones de Alemania, China, etc.) y auge de siluetas de carrocería (el fenómeno SUV `AF`).
+6. **Ingeniería, Dinámica & Masa:** Tramos de potencia motriz (kW y CV), cilindrada (cc), segmentación por relación peso/potencia ($kg/CV$), capacidad de carga útil estimada y diagrama de dispersión cinemático (*Scatter Plot*) Tara vs Potencia neta.
+7. **Emisiones CO₂ & Tramos IEDMT:** Histograma de emisiones WLTP, distribución fiscal del Impuesto de Matriculación español (exención $\le$120 g/km vs tramos 4,75%, 9,75% y 14,75%) y cumplimiento de normas Euro (Euro 6e-bis, Euro 6e, Euro 6d, Euro 5+).
+8. **Importar DGT (.TXT):** Interfaz para procesar ficheros de microdatos adicionales y visor de líneas parseadas.
 
 ---
 

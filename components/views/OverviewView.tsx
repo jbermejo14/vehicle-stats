@@ -34,13 +34,33 @@ import {
 } from 'recharts';
 
 export function OverviewView() {
-  const { kpis, timeline, filteredRecords, setActiveView, brandStats } = useData();
+  const { kpis, timeline, filteredRecords, setActiveView, brandStats, filters } = useData();
   const [chartMode, setChartMode] = useState<'total' | 'propulsion' | 'etiquetas'>('total');
 
   return (
     <div className="space-y-6">
       {/* Monetization / Partner Banner */}
       <TechnicalPartnerBanner />
+
+      {/* Informative Banner when Tramite is Transferencias */}
+      {filters.tramite === 'transferencias' && (
+        <div className="p-3.5 rounded-xl bg-accent/10 border border-accent/40 flex items-start space-x-3 text-xs text-zinc-300 shadow-[0_0_20px_rgba(255,85,0,0.1)]">
+          <div className="w-6 h-6 rounded bg-accent/20 border border-accent/60 flex items-center justify-center text-accent shrink-0 mt-0.5">
+            <ShieldAlert className="w-3.5 h-3.5" />
+          </div>
+          <div>
+            <div className="font-mono font-bold text-accent uppercase tracking-wider text-[11px]">
+              AUDITORÍA DGT // REMATRICULACIONES E IMPORTACIONES (CLASE 7)
+            </div>
+            <p className="mt-0.5 text-zinc-300 leading-relaxed font-sans text-xs">
+              Visualizando los <strong className="text-white">115.327 vehículos</strong> registrados bajo el trámite de rematriculación (importación de vehículos usados de la UE/extranjero con emisión de nueva placa española). 
+              <span className="text-zinc-400 block mt-0.5 text-[11px]">
+                Nota técnica: Las transferencias y cambios de titularidad del mercado de ocasión nacional (VO entre particulares y concesionarios, ~2M anuales) se consolidan en el fichero estadístico <code className="text-accent/90">TRANSTOT</code>.
+              </span>
+            </p>
+          </div>
+        </div>
+      )}
 
       {/* Top Telemetry KPI HUD Grid */}
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-6 gap-4">
@@ -49,7 +69,7 @@ export function OverviewView() {
           title="Total Registros"
           value={kpis.totalRegistrations}
           unit="regs"
-          subtext={`${kpis.nuevasCount} Nuevas // ${kpis.transferenciasCount} Transf.`}
+          subtext={`${(kpis.nuevasCount || 0).toLocaleString('es-ES')} Nuevas // ${(kpis.transferenciasCount || 0).toLocaleString('es-ES')} Transf.`}
           icon={Car}
           accentColor="orange"
           progress={100}

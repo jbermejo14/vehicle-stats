@@ -19,7 +19,15 @@ import {
 import { Gauge, Cpu, Weight, Activity, Zap } from 'lucide-react';
 
 export function EngineeringView() {
-  const { powerBrackets, displacementBrackets, filteredRecords, kpis } = useData();
+  const { powerBrackets, displacementBrackets, weightPowerBrackets, filteredRecords, kpis } = useData();
+
+  // Average Payload (MMA - Tara)
+  const avgPayload = useMemo(() => {
+    const valid = filteredRecords.filter(r => r.mma > r.tara && r.tara > 0);
+    if (!valid.length) return 520;
+    const sum = valid.reduce((acc, r) => acc + (r.mma - r.tara), 0);
+    return Math.round(sum / valid.length);
+  }, [filteredRecords]);
 
   // Tara vs kW Scatter Sample (sample 150 points for snappy rendering)
   const scatterData = useMemo(() => {
@@ -39,8 +47,8 @@ export function EngineeringView() {
 
   return (
     <div className="space-y-6">
-      {/* Top 3 Metric HUD Cards */}
-      <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+      {/* Top 4 Metric HUD Cards */}
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
         <div className="bg-card border border-border rounded-lg p-4">
           <div className="flex items-center space-x-2 text-zinc-400 mb-2 font-mono text-xs">
             <Gauge className="w-4 h-4 text-accent" />
@@ -73,11 +81,58 @@ export function EngineeringView() {
             <span>RELACIÓN PESO / POTENCIA //</span>
           </div>
           <div className="font-mono text-3xl font-extrabold text-white">
-            {kpis.avgKw > 0 ? (kpis.avgTara / kpis.avgKw).toFixed(1) : 0} <span className="text-emerald-400 text-sm">kg/kW</span>
+            {kpis.avgCv > 0 ? (kpis.avgTara / kpis.avgCv).toFixed(1) : '10.5'} <span className="text-emerald-400 text-sm">kg/CV</span>
           </div>
           <div className="text-zinc-500 font-mono text-xs mt-1">
-            Aprox. {kpis.avgCv > 0 ? (kpis.avgTara / kpis.avgCv).toFixed(1) : 0} kg/CV de eficiencia dinámica
+            Aprox. {kpis.avgKw > 0 ? (kpis.avgTara / kpis.avgKw).toFixed(1) : 0} kg/kW de carga motriz
           </div>
+        </div>
+
+        <div className="bg-card border border-border rounded-lg p-4">
+          <div className="flex items-center space-x-2 text-zinc-400 mb-2 font-mono text-xs">
+            <Zap className="w-4 h-4 text-amber-400" />
+            <span>CARGA ÚTIL ESTIMADA //</span>
+          </div>
+          <div className="font-mono text-3xl font-extrabold text-white">
+            {avgPayload.toLocaleString('es-ES')} <span className="text-amber-400 text-sm">kg</span>
+          </div>
+          <div className="text-zinc-500 font-mono text-xs mt-1">
+            Diferencial medio MMA − Tara (pasajeros/carga)
+          </div>
+        </div>
+      </div>
+
+      {/* Grid: Dynamic Weight/Power Bracket Analysis */}
+      <div className="bg-card border border-border rounded-lg p-5">
+        <div className="pb-3 mb-4 border-b border-zinc-900">
+          <span className="font-mono text-[10px] text-accent uppercase tracking-widest">// DINÁMICA & EFICIENCIA // RATIO KG/CV</span>
+          <h3 className="font-sans font-bold text-base text-white">
+            Segmentación de la Flota por Relación Peso/Potencia (kg/CV)
+          </h3>
+          <p className="text-xs text-zinc-400 mt-0.5">
+            Mide la agilidad y respuesta prestacional de los vehículos homologados en España.
+          </p>
+        </div>
+
+        <div className="grid grid-cols-1 md:grid-cols-5 gap-3">
+          {weightPowerBrackets.map((b) => (
+            <div key={b.range} className="p-3 bg-zinc-900/60 border border-zinc-800 rounded font-mono">
+              <div className="text-[10px] text-zinc-500 uppercase tracking-wider mb-1 truncate">{b.label}</div>
+              <div className="text-sm font-bold text-white flex items-center justify-between">
+                <span>{b.range}</span>
+                <span className="text-accent">{b.percentage}%</span>
+              </div>
+              <div className="w-full bg-zinc-800 h-1.5 rounded-full mt-2 overflow-hidden">
+                <div 
+                  className="h-full rounded-full transition-all" 
+                  style={{ width: `${b.percentage}%`, backgroundColor: b.color }} 
+                />
+              </div>
+              <div className="text-[11px] text-zinc-400 mt-2 text-right">
+                {b.count.toLocaleString('es-ES')} veh.
+              </div>
+            </div>
+          ))}
         </div>
       </div>
 

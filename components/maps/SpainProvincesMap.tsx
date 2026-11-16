@@ -25,6 +25,11 @@ export function SpainProvincesMap({ provinceStats }: SpainProvincesMapProps) {
     return map;
   }, [provinceStats]);
 
+  // Total registrations represented across all provinces
+  const totalMapRegistrations = useMemo(() => {
+    return provinceStats.reduce((sum, s) => sum + s.totalRegistrations, 0);
+  }, [provinceStats]);
+
   // Compute min/max for color scale
   const { maxTotal, maxRate } = useMemo(() => {
     let maxT = 1;
@@ -72,9 +77,12 @@ export function SpainProvincesMap({ provinceStats }: SpainProvincesMapProps) {
             <h3 className="font-sans font-bold text-base text-white tracking-wide">
               Mapa Coroplético de Densidad Provincial
             </h3>
+            <span className="px-2 py-0.5 rounded text-[10px] bg-accent/15 text-accent border border-accent/30 font-mono font-bold">
+              {totalMapRegistrations.toLocaleString('es-ES')} REGS TOTALES
+            </span>
           </div>
           <p className="text-xs text-zinc-400 mt-0.5">
-            Escala térmica de matriculaciones y tasa de motorización por habitante (INE).
+            Geometría oficial IGN (52 provincias). Escala térmica de matriculaciones y motorización per cápita (INE).
           </p>
         </div>
 
@@ -115,7 +123,7 @@ export function SpainProvincesMap({ provinceStats }: SpainProvincesMapProps) {
       </div>
 
       {/* SVG Map Container */}
-      <div className="relative w-full aspect-[4/3] max-h-[520px] flex items-center justify-center bg-[#07070A] rounded-lg border border-zinc-900 overflow-hidden">
+      <div className="relative w-full aspect-[4/3] max-h-[560px] flex items-center justify-center bg-[#07070A] rounded-lg border border-zinc-900 overflow-hidden">
         {/* Subtle Radar Background Grid */}
         <div className="absolute inset-0 bg-[radial-gradient(#1f1f26_1px,transparent_1px)] [background-size:16px_16px] opacity-40 pointer-events-none" />
 
@@ -136,17 +144,17 @@ export function SpainProvincesMap({ provinceStats }: SpainProvincesMapProps) {
         >
           {/* Subtle Canary Islands Inset Border */}
           <rect
-            x="20"
-            y="480"
-            width="200"
-            height="110"
+            x="15"
+            y="420"
+            width="230"
+            height="160"
             fill="none"
             stroke="#27272A"
             strokeDasharray="3 3"
             strokeWidth="1"
-            rx="4"
+            rx="6"
           />
-          <text x="30" y="500" fill="#71717A" fontSize="9" fontFamily="monospace" letterSpacing="1">
+          <text x="25" y="438" fill="#71717A" fontSize="9" fontFamily="monospace" letterSpacing="1">
             CANARIAS (INSET)
           </text>
 
@@ -161,11 +169,11 @@ export function SpainProvincesMap({ provinceStats }: SpainProvincesMapProps) {
                 <path
                   d={meta.path}
                   fill={fillColor}
-                  stroke={isSelected ? '#FF5500' : isHovered ? '#FFFFFF' : '#1F1F26'}
-                  strokeWidth={isSelected ? 2.5 : isHovered ? 2 : 0.75}
+                  stroke={isSelected ? '#FF5500' : isHovered ? '#FFFFFF' : '#272732'}
+                  strokeWidth={isSelected ? 2.5 : isHovered ? 2 : 0.8}
                   className="cursor-pointer transition-colors duration-150"
                   style={{
-                    filter: isSelected || isHovered ? 'drop-shadow(0 0 8px rgba(255, 85, 0, 0.6))' : 'none',
+                    filter: isSelected ? 'drop-shadow(0 0 10px rgba(255, 85, 0, 0.8))' : isHovered ? 'drop-shadow(0 0 8px rgba(255, 255, 255, 0.5))' : 'none',
                   }}
                   onMouseEnter={() => setHoveredCode(code)}
                   onClick={() => {
@@ -177,17 +185,19 @@ export function SpainProvincesMap({ provinceStats }: SpainProvincesMapProps) {
                   }}
                 />
                 {/* Short Name Marker for high-volume provinces */}
-                {(meta.population > 1000000 || code === '28' || code === '08' || code === '46') && (
+                {(meta.population > 1000000 || code === '28' || code === '08' || code === '46' || code === '41' || code === '29' || code === '50') && (
                   <text
                     x={meta.center[0]}
                     y={meta.center[1]}
                     fill="#FFFFFF"
+                    stroke="#000000"
+                    strokeWidth="2.5"
+                    style={{ paintOrder: 'stroke fill' }}
                     fontSize="9"
                     fontWeight="bold"
                     fontFamily="monospace"
                     textAnchor="middle"
                     pointerEvents="none"
-                    opacity={0.85}
                   >
                     {meta.shortName}
                   </text>
@@ -216,6 +226,12 @@ export function SpainProvincesMap({ provinceStats }: SpainProvincesMapProps) {
                 <span className="text-zinc-400">Total Matriculados:</span>
                 <span className="text-accent font-bold">
                   {hoveredStat.totalRegistrations.toLocaleString('es-ES')} regs
+                </span>
+              </div>
+              <div className="flex justify-between">
+                <span className="text-zinc-400">Cuota sobre España:</span>
+                <span className="text-amber-400 font-bold">
+                  {totalMapRegistrations > 0 ? ((hoveredStat.totalRegistrations / totalMapRegistrations) * 100).toFixed(1) : 0}%
                 </span>
               </div>
               <div className="flex justify-between">

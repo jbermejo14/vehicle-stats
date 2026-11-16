@@ -7,11 +7,12 @@ export async function GET(req: NextRequest) {
   try {
     const { searchParams } = new URL(req.url);
     const period = searchParams.get('period') || 'all';
+    const tramite = searchParams.get('tramite') || 'todas';
 
-    const data = queryPeriodData(period);
+    const data = queryPeriodData(period, tramite);
     if (!data) {
       return NextResponse.json(
-        { success: false, error: `No se encontraron datos para el periodo ${period}` },
+        { success: false, error: `No se encontraron datos para el periodo ${period} y trámite ${tramite}` },
         { status: 404 }
       );
     }

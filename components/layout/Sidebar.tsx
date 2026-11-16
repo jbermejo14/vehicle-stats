@@ -19,7 +19,8 @@ import {
   Layers,
   Sparkles,
   Database,
-  ChevronDown
+  ChevronDown,
+  Building2
 } from 'lucide-react';
 
 interface SidebarProps {
@@ -68,33 +69,40 @@ export function Sidebar({ isMobileOpen, onCloseMobile }: SidebarProps) {
       index: '04'
     },
     {
+      key: 'industry',
+      label: 'Industria & Origen',
+      sublabel: 'Grupos, WMI & Siluetas',
+      icon: Building2,
+      index: '05'
+    },
+    {
       key: 'engineering',
       label: 'Ingeniería & Potencia',
-      sublabel: 'kW, CV & Tara',
+      sublabel: 'kW, CV, Tara & Dinámica',
       icon: Gauge,
-      index: '05'
+      index: '06'
     },
     {
       key: 'emissions',
       label: 'Emisiones & IEDMT',
       sublabel: 'CO₂ & Impuestos',
       icon: Leaf,
-      index: '06'
+      index: '07'
     },
     {
       key: 'import',
       label: 'Importar DGT (.TXT)',
       sublabel: 'Cargar Archivo Fijo',
       icon: UploadCloud,
-      index: '07'
+      index: '08'
     }
   ];
 
   const tramiteOptions: { value: TramiteTipo; label: string }[] = [
-    { value: 'todas', label: 'Todos los Trámites' },
-    { value: 'nuevas', label: 'Nuevas (Ord. 0)' },
-    { value: 'transferencias', label: 'Transferencias (7)' },
-    { value: 'bajas', label: 'Bajas / Otros' }
+    { value: 'todas', label: 'Todos los Trámites (5,4M)' },
+    { value: 'nuevas', label: 'Nuevas (Ord. 0 • 5,0M)' },
+    { value: 'transferencias', label: 'Rematriculaciones / Transf. (7 • 115k)' },
+    { value: 'bajas', label: 'Especiales / Bajas / Otros (250k)' }
   ];
 
   return (
