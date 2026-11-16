@@ -1,13 +1,24 @@
 /**
  * DGT Environmental Badge Engine
  * 
- * Normativa oficial española para la clasificación ambiental de vehículos:
+ * Normativa española para la clasificación ambiental de vehículos:
  * - Resolución de 13 de abril de 2016 de la Dirección General de Tráfico (BOE núm. 96, de 21 de abril de 2016).
  * - Resolución de 8 de enero de 2018 de la Dirección General de Tráfico (BOE núm. 18, de 20 de enero de 2018).
  * - Plan Nacional de Calidad del Aire y Protección de la Atmósfera (Plan AIRE).
  */
 
-export type DgtBadgeType = '0 CERO' | 'ECO' | 'C' | 'B' | 'SIN ETIQUETA';
+/** Autonomía eléctrica mínima (km) para que un PHEV lleve la etiqueta 0 CERO. */
+export const PHEV_MIN_CERO_RANGE_KM = 40;
+
+/** Etiqueta provisional de un PHEV sin autonomía conocida: puede ser CERO o ECO. */
+export const PHEV_UNDETERMINED_BADGE = 'PHEV: CERO o ECO';
+
+export type DgtBadgeType = '0 CERO' | 'ECO' | 'C' | 'B' | 'SIN ETIQUETA' | typeof PHEV_UNDETERMINED_BADGE;
+
+/** Indica si la etiqueta corresponde a un vehículo con CERO o ECO (el PHEV indeterminado es una de las dos). */
+export function isElectrifiedBadge(badge: DgtBadgeType): boolean {
+  return badge === '0 CERO' || badge === 'ECO' || badge === PHEV_UNDETERMINED_BADGE;
+}
 
 export interface VehicleBadgeInput {
   propulsionCode?: string;
@@ -35,7 +46,7 @@ export function deduceDgtBadge(vehicle: VehicleBadgeInput): BadgeDeductionResult
   const hib = (vehicle.hybridIndicator || '').toUpperCase().trim();
   const euro = (vehicle.euroNorm || '').toUpperCase().trim();
   const model = (vehicle.modelName || '').toUpperCase();
-  const range = vehicle.electricRangeKm ?? 0;
+  const range = vehicle.electricRangeKm;
   const co2 = vehicle.co2 ?? 0;
 
   let year = vehicle.registrationYear;
@@ -51,7 +62,7 @@ export function deduceDgtBadge(vehicle: VehicleBadgeInput): BadgeDeductionResult
   // 1. DISTINTIVO 0 CERO EMISIONES
   // - BEV: Eléctrico de batería pura
   // - REEV: Eléctrico de autonomía extendida
-  // - PHEV: Híbrido enchufable con autonomía >= 40 km
+  // - PHEV: Híbrido enchufable con autonomía >= 40 km (si no se conoce, resultado indeterminado)
   // - FCEV: Vehículo de pila de combustible / hidrógeno
   const isBev = 
     hib === 'BEV' || 
@@ -81,20 +92,28 @@ export function deduceDgtBadge(vehicle: VehicleBadgeInput): BadgeDeductionResult
   }
 
   if (isPhev) {
-    // Si la autonomía es conocida y menor de 40 km, le corresponde ECO; por defecto los PHEV homologados en España tienen >= 40 km
-    if (range > 0 && range < 40) {
+    // Sin autonomía conocida no se puede decidir entre CERO y ECO: no se asume ninguna.
+    if (range === undefined || !Number.isFinite(range) || range <= 0) {
+      return {
+        badge: PHEV_UNDETERMINED_BADGE,
+        label: 'PHEV: CERO o ECO según autonomía eléctrica',
+        color: '#06b6d4',
+        reason: `Híbrido enchufable (PHEV) sin autonomía eléctrica conocida: lleva CERO si alcanza ${PHEV_MIN_CERO_RANGE_KM} km y ECO si no.`
+      };
+    }
+    if (range < PHEV_MIN_CERO_RANGE_KM) {
       return {
         badge: 'ECO',
         label: 'ECO (Verde/Azul)',
         color: '#00a651',
-        reason: 'Híbrido enchufable (PHEV) con autonomía eléctrica oficial menor a 40 km.'
+        reason: `Híbrido enchufable (PHEV) con autonomía eléctrica menor a ${PHEV_MIN_CERO_RANGE_KM} km.`
       };
     }
     return {
       badge: '0 CERO',
       label: 'Cero Emisiones (Azul)',
       color: '#008ece',
-      reason: 'Híbrido enchufable (PHEV) con autonomía eléctrica mínima de 40 km.'
+      reason: `Híbrido enchufable (PHEV) con autonomía eléctrica de ${PHEV_MIN_CERO_RANGE_KM} km o más.`
     };
   }
 

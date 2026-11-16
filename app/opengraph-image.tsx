@@ -1,7 +1,7 @@
 import { ImageResponse } from 'next/og';
 
 export const runtime = 'edge';
-export const alt = 'DGT Pulse // Telemetría y Estadísticas de Matriculaciones en España';
+export const alt = 'DGT Pulse // Estadísticas de matriculaciones en España';
 export const size = { width: 1200, height: 630 };
 export const contentType = 'image/png';
 
@@ -46,7 +46,7 @@ export default function Image() {
                 DGT PULSE
               </span>
               <span style={{ fontSize: 14, color: '#FF5500', letterSpacing: '2px', fontFamily: 'monospace' }}>
-                // TELEMETRY & FLEET ANALYTICS
+                // ESTADÍSTICAS DE MATRICULACIONES
               </span>
             </div>
           </div>
@@ -63,7 +63,7 @@ export default function Image() {
               fontWeight: 700,
             }}
           >
-            MICRODATOS OFICIALES MATRABA
+            MICRODATOS MATRABA DE LA DGT
           </div>
         </div>
 
@@ -73,7 +73,7 @@ export default function Image() {
             Estadísticas y Análisis de Matriculaciones de Vehículos en España
           </span>
           <span style={{ fontSize: 22, color: '#A1A1AA', marginTop: 16, maxWidth: '880px' }}>
-            Indexación de 5.4M+ de vehículos oficiales DGT (2024-2026). Mapa provincial 52 provincias, mix eléctrico 0/ECO, cuota OEM y radar municipal IVTM.
+            Indexación de 5.4M+ de vehículos de la DGT (2024-2026). Mapa provincial 52 provincias, mix eléctrico 0/ECO, cuota OEM y radar municipal IVTM.
           </span>
         </div>
 

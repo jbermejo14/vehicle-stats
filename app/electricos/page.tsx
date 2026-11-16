@@ -2,6 +2,8 @@ import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
 import { getElectricosData, getMetadata } from '@/lib/staticData';
+import { PHEV_BADGE_NOTE } from '@/lib/badgeCounts';
+import { PHEV_MIN_CERO_RANGE_KM } from '@/lib/dgtBadge';
 import { constructMetadata, generateBreadcrumbJsonLd, generateDatasetJsonLd } from '@/lib/seo';
 import { 
   Zap, 
@@ -16,8 +18,8 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = constructMetadata({
-  title: 'Vehículos Eléctricos e Híbridos en España // Radar Oficial DGT',
-  description: 'Telemetría oficial de coches eléctricos puros (BEV) e híbridos enchufables (PHEV) en España basada en microdatos DGT. Evolución mensual, cuota de mercado, ranking por provincias y marcas líderes de electrificación.',
+  title: 'Vehículos eléctricos e híbridos enchufables en España',
+  description: 'Estadísticas de coches eléctricos puros (BEV) e híbridos enchufables (PHEV) en España basada en microdatos DGT. Evolución mensual, cuota de mercado, ranking por provincias y marcas líderes de electrificación.',
   canonicalPath: '/electricos',
 });
 
@@ -33,7 +35,7 @@ export default function ElectricosPage() {
   const breadcrumbJsonLd = generateBreadcrumbJsonLd(breadcrumbs);
   const datasetJsonLd = generateDatasetJsonLd({
     name: 'Microdatos DGT de Vehículos Eléctricos e Híbridos Enchufables en España',
-    description: `Estadísticas oficiales de vehículos con distintivo 0 CERO y etiqueta ECO en España. ${data.totalElectrificados.toLocaleString('es-ES')} vehículos electrificados registrados.`,
+    description: `Estadísticas de vehículos eléctricos e híbridos enchufables en España a partir de los microdatos de la DGT. ${data.totalElectrificados.toLocaleString('es-ES')} vehículos electrificados registrados.`,
     temporalCoverage: `${metadata.startPeriod}-01/${metadata.endPeriod}-28`,
     url: '/electricos',
   });
@@ -65,16 +67,19 @@ export default function ElectricosPage() {
         <div className="border-b border-white/10 pb-6">
           <div className="flex items-center gap-2 text-xs text-sky-400 font-bold uppercase tracking-wider mb-2">
             <Zap className="w-4 h-4" />
-            <span>Transición Energética // Etiqueta 0 CERO DGT</span>
+            <span>Transición Energética // Eléctricos e híbridos enchufables</span>
           </div>
           <h1 className="text-3xl sm:text-4xl font-black text-white tracking-tight">
             Radar de Vehículos Eléctricos (BEV) y PHEV en España
           </h1>
           <p className="text-sm text-zinc-400 mt-2 max-w-3xl leading-relaxed">
-            España cuenta con un acumulado oficial de{' '}
+            España cuenta con un acumulado de{' '}
             <strong className="text-white font-bold">{data.totalElectrificados.toLocaleString('es-ES')} vehículos enchufables</strong> registrados entre {metadata.startPeriod} y {metadata.endPeriod}, desglosados en{' '}
             <strong className="text-sky-400 font-bold">{data.totalBev.toLocaleString('es-ES')} eléctricos 100% (BEV)</strong> ({data.bevPctOfTotal}% de penetración) y{' '}
             <strong className="text-cyan-300 font-bold">{data.totalPhev.toLocaleString('es-ES')} híbridos enchufables (PHEV)</strong> ({data.phevPctOfTotal}% del mercado).
+          </p>
+          <p className="text-xs text-zinc-500 mt-2 max-w-3xl leading-relaxed">
+            {PHEV_BADGE_NOTE}: la DGT concede la etiqueta CERO a los PHEV con {PHEV_MIN_CERO_RANGE_KM} km o más de autonomía y ECO al resto. Los microdatos no incluyen la autonomía, así que los PHEV no se reparten entre ambas etiquetas.
           </p>
         </div>
 
@@ -116,7 +121,7 @@ export default function ElectricosPage() {
               {topProvinces[0]?.name || 'Madrid'}
             </div>
             <div className="text-xs text-zinc-400 mt-2">
-              Mayor penetración de flotas 0 CERO
+              Mayor penetración de BEV
             </div>
           </div>
         </div>
@@ -147,7 +152,7 @@ export default function ElectricosPage() {
                     {m.bev.toLocaleString('es-ES')} <span className="text-[10px] text-zinc-500">BEV</span>
                   </div>
                   <div className="text-[10px] text-zinc-400 mt-0.5">
-                    +{m.phev.toLocaleString('es-ES')} PHEV ({m.ceroPct}%)
+                    +{m.phev.toLocaleString('es-ES')} PHEV ({m.phevPct}%)
                   </div>
                 </Link>
               );

@@ -2,6 +2,17 @@ import { Metadata } from 'next';
 
 export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://dgt-pulse.es';
 
+/** Nombre del sitio, que aparece una sola vez en cada título. */
+export const SITE_NAME = 'DGT Pulse';
+
+/** Plantilla del layout raíz: añade el nombre del sitio al título que defina cada página. */
+export const SITE_TITLE_TEMPLATE = `%s | ${SITE_NAME}`;
+
+/**
+ * Construye los metadatos de una página. El título HTML se devuelve sin el nombre
+ * del sitio porque el layout raíz lo añade con SITE_TITLE_TEMPLATE; los títulos de
+ * Open Graph y Twitter no pasan por la plantilla y llevan el nombre explícito.
+ */
 export function constructMetadata({
   title,
   description,
@@ -18,16 +29,16 @@ export function constructMetadata({
   const url = `${SITE_URL}${canonicalPath.startsWith('/') ? canonicalPath : `/${canonicalPath}`}`;
 
   return {
-    title: `${title} | DGT Pulse`,
+    title,
     description,
     alternates: {
       canonical: url,
     },
     openGraph: {
-      title: `${title} | DGT Pulse`,
+      title: `${title} | ${SITE_NAME}`,
       description,
       url,
-      siteName: 'DGT Pulse // Telemetría Oficial de Matriculaciones',
+      siteName: SITE_NAME,
       locale: 'es_ES',
       type: ogType,
       ...(publishedTime ? { publishedTime } : {}),
@@ -36,13 +47,13 @@ export function constructMetadata({
           url: `${SITE_URL}/opengraph-image`,
           width: 1200,
           height: 630,
-          alt: `${title} - DGT Pulse`,
+          alt: `${title} - ${SITE_NAME}`,
         },
       ],
     },
     twitter: {
       card: 'summary_large_image',
-      title: `${title} | DGT Pulse`,
+      title: `${title} | ${SITE_NAME}`,
       description,
       images: [`${SITE_URL}/opengraph-image`],
     },

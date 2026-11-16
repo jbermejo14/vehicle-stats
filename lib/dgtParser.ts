@@ -1,6 +1,6 @@
 import { DgtRecord, EtiquetaDgt, TipoPropulsion, TramoIedmt } from './dgtTypes';
 import { getProvinceByPostalCode } from './spainProvinces';
-import { deduceDgtBadge } from './dgtBadge';
+import { deduceDgtBadge, PHEV_UNDETERMINED_BADGE } from './dgtBadge';
 
 export interface ParseResult {
   records: DgtRecord[];
@@ -68,7 +68,8 @@ export function inferPropulsion(
     modelUpper.includes('PLUG-IN') || 
     (co2 > 0 && co2 <= 50 && hib.includes('HEV'))
   ) {
-    return { propulsion: 'Híbrido Enchufable (PHEV)', etiqueta: '0 CERO' };
+    // La autonomía eléctrica no viene en MATRABA: la etiqueta queda indeterminada.
+    return { propulsion: 'Híbrido Enchufable (PHEV)', etiqueta: PHEV_UNDETERMINED_BADGE };
   }
 
   // 3. Conventional Hybrid (HEV) / Microhybrid (MHEV)

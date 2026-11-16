@@ -18,8 +18,8 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = constructMetadata({
-  title: 'Matriculaciones de Vehículos en España // Estadísticas Oficiales DGT',
-  description: 'Telemetría y análisis de más de 5,4M de matriculaciones en España basadas en microdatos oficiales MATRABA de la DGT. Estadísticas del último mes, series históricas, coches eléctricos, mapa provincial y cuota de marcas.',
+  title: 'Estadísticas de matriculaciones en España a partir de los microdatos de la DGT',
+  description: 'Análisis de más de 5,4M de matriculaciones en España a partir de los microdatos MATRABA de la DGT. Estadísticas del último mes, series históricas, coches eléctricos, mapa provincial y cuota de marcas.',
   canonicalPath: '/',
 });
 
@@ -36,7 +36,7 @@ export default function HomePage() {
   const breadcrumbJsonLd = generateBreadcrumbJsonLd(breadcrumbs);
   const datasetJsonLd = generateDatasetJsonLd({
     name: 'Microdatos de Matriculaciones de Vehículos en España (DGT MATRABA)',
-    description: `Conjunto de datos oficial de ${overview.totalRegistrations.toLocaleString('es-ES')} matriculaciones procesadas de la Dirección General de Tráfico.`,
+    description: `Conjunto de datos de ${overview.totalRegistrations.toLocaleString('es-ES')} matriculaciones procesadas de la Dirección General de Tráfico.`,
     temporalCoverage: `${metadata.startPeriod}-01/${metadata.endPeriod}-28`,
     url: '/',
   });
@@ -60,14 +60,14 @@ export default function HomePage() {
         <div className="border-b border-white/10 pb-8">
           <div className="flex items-center gap-2 text-xs text-[#FF5500] font-bold uppercase tracking-wider mb-2">
             <Activity className="w-4 h-4" />
-            <span>Portal Oficial de Microdatos // DGT MATRABA</span>
+            <span>Estadísticas a partir de microdatos // DGT MATRABA</span>
           </div>
           <h1 className="text-3xl sm:text-5xl font-black text-white tracking-tight">
             Matriculaciones de Vehículos en España
           </h1>
           <p className="text-sm sm:text-base text-zinc-400 mt-3 max-w-3xl leading-relaxed">
             Consola analítica y estadísticas sobre los{' '}
-            <strong className="text-white font-bold">{overview.totalRegistrations.toLocaleString('es-ES')} registros oficiales</strong> procesados de la Dirección General de Tráfico desde {metadata.startPeriod} hasta {metadata.endPeriod}. Cada cifra procede directamente del diseño de registro MATRABA sin estimaciones sintéticas.
+            <strong className="text-white font-bold">{overview.totalRegistrations.toLocaleString('es-ES')} registros</strong> procesados de la Dirección General de Tráfico desde {metadata.startPeriod} hasta {metadata.endPeriod}. Cada cifra procede directamente del diseño de registro MATRABA sin estimaciones sintéticas.
           </p>
         </div>
 
@@ -76,7 +76,7 @@ export default function HomePage() {
           <div className="flex items-center justify-between">
             <h2 className="text-lg font-bold text-white uppercase tracking-wider flex items-center gap-2">
               <Calendar className="w-4 h-4 text-[#FF5500]" />
-              <span>Resumen Oficial: Último Mes & Último Año</span>
+              <span>Resumen: Último Mes & Último Año</span>
             </h2>
             <span className="text-xs text-zinc-500 font-mono">Actualizado: {metadata.endPeriod}</span>
           </div>
@@ -244,7 +244,7 @@ export default function HomePage() {
           <div className="flex items-center justify-between">
             <h2 className="text-xl font-bold text-white flex items-center gap-2">
               <Activity className="w-5 h-5 text-[#FF5500]" />
-              <span>Consola Interactiva de Telemetría Automotriz</span>
+              <span>Consola Interactiva de Estadísticas</span>
             </h2>
             <span className="text-xs text-zinc-500 font-mono hidden sm:inline">Exploración profunda de microdatos</span>
           </div>

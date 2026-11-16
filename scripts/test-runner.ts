@@ -3,8 +3,12 @@
  * Runs without network dependencies using reduced MATRABA line fixtures.
  */
 
+import fs from 'fs';
+import path from 'path';
 import { parseDgtLine, normalizeEuroNorm } from '../lib/dgtParser';
-import { deduceDgtBadge } from '../lib/dgtBadge';
+import { deduceDgtBadge, PHEV_UNDETERMINED_BADGE } from '../lib/dgtBadge';
+import { constructMetadata, SITE_NAME, SITE_TITLE_TEMPLATE } from '../lib/seo';
+import { certainCeroCount, percentageOf } from '../lib/badgeCounts';
 import { slugify, MIN_REGISTRATIONS_THRESHOLD, PROVINCE_SLUGS } from '../lib/slugs';
 import sitemap from '../app/sitemap';
 import { getMetadata, getPeriodsIndex, getProvincesIndex, getBrandsIndex, getBrandData, getModelData } from '../lib/staticData';
@@ -29,7 +33,7 @@ console.log('='.repeat(70));
 // -------------------------------------------------------------
 // 1. TEST MATRABA LINE PARSER
 // -------------------------------------------------------------
-console.log('\n[1/7] Pruebas del Parser de Microdatos MATRABA');
+console.log('\n[1/9] Pruebas del Parser de Microdatos MATRABA');
 
 // Helper to construct a simulated fixed-width 714-char line
 function buildMatrabaLine(fields: {
@@ -103,7 +107,7 @@ const linePhev = buildMatrabaLine({
 const rec2 = parseDgtLine(linePhev, 2);
 assert(rec2 !== null, 'Línea PHEV parseada');
 assert(rec2?.propulsion === 'Híbrido Enchufable (PHEV)', 'Propulsión inferida PHEV');
-assert(rec2?.etiquetaDgt === '0 CERO', 'Distintivo 0 CERO asignado a PHEV');
+assert(rec2?.etiquetaDgt === PHEV_UNDETERMINED_BADGE, 'PHEV sin autonomía conocida queda indeterminado (no se asume CERO)');
 
 // Test 1.3: Used importation / transfer (IND_NUEVO_USADO = 'U')
 const lineUsed = buildMatrabaLine({
@@ -134,7 +138,7 @@ assert(loggedError.includes('Línea 5'), 'Error de parseo correctamente registra
 // -------------------------------------------------------------
 // 2. TEST DGT BADGE BOUNDARY DEDUCTION RULES
 // -------------------------------------------------------------
-console.log('\n[2/7] Pruebas de Distintivo Ambiental DGT (Fechas Frontera & Normas Euro)');
+console.log('\n[2/9] Pruebas de Distintivo Ambiental DGT (Fechas Frontera & Normas Euro)');
 
 // 2.1 BEV
 const badgeBev = deduceDgtBadge({ hybridIndicator: 'BEV', co2: 0 });
@@ -175,7 +179,7 @@ assert(badgeDieselPre2006.badge === 'SIN ETIQUETA', 'Diésel Euro 3 (2004) -> Si
 // -------------------------------------------------------------
 // 3. TEST SLUG NORMALIZATION & STABILITY
 // -------------------------------------------------------------
-console.log('\n[3/7] Pruebas de Normalización de Slugs');
+console.log('\n[3/9] Pruebas de Normalización de Slugs');
 
 assert(slugify('Álava / Araba') === 'alava-araba', 'Slug sin tilde: Álava -> alava');
 assert(slugify('Jaén') === 'jaen', 'Slug sin tilde: Jaén -> jaen');
@@ -188,7 +192,7 @@ assert(slugify('') === '', 'Slug cadena vacía');
 // -------------------------------------------------------------
 // 4. TEST MIN_REGISTRATIONS_THRESHOLD (>= 50)
 // -------------------------------------------------------------
-console.log('\n[4/7] Pruebas del Umbral Mínimo de Matriculaciones (>= 50)');
+console.log('\n[4/9] Pruebas del Umbral Mínimo de Matriculaciones (>= 50)');
 
 assert(MIN_REGISTRATIONS_THRESHOLD === 50, 'Constante MIN_REGISTRATIONS_THRESHOLD definida a 50');
 
@@ -200,7 +204,7 @@ assert(belowThresholdBrands.length === 0, 'Ninguna marca en brands.json tiene me
 // -------------------------------------------------------------
 // 5. TEST SITEMAP GENERATION (NO '#' & REAL URLS)
 // -------------------------------------------------------------
-console.log('\n[5/7] Pruebas del Sitemap Oficial (Sin #)');
+console.log('\n[5/9] Pruebas del Sitemap Oficial (Sin #)');
 
 const sitemapEntries = sitemap();
 assert(Array.isArray(sitemapEntries), 'Sitemap retorna array de entradas');
@@ -224,7 +228,7 @@ assert(hasToyota, 'Sitemap incluye marca real (/marca/toyota)');
 // -------------------------------------------------------------
 // 6. TEST DATASET AGGREGATION & ZERO-SQLITE RUNTIME
 // -------------------------------------------------------------
-console.log('\n[6/7] Pruebas de Datos Agregados y Ausencia de SQLite en Runtime');
+console.log('\n[6/9] Pruebas de Datos Agregados y Ausencia de SQLite en Runtime');
 
 const metadata = getMetadata();
 assert(metadata.totalRegistrations === 5412845, 'Total de matriculaciones coincide con censo oficial (5.412.845)');
@@ -245,13 +249,47 @@ assert(madridProv?.per1000Habitantes > 0, 'Tasa per cápita calculada con INE 20
 // -------------------------------------------------------------
 // 7. TEST 404 & UNKNOWN SLUG BEHAVIOR
 // -------------------------------------------------------------
-console.log('\n[7/7] Pruebas de Slugs Inexistentes y Manejo de 404');
+console.log('\n[7/9] Pruebas de Slugs Inexistentes y Manejo de 404');
 
 const invalidBrandData = getBrandData('marca-inventada-inexistente-12345');
 assert(invalidBrandData === null, 'Marca inexistente retorna null (dispara notFound() 404 en la página)');
 
 const invalidModelData = getModelData('toyota', 'modelo-no-existente-xyz');
 assert(invalidModelData === null, 'Modelo inexistente retorna null (dispara notFound() 404 en la página)');
+
+// -------------------------------------------------------------
+// 8. PHEV: ETIQUETA SEGÚN AUTONOMÍA ELÉCTRICA
+// -------------------------------------------------------------
+console.log('\n[8/9] Pruebas de la etiqueta de los PHEV');
+
+const phevBase = { hybridIndicator: 'PHE', modelName: 'RAV4 PHEV' };
+assert(deduceDgtBadge(phevBase).badge === PHEV_UNDETERMINED_BADGE, 'PHEV sin autonomía -> indeterminado');
+assert(deduceDgtBadge({ ...phevBase, electricRangeKm: 0 }).badge === PHEV_UNDETERMINED_BADGE, 'PHEV con autonomía 0 (dato vacío) -> indeterminado');
+assert(deduceDgtBadge({ ...phevBase, electricRangeKm: 39 }).badge === 'ECO', 'PHEV con 39 km -> ECO');
+assert(deduceDgtBadge({ ...phevBase, electricRangeKm: 40 }).badge === '0 CERO', 'PHEV con 40 km -> 0 CERO');
+assert(deduceDgtBadge({ ...phevBase, electricRangeKm: 80 }).badge === '0 CERO', 'PHEV con 80 km -> 0 CERO');
+assert(certainCeroCount(407299, 37073) === 370226, 'CERO seguro = recuento agregado menos PHEV');
+assert(certainCeroCount(10, 30) === 0, 'CERO seguro nunca es negativo');
+assert(percentageOf(1, 0) === 0, 'Porcentaje con total 0 es 0');
+assert(percentageOf(1, 8) === 12.5, 'Porcentaje con un decimal');
+
+// -------------------------------------------------------------
+// 9. TÍTULOS: EL NOMBRE DEL SITIO APARECE UNA SOLA VEZ
+// -------------------------------------------------------------
+console.log('\n[9/9] Pruebas de títulos de página');
+
+const countSiteName = (text: string) => text.split(SITE_NAME).length - 1;
+const sampleMetadata = constructMetadata({ title: 'Matriculaciones en Madrid', description: 'prueba', canonicalPath: '/provincia/madrid' });
+const pageTitle = String(sampleMetadata.title);
+const renderedTitle = SITE_TITLE_TEMPLATE.replace('%s', pageTitle);
+assert(countSiteName(pageTitle) === 0, 'El título de página no incluye el nombre del sitio (lo añade la plantilla)');
+assert(countSiteName(renderedTitle) === 1, 'El título final incluye el nombre del sitio una sola vez', renderedTitle);
+
+const pageDirs = ['app/page.tsx', 'app/electricos/page.tsx', 'app/provincia/[provincia]/page.tsx', 'app/marca/[marca]/page.tsx', 'app/marca/[marca]/[modelo]/page.tsx', 'app/matriculaciones/[año]/page.tsx', 'app/matriculaciones/[año]/[mes]/page.tsx'];
+for (const pageFile of pageDirs) {
+  const source = fs.readFileSync(path.join(__dirname, '..', pageFile), 'utf8');
+  assert(!source.includes(SITE_NAME), `${pageFile} no repite el nombre del sitio en sus títulos`);
+}
 
 // Summary
 console.log('\n' + '='.repeat(70));

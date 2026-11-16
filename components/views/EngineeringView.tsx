@@ -214,7 +214,7 @@ export function EngineeringView() {
       <div className="bg-card border border-border rounded-lg p-5">
         <div className="pb-3 mb-4 border-b border-zinc-900 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
           <div>
-            <span className="font-mono text-[10px] text-accent uppercase tracking-widest">// TELEMETRY SCATTER // 05</span>
+            <span className="font-mono text-[10px] text-accent uppercase tracking-widest">// DISPERSIÓN // 05</span>
             <h3 className="font-sans font-bold text-base text-white">
               Diagrama de Dispersión: Tara Homologada (kg) vs Potencia Neta (kW)
             </h3>

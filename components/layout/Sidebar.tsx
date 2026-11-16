@@ -126,7 +126,7 @@ export function Sidebar({ isMobileOpen, onCloseMobile }: SidebarProps) {
                   DGT <span className="text-accent">PULSE</span>
                 </h1>
                 <span className="font-mono text-[9px] text-zinc-500 uppercase tracking-widest block mt-1">
-                  Telemetry & Fleet Analytics
+                  Estadísticas de matriculaciones
                 </span>
               </div>
             </div>
@@ -209,7 +209,7 @@ export function Sidebar({ isMobileOpen, onCloseMobile }: SidebarProps) {
           {/* Navigation Views List */}
           <div className="space-y-1">
             <span className="font-mono text-[10px] text-zinc-500 uppercase tracking-widest px-1 block mb-2">
-              // CONSOLA DE TELEMETRÍA
+              // CONSOLA DE ESTADÍSTICAS
             </span>
 
             {navItems.map((item) => {

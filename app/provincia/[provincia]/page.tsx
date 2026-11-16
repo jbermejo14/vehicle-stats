@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { Metadata } from 'next';
 import { getProvinceData, getProvincesIndex, getMetadata } from '@/lib/staticData';
+import { certainCeroCount, percentageOf, PHEV_BADGE_NOTE } from '@/lib/badgeCounts';
 import { constructMetadata, generateBreadcrumbJsonLd, generateDatasetJsonLd } from '@/lib/seo';
 import { 
   MapPin, 
@@ -40,8 +41,8 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const per1000Str = data.per1000Habitantes?.toLocaleString('es-ES');
 
   return constructMetadata({
-    title: `Matriculaciones en ${data.name} // ${totalStr} Vehículos Oficiales`,
-    description: `Estadísticas oficiales DGT de matriculaciones en la provincia de ${data.name} (${data.community}). Total de ${totalStr} vehículos, tasa de ${per1000Str} veh/1.000 hab. (INE 2024), cuota de coches eléctricos (BEV/PHEV) y marcas líderes.`,
+    title: `Matriculaciones en ${data.name} // ${totalStr} vehículos`,
+    description: `Estadísticas de matriculaciones a partir de los microdatos de la DGT en la provincia de ${data.name} (${data.community}). Total de ${totalStr} vehículos, tasa de ${per1000Str} veh/1.000 hab. (INE 2024), cuota de coches eléctricos (BEV/PHEV) y marcas líderes.`,
     canonicalPath: `/provincia/${provincia}`,
   });
 }
@@ -63,7 +64,7 @@ export default async function ProvincePage({ params }: PageProps) {
   const breadcrumbJsonLd = generateBreadcrumbJsonLd(breadcrumbs);
   const datasetJsonLd = generateDatasetJsonLd({
     name: `Microdatos DGT Matriculaciones en ${data.name}`,
-    description: `Registro oficial de vehículos matriculados en la provincia de ${data.name}. Total histórico de ${data.total.toLocaleString('es-ES')} unidades.`,
+    description: `Vehículos matriculados en la provincia de ${data.name}. Total histórico de ${data.total.toLocaleString('es-ES')} unidades.`,
     temporalCoverage: `${metadata.startPeriod}-01/${metadata.endPeriod}-28`,
     url: `/provincia/${provincia}`,
   });
@@ -105,15 +106,15 @@ export default async function ProvincePage({ params }: PageProps) {
             <span>Código Provincial INE: {data.code} // {data.community}</span>
           </div>
           <h1 className="text-3xl sm:text-4xl font-black text-white tracking-tight">
-            Matriculaciones en {data.name} // Estadísticas Oficiales DGT
+            Matriculaciones en {data.name} // Estadísticas a partir de los microdatos de la DGT
           </h1>
           <p className="text-sm text-zinc-400 mt-2 max-w-3xl leading-relaxed">
             La provincia de {data.name} acumula un total de{' '}
-            <strong className="text-white font-bold">{data.total.toLocaleString('es-ES')} matriculaciones</strong> registradas oficialmente por la DGT entre {metadata.startPeriod} y {metadata.endPeriod}. Esto representa el{' '}
+            <strong className="text-white font-bold">{data.total.toLocaleString('es-ES')} matriculaciones</strong> registradas en los microdatos de la DGT entre {metadata.startPeriod} y {metadata.endPeriod}. Esto representa el{' '}
             <strong className="text-emerald-400 font-bold">{data.percentageOfSpain}%</strong> del volumen total de vehículos en España.
             {data.population > 0 && (
               <span>
-                {' '}Con una población oficial de {data.population.toLocaleString('es-ES')} habitantes ({data.populationSource}), su tasa de matriculación se sitúa en{' '}
+                {' '}Con una población de {data.population.toLocaleString('es-ES')} habitantes ({data.populationSource}), su tasa de matriculación se sitúa en{' '}
                 <strong className="text-white font-bold">{data.per1000Habitantes} vehículos por cada 1.000 habitantes</strong>.
               </span>
             )}
@@ -153,12 +154,13 @@ export default async function ProvincePage({ params }: PageProps) {
           </div>
 
           <div className="p-4 rounded-xl bg-white/[0.02] border border-white/10">
-            <span className="text-xs text-zinc-500 uppercase tracking-wider">Etiqueta 0 CERO DGT</span>
+            <span className="text-xs text-zinc-500 uppercase tracking-wider">Etiqueta 0 CERO (BEV)</span>
             <div className="text-2xl sm:text-3xl font-bold text-sky-300 mt-1">
-              {data.ceroCount.toLocaleString('es-ES')}
+              {certainCeroCount(data.ceroCount, data.phevCount).toLocaleString('es-ES')}
             </div>
             <div className="text-xs text-zinc-400 mt-2">
-              <span className="text-white font-bold">{data.ceroPercentage}%</span> cuota cero emisiones
+              <span className="text-white font-bold">{percentageOf(certainCeroCount(data.ceroCount, data.phevCount), data.total)}%</span> de las matriculaciones.{' '}
+              {data.phevCount.toLocaleString('es-ES')} {PHEV_BADGE_NOTE}.
             </div>
           </div>
         </div>
@@ -171,9 +173,10 @@ export default async function ProvincePage({ params }: PageProps) {
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 pt-2">
             <div className="p-4 rounded-lg bg-zinc-900/60 border border-white/5 space-y-1.5">
-              <span className="text-xs text-zinc-400 uppercase">Etiqueta 0 CERO (BEV + PHEV)</span>
-              <div className="text-xl font-bold text-sky-400">{data.ceroCount.toLocaleString('es-ES')} veh.</div>
-              <p className="text-[11px] text-zinc-500">{data.ceroPercentage}% del total provincial</p>
+              <span className="text-xs text-zinc-400 uppercase">Etiqueta 0 CERO (BEV)</span>
+              <div className="text-xl font-bold text-sky-400">{certainCeroCount(data.ceroCount, data.phevCount).toLocaleString('es-ES')} veh.</div>
+              <p className="text-[11px] text-zinc-500">{percentageOf(certainCeroCount(data.ceroCount, data.phevCount), data.total)}% del total provincial</p>
+              <p className="text-[11px] text-zinc-500">{data.phevCount.toLocaleString('es-ES')} {PHEV_BADGE_NOTE}</p>
             </div>
             <div className="p-4 rounded-lg bg-zinc-900/60 border border-white/5 space-y-1.5">
               <span className="text-xs text-zinc-400 uppercase">Etiqueta ECO (HEV + MHEV + Gas)</span>

@@ -2,6 +2,7 @@
 
 import React from 'react';
 import { EtiquetaDgt } from '@/lib/dgtTypes';
+import { PHEV_UNDETERMINED_BADGE } from '@/lib/dgtBadge';
 
 interface BadgePillProps {
   badge: EtiquetaDgt | string;
@@ -15,7 +16,10 @@ export function BadgePill({ badge, size = 'md' }: BadgePillProps) {
   let glowClass = '';
   let label = badge;
 
-  if (normalized.includes('CERO') || normalized.includes('0') || normalized === '0 CERO') {
+  if (normalized === PHEV_UNDETERMINED_BADGE.toUpperCase()) {
+    bgClass = 'bg-cyan-950/80 text-cyan-400 border-cyan-500/50';
+    label = 'PHEV: CERO O ECO';
+  } else if (normalized.includes('CERO') || normalized.includes('0') || normalized === '0 CERO') {
     bgClass = 'bg-sky-950/80 text-sky-400 border-sky-500/50';
     glowClass = 'shadow-[0_0_12px_rgba(56,189,248,0.25)]';
     label = '0 CERO';

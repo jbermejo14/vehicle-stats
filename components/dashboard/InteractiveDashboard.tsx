@@ -33,7 +33,7 @@ export function InteractiveDashboard() {
           {isLoading && (
             <div className="flex items-center justify-center p-12 text-zinc-400 font-mono text-xs">
               <RefreshCw className="w-5 h-5 text-[#FF5500] animate-spin mr-3" />
-              <span>Sincronizando flujo de telemetría DGT...</span>
+              <span>Cargando microdatos de la DGT...</span>
             </div>
           )}
 

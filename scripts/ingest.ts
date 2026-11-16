@@ -108,7 +108,7 @@ async function main() {
   }
 
   if (!fs.existsSync(DB_PATH)) {
-    console.error(`[ERROR FATAL] No se encontró la base de datos oficial en ${DB_PATH}`);
+    console.error(`[ERROR FATAL] No se encontró la base de datos en ${DB_PATH}`);
     process.exit(1);
   }
 

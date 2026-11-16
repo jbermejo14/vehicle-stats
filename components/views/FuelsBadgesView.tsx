@@ -2,6 +2,7 @@
 
 import React from 'react';
 import { useData } from '@/context/DataContext';
+import { PHEV_BADGE_NOTE } from '@/lib/badgeCounts';
 import { BadgePill } from '@/components/telemetry/BadgePill';
 import { TelemetryTooltip } from '@/components/telemetry/TelemetryTooltip';
 import { 
@@ -72,7 +73,7 @@ export function FuelsBadgesView() {
             {kpis.ceroPct}%
           </div>
           <div className="text-zinc-400 font-mono text-xs mt-1">
-            {kpis.ceroCount.toLocaleString('es-ES')} unidades 100% eléctricas y PHEV
+            {kpis.ceroCount.toLocaleString('es-ES')} unidades 100% eléctricas (BEV). {kpis.phevCount.toLocaleString('es-ES')} {PHEV_BADGE_NOTE}.
           </div>
         </div>
 
@@ -241,7 +242,7 @@ export function FuelsBadgesView() {
             Matriz Cruzada: Propulsión Homologada vs Etiqueta DGT
           </h3>
           <p className="text-xs text-zinc-400 mt-0.5">
-            Cruce oficial de tecnologías de tracción del parque de vehículos con su respectivo distintivo ambiental asignado por la DGT.
+            Cruce de tecnologías de tracción del parque de vehículos con su respectivo distintivo ambiental asignado por la DGT.
           </p>
         </div>
 

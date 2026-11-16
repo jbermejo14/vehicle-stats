@@ -78,7 +78,7 @@ export function HeaderHUD({ onToggleMobileSidebar }: HeaderHUDProps) {
             <span className="text-zinc-500 font-bold hidden sm:inline">DGT PULSE</span>
             <ChevronRight className="w-3.5 h-3.5 text-zinc-700 hidden sm:inline" />
             <span className="text-accent font-bold tracking-wider truncate max-w-[200px] sm:max-w-none">
-              {viewTitles[activeView] || 'TELEMETRÍA DGT'}
+              {viewTitles[activeView] || 'ESTADÍSTICAS DGT'}
             </span>
           </div>
         </div>

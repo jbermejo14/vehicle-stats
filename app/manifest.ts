@@ -2,9 +2,9 @@ import { MetadataRoute } from 'next';
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: 'DGT Pulse // Telemetría y Matriculaciones en España',
+    name: 'DGT Pulse // Estadísticas de matriculaciones en España',
     short_name: 'DGT Pulse',
-    description: 'Plataforma oficial de telemetría, matriculaciones y análisis del parque de vehículos en España a partir de microdatos DGT.',
+    description: 'Estadísticas de matriculaciones a partir de los microdatos de la DGT.',
     start_url: '/',
     display: 'standalone',
     background_color: '#050505',

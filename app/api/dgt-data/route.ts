@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { getPeriodData, getOverview } from '@/lib/staticData';
+import { certainCeroCount, percentageOf } from '@/lib/badgeCounts';
 
 export const dynamic = 'force-dynamic';
 
@@ -21,8 +22,8 @@ export async function GET(req: NextRequest) {
           transferenciasCount: 0,
           electrificadosCount: (overview.globalFuels?.bev || 0) + (overview.globalFuels?.phev || 0),
           electrificadosPct: parseFloat(((((overview.globalFuels?.bev || 0) + (overview.globalFuels?.phev || 0)) / overview.totalRegistrations) * 100).toFixed(1)),
-          ceroCount: overview.globalBadges?.cero || 0,
-          ceroPct: parseFloat((((overview.globalBadges?.cero || 0) / overview.totalRegistrations) * 100).toFixed(1)),
+          ceroCount: certainCeroCount(overview.globalBadges?.cero || 0, overview.globalFuels?.phev || 0),
+          ceroPct: percentageOf(certainCeroCount(overview.globalBadges?.cero || 0, overview.globalFuels?.phev || 0), overview.totalRegistrations),
           ecoCount: overview.globalBadges?.eco || 0,
           ecoPct: parseFloat((((overview.globalBadges?.eco || 0) / overview.totalRegistrations) * 100).toFixed(1)),
           bevCount: overview.globalFuels?.bev || 0,
@@ -47,7 +48,7 @@ export async function GET(req: NextRequest) {
           phev: m.phev,
           bev: m.bev,
           glpGnc: m.glpGnc,
-          cero: m.cero,
+          cero: certainCeroCount(m.cero, m.phev),
           eco: m.eco,
           c: m.c,
           b: m.b,
@@ -87,8 +88,8 @@ export async function GET(req: NextRequest) {
             totalRegistrations: periodData.total,
             nuevasCount: periodData.nuevas || periodData.total,
             transferenciasCount: periodData.transferencias || 0,
-            ceroCount: periodData.badges?.cero || 0,
-            ceroPct: parseFloat((((periodData.badges?.cero || 0) / periodData.total) * 100).toFixed(1)),
+            ceroCount: certainCeroCount(periodData.badges?.cero || 0, periodData.fuels?.phev || 0),
+            ceroPct: percentageOf(certainCeroCount(periodData.badges?.cero || 0, periodData.fuels?.phev || 0), periodData.total),
             ecoCount: periodData.badges?.eco || 0,
             ecoPct: parseFloat((((periodData.badges?.eco || 0) / periodData.total) * 100).toFixed(1)),
             bevCount: periodData.fuels?.bev || 0,

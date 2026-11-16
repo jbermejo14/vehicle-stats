@@ -1,3 +1,4 @@
+import { isElectrifiedBadge, PHEV_UNDETERMINED_BADGE } from './dgtBadge';
 import { 
   DgtRecord, 
   GlobalKpis, 
@@ -97,6 +98,7 @@ export function computeGlobalKpis(records: DgtRecord[]): GlobalKpis {
   let ecoCount = 0;
   let bevCount = 0;
   let phevCount = 0;
+  let phevUndeterminedCount = 0;
   let hevCount = 0;
   let exemptCount = 0;
   let sumCo2 = 0;
@@ -117,6 +119,7 @@ export function computeGlobalKpis(records: DgtRecord[]): GlobalKpis {
 
     if (r.etiquetaDgt === '0 CERO') ceroCount++;
     if (r.etiquetaDgt === 'ECO') ecoCount++;
+    if (r.etiquetaDgt === PHEV_UNDETERMINED_BADGE) phevUndeterminedCount++;
 
     if (r.propulsion === 'Eléctrico Puro (BEV)') bevCount++;
     if (r.propulsion === 'Híbrido Enchufable (PHEV)') phevCount++;
@@ -151,7 +154,7 @@ export function computeGlobalKpis(records: DgtRecord[]): GlobalKpis {
     euroMap[r.normativaEuro] = (euroMap[r.normativaEuro] || 0) + 1;
   }
 
-  const electrificadosCount = ceroCount + ecoCount;
+  const electrificadosCount = ceroCount + ecoCount + phevUndeterminedCount;
   const electrificadosPct = parseFloat(((electrificadosCount / total) * 100).toFixed(1));
   const ceroPct = parseFloat(((ceroCount / total) * 100).toFixed(1));
   const ecoPct = parseFloat(((ecoCount / total) * 100).toFixed(1));
@@ -297,7 +300,7 @@ export function computeTimeline(records: DgtRecord[]): TimelineDataPoint[] {
     else if (r.etiquetaDgt === 'ECO') item.eco++;
     else if (r.etiquetaDgt === 'C') item.c++;
     else if (r.etiquetaDgt === 'B') item.b++;
-    else item.sinEtiqueta++;
+    else if (r.etiquetaDgt === 'SIN ETIQUETA') item.sinEtiqueta++;
 
     if (r.emisionesCo2 > 0) {
       item.sumCo2 += r.emisionesCo2;
@@ -462,7 +465,7 @@ export function computeBrandStats(records: DgtRecord[], limit: number = 20): Bra
     }
     const item = map[r.marca];
     item.count++;
-    if (r.etiquetaDgt === '0 CERO' || r.etiquetaDgt === 'ECO') {
+    if (isElectrifiedBadge(r.etiquetaDgt)) {
       item.eco0Count++;
     }
     item.sumKw += r.potenciaKw;
@@ -852,7 +855,7 @@ export function computeAutomotiveGroups(records: DgtRecord[]): AutomotiveGroupSt
     const g = groupMap[group];
     g.total++;
     g.brandsMap[brand] = (g.brandsMap[brand] || 0) + 1;
-    if (r.etiquetaDgt === '0 CERO' || r.etiquetaDgt === 'ECO') {
+    if (isElectrifiedBadge(r.etiquetaDgt)) {
       g.eco0Count++;
     }
     if (r.emisionesCo2 > 0) {

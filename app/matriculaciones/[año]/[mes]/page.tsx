@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { Metadata } from 'next';
 import { getPeriodData, getPeriodsIndex, getMetadata } from '@/lib/staticData';
+import { certainCeroCount, percentageOf, PHEV_BADGE_NOTE } from '@/lib/badgeCounts';
 import { constructMetadata, generateBreadcrumbJsonLd, generateDatasetJsonLd } from '@/lib/seo';
 import { 
   Calendar, 
@@ -49,7 +50,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
   return constructMetadata({
     title: `Matriculaciones ${data.monthName} ${año} // ${totalStr} Vehículos`,
-    description: `Microdatos oficiales DGT de matriculaciones en España durante ${data.monthName} de ${año}. ${totalStr} unidades registradas${yoyText}, mix energético, cuota de coches eléctricos y top marcas y modelos.`,
+    description: `Estadísticas de matriculaciones a partir de los microdatos de la DGT en España durante ${data.monthName} de ${año}. ${totalStr} unidades registradas${yoyText}, mix energético, cuota de coches eléctricos y top marcas y modelos.`,
     canonicalPath: `/matriculaciones/${año}/${mes}`,
   });
 }
@@ -73,7 +74,7 @@ export default async function MonthPage({ params }: PageProps) {
   const breadcrumbJsonLd = generateBreadcrumbJsonLd(breadcrumbs);
   const datasetJsonLd = generateDatasetJsonLd({
     name: `Microdatos DGT Matriculaciones ${data.monthName} ${año}`,
-    description: `Registro oficial mensual de matriculaciones en España durante ${data.monthName} de ${año}. ${total.toLocaleString('es-ES')} vehículos.`,
+    description: `Matriculaciones mensuales en España durante ${data.monthName} de ${año}. ${total.toLocaleString('es-ES')} vehículos.`,
     temporalCoverage: `${periodId}-01/${periodId}-28`,
     url: `/matriculaciones/${año}/${mes}`,
   });
@@ -112,13 +113,13 @@ export default async function MonthPage({ params }: PageProps) {
         <div className="border-b border-white/10 pb-6">
           <div className="flex items-center gap-2 text-xs text-[#FF5500] font-bold uppercase tracking-wider mb-2">
             <Calendar className="w-4 h-4" />
-            <span>Serie Mensual Oficial // Microdatos DGT</span>
+            <span>Serie mensual // Microdatos DGT</span>
           </div>
           <h1 className="text-3xl sm:text-4xl font-black text-white tracking-tight">
             Matriculaciones en España en {data.monthName} de {año}
           </h1>
           <p className="text-sm text-zinc-400 mt-2 max-w-3xl leading-relaxed">
-            En {data.monthName} de {año} se matricularon oficialmente{' '}
+            En {data.monthName} de {año} se matricularon{' '}
             <strong className="text-white font-bold">{total.toLocaleString('es-ES')} vehículos</strong> en el territorio nacional.
             {yoyPct !== null && (
               <span>
@@ -230,7 +231,8 @@ export default async function MonthPage({ params }: PageProps) {
               {[
                 { label: 'Etiqueta C (Verde)', count: badges.c || 0, color: '#10B981' },
                 { label: 'Etiqueta ECO (Bicolor)', count: badges.eco || 0, color: '#00A651' },
-                { label: 'Etiqueta 0 CERO (Azul)', count: badges.cero || 0, color: '#008ECE' },
+                { label: 'Etiqueta 0 CERO (BEV)', count: certainCeroCount(badges.cero || 0, fuels.phev || 0), color: '#008ECE' },
+                { label: PHEV_BADGE_NOTE, count: fuels.phev || 0, color: '#06B6D4' },
                 { label: 'Etiqueta B (Amarilla)', count: badges.b || 0, color: '#EAB308' },
                 { label: 'Sin Distintivo (A)', count: badges.sinEtiqueta || 0, color: '#EF4444' },
               ].map(item => {

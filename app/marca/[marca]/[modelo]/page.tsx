@@ -42,7 +42,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
   return constructMetadata({
     title: `${data.fullName} en España // ${totalStr} Matriculaciones DGT`,
-    description: `Ficha técnica oficial de matriculaciones del ${data.fullName} en España. Total de ${totalStr} unidades registradas en la DGT, categoría ${data.category}, propulsión ${data.primaryFuel}, distintivo ambiental ${data.primaryBadge} y ${data.avgCv} CV medios.`,
+    description: `Ficha de matriculaciones del ${data.fullName} en España. Total de ${totalStr} unidades registradas en la DGT, categoría ${data.category}, propulsión ${data.primaryFuel}, distintivo ambiental ${data.primaryBadge} y ${data.avgCv} CV medios.`,
     canonicalPath: `/marca/${marca}/${modelo}`,
   });
 }
@@ -65,7 +65,7 @@ export default async function ModelPage({ params }: PageProps) {
   const breadcrumbJsonLd = generateBreadcrumbJsonLd(breadcrumbs);
   const datasetJsonLd = generateDatasetJsonLd({
     name: `Microdatos DGT Matriculaciones de ${data.fullName}`,
-    description: `Datos oficiales de matriculación del vehículo ${data.fullName} en España. ${data.total.toLocaleString('es-ES')} unidades.`,
+    description: `Datos de matriculación del vehículo ${data.fullName} en España. ${data.total.toLocaleString('es-ES')} unidades.`,
     temporalCoverage: `${metadata.startPeriod}-01/${metadata.endPeriod}-28`,
     url: `/marca/${marca}/${modelo}`,
   });
@@ -102,8 +102,8 @@ export default async function ModelPage({ params }: PageProps) {
           </h1>
           <p className="text-sm text-zinc-400 mt-2 max-w-3xl leading-relaxed">
             El modelo <strong className="text-white font-bold">{data.fullName}</strong> registra un total de{' '}
-            <strong className="text-white font-bold">{data.total.toLocaleString('es-ES')} matriculaciones oficiales</strong> en España entre {metadata.startPeriod} y {metadata.endPeriod}.
-            Clasificado oficialmente como <strong className="text-zinc-200">{data.category}</strong>, su motorización predominante es <strong className="text-zinc-200">{data.primaryFuel}</strong> con distintivo ambiental DGT <strong className="text-emerald-400">{data.primaryBadge}</strong>.
+            <strong className="text-white font-bold">{data.total.toLocaleString('es-ES')} matriculaciones</strong> en España entre {metadata.startPeriod} y {metadata.endPeriod}.
+            Clasificado como <strong className="text-zinc-200">{data.category}</strong>, su motorización predominante es <strong className="text-zinc-200">{data.primaryFuel}</strong> con distintivo ambiental DGT <strong className="text-emerald-400">{data.primaryBadge}</strong>.
           </p>
         </div>
 
@@ -145,7 +145,7 @@ export default async function ModelPage({ params }: PageProps) {
               {data.avgCo2} <span className="text-sm font-normal text-zinc-500">g/km</span>
             </div>
             <div className="text-xs text-zinc-400 mt-2">
-              Ciclo oficial WLTP
+              Ciclo WLTP
             </div>
           </div>
         </div>

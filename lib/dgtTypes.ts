@@ -1,8 +1,10 @@
+import type { DgtBadgeType } from './dgtBadge';
+
 export type TramiteTipo = 'todas' | 'nuevas' | 'transferencias' | 'bajas';
 
 export type CategoriaVehiculo = 'todos' | 'turismos' | 'motos' | 'furgonetas' | 'industriales';
 
-export type EtiquetaDgt = '0 CERO' | 'ECO' | 'C' | 'B' | 'SIN ETIQUETA';
+export type EtiquetaDgt = DgtBadgeType;
 
 export type TipoPropulsion = 
   | 'Gasolina'

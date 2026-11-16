@@ -9,7 +9,7 @@ export function SiteFooter() {
     metadata = getMetadata();
   } catch {
     metadata = {
-      source: 'Dirección General de Tráfico (DGT) - Microdatos oficiales MATRABA',
+      source: 'Dirección General de Tráfico (DGT) - Microdatos MATRABA',
       sourceUrl: 'https://sedeinvestigacion.dgt.es/es/datos-abiertos/microdatos/',
       startPeriod: '2024-01',
       endPeriod: '2026-10',
@@ -38,7 +38,7 @@ export function SiteFooter() {
                 Datos: microdatos de matriculaciones de la DGT
               </p>
               <p className="text-[11px] text-zinc-400 mt-0.5">
-                Periodo oficial cubierto: <span className="text-zinc-200 font-bold">{metadata.startPeriod}</span> hasta <span className="text-zinc-200 font-bold">{metadata.endPeriod}</span> ({metadata.totalRegistrations.toLocaleString('es-ES')} matriculaciones procesadas)
+                Periodo cubierto: <span className="text-zinc-200 font-bold">{metadata.startPeriod}</span> hasta <span className="text-zinc-200 font-bold">{metadata.endPeriod}</span> ({metadata.totalRegistrations.toLocaleString('es-ES')} matriculaciones procesadas)
               </p>
             </div>
           </div>

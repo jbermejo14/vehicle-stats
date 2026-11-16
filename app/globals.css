@@ -1,3 +1,4 @@
+/* Las clases de Tailwind se detectan con scripts/tailwind-wasi-sources.cjs (ver postcss.config.mjs). */
 @import "tailwindcss";
 
 @theme {

@@ -89,7 +89,7 @@ export function ProvincesView() {
               </h3>
             </div>
             <p className="text-xs text-zinc-400 mt-0.5">
-              Desglose de las 52 provincias españolas con cálculo per cápita según censo oficial INE.
+              Desglose de las 52 provincias españolas con cálculo per cápita según padrón del INE.
             </p>
           </div>
 
@@ -270,7 +270,7 @@ export function ProvincesView() {
             Top 20 Municipios con Mayor Volumen de Matriculación
           </h3>
           <p className="text-xs text-zinc-400 mt-0.5">
-            Detección de polos de matriculación corporativa y flotas frente a particulares. Cifras proyectadas sobre el volumen total de matriculaciones según la distribución de microdatos oficiales DGT.
+            Detección de polos de matriculación corporativa y flotas frente a particulares. Cifras proyectadas sobre el volumen total de matriculaciones según la distribución de microdatos de la DGT.
           </p>
         </div>
 

@@ -13,9 +13,8 @@ export function SiteHeader() {
           <div>
             <div className="flex items-center gap-2">
               <span className="font-mono font-bold text-base tracking-wider text-white">DGT PULSE</span>
-              <span className="px-1.5 py-0.5 text-[10px] font-mono uppercase bg-[#FF5500]/15 text-[#FF5500] border border-[#FF5500]/30 rounded">Oficial</span>
             </div>
-            <p className="text-[10px] text-zinc-400 font-mono hidden sm:block">Microdatos Oficiales MATRABA</p>
+            <p className="text-[10px] text-zinc-400 font-mono hidden sm:block">Microdatos MATRABA de la DGT</p>
           </div>
         </Link>
 

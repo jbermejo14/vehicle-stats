@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { Metadata } from 'next';
 import { getPeriodData, getPeriodsIndex, getMetadata } from '@/lib/staticData';
+import { certainCeroCount, percentageOf, PHEV_BADGE_NOTE } from '@/lib/badgeCounts';
 import { constructMetadata, generateBreadcrumbJsonLd, generateDatasetJsonLd } from '@/lib/seo';
 import { 
   Calendar, 
@@ -43,7 +44,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
   return constructMetadata({
     title: `Matriculaciones en España ${año} // ${totalStr} Vehículos`,
-    description: `Estadísticas oficiales DGT de matriculaciones en España durante el año ${año}. Total de ${totalStr} registros${yoyText}, mix de combustibles (eléctricos, híbridos, gasolina, diésel) y ranking de marcas y modelos más vendidos.`,
+    description: `Estadísticas de matriculaciones a partir de los microdatos de la DGT en España durante el año ${año}. Total de ${totalStr} registros${yoyText}, mix de combustibles (eléctricos, híbridos, gasolina, diésel) y ranking de marcas y modelos más vendidos.`,
     canonicalPath: `/matriculaciones/${año}`,
   });
 }
@@ -66,7 +67,7 @@ export default async function YearPage({ params }: PageProps) {
   const breadcrumbJsonLd = generateBreadcrumbJsonLd(breadcrumbs);
   const datasetJsonLd = generateDatasetJsonLd({
     name: `Microdatos de Matriculaciones DGT en España - Año ${año}`,
-    description: `Censo y estadísticas oficiales de matriculación de vehículos en España durante ${año}. ${total.toLocaleString('es-ES')} vehículos registrados.`,
+    description: `Estadísticas de matriculación de vehículos en España durante ${año}. ${total.toLocaleString('es-ES')} vehículos registrados.`,
     temporalCoverage: `${año}-01-01/${año}-12-31`,
     url: `/matriculaciones/${año}`,
   });
@@ -105,14 +106,14 @@ export default async function YearPage({ params }: PageProps) {
         <div className="border-b border-white/10 pb-6">
           <div className="flex items-center gap-2 text-xs text-[#FF5500] font-bold uppercase tracking-wider mb-2">
             <Calendar className="w-4 h-4" />
-            <span>Registro Oficial MATRABA // DGT</span>
+            <span>Microdatos MATRABA // DGT</span>
           </div>
           <h1 className="text-3xl sm:text-4xl font-black text-white tracking-tight">
             Matriculaciones de Vehículos en España en {año}
           </h1>
           <p className="text-sm text-zinc-400 mt-2 max-w-3xl leading-relaxed">
             Durante el año {año} se formalizaron un total de{' '}
-            <strong className="text-white font-bold">{total.toLocaleString('es-ES')} matriculaciones</strong> en España según los microdatos oficiales de la Dirección General de Tráfico.
+            <strong className="text-white font-bold">{total.toLocaleString('es-ES')} matriculaciones</strong> en España según los microdatos de la Dirección General de Tráfico.
             {yoyPct !== null && (
               <span>
                 {' '}Esto supone una variación interanual del{' '}
@@ -160,12 +161,13 @@ export default async function YearPage({ params }: PageProps) {
           </div>
 
           <div className="p-4 rounded-xl bg-white/[0.02] border border-white/10">
-            <span className="text-xs text-zinc-500 uppercase tracking-wider">Etiqueta 0 CERO</span>
+            <span className="text-xs text-zinc-500 uppercase tracking-wider">Etiqueta 0 CERO (BEV)</span>
             <div className="text-2xl sm:text-3xl font-bold text-sky-300 mt-1">
-              {(badges.cero || 0).toLocaleString('es-ES')}
+              {certainCeroCount(badges.cero || 0, fuels.phev || 0).toLocaleString('es-ES')}
             </div>
             <div className="text-xs text-zinc-400 mt-2">
-              {total > 0 ? (((badges.cero || 0) / total) * 100).toFixed(1) : 0}% del parque nuevo
+              {percentageOf(certainCeroCount(badges.cero || 0, fuels.phev || 0), total)}% de las matriculaciones.{' '}
+              {(fuels.phev || 0).toLocaleString('es-ES')} {PHEV_BADGE_NOTE}.
             </div>
           </div>
 
@@ -262,7 +264,8 @@ export default async function YearPage({ params }: PageProps) {
               {[
                 { label: 'Etiqueta C (Verde)', count: badges.c || 0, color: '#10B981' },
                 { label: 'Etiqueta ECO (Bicolor)', count: badges.eco || 0, color: '#00A651' },
-                { label: 'Etiqueta 0 CERO (Azul)', count: badges.cero || 0, color: '#008ECE' },
+                { label: 'Etiqueta 0 CERO (BEV)', count: certainCeroCount(badges.cero || 0, fuels.phev || 0), color: '#008ECE' },
+                { label: PHEV_BADGE_NOTE, count: fuels.phev || 0, color: '#06B6D4' },
                 { label: 'Etiqueta B (Amarilla)', count: badges.b || 0, color: '#EAB308' },
                 { label: 'Sin Distintivo (A)', count: badges.sinEtiqueta || 0, color: '#EF4444' },
               ].map(item => {

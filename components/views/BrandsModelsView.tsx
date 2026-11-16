@@ -160,7 +160,7 @@ export function BrandsModelsView() {
                   <th className="pb-3 text-right">Emisiones CO₂</th>
                   <th className="pb-3 text-right">Tara Media</th>
                   <th className="pb-3 text-right">Unidades</th>
-                  <th className="pb-3 text-center pr-2">Acciones Telemetría</th>
+                  <th className="pb-3 text-center pr-2">Acciones</th>
                 </tr>
               </thead>
               <tbody className="divide-y divide-zinc-900">
@@ -221,7 +221,7 @@ export function BrandsModelsView() {
               <thead>
                 <tr className="border-b border-zinc-800 text-zinc-500 uppercase text-[10px] tracking-wider">
                   <th className="pb-3 pl-2">#</th>
-                  <th className="pb-3">Marca Oficial</th>
+                  <th className="pb-3">Marca</th>
                   <th className="pb-3">Modelo Más Vendido</th>
                   <th className="pb-3 text-right">% ECO + 0 CERO</th>
                   <th className="pb-3 text-right">Potencia Media</th>
@@ -275,13 +275,13 @@ export function BrandsModelsView() {
         <div className="bg-card border border-border rounded-lg p-5 space-y-6">
           <div className="pb-3 border-b border-zinc-900 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
             <div>
-              <span className="font-mono text-[10px] text-accent uppercase tracking-widest">// VS // TELEMETRY</span>
+              <span className="font-mono text-[10px] text-accent uppercase tracking-widest">// VS // COMPARATIVA</span>
               <h3 className="font-sans font-bold text-base text-white">
-                Comparador Cara a Cara: Análisis de Telemetría Homologada
+                Comparador Cara a Cara: Análisis de datos homologados
               </h3>
             </div>
             <span className="font-mono text-xs text-zinc-400">
-              Datos basados en registros oficiales DGT
+              Datos basados en microdatos de la DGT
             </span>
           </div>
 

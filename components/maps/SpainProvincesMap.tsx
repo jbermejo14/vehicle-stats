@@ -82,7 +82,7 @@ export function SpainProvincesMap({ provinceStats }: SpainProvincesMapProps) {
             </span>
           </div>
           <p className="text-xs text-zinc-400 mt-0.5">
-            Geometría oficial IGN (52 provincias). Escala térmica de matriculaciones y motorización per cápita (INE).
+            Geometría IGN (52 provincias). Escala térmica de matriculaciones y motorización per cápita (INE).
           </p>
         </div>
 

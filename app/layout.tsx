@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from 'next';
 import { Inter, JetBrains_Mono } from 'next/font/google';
 import './globals.css';
+import { SITE_TITLE_TEMPLATE } from '@/lib/seo';
 import { DataProvider } from '@/context/DataContext';
 import { SiteHeader } from '@/components/layout/SiteHeader';
 import { SiteFooter } from '@/components/layout/SiteFooter';
@@ -29,10 +30,10 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
   title: {
-    default: 'DGT Pulse // Estadísticas y Telemetría de Matriculaciones en España',
-    template: '%s | DGT Pulse',
+    default: 'DGT Pulse // Estadísticas de matriculaciones a partir de los microdatos de la DGT',
+    template: SITE_TITLE_TEMPLATE,
   },
-  description: 'Plataforma oficial de análisis de microdatos de la Dirección General de Tráfico (DGT). Estadísticas históricas de más de 5,4M de matriculaciones, mapa provincial, etiquetas ambientales 0/ECO y cuota de mercado por marcas.',
+  description: 'Estadísticas de matriculaciones a partir de los microdatos de la Dirección General de Tráfico (DGT). Estadísticas históricas de más de 5,4M de matriculaciones, mapa provincial, etiquetas ambientales 0/ECO y cuota de mercado por marcas.',
   keywords: [
     'matriculaciones dgt',
     'estadisticas vehiculos espana',
@@ -53,14 +54,14 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'es_ES',
     url: baseUrl,
-    siteName: 'DGT Pulse // Telemetría Oficial DGT',
+    siteName: 'DGT Pulse',
     title: 'DGT Pulse // Estadísticas de Matriculaciones en España',
-    description: 'Análisis de más de 5.400.000 de matriculaciones oficiales DGT. Mix energético, 52 provincias y cuota de mercado.',
+    description: 'Análisis de más de 5.400.000 de matriculaciones de la DGT. Mix energético, 52 provincias y cuota de mercado.',
   },
   twitter: {
     card: 'summary_large_image',
     title: 'DGT Pulse // Estadísticas de Matriculaciones DGT',
-    description: 'Telemetría y análisis de 5.4M+ de vehículos oficiales DGT en España.',
+    description: 'Análisis de más de 5,4M de matriculaciones en España a partir de los microdatos de la DGT.',
     creator: '@dgtpulse',
   },
   robots: {

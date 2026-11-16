@@ -40,7 +40,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
   return constructMetadata({
     title: `Matriculaciones de ${data.brand} en España // ${totalStr} Vehículos DGT`,
-    description: `Estadísticas oficiales DGT de ${data.brand} en España. Total de ${totalStr} matriculaciones (${data.percentage}% de cuota de mercado), modelos más vendidos, penetración de versiones ECO y eléctricas y evolución mensual.`,
+    description: `Estadísticas de matriculaciones de ${data.brand} en España. Total de ${totalStr} matriculaciones (${data.percentage}% de cuota de mercado), modelos más vendidos, penetración de versiones ECO y eléctricas y evolución mensual.`,
     canonicalPath: `/marca/${marca}`,
   });
 }
@@ -62,7 +62,7 @@ export default async function BrandPage({ params }: PageProps) {
   const breadcrumbJsonLd = generateBreadcrumbJsonLd(breadcrumbs);
   const datasetJsonLd = generateDatasetJsonLd({
     name: `Microdatos DGT Matriculaciones de ${data.brand} en España`,
-    description: `Registro oficial de vehículos de la marca ${data.brand} matriculados en España. ${data.total.toLocaleString('es-ES')} unidades procesadas.`,
+    description: `Vehículos de la marca ${data.brand} matriculados en España. ${data.total.toLocaleString('es-ES')} unidades procesadas.`,
     temporalCoverage: `${metadata.startPeriod}-01/${metadata.endPeriod}-28`,
     url: `/marca/${marca}`,
   });
@@ -98,7 +98,7 @@ export default async function BrandPage({ params }: PageProps) {
         <div className="border-b border-white/10 pb-6">
           <div className="flex items-center gap-2 text-xs text-amber-400 font-bold uppercase tracking-wider mb-2">
             <Tag className="w-4 h-4" />
-            <span>Fabricante Oficial // Censo DGT</span>
+            <span>Fabricante // Microdatos DGT</span>
           </div>
           <h1 className="text-3xl sm:text-4xl font-black text-white tracking-tight">
             Matriculaciones de {data.brand} en España // Estadísticas DGT

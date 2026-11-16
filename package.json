@@ -1,7 +1,7 @@
 {
   "name": "vehicle-statistics",
   "version": "1.0.0",
-  "description": "Estadísticas y telemetría de matriculaciones en España basadas en microdatos oficiales DGT",
+  "description": "Estadísticas de matriculaciones en España a partir de los microdatos de la DGT",
   "private": true,
   "scripts": {
     "dev": "next dev --webpack",
@@ -11,7 +11,7 @@
     "test": "tsx scripts/test-runner.ts"
   },
   "dependencies": {
-    "@tailwindcss/oxide-wasm32-wasi": "^4.3.3",
+    "@tailwindcss/oxide-wasm32-wasi": "4.3.3",
     "@types/adm-zip": "0.5.8",
     "adm-zip": "0.6.1",
     "clsx": "2.1.1",

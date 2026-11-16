@@ -6,6 +6,7 @@ import { DatabaseSync } from 'node:sqlite';
 import { parseDgtLine } from '../lib/dgtParser';
 import { SPAIN_PROVINCES } from '../lib/spainProvinces';
 import { DgtRecord } from '../lib/dgtTypes';
+import { isElectrifiedBadge } from '../lib/dgtBadge';
 
 const DOWNLOADS_DIR = 'C:/Users/jpber/Downloads';
 const DB_DIR = path.join(process.cwd(), 'data');
@@ -418,7 +419,7 @@ for (let fileIdx = 0; fileIdx < zipFiles.length; fileIdx++) {
     else if (record.etiquetaDgt === 'ECO') ecoCount++;
     else if (record.etiquetaDgt === 'C') cCount++;
     else if (record.etiquetaDgt === 'B') bCount++;
-    else sinEtiquetaCount++;
+    else if (record.etiquetaDgt === 'SIN ETIQUETA') sinEtiquetaCount++; // los PHEV indeterminados no cuentan como sin etiqueta
 
     if (record.emisionesCo2 <= 120) exemptCo2Count++;
     if (record.emisionesCo2 > 0) {
@@ -457,7 +458,7 @@ for (let fileIdx = 0; fileIdx < zipFiles.length; fileIdx++) {
     else if (record.etiquetaDgt === 'ECO') dItem.eco++;
     else if (record.etiquetaDgt === 'C') dItem.c++;
     else if (record.etiquetaDgt === 'B') dItem.b++;
-    else dItem.sinEtiqueta++;
+    else if (record.etiquetaDgt === 'SIN ETIQUETA') dItem.sinEtiqueta++;
 
     if (record.emisionesCo2 > 0) {
       dItem.sumCo2 += record.emisionesCo2;
@@ -494,7 +495,7 @@ for (let fileIdx = 0; fileIdx < zipFiles.length; fileIdx++) {
     }
     const brItem = brandMap[record.marca];
     brItem.count++;
-    if (record.etiquetaDgt === '0 CERO' || record.etiquetaDgt === 'ECO') brItem.eco0++;
+    if (isElectrifiedBadge(record.etiquetaDgt)) brItem.eco0++;
     brItem.sumKw += record.potenciaKw;
     if (record.emisionesCo2 > 0) {
       brItem.sumCo2 += record.emisionesCo2;

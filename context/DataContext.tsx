@@ -124,7 +124,7 @@ export function DataProvider({ children }: { children: ReactNode }) {
   const [activeView, setActiveView] = useState<ViewKey>('overview');
   const [isLoading, setIsLoading] = useState<boolean>(true);
   const [parseProgress, setParseProgress] = useState<number>(0);
-  const [sourceName, setSourceName] = useState<string>('Cargando microdatos oficiales DGT...');
+  const [sourceName, setSourceName] = useState<string>('Cargando microdatos de la DGT...');
   const [compareModels, setCompareModels] = useState<[string, string]>(['SEAT IBIZA', 'TOYOTA COROLLA']);
   const [selectedPeriod, setSelectedPeriodState] = useState<string>('all');
   const [availablePeriods, setAvailablePeriods] = useState<PeriodOption[]>([]);
@@ -167,7 +167,7 @@ export function DataProvider({ children }: { children: ReactNode }) {
         console.error('Error al conectar con /api/periods:', err);
       }
       setIsLoading(false);
-      setSourceName('Microdatos oficiales DGT (5,4M registros)');
+      setSourceName('Microdatos de la DGT (5,4M registros)');
     }
 
     initPeriodsAndData();
