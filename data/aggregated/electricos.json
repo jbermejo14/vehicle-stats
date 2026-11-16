@@ -1,0 +1,662 @@
+{
+  "totalBev": 370226,
+  "totalPhev": 37073,
+  "totalElectrificados": 407299,
+  "bevPctOfTotal": 6.84,
+  "phevPctOfTotal": 0.68,
+  "electrificadosPctOfTotal": 7.52,
+  "monthlyEvolution": [
+    {
+      "period": "2024-01",
+      "year": 2024,
+      "month": 1,
+      "bev": 5039,
+      "phev": 314,
+      "cero": 5353,
+      "total": 117036,
+      "bevPct": 4.31,
+      "phevPct": 0.27,
+      "ceroPct": 4.57
+    },
+    {
+      "period": "2024-02",
+      "year": 2024,
+      "month": 2,
+      "bev": 5517,
+      "phev": 471,
+      "cero": 5988,
+      "total": 134018,
+      "bevPct": 4.12,
+      "phevPct": 0.35,
+      "ceroPct": 4.47
+    },
+    {
+      "period": "2024-03",
+      "year": 2024,
+      "month": 3,
+      "bev": 6282,
+      "phev": 416,
+      "cero": 6698,
+      "total": 148796,
+      "bevPct": 4.22,
+      "phevPct": 0.28,
+      "ceroPct": 4.5
+    },
+    {
+      "period": "2024-04",
+      "year": 2024,
+      "month": 4,
+      "bev": 5896,
+      "phev": 368,
+      "cero": 6264,
+      "total": 154004,
+      "bevPct": 3.83,
+      "phevPct": 0.24,
+      "ceroPct": 4.07
+    },
+    {
+      "period": "2024-05",
+      "year": 2024,
+      "month": 5,
+      "bev": 6517,
+      "phev": 233,
+      "cero": 6750,
+      "total": 158789,
+      "bevPct": 4.1,
+      "phevPct": 0.15,
+      "ceroPct": 4.25
+    },
+    {
+      "period": "2024-06",
+      "year": 2024,
+      "month": 6,
+      "bev": 7506,
+      "phev": 137,
+      "cero": 7643,
+      "total": 166021,
+      "bevPct": 4.52,
+      "phevPct": 0.08,
+      "ceroPct": 4.6
+    },
+    {
+      "period": "2024-07",
+      "year": 2024,
+      "month": 7,
+      "bev": 6276,
+      "phev": 132,
+      "cero": 6408,
+      "total": 150215,
+      "bevPct": 4.18,
+      "phevPct": 0.09,
+      "ceroPct": 4.27
+    },
+    {
+      "period": "2024-08",
+      "year": 2024,
+      "month": 8,
+      "bev": 4368,
+      "phev": 95,
+      "cero": 4463,
+      "total": 97890,
+      "bevPct": 4.46,
+      "phevPct": 0.1,
+      "ceroPct": 4.56
+    },
+    {
+      "period": "2024-09",
+      "year": 2024,
+      "month": 9,
+      "bev": 8029,
+      "phev": 138,
+      "cero": 8167,
+      "total": 130367,
+      "bevPct": 6.16,
+      "phevPct": 0.11,
+      "ceroPct": 6.26
+    },
+    {
+      "period": "2024-10",
+      "year": 2024,
+      "month": 10,
+      "bev": 7364,
+      "phev": 133,
+      "cero": 7497,
+      "total": 151548,
+      "bevPct": 4.86,
+      "phevPct": 0.09,
+      "ceroPct": 4.95
+    },
+    {
+      "period": "2024-11",
+      "year": 2024,
+      "month": 11,
+      "bev": 7874,
+      "phev": 132,
+      "cero": 8006,
+      "total": 140976,
+      "bevPct": 5.59,
+      "phevPct": 0.09,
+      "ceroPct": 5.68
+    },
+    {
+      "period": "2024-12",
+      "year": 2024,
+      "month": 12,
+      "bev": 11998,
+      "phev": 166,
+      "cero": 12164,
+      "total": 166690,
+      "bevPct": 7.2,
+      "phevPct": 0.1,
+      "ceroPct": 7.3
+    },
+    {
+      "period": "2025-01",
+      "year": 2025,
+      "month": 1,
+      "bev": 7413,
+      "phev": 228,
+      "cero": 7641,
+      "total": 125425,
+      "bevPct": 5.91,
+      "phevPct": 0.18,
+      "ceroPct": 6.09
+    },
+    {
+      "period": "2025-02",
+      "year": 2025,
+      "month": 2,
+      "bev": 8682,
+      "phev": 611,
+      "cero": 9293,
+      "total": 147085,
+      "bevPct": 5.9,
+      "phevPct": 0.42,
+      "ceroPct": 6.32
+    },
+    {
+      "period": "2025-03",
+      "year": 2025,
+      "month": 3,
+      "bev": 10832,
+      "phev": 602,
+      "cero": 11434,
+      "total": 179345,
+      "bevPct": 6.04,
+      "phevPct": 0.34,
+      "ceroPct": 6.38
+    },
+    {
+      "period": "2025-04",
+      "year": 2025,
+      "month": 4,
+      "bev": 9990,
+      "phev": 976,
+      "cero": 10966,
+      "total": 162550,
+      "bevPct": 6.15,
+      "phevPct": 0.6,
+      "ceroPct": 6.75
+    },
+    {
+      "period": "2025-05",
+      "year": 2025,
+      "month": 5,
+      "bev": 12226,
+      "phev": 1051,
+      "cero": 13277,
+      "total": 185750,
+      "bevPct": 6.58,
+      "phevPct": 0.57,
+      "ceroPct": 7.15
+    },
+    {
+      "period": "2025-06",
+      "year": 2025,
+      "month": 6,
+      "bev": 15272,
+      "phev": 1110,
+      "cero": 16382,
+      "total": 194021,
+      "bevPct": 7.87,
+      "phevPct": 0.57,
+      "ceroPct": 8.44
+    },
+    {
+      "period": "2025-07",
+      "year": 2025,
+      "month": 7,
+      "bev": 12466,
+      "phev": 1921,
+      "cero": 14387,
+      "total": 179039,
+      "bevPct": 6.96,
+      "phevPct": 1.07,
+      "ceroPct": 8.04
+    },
+    {
+      "period": "2025-08",
+      "year": 2025,
+      "month": 8,
+      "bev": 9148,
+      "phev": 1264,
+      "cero": 10412,
+      "total": 113138,
+      "bevPct": 8.09,
+      "phevPct": 1.12,
+      "ceroPct": 9.2
+    },
+    {
+      "period": "2025-09",
+      "year": 2025,
+      "month": 9,
+      "bev": 12725,
+      "phev": 1724,
+      "cero": 14449,
+      "total": 154363,
+      "bevPct": 8.24,
+      "phevPct": 1.12,
+      "ceroPct": 9.36
+    },
+    {
+      "period": "2025-10",
+      "year": 2025,
+      "month": 10,
+      "bev": 12587,
+      "phev": 2226,
+      "cero": 14813,
+      "total": 176870,
+      "bevPct": 7.12,
+      "phevPct": 1.26,
+      "ceroPct": 8.38
+    },
+    {
+      "period": "2025-11",
+      "year": 2025,
+      "month": 11,
+      "bev": 12965,
+      "phev": 1966,
+      "cero": 14931,
+      "total": 160698,
+      "bevPct": 8.07,
+      "phevPct": 1.22,
+      "ceroPct": 9.29
+    },
+    {
+      "period": "2025-12",
+      "year": 2025,
+      "month": 12,
+      "bev": 14393,
+      "phev": 2058,
+      "cero": 16451,
+      "total": 166146,
+      "bevPct": 8.66,
+      "phevPct": 1.24,
+      "ceroPct": 9.9
+    },
+    {
+      "period": "2026-01",
+      "year": 2026,
+      "month": 1,
+      "bev": 8608,
+      "phev": 1154,
+      "cero": 9762,
+      "total": 130543,
+      "bevPct": 6.59,
+      "phevPct": 0.88,
+      "ceroPct": 7.48
+    },
+    {
+      "period": "2026-02",
+      "year": 2026,
+      "month": 2,
+      "bev": 11926,
+      "phev": 1654,
+      "cero": 13580,
+      "total": 161682,
+      "bevPct": 7.38,
+      "phevPct": 1.02,
+      "ceroPct": 8.4
+    },
+    {
+      "period": "2026-03",
+      "year": 2026,
+      "month": 3,
+      "bev": 15100,
+      "phev": 1982,
+      "cero": 17082,
+      "total": 210097,
+      "bevPct": 7.19,
+      "phevPct": 0.94,
+      "ceroPct": 8.13
+    },
+    {
+      "period": "2026-04",
+      "year": 2026,
+      "month": 4,
+      "bev": 12735,
+      "phev": 1655,
+      "cero": 14390,
+      "total": 180135,
+      "bevPct": 7.07,
+      "phevPct": 0.92,
+      "ceroPct": 7.99
+    },
+    {
+      "period": "2026-05",
+      "year": 2026,
+      "month": 5,
+      "bev": 15499,
+      "phev": 1802,
+      "cero": 17301,
+      "total": 189626,
+      "bevPct": 8.17,
+      "phevPct": 0.95,
+      "ceroPct": 9.12
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "bev": 18271,
+      "phev": 2386,
+      "cero": 20657,
+      "total": 217004,
+      "bevPct": 8.42,
+      "phevPct": 1.1,
+      "ceroPct": 9.52
+    },
+    {
+      "period": "2026-07",
+      "year": 2026,
+      "month": 7,
+      "bev": 14327,
+      "phev": 2231,
+      "cero": 16558,
+      "total": 189104,
+      "bevPct": 7.58,
+      "phevPct": 1.18,
+      "ceroPct": 8.76
+    },
+    {
+      "period": "2026-08",
+      "year": 2026,
+      "month": 8,
+      "bev": 11645,
+      "phev": 1386,
+      "cero": 13031,
+      "total": 126610,
+      "bevPct": 9.2,
+      "phevPct": 1.09,
+      "ceroPct": 10.29
+    },
+    {
+      "period": "2026-09",
+      "year": 2026,
+      "month": 9,
+      "bev": 20463,
+      "phev": 2177,
+      "cero": 22640,
+      "total": 169941,
+      "bevPct": 12.04,
+      "phevPct": 1.28,
+      "ceroPct": 13.32
+    },
+    {
+      "period": "2026-10",
+      "year": 2026,
+      "month": 10,
+      "bev": 20287,
+      "phev": 2174,
+      "cero": 22461,
+      "total": 177323,
+      "bevPct": 11.44,
+      "phevPct": 1.23,
+      "ceroPct": 12.67
+    }
+  ],
+  "topProvincesBev": [
+    {
+      "name": "Navarra",
+      "slug": "navarra",
+      "community": "Comunidad Foral de Navarra",
+      "total": 47963,
+      "bevPercentage": 12.5,
+      "ceroPercentage": 13.5
+    },
+    {
+      "name": "Guadalajara",
+      "slug": "guadalajara",
+      "community": "Castilla-La Mancha",
+      "total": 21045,
+      "bevPercentage": 10.9,
+      "ceroPercentage": 12.3
+    },
+    {
+      "name": "Toledo",
+      "slug": "toledo",
+      "community": "Castilla-La Mancha",
+      "total": 58806,
+      "bevPercentage": 9.6,
+      "ceroPercentage": 11
+    },
+    {
+      "name": "Barcelona",
+      "slug": "barcelona",
+      "community": "Cataluña",
+      "total": 522173,
+      "bevPercentage": 8.9,
+      "ceroPercentage": 9.5
+    },
+    {
+      "name": "Valencia / València",
+      "slug": "valencia",
+      "community": "Comunitat Valenciana",
+      "total": 262194,
+      "bevPercentage": 8.8,
+      "ceroPercentage": 9.5
+    },
+    {
+      "name": "Tarragona",
+      "slug": "tarragona",
+      "community": "Cataluña",
+      "total": 77367,
+      "bevPercentage": 8.5,
+      "ceroPercentage": 9.3
+    },
+    {
+      "name": "Álava / Araba",
+      "slug": "alava",
+      "community": "País Vasco",
+      "total": 24721,
+      "bevPercentage": 8.5,
+      "ceroPercentage": 10
+    },
+    {
+      "name": "Bizkaia",
+      "slug": "bizkaia",
+      "community": "País Vasco",
+      "total": 71227,
+      "bevPercentage": 8.4,
+      "ceroPercentage": 9.6
+    },
+    {
+      "name": "A Coruña",
+      "slug": "a-coruna",
+      "community": "Galicia",
+      "total": 68634,
+      "bevPercentage": 8.1,
+      "ceroPercentage": 8.8
+    },
+    {
+      "name": "Pontevedra",
+      "slug": "pontevedra",
+      "community": "Galicia",
+      "total": 61242,
+      "bevPercentage": 7.8,
+      "ceroPercentage": 8.6
+    },
+    {
+      "name": "Illes Balears",
+      "slug": "illes-balears",
+      "community": "Illes Balears",
+      "total": 153365,
+      "bevPercentage": 7.7,
+      "ceroPercentage": 8.1
+    },
+    {
+      "name": "Lugo",
+      "slug": "lugo",
+      "community": "Galicia",
+      "total": 26392,
+      "bevPercentage": 7,
+      "ceroPercentage": 7.6
+    },
+    {
+      "name": "Cantabria",
+      "slug": "cantabria",
+      "community": "Cantabria",
+      "total": 47471,
+      "bevPercentage": 6.9,
+      "ceroPercentage": 7.8
+    },
+    {
+      "name": "Lleida",
+      "slug": "lleida",
+      "community": "Cataluña",
+      "total": 43416,
+      "bevPercentage": 6.9,
+      "ceroPercentage": 7.9
+    },
+    {
+      "name": "Madrid",
+      "slug": "madrid",
+      "community": "Comunidad de Madrid",
+      "total": 1864641,
+      "bevPercentage": 6.8,
+      "ceroPercentage": 7.5
+    }
+  ],
+  "topBrandsElectrificadas": [
+    {
+      "brand": "TESLA",
+      "slug": "tesla",
+      "total": 42638,
+      "percentage": 0.79,
+      "eco0Percentage": 99.6,
+      "avgKw": 237
+    },
+    {
+      "brand": "JAECOO",
+      "slug": "jaecoo",
+      "total": 3161,
+      "percentage": 0.06,
+      "eco0Percentage": 93.2,
+      "avgKw": 109
+    },
+    {
+      "brand": "LEXUS",
+      "slug": "lexus",
+      "total": 2657,
+      "percentage": 0.05,
+      "eco0Percentage": 87.2,
+      "avgKw": 109
+    },
+    {
+      "brand": "EBRO",
+      "slug": "ebro",
+      "total": 29809,
+      "percentage": 0.55,
+      "eco0Percentage": 87,
+      "avgKw": 92
+    },
+    {
+      "brand": "MAZDA",
+      "slug": "mazda",
+      "total": 57761,
+      "percentage": 1.07,
+      "eco0Percentage": 86.8,
+      "avgKw": 111
+    },
+    {
+      "brand": "LEAPMOTOR",
+      "slug": "leapmotor",
+      "total": 3404,
+      "percentage": 0.06,
+      "eco0Percentage": 82.6,
+      "avgKw": 131
+    },
+    {
+      "brand": "CUPRA",
+      "slug": "cupra",
+      "total": 75600,
+      "percentage": 1.4,
+      "eco0Percentage": 78.4,
+      "avgKw": 120
+    },
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "total": 342131,
+      "percentage": 6.32,
+      "eco0Percentage": 73.7,
+      "avgKw": 86
+    },
+    {
+      "brand": "KIA",
+      "slug": "kia",
+      "total": 182257,
+      "percentage": 3.37,
+      "eco0Percentage": 71.9,
+      "avgKw": 87
+    },
+    {
+      "brand": "NISSAN",
+      "slug": "nissan",
+      "total": 109738,
+      "percentage": 2.03,
+      "eco0Percentage": 69.2,
+      "avgKw": 102
+    },
+    {
+      "brand": "OMODA",
+      "slug": "omoda",
+      "total": 32555,
+      "percentage": 0.6,
+      "eco0Percentage": 63.2,
+      "avgKw": 109
+    },
+    {
+      "brand": "SUZUKI",
+      "slug": "suzuki",
+      "total": 9523,
+      "percentage": 0.18,
+      "eco0Percentage": 60.5,
+      "avgKw": 31
+    },
+    {
+      "brand": "VOLVO",
+      "slug": "volvo",
+      "total": 73454,
+      "percentage": 1.36,
+      "eco0Percentage": 53.7,
+      "avgKw": 198
+    },
+    {
+      "brand": "GEELY",
+      "slug": "geely",
+      "total": 1822,
+      "percentage": 0.03,
+      "eco0Percentage": 51.6,
+      "avgKw": 91
+    },
+    {
+      "brand": "HYUNDAI",
+      "slug": "hyundai",
+      "total": 183888,
+      "percentage": 3.4,
+      "eco0Percentage": 50.8,
+      "avgKw": 88
+    }
+  ]
+}

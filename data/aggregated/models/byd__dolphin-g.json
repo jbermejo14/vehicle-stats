@@ -1,0 +1,25 @@
+{
+  "brand": "BYD",
+  "brandSlug": "byd",
+  "model": "DOLPHIN G",
+  "modelSlug": "dolphin-g",
+  "fullName": "BYD DOLPHIN G",
+  "total": 977,
+  "percentage": 0.02,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 70,
+  "avgCv": 95,
+  "avgCo2": 35,
+  "evolution": [
+    {
+      "period": "2026-10",
+      "total": 977,
+      "avgKw": 70,
+      "avgCv": 95,
+      "avgCo2": 35,
+      "avgTara": 1618
+    }
+  ]
+}

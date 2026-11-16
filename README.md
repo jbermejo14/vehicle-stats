@@ -1,81 +1,127 @@
-# DGT Pulse // Telemetry & Fleet Analytics 🚗⚡📊
+# DGT Pulse // Telemetría y Análisis de Matriculaciones de la DGT 🚗⚡📊
 
-> Plataforma avanzada de telemetría automotriz y analítica de datos masivos para la visualización de estadísticas históricas y en tiempo real de vehículos matriculados en España a partir de los microdatos oficiales de la **Dirección General de Tráfico (DGT)** (`MATRABA`).
+> Portal de analítica de datos y estadísticas de matriculaciones en España generado estáticamente (**SSG**) a partir de los microdatos oficiales de la **Dirección General de Tráfico (DGT)** (`MATRABA`).
 
-![DGT Pulse Banner](https://img.shields.io/badge/DGT_PULSE-v2.4.0--PRO-FF5500?style=for-the-badge&logo=speedtest&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js_14-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript_5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite_3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
-
-## ⚡ Características Principales
-
-- **Base de Datos Histórica Multi-Anual:** Indexa más de **5.400.000 de matriculaciones oficiales** procedentes de 34 meses de microdatos DGT (desde `2024-01` hasta `2026-10`).
-- **Consultas Sub-150ms:** Motor SQLite embebido de alto rendimiento que permite agregar y filtrar millones de registros en milisegundos.
-- **Identidad Visual Cyber-Automotive (HUD):**
-  - Paleta estricta de alto contraste: Fondo negro carbón (`#050505` / `#0A0A0C`) con acentos en Naranja Eléctrico (`#FF5500`) y efectos de resplandor (*glow*).
-  - Tipografía geométrica para títulos y tipografía monoespaciada (`JetBrains Mono`) para KPIs, potencias, emisiones y tablas técnicas.
-- **Parser de Ancho Fijo DGT (`/lib/dgtParser.ts`):** Decodificador nativo para archivos `MATRABA` de 714 caracteres en codificación `ISO-8859-1` (Latin-1) y `UTF-8`.
-- **Deducción Automática de Distintivos Ambientales:** Clasificación precisa de etiquetas DGT (**0 CERO**, **ECO**, **C**, **B**, **Sin Etiqueta**) cruzando tracción, hibridación (`HEV`, `PHEV`, `BEV`, `MHEV`, `GLP`) y normas anticontaminación Euro.
-- **Herramienta Drag & Drop de Ingesta:** Carga de ficheros `.txt` descargados directamente del portal de la DGT para recalcular todo el dashboard dinámicamente en memoria.
+[![Next.js](https://img.shields.io/badge/Next.js-16.4.6-black?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-19.3.0-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.3.3-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![DGT Official Microdata](https://img.shields.io/badge/DGT-Microdatos_Oficiales-0055A5?style=flat-square)](https://sedeinvestigacion.dgt.es/es/datos-abiertos/microdatos/)
 
 ---
 
-## 🧭 Las 8 Vistas de la Consola de Telemetría
+## ⚡ Descripción del Proyecto
 
-1. **Command Center (Visión General):** KPIs globales animados (Total matriculados, % Electrificación, Media CO₂ flota, Potencia media en kW/CV, Marca líder y Modelo top), serie temporal evolutiva y feed en vivo.
-2. **Mapa & Ranking por Provincias:** Mapa coroplético interactivo en escala térmica negro-naranja con conmutador per cápita (censo INE) y **Radar Municipal / Hubs de Flotas (IVTM)** con detección de sedes de renting y beneficios fiscales locales.
-3. **Combustibles & Distintivos DGT:** Gráficos donut y barras del mix energético (Gasolina, Diésel, HEV, PHEV, BEV, GLP/GNC) y matriz cruzada propulsión vs distintivo ambiental.
-4. **Ranking de Marcas & Modelos:** Top 20 marcas y Top 25 modelos con buscador instantáneo, filtros por categoría (Turismos M1, Motos L3e, Comerciales N1) y **Comparador 1 vs 1** frente a frente.
-5. **Industria, Consorcios & Origen WMI:** Cuota de mercado por Grupos Automovilísticos matrices (VAG, Stellantis, Renault, Toyota, etc.), trazabilidad de factorías de montaje (*Made in Spain* vs importaciones de Alemania, China, etc.) y auge de siluetas de carrocería (el fenómeno SUV `AF`).
-6. **Ingeniería, Dinámica & Masa:** Tramos de potencia motriz (kW y CV), cilindrada (cc), segmentación por relación peso/potencia ($kg/CV$), capacidad de carga útil estimada y diagrama de dispersión cinemático (*Scatter Plot*) Tara vs Potencia neta.
-7. **Emisiones CO₂ & Tramos IEDMT:** Histograma de emisiones WLTP, distribución fiscal del Impuesto de Matriculación español (exención $\le$120 g/km vs tramos 4,75%, 9,75% y 14,75%) y cumplimiento de normas Euro (Euro 6e-bis, Euro 6e, Euro 6d, Euro 5+).
-8. **Importar DGT (.TXT):** Interfaz para procesar ficheros de microdatos adicionales y visor de líneas parseadas.
+**DGT Pulse** es una plataforma web orientada al análisis riguroso y transparente del parque de vehículos matriculados en España. Cada cifra, tabla y gráfico procede de los microdatos mensuales oficiales que publica la Dirección General de Tráfico en su registro de ancho fijo `MATRABA` (714 caracteres por registro), sin estimaciones opacas ni datos sintéticos.
+
+La arquitectura web está construida con **Next.js (App Router)** en modo **Static Site Generation (SSG)**: todas las páginas se generan en tiempo de compilación a partir de conjuntos de datos JSON pre-agregados y versionados en el repositorio (`data/aggregated/`). No hay dependencias de bases de datos SQLite en tiempo de ejecución web, lo que permite un despliegue estático o en cualquier hosting serverless con tiempos de respuesta óptimos y coste de infraestructura mínimo.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🧭 Estructura de Páginas y SEO Programático
 
-- **Framework:** [Next.js 14](https://nextjs.org/) (App Router, Server & Client Components)
-- **Lenguaje:** [TypeScript 5](https://www.typescriptlang.org/)
-- **Estilos:** [Tailwind CSS 3](https://tailwindcss.com/)
-- **Visualización de Datos:** [Recharts](https://recharts.org/) + SVG Map de España interactivo
-- **Iconografía:** [Lucide React](https://lucide.dev/)
-- **Almacén de Datos:** SQLite nativo (`node:sqlite` en Node.js 24)
+El sitio genera automáticamente URLs canónicas con metadatos Open Graph, datos estructurados Schema.org (`BreadcrumbList` y `Dataset`) y sitemap XML sin fragmentos de anclaje (`#`):
+
+- **`/`**: Cuadro de mando resumen del último mes consolidado y del último año natural cerrado.
+- **`/matriculaciones/[año]`**: Totales anuales, evolución interanual (YoY), cuota por tipo de propulsión y distintivo ambiental DGT, y marcas/modelos líderes.
+- **`/matriculaciones/[año]/[mes]`**: Análisis mensual detallado, comparativa frente al mismo mes del año precedente y ranking provincial.
+- **`/provincia/[provincia]`**: Serie histórica de matriculaciones de cada una de las 52 provincias españolas y ciudades autónomas, mix de combustibles y tasa de motorización per cápita (matriculaciones por cada 1.000 habitantes según el Padrón INE 2024).
+- **`/marca/[marca]`**: Evolución temporal por fabricante, provincias con mayor penetración, tecnologías de propulsión y modelos matriculados. (Aplica un umbral mínimo configurable de `MIN_REGISTRATIONS_THRESHOLD = 50` para evitar páginas vacías o con baja representatividad).
+- **`/marca/[marca]/[modelo]`**: Ficha técnica agregada de cada modelo (potencias, masas, emisiones medias y combustibles).
+- **`/electricos`**: Radiografía específica de vehículos 100% eléctricos (BEV) e híbridos enchufables (PHEV), con tendencias provinciales y ranking de marcas punteras.
 
 ---
 
-## 🚀 Puesta en Marcha
+## 📚 Fuentes de Datos y Metodología
 
-### 1. Clonar el repositorio
-```bash
-git clone https://github.com/jbermejo14/vehicle-stats.git
-cd vehicle-stats
+Cada métrica mostrada en la plataforma está vinculada a una fuente oficial documentada:
+
+1. **Microdatos de Matriculaciones de la DGT (`MATRABA`)**:
+   - Registro mensual de vehículos matriculados publicado por la DGT (Ministerio del Interior).
+   - Incluye matriculaciones ordinarias, temporales, turísticas, especiales, remolques y ciclomotores.
+   - El parser (`lib/dgtParser.ts`) decodifica el tipo de registro (nuevo vs. transferencia/usado en `IND_NUEVO_USADO`), clase de matrícula (`COD_CLASE_MAT`), combustible oficial (`COD_PROPULSION_ITV`), indicador de hibridación (`IND_HIBRIDO`: `BEV`, `REE`, `PHE`, `HEV`, `MHE`), cilindrada, potencia neta (`KW`), tara y emisiones de CO₂ (WLTP/NEDC).
+2. **Censo Poblacional y Ratios Per Cápita**:
+   - **Instituto Nacional de Estadística (INE)**: Padrón municipal oficial de habitantes a 1 de enero de 2024 (Real Decreto 1085/2024, de 22 de octubre).
+   - Permite calcular la tasa estandarizada de matriculaciones anualizadas por cada 1.000 habitantes por provincia.
+3. **Distintivos Ambientales DGT**:
+   - Asignación según las resoluciones oficiales publicadas en el Boletín Oficial del Estado (**BOE núm. 96 de 21/04/2016** y **BOE núm. 18 de 20/01/2018**):
+     - **0 CERO**: BEV, REEV, PHEV con autonomía $\ge 40\text{ km}$, FCEV.
+     - **ECO**: MHEV, HEV, PHEV con autonomía $< 40\text{ km}$, GLP, GNC, GNL.
+     - **C**: Gasolina Euro 4, 5, 6 (matriculados desde enero 2006); Diésel Euro 6 (matriculados desde septiembre 2015).
+     - **B**: Gasolina Euro 3 (matriculados desde enero 2000); Diésel Euro 4, 5 (matriculados desde enero 2006).
+     - **Sin Etiqueta**: Resto de vehículos que no cumplen los requisitos anteriores.
+4. **Origen Geográfico por WMI (World Manufacturer Identifier)**:
+   - Norma internacional **ISO 3779**: decodificación de los 3 primeros caracteres del número de bastidor (VIN) para clasificar el país o región geográfica de fabricación/ensamblaje del fabricante (`VS` España, `WV`/`WA`/`WB` Alemania, `VF` Francia, `ZA` Italia, `JN`/`JT` Japón, `KL`/`KM` Corea, `LS`/`LB` China, etc.).
+
+---
+
+## 📥 Obtención de los Microdatos de la DGT
+
+Los ficheros oficiales se descargan desde la Sede Electrónica de Investigación de la DGT:
+
+1. Accede al portal oficial de microdatos de la DGT:
+   👉 **[https://sedeinvestigacion.dgt.es/es/datos-abiertos/microdatos/](https://sedeinvestigacion.dgt.es/es/datos-abiertos/microdatos/)**
+2. Navega al apartado **Matriculaciones**.
+3. Descarga los ficheros mensuales comprimidos con nomenclatura:
+   `export_mensual_mat_YYYYMM.zip` (por ejemplo: `export_mensual_mat_202401.zip`).
+4. Coloca los archivos `.zip` descargados en una carpeta local de tu equipo (por ejemplo: `C:\mis-descargas-dgt\` o `./data/raw/`).
+
+> [!NOTE]
+> La Sede Electrónica de la DGT no dispone actualmente de una API REST abierta sin autenticación ni tokens de sesión web para descarga directa por script CLI desatendido. Por ello, el flujo automatizado lee de la carpeta local configurada en la variable de entorno `DGT_MICRODATA_DIR`.
+
+---
+
+## ⚙️ Variables de Entorno
+
+Crea o edita un archivo `.env.local` en la raíz del proyecto:
+
+```env
+# Directorio local donde se ubican los .zip o .txt de la DGT (opcional)
+DGT_MICRODATA_DIR="C:/Users/Usuario/Downloads"
+
+# URL canónica del sitio para etiquetas canonical, Open Graph y sitemap
+NEXT_PUBLIC_SITE_URL="https://dgt-pulse.es"
 ```
 
-### 2. Instalar dependencias
+Si no se define `DGT_MICRODATA_DIR`, el script de ingesta procesa automáticamente la base de datos histórica validada existente en `data/dgt_database.db`.
+
+---
+
+## 🚀 Instalación y Comandos
+
+### 1. Instalar dependencias
 ```bash
 npm install
 ```
 
-### 3. Iniciar el servidor de desarrollo
+### 2. Ingesta y agregación de datos
+Procesa los microdatos oficiales, valida las líneas contra el diseño de registro MATRABA, calcula los distintivos ambientales y genera los JSON estáticos en `data/aggregated/`:
+```bash
+npm run ingest
+```
+
+### 3. Ejecución de pruebas unitarias (sin red)
+Ejecuta la suite de pruebas offline que verifica el parser, las reglas de distintivos en fechas frontera, el umbral mínimo de marcas/modelos, los slugs normalizados y el sitemap:
+```bash
+npm test
+```
+
+### 4. Compilación estática de producción
+Genera todas las páginas estáticas optimizadas para producción:
+```bash
+npm run build
+```
+
+### 5. Iniciar servidor local
 ```bash
 npm run dev
 ```
-Abre [http://localhost:3000](http://localhost:3000) (o el puerto configurado) en tu navegador.
-
-### 4. Scripts de Ingesta CLI
-```bash
-# Ingesta de un fichero individual
-npm run ingest -- --limit 5000
-
-# Ingesta masiva por lotes de todos los .zip mensuales
-npx tsx scripts/ingest-all-zips.ts
-```
+Accede a [http://localhost:3000](http://localhost:3000) en tu navegador.
 
 ---
 
-## 📄 Licencia y Atribución de Datos
-Datos basados en los ficheros abiertos de microdatos de matriculaciones publicados por la Dirección General de Tráfico (DGT) del Ministerio del Interior de España.
+## 🛡️ Atribución y Licencia
+
+- **Datos de Matriculaciones**: Microdatos de matriculaciones abiertos de la **Dirección General de Tráfico (DGT)**, Ministerio del Interior, Gobierno de España.
+- **Datos Demográficos**: Padrón Municipal de Habitantes 2024, **Instituto Nacional de Estadística (INE)**.
+- **Identificación de Fabricantes**: Norma internacional **ISO 3779**.

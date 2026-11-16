@@ -1,0 +1,217 @@
+{
+  "brand": "TOYOTA",
+  "brandSlug": "toyota",
+  "model": "TOYOTA RAV4",
+  "modelSlug": "toyota-rav4",
+  "fullName": "TOYOTA TOYOTA RAV4",
+  "total": 28361,
+  "percentage": 0.52,
+  "category": "Turismo",
+  "primaryFuel": "Híbrido (HEV)",
+  "primaryBadge": "ECO",
+  "avgKw": 129,
+  "avgCv": 175,
+  "avgCo2": 101,
+  "evolution": [
+    {
+      "period": "2024-01",
+      "total": 1286,
+      "avgKw": 131,
+      "avgCv": 178,
+      "avgCo2": 117,
+      "avgTara": 1728
+    },
+    {
+      "period": "2024-02",
+      "total": 1035,
+      "avgKw": 131,
+      "avgCv": 178,
+      "avgCo2": 114,
+      "avgTara": 1728
+    },
+    {
+      "period": "2024-03",
+      "total": 1037,
+      "avgKw": 131,
+      "avgCv": 177,
+      "avgCo2": 118,
+      "avgTara": 1718
+    },
+    {
+      "period": "2024-04",
+      "total": 1527,
+      "avgKw": 131,
+      "avgCv": 178,
+      "avgCo2": 124,
+      "avgTara": 1699
+    },
+    {
+      "period": "2024-05",
+      "total": 1419,
+      "avgKw": 131,
+      "avgCv": 178,
+      "avgCo2": 120,
+      "avgTara": 1712
+    },
+    {
+      "period": "2024-06",
+      "total": 1107,
+      "avgKw": 131,
+      "avgCv": 178,
+      "avgCo2": 121,
+      "avgTara": 1713
+    },
+    {
+      "period": "2024-07",
+      "total": 842,
+      "avgKw": 130,
+      "avgCv": 177,
+      "avgCo2": 116,
+      "avgTara": 1729
+    },
+    {
+      "period": "2024-08",
+      "total": 738,
+      "avgKw": 131,
+      "avgCv": 177,
+      "avgCo2": 114,
+      "avgTara": 1732
+    },
+    {
+      "period": "2024-09",
+      "total": 1260,
+      "avgKw": 131,
+      "avgCv": 178,
+      "avgCo2": 117,
+      "avgTara": 1717
+    },
+    {
+      "period": "2024-10",
+      "total": 1111,
+      "avgKw": 130,
+      "avgCv": 177,
+      "avgCo2": 118,
+      "avgTara": 1719
+    },
+    {
+      "period": "2024-12",
+      "total": 1267,
+      "avgKw": 130,
+      "avgCv": 177,
+      "avgCo2": 124,
+      "avgTara": 1699
+    },
+    {
+      "period": "2025-01",
+      "total": 1090,
+      "avgKw": 130,
+      "avgCv": 176,
+      "avgCo2": 129,
+      "avgTara": 1683
+    },
+    {
+      "period": "2025-02",
+      "total": 1472,
+      "avgKw": 131,
+      "avgCv": 179,
+      "avgCo2": 99,
+      "avgTara": 1776
+    },
+    {
+      "period": "2025-03",
+      "total": 1068,
+      "avgKw": 131,
+      "avgCv": 178,
+      "avgCo2": 95,
+      "avgTara": 1786
+    },
+    {
+      "period": "2025-04",
+      "total": 955,
+      "avgKw": 131,
+      "avgCv": 178,
+      "avgCo2": 95,
+      "avgTara": 1791
+    },
+    {
+      "period": "2025-07",
+      "total": 1230,
+      "avgKw": 133,
+      "avgCv": 181,
+      "avgCo2": 66,
+      "avgTara": 1872
+    },
+    {
+      "period": "2025-08",
+      "total": 1105,
+      "avgKw": 133,
+      "avgCv": 181,
+      "avgCo2": 66,
+      "avgTara": 1868
+    },
+    {
+      "period": "2025-09",
+      "total": 1476,
+      "avgKw": 132,
+      "avgCv": 179,
+      "avgCo2": 85,
+      "avgTara": 1814
+    },
+    {
+      "period": "2025-10",
+      "total": 1002,
+      "avgKw": 130,
+      "avgCv": 177,
+      "avgCo2": 101,
+      "avgTara": 1771
+    },
+    {
+      "period": "2025-11",
+      "total": 1239,
+      "avgKw": 131,
+      "avgCv": 178,
+      "avgCo2": 96,
+      "avgTara": 1779
+    },
+    {
+      "period": "2025-12",
+      "total": 1847,
+      "avgKw": 132,
+      "avgCv": 179,
+      "avgCo2": 88,
+      "avgTara": 1800
+    },
+    {
+      "period": "2026-01",
+      "total": 860,
+      "avgKw": 131,
+      "avgCv": 177,
+      "avgCo2": 104,
+      "avgTara": 1761
+    },
+    {
+      "period": "2026-08",
+      "total": 582,
+      "avgKw": 106,
+      "avgCv": 144,
+      "avgCo2": 59,
+      "avgTara": 1939
+    },
+    {
+      "period": "2026-09",
+      "total": 989,
+      "avgKw": 106,
+      "avgCv": 144,
+      "avgCo2": 46,
+      "avgTara": 1983
+    },
+    {
+      "period": "2026-10",
+      "total": 817,
+      "avgKw": 107,
+      "avgCv": 145,
+      "avgCo2": 60,
+      "avgTara": 1925
+    }
+  ]
+}

@@ -1,0 +1,439 @@
+{
+  "code": "29",
+  "name": "Málaga",
+  "slug": "malaga",
+  "community": "Andalucía",
+  "population": 1752728,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 194195,
+  "percentageOfSpain": 3.59,
+  "per1000Habitantes": 110.8,
+  "ceroCount": 12768,
+  "ecoCount": 39310,
+  "bevCount": 11851,
+  "phevCount": 917,
+  "hevCount": 39307,
+  "ceroPercentage": 6.6,
+  "ecoPercentage": 20.2,
+  "bevPercentage": 6.1,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 4106,
+      "cero": 149,
+      "eco": 773,
+      "bev": 139,
+      "phev": 10,
+      "hev": 773,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-02",
+      "total": 4423,
+      "cero": 155,
+      "eco": 736,
+      "bev": 153,
+      "phev": 2,
+      "hev": 736,
+      "topBrand": "HONDA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-03",
+      "total": 5238,
+      "cero": 190,
+      "eco": 982,
+      "bev": 172,
+      "phev": 18,
+      "hev": 982,
+      "topBrand": "HONDA",
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2024-04",
+      "total": 5476,
+      "cero": 181,
+      "eco": 930,
+      "bev": 174,
+      "phev": 7,
+      "hev": 930,
+      "topBrand": "HONDA",
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2024-05",
+      "total": 5818,
+      "cero": 229,
+      "eco": 999,
+      "bev": 222,
+      "phev": 7,
+      "hev": 999,
+      "topBrand": "HONDA",
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2024-06",
+      "total": 5675,
+      "cero": 248,
+      "eco": 1031,
+      "bev": 242,
+      "phev": 6,
+      "hev": 1031,
+      "topBrand": "HONDA",
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2024-07",
+      "total": 5597,
+      "cero": 177,
+      "eco": 985,
+      "bev": 171,
+      "phev": 6,
+      "hev": 985,
+      "topBrand": "HONDA",
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2024-08",
+      "total": 4204,
+      "cero": 141,
+      "eco": 692,
+      "bev": 135,
+      "phev": 6,
+      "hev": 692,
+      "topBrand": "HONDA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-09",
+      "total": 4714,
+      "cero": 289,
+      "eco": 782,
+      "bev": 287,
+      "phev": 2,
+      "hev": 782,
+      "topBrand": "HONDA",
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2024-10",
+      "total": 5165,
+      "cero": 244,
+      "eco": 997,
+      "bev": 238,
+      "phev": 6,
+      "hev": 997,
+      "topBrand": "HONDA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-11",
+      "total": 4394,
+      "cero": 218,
+      "eco": 926,
+      "bev": 215,
+      "phev": 3,
+      "hev": 926,
+      "topBrand": "HONDA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-12",
+      "total": 4962,
+      "cero": 319,
+      "eco": 1054,
+      "bev": 315,
+      "phev": 4,
+      "hev": 1054,
+      "topBrand": "TOYOTA",
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2025-01",
+      "total": 4517,
+      "cero": 204,
+      "eco": 1045,
+      "bev": 201,
+      "phev": 3,
+      "hev": 1045,
+      "topBrand": "HONDA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-02",
+      "total": 4881,
+      "cero": 250,
+      "eco": 1093,
+      "bev": 236,
+      "phev": 14,
+      "hev": 1093,
+      "topBrand": "HONDA",
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2025-03",
+      "total": 5931,
+      "cero": 460,
+      "eco": 1385,
+      "bev": 450,
+      "phev": 10,
+      "hev": 1385,
+      "topBrand": "HONDA",
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2025-04",
+      "total": 5427,
+      "cero": 353,
+      "eco": 1092,
+      "bev": 342,
+      "phev": 11,
+      "hev": 1091,
+      "topBrand": "HONDA",
+      "topModel": "NUEVO CITROËN C3 TURBO"
+    },
+    {
+      "period": "2025-05",
+      "total": 6559,
+      "cero": 418,
+      "eco": 1275,
+      "bev": 397,
+      "phev": 21,
+      "hev": 1275,
+      "topBrand": "HONDA",
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2025-06",
+      "total": 6977,
+      "cero": 469,
+      "eco": 1428,
+      "bev": 444,
+      "phev": 25,
+      "hev": 1428,
+      "topBrand": "HONDA",
+      "topModel": "ARONA"
+    },
+    {
+      "period": "2025-07",
+      "total": 7013,
+      "cero": 381,
+      "eco": 1340,
+      "bev": 334,
+      "phev": 47,
+      "hev": 1340,
+      "topBrand": "HONDA",
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2025-08",
+      "total": 4561,
+      "cero": 334,
+      "eco": 840,
+      "bev": 302,
+      "phev": 32,
+      "hev": 840,
+      "topBrand": "HONDA",
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2025-09",
+      "total": 5887,
+      "cero": 459,
+      "eco": 1098,
+      "bev": 404,
+      "phev": 55,
+      "hev": 1098,
+      "topBrand": "HONDA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-10",
+      "total": 6264,
+      "cero": 509,
+      "eco": 1232,
+      "bev": 454,
+      "phev": 55,
+      "hev": 1232,
+      "topBrand": "HONDA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-11",
+      "total": 5689,
+      "cero": 417,
+      "eco": 1230,
+      "bev": 375,
+      "phev": 42,
+      "hev": 1230,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-12",
+      "total": 5789,
+      "cero": 693,
+      "eco": 1313,
+      "bev": 646,
+      "phev": 47,
+      "hev": 1313,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "BYD SEAL"
+    },
+    {
+      "period": "2026-01",
+      "total": 4853,
+      "cero": 289,
+      "eco": 1079,
+      "bev": 269,
+      "phev": 20,
+      "hev": 1079,
+      "topBrand": "HONDA",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2026-02",
+      "total": 5855,
+      "cero": 444,
+      "eco": 1468,
+      "bev": 392,
+      "phev": 52,
+      "hev": 1467,
+      "topBrand": "HONDA",
+      "topModel": "T-CROSS"
+    },
+    {
+      "period": "2026-03",
+      "total": 7581,
+      "cero": 513,
+      "eco": 1762,
+      "bev": 454,
+      "phev": 59,
+      "hev": 1762,
+      "topBrand": "HONDA",
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2026-04",
+      "total": 6557,
+      "cero": 444,
+      "eco": 1602,
+      "bev": 391,
+      "phev": 53,
+      "hev": 1601,
+      "topBrand": "HONDA",
+      "topModel": "PUMA"
+    },
+    {
+      "period": "2026-05",
+      "total": 6831,
+      "cero": 550,
+      "eco": 1546,
+      "bev": 514,
+      "phev": 36,
+      "hev": 1546,
+      "topBrand": "HONDA",
+      "topModel": "TOYOTA YARIS"
+    },
+    {
+      "period": "2026-06",
+      "total": 7721,
+      "cero": 655,
+      "eco": 1625,
+      "bev": 613,
+      "phev": 42,
+      "hev": 1625,
+      "topBrand": "HONDA",
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2026-07",
+      "total": 7013,
+      "cero": 508,
+      "eco": 1313,
+      "bev": 456,
+      "phev": 52,
+      "hev": 1313,
+      "topBrand": "HONDA",
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2026-08",
+      "total": 5129,
+      "cero": 411,
+      "eco": 1051,
+      "bev": 374,
+      "phev": 37,
+      "hev": 1051,
+      "topBrand": "HONDA",
+      "topModel": "125X"
+    },
+    {
+      "period": "2026-09",
+      "total": 6758,
+      "cero": 784,
+      "eco": 1278,
+      "bev": 714,
+      "phev": 70,
+      "hev": 1278,
+      "topBrand": "HONDA",
+      "topModel": "125V"
+    },
+    {
+      "period": "2026-10",
+      "total": 6630,
+      "cero": 683,
+      "eco": 1328,
+      "bev": 626,
+      "phev": 57,
+      "hev": 1328,
+      "topBrand": "HONDA",
+      "topModel": "125X"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "HONDA",
+      "slug": "honda",
+      "timesLeader": 30
+    },
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 2
+    },
+    {
+      "brand": "MERCEDES-BENZ",
+      "slug": "mercedes-benz",
+      "timesLeader": 1
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "timesLeader": 1
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "SANDERO",
+      "timesLeader": 9
+    },
+    {
+      "model": "SH125AD",
+      "timesLeader": 4
+    },
+    {
+      "model": "IBIZA",
+      "timesLeader": 4
+    },
+    {
+      "model": "CLIO",
+      "timesLeader": 3
+    },
+    {
+      "model": "MODEL 3",
+      "timesLeader": 3
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "brand": "LEAPMOTOR",
+  "slug": "leapmotor",
+  "total": 3404,
+  "percentage": 0.06,
+  "eco0Percentage": 82.6,
+  "avgKw": 131,
+  "monthlyEvolution": [
+    {
+      "period": "2026-09",
+      "total": 1705,
+      "eco0Count": 1412,
+      "avgKw": 132,
+      "avgCo2": 48,
+      "topModel": "B10"
+    },
+    {
+      "period": "2026-10",
+      "total": 1699,
+      "eco0Count": 1401,
+      "avgKw": 129,
+      "avgCo2": 49,
+      "topModel": "B10"
+    }
+  ],
+  "models": [],
+  "leadProvinces": []
+}

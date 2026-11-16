@@ -1,0 +1,444 @@
+{
+  "code": "01",
+  "name": "Álava / Araba",
+  "slug": "alava",
+  "community": "País Vasco",
+  "population": 334412,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 24721,
+  "percentageOfSpain": 0.46,
+  "per1000Habitantes": 73.92,
+  "ceroCount": 2475,
+  "ecoCount": 7203,
+  "bevCount": 2111,
+  "phevCount": 364,
+  "hevCount": 7201,
+  "ceroPercentage": 10,
+  "ecoPercentage": 29.1,
+  "bevPercentage": 8.5,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 532,
+      "cero": 26,
+      "eco": 135,
+      "bev": 24,
+      "phev": 2,
+      "hev": 135,
+      "topBrand": "TOYOTA",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-02",
+      "total": 486,
+      "cero": 19,
+      "eco": 144,
+      "bev": 19,
+      "phev": 0,
+      "hev": 144,
+      "topBrand": "HYUNDAI",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-03",
+      "total": 575,
+      "cero": 31,
+      "eco": 148,
+      "bev": 24,
+      "phev": 7,
+      "hev": 148,
+      "topBrand": "PEUGEOT",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-04",
+      "total": 574,
+      "cero": 27,
+      "eco": 145,
+      "bev": 27,
+      "phev": 0,
+      "hev": 145,
+      "topBrand": "PEUGEOT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-05",
+      "total": 685,
+      "cero": 25,
+      "eco": 149,
+      "bev": 24,
+      "phev": 1,
+      "hev": 149,
+      "topBrand": "RENAULT",
+      "topModel": "NUEVO BERLINGOÁTALLA M"
+    },
+    {
+      "period": "2024-06",
+      "total": 681,
+      "cero": 30,
+      "eco": 198,
+      "bev": 30,
+      "phev": 0,
+      "hev": 198,
+      "topBrand": "RENAULT",
+      "topModel": "AUSTRAL"
+    },
+    {
+      "period": "2024-07",
+      "total": 709,
+      "cero": 36,
+      "eco": 192,
+      "bev": 35,
+      "phev": 1,
+      "hev": 192,
+      "topBrand": "PEUGEOT",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-08",
+      "total": 420,
+      "cero": 23,
+      "eco": 146,
+      "bev": 23,
+      "phev": 0,
+      "hev": 146,
+      "topBrand": "HYUNDAI",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-09",
+      "total": 623,
+      "cero": 38,
+      "eco": 192,
+      "bev": 36,
+      "phev": 2,
+      "hev": 192,
+      "topBrand": "RENAULT",
+      "topModel": "AUSTRAL"
+    },
+    {
+      "period": "2024-10",
+      "total": 782,
+      "cero": 36,
+      "eco": 317,
+      "bev": 35,
+      "phev": 1,
+      "hev": 317,
+      "topBrand": "RENAULT",
+      "topModel": "AUSTRAL"
+    },
+    {
+      "period": "2024-11",
+      "total": 684,
+      "cero": 48,
+      "eco": 219,
+      "bev": 48,
+      "phev": 0,
+      "hev": 219,
+      "topBrand": "RENAULT",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-12",
+      "total": 744,
+      "cero": 41,
+      "eco": 231,
+      "bev": 40,
+      "phev": 1,
+      "hev": 230,
+      "topBrand": "HYUNDAI",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-01",
+      "total": 602,
+      "cero": 41,
+      "eco": 177,
+      "bev": 38,
+      "phev": 3,
+      "hev": 177,
+      "topBrand": "PEUGEOT",
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2025-02",
+      "total": 612,
+      "cero": 32,
+      "eco": 215,
+      "bev": 24,
+      "phev": 8,
+      "hev": 215,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA RAV4"
+    },
+    {
+      "period": "2025-03",
+      "total": 764,
+      "cero": 57,
+      "eco": 243,
+      "bev": 50,
+      "phev": 7,
+      "hev": 243,
+      "topBrand": "HYUNDAI",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-04",
+      "total": 676,
+      "cero": 74,
+      "eco": 224,
+      "bev": 62,
+      "phev": 12,
+      "hev": 224,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-05",
+      "total": 796,
+      "cero": 63,
+      "eco": 206,
+      "bev": 52,
+      "phev": 11,
+      "hev": 206,
+      "topBrand": "TOYOTA",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-06",
+      "total": 832,
+      "cero": 86,
+      "eco": 235,
+      "bev": 69,
+      "phev": 17,
+      "hev": 235,
+      "topBrand": "PEUGEOT",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-07",
+      "total": 955,
+      "cero": 162,
+      "eco": 241,
+      "bev": 145,
+      "phev": 17,
+      "hev": 241,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-08",
+      "total": 523,
+      "cero": 64,
+      "eco": 140,
+      "bev": 47,
+      "phev": 17,
+      "hev": 140,
+      "topBrand": "RENAULT",
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2025-09",
+      "total": 782,
+      "cero": 100,
+      "eco": 217,
+      "bev": 80,
+      "phev": 20,
+      "hev": 217,
+      "topBrand": "PEUGEOT",
+      "topModel": "CORSA EDITION 1.2T XHL"
+    },
+    {
+      "period": "2025-10",
+      "total": 948,
+      "cero": 90,
+      "eco": 280,
+      "bev": 67,
+      "phev": 23,
+      "hev": 280,
+      "topBrand": "PEUGEOT",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-11",
+      "total": 786,
+      "cero": 101,
+      "eco": 223,
+      "bev": 78,
+      "phev": 23,
+      "hev": 223,
+      "topBrand": "DACIA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-12",
+      "total": 760,
+      "cero": 108,
+      "eco": 284,
+      "bev": 81,
+      "phev": 27,
+      "hev": 284,
+      "topBrand": "HYUNDAI",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2026-01",
+      "total": 683,
+      "cero": 68,
+      "eco": 184,
+      "bev": 50,
+      "phev": 18,
+      "hev": 184,
+      "topBrand": "TOYOTA",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2026-02",
+      "total": 715,
+      "cero": 85,
+      "eco": 227,
+      "bev": 72,
+      "phev": 13,
+      "hev": 227,
+      "topBrand": "CITROEN",
+      "topModel": "NUEVO C4 HYBRID 145 Ë-"
+    },
+    {
+      "period": "2026-03",
+      "total": 788,
+      "cero": 107,
+      "eco": 236,
+      "bev": 86,
+      "phev": 21,
+      "hev": 236,
+      "topBrand": "TOYOTA",
+      "topModel": "NUEVO C4 HYBRID 145 Ë-"
+    },
+    {
+      "period": "2026-04",
+      "total": 758,
+      "cero": 75,
+      "eco": 228,
+      "bev": 61,
+      "phev": 14,
+      "hev": 228,
+      "topBrand": "CITROEN",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2026-05",
+      "total": 929,
+      "cero": 114,
+      "eco": 269,
+      "bev": 93,
+      "phev": 21,
+      "hev": 269,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2026-06",
+      "total": 1093,
+      "cero": 151,
+      "eco": 279,
+      "bev": 138,
+      "phev": 13,
+      "hev": 279,
+      "topBrand": "CITROEN",
+      "topModel": "BERLINGOáTALLA M BLUEH"
+    },
+    {
+      "period": "2026-07",
+      "total": 1010,
+      "cero": 112,
+      "eco": 269,
+      "bev": 91,
+      "phev": 21,
+      "hev": 268,
+      "topBrand": "CITROEN",
+      "topModel": "BERLINGOáTALLA M BLUEH"
+    },
+    {
+      "period": "2026-08",
+      "total": 479,
+      "cero": 68,
+      "eco": 151,
+      "bev": 59,
+      "phev": 9,
+      "hev": 151,
+      "topBrand": "TOYOTA",
+      "topModel": "125X"
+    },
+    {
+      "period": "2026-09",
+      "total": 885,
+      "cero": 174,
+      "eco": 242,
+      "bev": 156,
+      "phev": 18,
+      "hev": 242,
+      "topBrand": "TOYOTA",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2026-10",
+      "total": 850,
+      "cero": 163,
+      "eco": 217,
+      "bev": 147,
+      "phev": 16,
+      "hev": 217,
+      "topBrand": "TOYOTA",
+      "topModel": "125X"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 10
+    },
+    {
+      "brand": "PEUGEOT",
+      "slug": "peugeot",
+      "timesLeader": 7
+    },
+    {
+      "brand": "RENAULT",
+      "slug": "renault",
+      "timesLeader": 7
+    },
+    {
+      "brand": "HYUNDAI",
+      "slug": "hyundai",
+      "timesLeader": 5
+    },
+    {
+      "brand": "CITROEN",
+      "slug": "citroen",
+      "timesLeader": 4
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "TUCSON",
+      "timesLeader": 12
+    },
+    {
+      "model": "SANDERO",
+      "timesLeader": 5
+    },
+    {
+      "model": "AUSTRAL",
+      "timesLeader": 3
+    },
+    {
+      "model": "DESCONOCIDO",
+      "timesLeader": 2
+    },
+    {
+      "model": "NUEVO C4 HYBRID 145 Ë-",
+      "timesLeader": 2
+    }
+  ]
+}

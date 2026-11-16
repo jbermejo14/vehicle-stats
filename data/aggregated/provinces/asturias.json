@@ -1,0 +1,444 @@
+{
+  "code": "33",
+  "name": "Asturias",
+  "slug": "asturias",
+  "community": "Principado de Asturias",
+  "population": 1006060,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 72479,
+  "percentageOfSpain": 1.34,
+  "per1000Habitantes": 72.04,
+  "ceroCount": 5529,
+  "ecoCount": 19274,
+  "bevCount": 4933,
+  "phevCount": 596,
+  "hevCount": 19272,
+  "ceroPercentage": 7.6,
+  "ecoPercentage": 26.6,
+  "bevPercentage": 6.8,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 1383,
+      "cero": 55,
+      "eco": 369,
+      "bev": 54,
+      "phev": 1,
+      "hev": 369,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-02",
+      "total": 1457,
+      "cero": 48,
+      "eco": 337,
+      "bev": 43,
+      "phev": 5,
+      "hev": 337,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-03",
+      "total": 1571,
+      "cero": 47,
+      "eco": 392,
+      "bev": 46,
+      "phev": 1,
+      "hev": 392,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2024-04",
+      "total": 1719,
+      "cero": 65,
+      "eco": 370,
+      "bev": 60,
+      "phev": 5,
+      "hev": 370,
+      "topBrand": "DACIA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-05",
+      "total": 1888,
+      "cero": 49,
+      "eco": 437,
+      "bev": 45,
+      "phev": 4,
+      "hev": 437,
+      "topBrand": "RENAULT",
+      "topModel": "AUSTRAL"
+    },
+    {
+      "period": "2024-06",
+      "total": 2064,
+      "cero": 66,
+      "eco": 487,
+      "bev": 63,
+      "phev": 3,
+      "hev": 487,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "CADDY"
+    },
+    {
+      "period": "2024-07",
+      "total": 1902,
+      "cero": 44,
+      "eco": 626,
+      "bev": 42,
+      "phev": 2,
+      "hev": 626,
+      "topBrand": "HYUNDAI",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-08",
+      "total": 2102,
+      "cero": 46,
+      "eco": 509,
+      "bev": 42,
+      "phev": 4,
+      "hev": 509,
+      "topBrand": "HYUNDAI",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-09",
+      "total": 2099,
+      "cero": 67,
+      "eco": 643,
+      "bev": 67,
+      "phev": 0,
+      "hev": 643,
+      "topBrand": "RENAULT",
+      "topModel": "AUSTRAL"
+    },
+    {
+      "period": "2024-10",
+      "total": 2085,
+      "cero": 74,
+      "eco": 517,
+      "bev": 73,
+      "phev": 1,
+      "hev": 517,
+      "topBrand": "SKODA",
+      "topModel": "KAROQ"
+    },
+    {
+      "period": "2024-11",
+      "total": 1953,
+      "cero": 84,
+      "eco": 504,
+      "bev": 83,
+      "phev": 1,
+      "hev": 504,
+      "topBrand": "SKODA",
+      "topModel": "KAROQ"
+    },
+    {
+      "period": "2024-12",
+      "total": 1945,
+      "cero": 137,
+      "eco": 637,
+      "bev": 136,
+      "phev": 1,
+      "hev": 637,
+      "topBrand": "RENAULT",
+      "topModel": "AUSTRAL"
+    },
+    {
+      "period": "2025-01",
+      "total": 1720,
+      "cero": 91,
+      "eco": 464,
+      "bev": 89,
+      "phev": 2,
+      "hev": 464,
+      "topBrand": "HYUNDAI",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-02",
+      "total": 1738,
+      "cero": 91,
+      "eco": 511,
+      "bev": 83,
+      "phev": 8,
+      "hev": 511,
+      "topBrand": "RENAULT",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-03",
+      "total": 1761,
+      "cero": 96,
+      "eco": 557,
+      "bev": 80,
+      "phev": 16,
+      "hev": 557,
+      "topBrand": "HYUNDAI",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-04",
+      "total": 1670,
+      "cero": 107,
+      "eco": 478,
+      "bev": 100,
+      "phev": 7,
+      "hev": 478,
+      "topBrand": "RENAULT",
+      "topModel": "AUSTRAL"
+    },
+    {
+      "period": "2025-05",
+      "total": 1858,
+      "cero": 119,
+      "eco": 429,
+      "bev": 101,
+      "phev": 18,
+      "hev": 429,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-06",
+      "total": 2237,
+      "cero": 170,
+      "eco": 697,
+      "bev": 159,
+      "phev": 11,
+      "hev": 696,
+      "topBrand": "HYUNDAI",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-07",
+      "total": 2598,
+      "cero": 159,
+      "eco": 607,
+      "bev": 129,
+      "phev": 30,
+      "hev": 607,
+      "topBrand": "HYUNDAI",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-08",
+      "total": 2562,
+      "cero": 230,
+      "eco": 646,
+      "bev": 182,
+      "phev": 48,
+      "hev": 646,
+      "topBrand": "HYUNDAI",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-09",
+      "total": 2403,
+      "cero": 211,
+      "eco": 562,
+      "bev": 177,
+      "phev": 34,
+      "hev": 562,
+      "topBrand": "HYUNDAI",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-10",
+      "total": 2559,
+      "cero": 278,
+      "eco": 560,
+      "bev": 197,
+      "phev": 81,
+      "hev": 560,
+      "topBrand": "SKODA",
+      "topModel": "CADDY"
+    },
+    {
+      "period": "2025-11",
+      "total": 2282,
+      "cero": 203,
+      "eco": 681,
+      "bev": 172,
+      "phev": 31,
+      "hev": 681,
+      "topBrand": "AUDI",
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2025-12",
+      "total": 2296,
+      "cero": 260,
+      "eco": 609,
+      "bev": 224,
+      "phev": 36,
+      "hev": 609,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2026-01",
+      "total": 1666,
+      "cero": 115,
+      "eco": 499,
+      "bev": 101,
+      "phev": 14,
+      "hev": 499,
+      "topBrand": "TOYOTA",
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2026-02",
+      "total": 1948,
+      "cero": 144,
+      "eco": 520,
+      "bev": 125,
+      "phev": 19,
+      "hev": 520,
+      "topBrand": "SKODA",
+      "topModel": "KAROQ"
+    },
+    {
+      "period": "2026-03",
+      "total": 2533,
+      "cero": 247,
+      "eco": 657,
+      "bev": 223,
+      "phev": 24,
+      "hev": 657,
+      "topBrand": "SKODA",
+      "topModel": "KAROQ"
+    },
+    {
+      "period": "2026-04",
+      "total": 2061,
+      "cero": 227,
+      "eco": 510,
+      "bev": 210,
+      "phev": 17,
+      "hev": 510,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-05",
+      "total": 2390,
+      "cero": 221,
+      "eco": 745,
+      "bev": 208,
+      "phev": 13,
+      "hev": 744,
+      "topBrand": "HYUNDAI",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2026-06",
+      "total": 2842,
+      "cero": 302,
+      "eco": 751,
+      "bev": 281,
+      "phev": 21,
+      "hev": 751,
+      "topBrand": "HYUNDAI",
+      "topModel": "A1 SPORTBACK"
+    },
+    {
+      "period": "2026-07",
+      "total": 2501,
+      "cero": 236,
+      "eco": 593,
+      "bev": 205,
+      "phev": 31,
+      "hev": 593,
+      "topBrand": "HYUNDAI",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2026-08",
+      "total": 3248,
+      "cero": 354,
+      "eco": 1022,
+      "bev": 313,
+      "phev": 41,
+      "hev": 1022,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2026-09",
+      "total": 2693,
+      "cero": 428,
+      "eco": 683,
+      "bev": 395,
+      "phev": 33,
+      "hev": 683,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "A1 SPORTBACK"
+    },
+    {
+      "period": "2026-10",
+      "total": 2745,
+      "cero": 458,
+      "eco": 665,
+      "bev": 425,
+      "phev": 33,
+      "hev": 665,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "HYUNDAI",
+      "slug": "hyundai",
+      "timesLeader": 11
+    },
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 5
+    },
+    {
+      "brand": "RENAULT",
+      "slug": "renault",
+      "timesLeader": 5
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "timesLeader": 5
+    },
+    {
+      "brand": "SKODA",
+      "slug": "skoda",
+      "timesLeader": 5
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "TUCSON",
+      "timesLeader": 12
+    },
+    {
+      "model": "SANDERO",
+      "timesLeader": 5
+    },
+    {
+      "model": "AUSTRAL",
+      "timesLeader": 4
+    },
+    {
+      "model": "KAROQ",
+      "timesLeader": 4
+    },
+    {
+      "model": "CADDY",
+      "timesLeader": 2
+    }
+  ]
+}

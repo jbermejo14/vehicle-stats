@@ -1,0 +1,81 @@
+{
+  "brand": "RENAULT",
+  "brandSlug": "renault",
+  "model": "SYMBIOZ",
+  "modelSlug": "symbioz",
+  "fullName": "RENAULT SYMBIOZ",
+  "total": 8298,
+  "percentage": 0.15,
+  "category": "Turismo",
+  "primaryFuel": "Híbrido (HEV)",
+  "primaryBadge": "ECO",
+  "avgKw": 84,
+  "avgCv": 115,
+  "avgCo2": 109,
+  "evolution": [
+    {
+      "period": "2025-03",
+      "total": 1087,
+      "avgKw": 69,
+      "avgCv": 94,
+      "avgCo2": 105,
+      "avgTara": 1498
+    },
+    {
+      "period": "2026-03",
+      "total": 1122,
+      "avgKw": 83,
+      "avgCv": 113,
+      "avgCo2": 105,
+      "avgTara": 1451
+    },
+    {
+      "period": "2026-04",
+      "total": 955,
+      "avgKw": 86,
+      "avgCv": 117,
+      "avgCo2": 109,
+      "avgTara": 1438
+    },
+    {
+      "period": "2026-05",
+      "total": 1099,
+      "avgKw": 87,
+      "avgCv": 119,
+      "avgCo2": 111,
+      "avgTara": 1433
+    },
+    {
+      "period": "2026-06",
+      "total": 1353,
+      "avgKw": 87,
+      "avgCv": 118,
+      "avgCo2": 110,
+      "avgTara": 1434
+    },
+    {
+      "period": "2026-08",
+      "total": 531,
+      "avgKw": 88,
+      "avgCv": 119,
+      "avgCo2": 112,
+      "avgTara": 1427
+    },
+    {
+      "period": "2026-09",
+      "total": 1170,
+      "avgKw": 89,
+      "avgCv": 121,
+      "avgCo2": 113,
+      "avgTara": 1422
+    },
+    {
+      "period": "2026-10",
+      "total": 981,
+      "avgKw": 87,
+      "avgCv": 118,
+      "avgCo2": 112,
+      "avgTara": 1426
+    }
+  ]
+}

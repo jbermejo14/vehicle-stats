@@ -1,6 +1,32 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+@theme {
+  --color-background: #050505;
+  --color-surface: #0A0A0C;
+  --color-card: #111115;
+  --color-card-hover: #16161C;
+  --color-border: #1F1F26;
+  --color-border-bright: #2E2E38;
+  --color-accent: #FF5500;
+  --color-accent-hover: #FF6B00;
+  --color-accent-amber: #FF9E00;
+  --color-accent-coral: #FF2A00;
+  --color-telemetry-green: #00E599;
+  --color-telemetry-cyan: #00E5FF;
+  --color-telemetry-blue: #3B82F6;
+  --color-telemetry-yellow: #EAB308;
+  --color-telemetry-purple: #A855F7;
+  --color-telemetry-white: #F4F4F6;
+  --color-telemetry-gray: #52525B;
+  --color-telemetry-darkGray: #27272A;
+  --font-sans: var(--font-inter), sans-serif;
+  --font-mono: var(--font-mono), monospace;
+  --shadow-glow: 0 0 20px rgba(255, 85, 0, 0.25);
+  --shadow-glow-lg: 0 0 35px rgba(255, 85, 0, 0.4);
+  --shadow-glow-amber: 0 0 20px rgba(255, 158, 0, 0.25);
+  --shadow-glow-green: 0 0 20px rgba(0, 229, 153, 0.25);
+  --shadow-glow-cyan: 0 0 20px rgba(0, 229, 255, 0.25);
+}
 
 :root {
   --background: #050505;
@@ -39,17 +65,4 @@ body {
 
 ::-webkit-scrollbar-thumb:hover {
   background: #FF5500;
-}
-
-/* Subtle Glow Effects */
-.shadow-glow {
-  box-shadow: 0 0 20px rgba(255, 85, 0, 0.25);
-}
-
-.shadow-glow-cyan {
-  box-shadow: 0 0 20px rgba(0, 229, 255, 0.25);
-}
-
-.shadow-glow-green {
-  box-shadow: 0 0 20px rgba(0, 229, 153, 0.25);
 }

@@ -1,0 +1,25 @@
+{
+  "brand": "CUPRA",
+  "brandSlug": "cupra",
+  "model": "CUPRA LEON",
+  "modelSlug": "cupra-leon",
+  "fullName": "CUPRA CUPRA LEON",
+  "total": 937,
+  "percentage": 0.02,
+  "category": "Turismo",
+  "primaryFuel": "Híbrido (HEV)",
+  "primaryBadge": "ECO",
+  "avgKw": 114,
+  "avgCv": 155,
+  "avgCo2": 138,
+  "evolution": [
+    {
+      "period": "2024-06",
+      "total": 937,
+      "avgKw": 114,
+      "avgCv": 155,
+      "avgCo2": 138,
+      "avgTara": 1404
+    }
+  ]
+}

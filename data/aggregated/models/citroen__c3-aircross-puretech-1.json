@@ -1,0 +1,33 @@
+{
+  "brand": "CITROEN",
+  "brandSlug": "citroen",
+  "model": "C3 AIRCROSS PURETECH 1",
+  "modelSlug": "c3-aircross-puretech-1",
+  "fullName": "CITROEN C3 AIRCROSS PURETECH 1",
+  "total": 2157,
+  "percentage": 0.04,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 81,
+  "avgCv": 110,
+  "avgCo2": 134,
+  "evolution": [
+    {
+      "period": "2024-02",
+      "total": 1001,
+      "avgKw": 82,
+      "avgCv": 111,
+      "avgCo2": 134,
+      "avgTara": 1292
+    },
+    {
+      "period": "2024-03",
+      "total": 1156,
+      "avgKw": 81,
+      "avgCv": 110,
+      "avgCo2": 134,
+      "avgTara": 1291
+    }
+  ]
+}

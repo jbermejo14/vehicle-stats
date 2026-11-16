@@ -1,0 +1,355 @@
+{
+  "brand": "BMW",
+  "slug": "bmw",
+  "total": 227110,
+  "percentage": 4.2,
+  "eco0Percentage": 39.3,
+  "avgKw": 130,
+  "monthlyEvolution": [
+    {
+      "period": "2024-01",
+      "total": 5476,
+      "eco0Count": 1668,
+      "avgKw": 130,
+      "avgCo2": 129,
+      "topModel": "X1 SDRIVE18D"
+    },
+    {
+      "period": "2024-02",
+      "total": 5601,
+      "eco0Count": 1660,
+      "avgKw": 133,
+      "avgCo2": 131,
+      "topModel": "118D"
+    },
+    {
+      "period": "2024-03",
+      "total": 6596,
+      "eco0Count": 1951,
+      "avgKw": 128,
+      "avgCo2": 131,
+      "topModel": "X1 SDRIVE18D"
+    },
+    {
+      "period": "2024-04",
+      "total": 6396,
+      "eco0Count": 1952,
+      "avgKw": 127,
+      "avgCo2": 132,
+      "topModel": "X1 SDRIVE18D"
+    },
+    {
+      "period": "2024-05",
+      "total": 6905,
+      "eco0Count": 2093,
+      "avgKw": 124,
+      "avgCo2": 131,
+      "topModel": "X1 SDRIVE18D"
+    },
+    {
+      "period": "2024-06",
+      "total": 7284,
+      "eco0Count": 2245,
+      "avgKw": 126,
+      "avgCo2": 128,
+      "topModel": "X1 SDRIVE18D"
+    },
+    {
+      "period": "2024-07",
+      "total": 5733,
+      "eco0Count": 1793,
+      "avgKw": 126,
+      "avgCo2": 132,
+      "topModel": "X1 SDRIVE18D"
+    },
+    {
+      "period": "2024-08",
+      "total": 4529,
+      "eco0Count": 1447,
+      "avgKw": 128,
+      "avgCo2": 131,
+      "topModel": "X1 SDRIVE18D"
+    },
+    {
+      "period": "2024-09",
+      "total": 6364,
+      "eco0Count": 2227,
+      "avgKw": 127,
+      "avgCo2": 129,
+      "topModel": "X2 SDRIVE18D"
+    },
+    {
+      "period": "2024-10",
+      "total": 6303,
+      "eco0Count": 2300,
+      "avgKw": 130,
+      "avgCo2": 132,
+      "topModel": "X1 SDRIVE18D"
+    },
+    {
+      "period": "2024-11",
+      "total": 6679,
+      "eco0Count": 2809,
+      "avgKw": 126,
+      "avgCo2": 129,
+      "topModel": "X1 SDRIVE18D"
+    },
+    {
+      "period": "2024-12",
+      "total": 8113,
+      "eco0Count": 3623,
+      "avgKw": 126,
+      "avgCo2": 123,
+      "topModel": "X1 SDRIVE20D"
+    },
+    {
+      "period": "2025-01",
+      "total": 4776,
+      "eco0Count": 1667,
+      "avgKw": 130,
+      "avgCo2": 127,
+      "topModel": "X1 SDRIVE18D"
+    },
+    {
+      "period": "2025-02",
+      "total": 5654,
+      "eco0Count": 2104,
+      "avgKw": 129,
+      "avgCo2": 127,
+      "topModel": "120D"
+    },
+    {
+      "period": "2025-03",
+      "total": 7536,
+      "eco0Count": 3002,
+      "avgKw": 125,
+      "avgCo2": 124,
+      "topModel": "120D"
+    },
+    {
+      "period": "2025-04",
+      "total": 6555,
+      "eco0Count": 2950,
+      "avgKw": 131,
+      "avgCo2": 129,
+      "topModel": "X1 SDRIVE20D"
+    },
+    {
+      "period": "2025-05",
+      "total": 8129,
+      "eco0Count": 3488,
+      "avgKw": 129,
+      "avgCo2": 121,
+      "topModel": "X1 XDRIVE25E"
+    },
+    {
+      "period": "2025-06",
+      "total": 8390,
+      "eco0Count": 3659,
+      "avgKw": 127,
+      "avgCo2": 122,
+      "topModel": "X1 SDRIVE20D"
+    },
+    {
+      "period": "2025-07",
+      "total": 6950,
+      "eco0Count": 2742,
+      "avgKw": 132,
+      "avgCo2": 123,
+      "topModel": "X1 SDRIVE20D"
+    },
+    {
+      "period": "2025-08",
+      "total": 4598,
+      "eco0Count": 1742,
+      "avgKw": 130,
+      "avgCo2": 126,
+      "topModel": "X1 SDRIVE20D"
+    },
+    {
+      "period": "2025-09",
+      "total": 6413,
+      "eco0Count": 2489,
+      "avgKw": 128,
+      "avgCo2": 124,
+      "topModel": "X3 20D XDRIVE"
+    },
+    {
+      "period": "2025-10",
+      "total": 7484,
+      "eco0Count": 3247,
+      "avgKw": 132,
+      "avgCo2": 125,
+      "topModel": "X1 SDRIVE20D"
+    },
+    {
+      "period": "2025-11",
+      "total": 6905,
+      "eco0Count": 3086,
+      "avgKw": 130,
+      "avgCo2": 125,
+      "topModel": "X1 SDRIVE20D"
+    },
+    {
+      "period": "2025-12",
+      "total": 7185,
+      "eco0Count": 3243,
+      "avgKw": 130,
+      "avgCo2": 125,
+      "topModel": "X1 SDRIVE20D"
+    },
+    {
+      "period": "2026-01",
+      "total": 5427,
+      "eco0Count": 2279,
+      "avgKw": 132,
+      "avgCo2": 128,
+      "topModel": "X1 SDRIVE20D"
+    },
+    {
+      "period": "2026-02",
+      "total": 6327,
+      "eco0Count": 2601,
+      "avgKw": 134,
+      "avgCo2": 124,
+      "topModel": "X3 30E XDRIVE"
+    },
+    {
+      "period": "2026-03",
+      "total": 8512,
+      "eco0Count": 3564,
+      "avgKw": 131,
+      "avgCo2": 123,
+      "topModel": "X2 SDRIVE20D"
+    },
+    {
+      "period": "2026-04",
+      "total": 6860,
+      "eco0Count": 2865,
+      "avgKw": 134,
+      "avgCo2": 125,
+      "topModel": "X1 SDRIVE20D"
+    },
+    {
+      "period": "2026-05",
+      "total": 7342,
+      "eco0Count": 3026,
+      "avgKw": 130,
+      "avgCo2": 124,
+      "topModel": "X1 SDRIVE20D"
+    },
+    {
+      "period": "2026-06",
+      "total": 9665,
+      "eco0Count": 4514,
+      "avgKw": 132,
+      "avgCo2": 122,
+      "topModel": "X2 SDRIVE20D"
+    },
+    {
+      "period": "2026-07",
+      "total": 7555,
+      "eco0Count": 3330,
+      "avgKw": 136,
+      "avgCo2": 128,
+      "topModel": "X1 SDRIVE20D"
+    },
+    {
+      "period": "2026-08",
+      "total": 4803,
+      "eco0Count": 1999,
+      "avgKw": 138,
+      "avgCo2": 128,
+      "topModel": "X1 SDRIVE20D"
+    },
+    {
+      "period": "2026-09",
+      "total": 7008,
+      "eco0Count": 2546,
+      "avgKw": 131,
+      "avgCo2": 125,
+      "topModel": "X1 SDRIVE20D"
+    },
+    {
+      "period": "2026-10",
+      "total": 7057,
+      "eco0Count": 3364,
+      "avgKw": 139,
+      "avgCo2": 127,
+      "topModel": "X1 SDRIVE20D"
+    }
+  ],
+  "models": [],
+  "leadProvinces": [
+    {
+      "province": "00",
+      "slug": "00",
+      "monthsLeading": 6
+    },
+    {
+      "province": "Albacete",
+      "slug": "albacete",
+      "monthsLeading": 5
+    },
+    {
+      "province": "Pontevedra",
+      "slug": "pontevedra",
+      "monthsLeading": 5
+    },
+    {
+      "province": "León",
+      "slug": "leon",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Ourense",
+      "slug": "ourense",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Ávila",
+      "slug": "avila",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Palencia",
+      "slug": "palencia",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Zamora",
+      "slug": "zamora",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Valladolid",
+      "slug": "valladolid",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Almería",
+      "slug": "almeria",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Burgos",
+      "slug": "burgos",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Bizkaia",
+      "slug": "bizkaia",
+      "monthsLeading": 1
+    },
+    {
+      "province": "La Rioja",
+      "slug": "la-rioja",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Ciudad Real",
+      "slug": "ciudad-real",
+      "monthsLeading": 1
+    }
+  ]
+}

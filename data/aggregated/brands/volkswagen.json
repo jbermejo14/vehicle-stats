@@ -1,0 +1,601 @@
+{
+  "brand": "VOLKSWAGEN",
+  "slug": "volkswagen",
+  "total": 338544,
+  "percentage": 6.25,
+  "eco0Percentage": 13.4,
+  "avgKw": 99,
+  "monthlyEvolution": [
+    {
+      "period": "2024-01",
+      "total": 5922,
+      "eco0Count": 574,
+      "avgKw": 96,
+      "avgCo2": 140,
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2024-02",
+      "total": 8313,
+      "eco0Count": 420,
+      "avgKw": 94,
+      "avgCo2": 138,
+      "topModel": "T-CROSS"
+    },
+    {
+      "period": "2024-03",
+      "total": 8738,
+      "eco0Count": 696,
+      "avgKw": 94,
+      "avgCo2": 139,
+      "topModel": "T-CROSS"
+    },
+    {
+      "period": "2024-04",
+      "total": 10420,
+      "eco0Count": 705,
+      "avgKw": 96,
+      "avgCo2": 140,
+      "topModel": "T-ROC"
+    },
+    {
+      "period": "2024-05",
+      "total": 10233,
+      "eco0Count": 736,
+      "avgKw": 95,
+      "avgCo2": 142,
+      "topModel": "T-ROC"
+    },
+    {
+      "period": "2024-06",
+      "total": 11429,
+      "eco0Count": 952,
+      "avgKw": 94,
+      "avgCo2": 140,
+      "topModel": "T-ROC"
+    },
+    {
+      "period": "2024-07",
+      "total": 9416,
+      "eco0Count": 777,
+      "avgKw": 95,
+      "avgCo2": 140,
+      "topModel": "T-ROC"
+    },
+    {
+      "period": "2024-08",
+      "total": 5689,
+      "eco0Count": 396,
+      "avgKw": 97,
+      "avgCo2": 144,
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2024-09",
+      "total": 7624,
+      "eco0Count": 638,
+      "avgKw": 96,
+      "avgCo2": 142,
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2024-10",
+      "total": 9588,
+      "eco0Count": 633,
+      "avgKw": 95,
+      "avgCo2": 139,
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2024-11",
+      "total": 8250,
+      "eco0Count": 559,
+      "avgKw": 96,
+      "avgCo2": 138,
+      "topModel": "T-ROC"
+    },
+    {
+      "period": "2024-12",
+      "total": 9442,
+      "eco0Count": 590,
+      "avgKw": 94,
+      "avgCo2": 134,
+      "topModel": "TAIGO"
+    },
+    {
+      "period": "2025-01",
+      "total": 6809,
+      "eco0Count": 594,
+      "avgKw": 100,
+      "avgCo2": 139,
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2025-02",
+      "total": 8806,
+      "eco0Count": 584,
+      "avgKw": 99,
+      "avgCo2": 138,
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2025-03",
+      "total": 11792,
+      "eco0Count": 596,
+      "avgKw": 97,
+      "avgCo2": 135,
+      "topModel": "TAIGO"
+    },
+    {
+      "period": "2025-04",
+      "total": 10418,
+      "eco0Count": 677,
+      "avgKw": 98,
+      "avgCo2": 137,
+      "topModel": "TIGUAN"
+    },
+    {
+      "period": "2025-05",
+      "total": 12138,
+      "eco0Count": 965,
+      "avgKw": 98,
+      "avgCo2": 132,
+      "topModel": "T-ROC"
+    },
+    {
+      "period": "2025-06",
+      "total": 13543,
+      "eco0Count": 968,
+      "avgKw": 97,
+      "avgCo2": 132,
+      "topModel": "T-ROC"
+    },
+    {
+      "period": "2025-07",
+      "total": 11780,
+      "eco0Count": 980,
+      "avgKw": 99,
+      "avgCo2": 134,
+      "topModel": "T-ROC"
+    },
+    {
+      "period": "2025-08",
+      "total": 7339,
+      "eco0Count": 745,
+      "avgKw": 100,
+      "avgCo2": 135,
+      "topModel": "T-ROC"
+    },
+    {
+      "period": "2025-09",
+      "total": 9102,
+      "eco0Count": 957,
+      "avgKw": 100,
+      "avgCo2": 132,
+      "topModel": "T-ROC"
+    },
+    {
+      "period": "2025-10",
+      "total": 11847,
+      "eco0Count": 1429,
+      "avgKw": 102,
+      "avgCo2": 130,
+      "topModel": "TIGUAN"
+    },
+    {
+      "period": "2025-11",
+      "total": 10161,
+      "eco0Count": 1314,
+      "avgKw": 101,
+      "avgCo2": 129,
+      "topModel": "T-ROC"
+    },
+    {
+      "period": "2025-12",
+      "total": 11399,
+      "eco0Count": 1580,
+      "avgKw": 102,
+      "avgCo2": 132,
+      "topModel": "T-ROC"
+    },
+    {
+      "period": "2026-01",
+      "total": 7520,
+      "eco0Count": 1393,
+      "avgKw": 102,
+      "avgCo2": 134,
+      "topModel": "TIGUAN"
+    },
+    {
+      "period": "2026-02",
+      "total": 9832,
+      "eco0Count": 2273,
+      "avgKw": 102,
+      "avgCo2": 134,
+      "topModel": "T-ROC"
+    },
+    {
+      "period": "2026-03",
+      "total": 12953,
+      "eco0Count": 2904,
+      "avgKw": 100,
+      "avgCo2": 131,
+      "topModel": "T-ROC"
+    },
+    {
+      "period": "2026-04",
+      "total": 11246,
+      "eco0Count": 2431,
+      "avgKw": 102,
+      "avgCo2": 129,
+      "topModel": "T-ROC"
+    },
+    {
+      "period": "2026-05",
+      "total": 11930,
+      "eco0Count": 2746,
+      "avgKw": 102,
+      "avgCo2": 131,
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2026-06",
+      "total": 13495,
+      "eco0Count": 3170,
+      "avgKw": 100,
+      "avgCo2": 133,
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2026-07",
+      "total": 12245,
+      "eco0Count": 3028,
+      "avgKw": 102,
+      "avgCo2": 135,
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2026-08",
+      "total": 8057,
+      "eco0Count": 2225,
+      "avgKw": 105,
+      "avgCo2": 133,
+      "topModel": "TIGUAN"
+    },
+    {
+      "period": "2026-09",
+      "total": 8722,
+      "eco0Count": 2582,
+      "avgKw": 104,
+      "avgCo2": 135,
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2026-10",
+      "total": 12346,
+      "eco0Count": 3611,
+      "avgKw": 101,
+      "avgCo2": 134,
+      "topModel": "GOLF"
+    }
+  ],
+  "models": [
+    {
+      "brand": "VOLKSWAGEN",
+      "brandSlug": "volkswagen",
+      "model": "T-ROC",
+      "modelSlug": "t-roc",
+      "fullName": "VOLKSWAGEN T-ROC",
+      "total": 50322,
+      "percentage": 0.93,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 100,
+      "avgCv": 137,
+      "avgCo2": 134
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "brandSlug": "volkswagen",
+      "model": "GOLF",
+      "modelSlug": "golf",
+      "fullName": "VOLKSWAGEN GOLF",
+      "total": 46330,
+      "percentage": 0.86,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 109,
+      "avgCv": 149,
+      "avgCo2": 120
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "brandSlug": "volkswagen",
+      "model": "TIGUAN",
+      "modelSlug": "tiguan",
+      "fullName": "VOLKSWAGEN TIGUAN",
+      "total": 44326,
+      "percentage": 0.82,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 110,
+      "avgCv": 150,
+      "avgCo2": 126
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "brandSlug": "volkswagen",
+      "model": "T-CROSS",
+      "modelSlug": "t-cross",
+      "fullName": "VOLKSWAGEN T-CROSS",
+      "total": 26582,
+      "percentage": 0.49,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 82,
+      "avgCv": 112,
+      "avgCo2": 130
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "brandSlug": "volkswagen",
+      "model": "TAIGO",
+      "modelSlug": "taigo",
+      "fullName": "VOLKSWAGEN TAIGO",
+      "total": 26136,
+      "percentage": 0.48,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 84,
+      "avgCv": 114,
+      "avgCo2": 126
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "brandSlug": "volkswagen",
+      "model": "CADDY",
+      "modelSlug": "caddy",
+      "fullName": "VOLKSWAGEN CADDY",
+      "total": 6821,
+      "percentage": 0.13,
+      "category": "Comercial",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 81,
+      "avgCv": 110,
+      "avgCo2": 116
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "brandSlug": "volkswagen",
+      "model": "POLO",
+      "modelSlug": "polo",
+      "fullName": "VOLKSWAGEN POLO",
+      "total": 6384,
+      "percentage": 0.12,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 72,
+      "avgCv": 98,
+      "avgCo2": 119
+    }
+  ],
+  "leadProvinces": [
+    {
+      "province": "Navarra",
+      "slug": "navarra",
+      "monthsLeading": 32
+    },
+    {
+      "province": "Almería",
+      "slug": "almeria",
+      "monthsLeading": 26
+    },
+    {
+      "province": "Granada",
+      "slug": "granada",
+      "monthsLeading": 26
+    },
+    {
+      "province": "Murcia",
+      "slug": "murcia",
+      "monthsLeading": 25
+    },
+    {
+      "province": "Castellón / Castelló",
+      "slug": "castellon-castello",
+      "monthsLeading": 20
+    },
+    {
+      "province": "Las Palmas",
+      "slug": "las-palmas",
+      "monthsLeading": 19
+    },
+    {
+      "province": "Ourense",
+      "slug": "ourense",
+      "monthsLeading": 14
+    },
+    {
+      "province": "Alicante / Alacant",
+      "slug": "alicante-alacant",
+      "monthsLeading": 12
+    },
+    {
+      "province": "Albacete",
+      "slug": "albacete",
+      "monthsLeading": 12
+    },
+    {
+      "province": "Ciudad Real",
+      "slug": "ciudad-real",
+      "monthsLeading": 12
+    },
+    {
+      "province": "Valencia / València",
+      "slug": "valencia-valencia",
+      "monthsLeading": 9
+    },
+    {
+      "province": "00",
+      "slug": "00",
+      "monthsLeading": 9
+    },
+    {
+      "province": "Lleida",
+      "slug": "lleida",
+      "monthsLeading": 8
+    },
+    {
+      "province": "Santa Cruz de Tenerife",
+      "slug": "santa-cruz-de-tenerife",
+      "monthsLeading": 7
+    },
+    {
+      "province": "Barcelona",
+      "slug": "barcelona",
+      "monthsLeading": 7
+    },
+    {
+      "province": "Tarragona",
+      "slug": "tarragona",
+      "monthsLeading": 7
+    },
+    {
+      "province": "Huelva",
+      "slug": "huelva",
+      "monthsLeading": 6
+    },
+    {
+      "province": "Segovia",
+      "slug": "segovia",
+      "monthsLeading": 6
+    },
+    {
+      "province": "Cáceres",
+      "slug": "caceres",
+      "monthsLeading": 6
+    },
+    {
+      "province": "Sevilla",
+      "slug": "sevilla",
+      "monthsLeading": 6
+    },
+    {
+      "province": "Illes Balears",
+      "slug": "illes-balears",
+      "monthsLeading": 6
+    },
+    {
+      "province": "Gipuzkoa",
+      "slug": "gipuzkoa",
+      "monthsLeading": 5
+    },
+    {
+      "province": "Asturias",
+      "slug": "asturias",
+      "monthsLeading": 5
+    },
+    {
+      "province": "Melilla",
+      "slug": "melilla",
+      "monthsLeading": 5
+    },
+    {
+      "province": "Girona",
+      "slug": "girona",
+      "monthsLeading": 5
+    },
+    {
+      "province": "León",
+      "slug": "leon",
+      "monthsLeading": 4
+    },
+    {
+      "province": "Lugo",
+      "slug": "lugo",
+      "monthsLeading": 4
+    },
+    {
+      "province": "Badajoz",
+      "slug": "badajoz",
+      "monthsLeading": 3
+    },
+    {
+      "province": "Huesca",
+      "slug": "huesca",
+      "monthsLeading": 3
+    },
+    {
+      "province": "Córdoba",
+      "slug": "cordoba",
+      "monthsLeading": 3
+    },
+    {
+      "province": "Cádiz",
+      "slug": "cadiz",
+      "monthsLeading": 3
+    },
+    {
+      "province": "Jaén",
+      "slug": "jaen",
+      "monthsLeading": 2
+    },
+    {
+      "province": "La Rioja",
+      "slug": "la-rioja",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Cantabria",
+      "slug": "cantabria",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Zaragoza",
+      "slug": "zaragoza",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Málaga",
+      "slug": "malaga",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Burgos",
+      "slug": "burgos",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Cuenca",
+      "slug": "cuenca",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Palencia",
+      "slug": "palencia",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Madrid",
+      "slug": "madrid",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Pontevedra",
+      "slug": "pontevedra",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Soria",
+      "slug": "soria",
+      "monthsLeading": 1
+    }
+  ]
+}

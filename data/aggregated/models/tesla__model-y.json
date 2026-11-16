@@ -1,0 +1,57 @@
+{
+  "brand": "TESLA",
+  "brandSlug": "tesla",
+  "model": "MODEL Y",
+  "modelSlug": "model-y",
+  "fullName": "TESLA MODEL Y",
+  "total": 5297,
+  "percentage": 0.1,
+  "category": "Turismo",
+  "primaryFuel": "Eléctrico Puro (BEV)",
+  "primaryBadge": "0 CERO",
+  "avgKw": 267,
+  "avgCv": 363,
+  "avgCo2": 0,
+  "evolution": [
+    {
+      "period": "2024-09",
+      "total": 657,
+      "avgKw": 248,
+      "avgCv": 338,
+      "avgCo2": 0,
+      "avgTara": 1989
+    },
+    {
+      "period": "2025-06",
+      "total": 1194,
+      "avgKw": 243,
+      "avgCv": 330,
+      "avgCo2": 0,
+      "avgTara": 2002
+    },
+    {
+      "period": "2025-09",
+      "total": 1031,
+      "avgKw": 258,
+      "avgCv": 351,
+      "avgCo2": 1,
+      "avgTara": 2000
+    },
+    {
+      "period": "2026-03",
+      "total": 1186,
+      "avgKw": 295,
+      "avgCv": 400,
+      "avgCo2": 0,
+      "avgTara": 2020
+    },
+    {
+      "period": "2026-09",
+      "total": 1229,
+      "avgKw": 280,
+      "avgCv": 381,
+      "avgCo2": 0,
+      "avgTara": 2014
+    }
+  ]
+}

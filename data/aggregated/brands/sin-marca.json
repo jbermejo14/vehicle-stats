@@ -1,0 +1,212 @@
+{
+  "brand": "SIN MARCA",
+  "slug": "sin-marca",
+  "total": 28411,
+  "percentage": 0.52,
+  "eco0Percentage": 1.9,
+  "avgKw": 16,
+  "monthlyEvolution": [
+    {
+      "period": "2024-01",
+      "total": 1104,
+      "eco0Count": 0,
+      "avgKw": 1,
+      "avgCo2": 0,
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-02",
+      "total": 1296,
+      "eco0Count": 6,
+      "avgKw": 17,
+      "avgCo2": 110,
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-03",
+      "total": 1403,
+      "eco0Count": 2,
+      "avgKw": 35,
+      "avgCo2": 114,
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-04",
+      "total": 1391,
+      "eco0Count": 1,
+      "avgKw": 38,
+      "avgCo2": 120,
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-05",
+      "total": 1225,
+      "eco0Count": 1,
+      "avgKw": 31,
+      "avgCo2": 121,
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-06",
+      "total": 1414,
+      "eco0Count": 1,
+      "avgKw": 31,
+      "avgCo2": 123,
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-07",
+      "total": 1273,
+      "eco0Count": 1,
+      "avgKw": 27,
+      "avgCo2": 113,
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-08",
+      "total": 1114,
+      "eco0Count": 9,
+      "avgKw": 20,
+      "avgCo2": 117,
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-09",
+      "total": 1050,
+      "eco0Count": 19,
+      "avgKw": 26,
+      "avgCo2": 101,
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-10",
+      "total": 1463,
+      "eco0Count": 19,
+      "avgKw": 22,
+      "avgCo2": 117,
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-11",
+      "total": 1110,
+      "eco0Count": 25,
+      "avgKw": 22,
+      "avgCo2": 115,
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-01",
+      "total": 1453,
+      "eco0Count": 73,
+      "avgKw": 13,
+      "avgCo2": 66,
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-02",
+      "total": 1607,
+      "eco0Count": 101,
+      "avgKw": 18,
+      "avgCo2": 110,
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-03",
+      "total": 1416,
+      "eco0Count": 96,
+      "avgKw": 13,
+      "avgCo2": 105,
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-05",
+      "total": 1257,
+      "eco0Count": 0,
+      "avgKw": 1,
+      "avgCo2": 234,
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-06",
+      "total": 1204,
+      "eco0Count": 0,
+      "avgKw": 2,
+      "avgCo2": 231,
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-10",
+      "total": 1484,
+      "eco0Count": 25,
+      "avgKw": 3,
+      "avgCo2": 126,
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2026-01",
+      "total": 1391,
+      "eco0Count": 20,
+      "avgKw": 2,
+      "avgCo2": 121,
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2026-02",
+      "total": 1470,
+      "eco0Count": 24,
+      "avgKw": 3,
+      "avgCo2": 133,
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2026-03",
+      "total": 1671,
+      "eco0Count": 60,
+      "avgKw": 5,
+      "avgCo2": 124,
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2026-10",
+      "total": 1615,
+      "eco0Count": 43,
+      "avgKw": 4,
+      "avgCo2": 127,
+      "topModel": "DESCONOCIDO"
+    }
+  ],
+  "models": [
+    {
+      "brand": "SIN MARCA",
+      "brandSlug": "sin-marca",
+      "model": "DESCONOCIDO",
+      "modelSlug": "desconocido",
+      "fullName": "SIN MARCA DESCONOCIDO",
+      "total": 37561,
+      "percentage": 0.69,
+      "category": "Otro",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 11
+    }
+  ],
+  "leadProvinces": [
+    {
+      "province": "Cáceres",
+      "slug": "caceres",
+      "monthsLeading": 3
+    },
+    {
+      "province": "Huesca",
+      "slug": "huesca",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Valladolid",
+      "slug": "valladolid",
+      "monthsLeading": 1
+    }
+  ]
+}

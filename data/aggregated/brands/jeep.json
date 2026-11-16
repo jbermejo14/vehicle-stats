@@ -1,0 +1,127 @@
+{
+  "brand": "JEEP",
+  "slug": "jeep",
+  "total": 12004,
+  "percentage": 0.22,
+  "eco0Percentage": 34,
+  "avgKw": 93,
+  "monthlyEvolution": [
+    {
+      "period": "2024-01",
+      "total": 906,
+      "eco0Count": 126,
+      "avgKw": 89,
+      "avgCo2": 124,
+      "topModel": "AVENGER"
+    },
+    {
+      "period": "2024-02",
+      "total": 1051,
+      "eco0Count": 159,
+      "avgKw": 91,
+      "avgCo2": 126,
+      "topModel": "AVENGER"
+    },
+    {
+      "period": "2024-03",
+      "total": 1314,
+      "eco0Count": 293,
+      "avgKw": 92,
+      "avgCo2": 127,
+      "topModel": "AVENGER"
+    },
+    {
+      "period": "2024-04",
+      "total": 1071,
+      "eco0Count": 207,
+      "avgKw": 100,
+      "avgCo2": 127,
+      "topModel": "AVENGER"
+    },
+    {
+      "period": "2024-05",
+      "total": 1366,
+      "eco0Count": 383,
+      "avgKw": 94,
+      "avgCo2": 125,
+      "topModel": "AVENGER"
+    },
+    {
+      "period": "2024-06",
+      "total": 1083,
+      "eco0Count": 269,
+      "avgKw": 92,
+      "avgCo2": 126,
+      "topModel": "AVENGER"
+    },
+    {
+      "period": "2024-11",
+      "total": 959,
+      "eco0Count": 306,
+      "avgKw": 92,
+      "avgCo2": 128,
+      "topModel": "AVENGER"
+    },
+    {
+      "period": "2025-01",
+      "total": 863,
+      "eco0Count": 440,
+      "avgKw": 93,
+      "avgCo2": 127,
+      "topModel": "AVENGER"
+    },
+    {
+      "period": "2025-02",
+      "total": 958,
+      "eco0Count": 484,
+      "avgKw": 91,
+      "avgCo2": 124,
+      "topModel": "AVENGER"
+    },
+    {
+      "period": "2025-03",
+      "total": 1284,
+      "eco0Count": 707,
+      "avgKw": 94,
+      "avgCo2": 124,
+      "topModel": "AVENGER"
+    },
+    {
+      "period": "2025-04",
+      "total": 1149,
+      "eco0Count": 712,
+      "avgKw": 90,
+      "avgCo2": 122,
+      "topModel": "AVENGER"
+    }
+  ],
+  "models": [
+    {
+      "brand": "JEEP",
+      "brandSlug": "jeep",
+      "model": "AVENGER",
+      "modelSlug": "avenger",
+      "fullName": "JEEP AVENGER",
+      "total": 3198,
+      "percentage": 0.06,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 86,
+      "avgCv": 117,
+      "avgCo2": 117
+    }
+  ],
+  "leadProvinces": [
+    {
+      "province": "Zaragoza",
+      "slug": "zaragoza",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Albacete",
+      "slug": "albacete",
+      "monthsLeading": 1
+    }
+  ]
+}

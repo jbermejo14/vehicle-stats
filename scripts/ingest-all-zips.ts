@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import AdmZip from 'adm-zip';
+// @ts-ignore
 import { DatabaseSync } from 'node:sqlite';
 import { parseDgtLine } from '../lib/dgtParser';
 import { SPAIN_PROVINCES } from '../lib/spainProvinces';

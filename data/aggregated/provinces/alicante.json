@@ -1,0 +1,444 @@
+{
+  "code": "03",
+  "name": "Alicante / Alacant",
+  "slug": "alicante",
+  "community": "Comunitat Valenciana",
+  "population": 1950357,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 265427,
+  "percentageOfSpain": 4.9,
+  "per1000Habitantes": 136.09,
+  "ceroCount": 15691,
+  "ecoCount": 61241,
+  "bevCount": 14318,
+  "phevCount": 1373,
+  "hevCount": 61235,
+  "ceroPercentage": 5.9,
+  "ecoPercentage": 23.1,
+  "bevPercentage": 5.4,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 4745,
+      "cero": 197,
+      "eco": 885,
+      "bev": 180,
+      "phev": 17,
+      "hev": 885,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "FOCUS"
+    },
+    {
+      "period": "2024-02",
+      "total": 6452,
+      "cero": 189,
+      "eco": 1241,
+      "bev": 180,
+      "phev": 9,
+      "hev": 1241,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "FIAT 500"
+    },
+    {
+      "period": "2024-03",
+      "total": 10246,
+      "cero": 238,
+      "eco": 2904,
+      "bev": 226,
+      "phev": 12,
+      "hev": 2904,
+      "topBrand": "KIA",
+      "topModel": "STONIC"
+    },
+    {
+      "period": "2024-04",
+      "total": 8774,
+      "cero": 214,
+      "eco": 1304,
+      "bev": 207,
+      "phev": 7,
+      "hev": 1304,
+      "topBrand": "HYUNDAI",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-05",
+      "total": 8397,
+      "cero": 222,
+      "eco": 1651,
+      "bev": 217,
+      "phev": 5,
+      "hev": 1651,
+      "topBrand": "HYUNDAI",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-06",
+      "total": 7654,
+      "cero": 248,
+      "eco": 1331,
+      "bev": 242,
+      "phev": 6,
+      "hev": 1331,
+      "topBrand": "HYUNDAI",
+      "topModel": "CEED"
+    },
+    {
+      "period": "2024-07",
+      "total": 7088,
+      "cero": 198,
+      "eco": 1587,
+      "bev": 192,
+      "phev": 6,
+      "hev": 1587,
+      "topBrand": "KIA",
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2024-08",
+      "total": 4625,
+      "cero": 169,
+      "eco": 752,
+      "bev": 167,
+      "phev": 2,
+      "hev": 752,
+      "topBrand": "HYUNDAI",
+      "topModel": "BAYON"
+    },
+    {
+      "period": "2024-09",
+      "total": 6149,
+      "cero": 319,
+      "eco": 1087,
+      "bev": 314,
+      "phev": 5,
+      "hev": 1087,
+      "topBrand": "HYUNDAI",
+      "topModel": "I 30"
+    },
+    {
+      "period": "2024-10",
+      "total": 5963,
+      "cero": 194,
+      "eco": 1085,
+      "bev": 192,
+      "phev": 2,
+      "hev": 1085,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-11",
+      "total": 5523,
+      "cero": 256,
+      "eco": 941,
+      "bev": 255,
+      "phev": 1,
+      "hev": 939,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-12",
+      "total": 5863,
+      "cero": 426,
+      "eco": 1249,
+      "bev": 423,
+      "phev": 3,
+      "hev": 1249,
+      "topBrand": "HYUNDAI",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-01",
+      "total": 4832,
+      "cero": 240,
+      "eco": 1060,
+      "bev": 236,
+      "phev": 4,
+      "hev": 1060,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-02",
+      "total": 6387,
+      "cero": 570,
+      "eco": 1446,
+      "bev": 548,
+      "phev": 22,
+      "hev": 1446,
+      "topBrand": "FIAT",
+      "topModel": "500"
+    },
+    {
+      "period": "2025-03",
+      "total": 8244,
+      "cero": 351,
+      "eco": 2467,
+      "bev": 328,
+      "phev": 23,
+      "hev": 2467,
+      "topBrand": "PEUGEOT",
+      "topModel": "KAMIQ"
+    },
+    {
+      "period": "2025-04",
+      "total": 11276,
+      "cero": 471,
+      "eco": 2470,
+      "bev": 440,
+      "phev": 31,
+      "hev": 2470,
+      "topBrand": "HYUNDAI",
+      "topModel": "I20"
+    },
+    {
+      "period": "2025-05",
+      "total": 12636,
+      "cero": 452,
+      "eco": 3467,
+      "bev": 423,
+      "phev": 29,
+      "hev": 3467,
+      "topBrand": "KIA",
+      "topModel": "STONIC"
+    },
+    {
+      "period": "2025-06",
+      "total": 9055,
+      "cero": 733,
+      "eco": 2157,
+      "bev": 692,
+      "phev": 41,
+      "hev": 2157,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-07",
+      "total": 7605,
+      "cero": 596,
+      "eco": 1346,
+      "bev": 534,
+      "phev": 62,
+      "hev": 1346,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "I20"
+    },
+    {
+      "period": "2025-08",
+      "total": 5284,
+      "cero": 434,
+      "eco": 1086,
+      "bev": 379,
+      "phev": 55,
+      "hev": 1086,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "KONA"
+    },
+    {
+      "period": "2025-09",
+      "total": 6551,
+      "cero": 618,
+      "eco": 1160,
+      "bev": 550,
+      "phev": 68,
+      "hev": 1160,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-10",
+      "total": 7370,
+      "cero": 532,
+      "eco": 1601,
+      "bev": 466,
+      "phev": 66,
+      "hev": 1601,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-11",
+      "total": 6471,
+      "cero": 527,
+      "eco": 1323,
+      "bev": 454,
+      "phev": 73,
+      "hev": 1323,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-12",
+      "total": 6594,
+      "cero": 526,
+      "eco": 1486,
+      "bev": 460,
+      "phev": 66,
+      "hev": 1486,
+      "topBrand": "RENAULT",
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2026-01",
+      "total": 5597,
+      "cero": 338,
+      "eco": 1250,
+      "bev": 303,
+      "phev": 35,
+      "hev": 1249,
+      "topBrand": "AUDI",
+      "topModel": "A1 SPORTBACK"
+    },
+    {
+      "period": "2026-02",
+      "total": 7750,
+      "cero": 476,
+      "eco": 2365,
+      "bev": 434,
+      "phev": 42,
+      "hev": 2365,
+      "topBrand": "MG",
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2026-03",
+      "total": 12952,
+      "cero": 735,
+      "eco": 4632,
+      "bev": 621,
+      "phev": 114,
+      "hev": 4632,
+      "topBrand": "HYUNDAI",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2026-04",
+      "total": 12212,
+      "cero": 591,
+      "eco": 3172,
+      "bev": 496,
+      "phev": 95,
+      "hev": 3171,
+      "topBrand": "HYUNDAI",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2026-05",
+      "total": 12394,
+      "cero": 893,
+      "eco": 3489,
+      "bev": 780,
+      "phev": 113,
+      "hev": 3487,
+      "topBrand": "RENAULT",
+      "topModel": "BYD SEAL U DM-I"
+    },
+    {
+      "period": "2026-06",
+      "total": 10881,
+      "cero": 896,
+      "eco": 2589,
+      "bev": 762,
+      "phev": 134,
+      "hev": 2589,
+      "topBrand": "BYD",
+      "topModel": "BYD ATTO 2  DM-I"
+    },
+    {
+      "period": "2026-07",
+      "total": 8571,
+      "cero": 678,
+      "eco": 1690,
+      "bev": 622,
+      "phev": 56,
+      "hev": 1690,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-08",
+      "total": 5721,
+      "cero": 500,
+      "eco": 1193,
+      "bev": 450,
+      "phev": 50,
+      "hev": 1193,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "125X"
+    },
+    {
+      "period": "2026-09",
+      "total": 7469,
+      "cero": 892,
+      "eco": 1491,
+      "bev": 828,
+      "phev": 64,
+      "hev": 1491,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2026-10",
+      "total": 8096,
+      "cero": 772,
+      "eco": 2284,
+      "bev": 717,
+      "phev": 55,
+      "hev": 2284,
+      "topBrand": "KIA",
+      "topModel": "SPORTAGE"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "timesLeader": 12
+    },
+    {
+      "brand": "HYUNDAI",
+      "slug": "hyundai",
+      "timesLeader": 9
+    },
+    {
+      "brand": "KIA",
+      "slug": "kia",
+      "timesLeader": 4
+    },
+    {
+      "brand": "RENAULT",
+      "slug": "renault",
+      "timesLeader": 2
+    },
+    {
+      "brand": "MERCEDES-BENZ",
+      "slug": "mercedes-benz",
+      "timesLeader": 1
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "SANDERO",
+      "timesLeader": 8
+    },
+    {
+      "model": "MG ZS",
+      "timesLeader": 3
+    },
+    {
+      "model": "STONIC",
+      "timesLeader": 2
+    },
+    {
+      "model": "TUCSON",
+      "timesLeader": 2
+    },
+    {
+      "model": "SPORTAGE",
+      "timesLeader": 2
+    }
+  ]
+}

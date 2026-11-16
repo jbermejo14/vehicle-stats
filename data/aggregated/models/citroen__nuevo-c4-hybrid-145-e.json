@@ -1,0 +1,57 @@
+{
+  "brand": "CITROEN",
+  "brandSlug": "citroen",
+  "model": "NUEVO C4 HYBRID 145 Ë-",
+  "modelSlug": "nuevo-c4-hybrid-145-e",
+  "fullName": "CITROEN NUEVO C4 HYBRID 145 Ë-",
+  "total": 4551,
+  "percentage": 0.08,
+  "category": "Turismo",
+  "primaryFuel": "Híbrido (HEV)",
+  "primaryBadge": "ECO",
+  "avgKw": 100,
+  "avgCv": 136,
+  "avgCo2": 106,
+  "evolution": [
+    {
+      "period": "2025-05",
+      "total": 1157,
+      "avgKw": 100,
+      "avgCv": 136,
+      "avgCo2": 106,
+      "avgTara": 1403
+    },
+    {
+      "period": "2025-08",
+      "total": 653,
+      "avgKw": 100,
+      "avgCv": 136,
+      "avgCo2": 106,
+      "avgTara": 1403
+    },
+    {
+      "period": "2025-09",
+      "total": 769,
+      "avgKw": 100,
+      "avgCv": 136,
+      "avgCo2": 106,
+      "avgTara": 1403
+    },
+    {
+      "period": "2026-01",
+      "total": 960,
+      "avgKw": 100,
+      "avgCv": 136,
+      "avgCo2": 106,
+      "avgTara": 1403
+    },
+    {
+      "period": "2026-02",
+      "total": 1012,
+      "avgKw": 100,
+      "avgCv": 136,
+      "avgCo2": 106,
+      "avgTara": 1403
+    }
+  ]
+}

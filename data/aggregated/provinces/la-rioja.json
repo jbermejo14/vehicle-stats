@@ -1,0 +1,444 @@
+{
+  "code": "26",
+  "name": "La Rioja",
+  "slug": "la-rioja",
+  "community": "La Rioja",
+  "population": 323609,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 23332,
+  "percentageOfSpain": 0.43,
+  "per1000Habitantes": 72.1,
+  "ceroCount": 1613,
+  "ecoCount": 5916,
+  "bevCount": 1340,
+  "phevCount": 273,
+  "hevCount": 5914,
+  "ceroPercentage": 6.9,
+  "ecoPercentage": 25.4,
+  "bevPercentage": 5.7,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 525,
+      "cero": 18,
+      "eco": 136,
+      "bev": 16,
+      "phev": 2,
+      "hev": 136,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA RAV4"
+    },
+    {
+      "period": "2024-02",
+      "total": 484,
+      "cero": 23,
+      "eco": 117,
+      "bev": 22,
+      "phev": 1,
+      "hev": 117,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA YARIS CROSS"
+    },
+    {
+      "period": "2024-03",
+      "total": 487,
+      "cero": 17,
+      "eco": 94,
+      "bev": 17,
+      "phev": 0,
+      "hev": 94,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-04",
+      "total": 623,
+      "cero": 22,
+      "eco": 108,
+      "bev": 21,
+      "phev": 1,
+      "hev": 108,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA RAV4"
+    },
+    {
+      "period": "2024-05",
+      "total": 597,
+      "cero": 21,
+      "eco": 112,
+      "bev": 18,
+      "phev": 3,
+      "hev": 112,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "AS440ST/P"
+    },
+    {
+      "period": "2024-06",
+      "total": 618,
+      "cero": 23,
+      "eco": 155,
+      "bev": 22,
+      "phev": 1,
+      "hev": 155,
+      "topBrand": "TOYOTA",
+      "topModel": "OMODA5"
+    },
+    {
+      "period": "2024-07",
+      "total": 668,
+      "cero": 21,
+      "eco": 154,
+      "bev": 21,
+      "phev": 0,
+      "hev": 153,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2024-08",
+      "total": 510,
+      "cero": 26,
+      "eco": 107,
+      "bev": 26,
+      "phev": 0,
+      "hev": 107,
+      "topBrand": "PEUGEOT",
+      "topModel": "ECANTER"
+    },
+    {
+      "period": "2024-09",
+      "total": 501,
+      "cero": 24,
+      "eco": 120,
+      "bev": 24,
+      "phev": 0,
+      "hev": 120,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-10",
+      "total": 691,
+      "cero": 22,
+      "eco": 153,
+      "bev": 21,
+      "phev": 1,
+      "hev": 152,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-11",
+      "total": 705,
+      "cero": 27,
+      "eco": 176,
+      "bev": 27,
+      "phev": 0,
+      "hev": 176,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-12",
+      "total": 711,
+      "cero": 38,
+      "eco": 233,
+      "bev": 37,
+      "phev": 1,
+      "hev": 233,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2025-01",
+      "total": 558,
+      "cero": 27,
+      "eco": 151,
+      "bev": 25,
+      "phev": 2,
+      "hev": 151,
+      "topBrand": "TOYOTA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-02",
+      "total": 572,
+      "cero": 35,
+      "eco": 176,
+      "bev": 23,
+      "phev": 12,
+      "hev": 176,
+      "topBrand": "TOYOTA",
+      "topModel": "NUEVO C4 HYBRID 136 Ë-"
+    },
+    {
+      "period": "2025-03",
+      "total": 629,
+      "cero": 23,
+      "eco": 173,
+      "bev": 18,
+      "phev": 5,
+      "hev": 173,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-04",
+      "total": 594,
+      "cero": 44,
+      "eco": 157,
+      "bev": 38,
+      "phev": 6,
+      "hev": 157,
+      "topBrand": "BMW",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-05",
+      "total": 712,
+      "cero": 37,
+      "eco": 191,
+      "bev": 32,
+      "phev": 5,
+      "hev": 191,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-06",
+      "total": 718,
+      "cero": 58,
+      "eco": 149,
+      "bev": 49,
+      "phev": 9,
+      "hev": 149,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-07",
+      "total": 912,
+      "cero": 66,
+      "eco": 188,
+      "bev": 53,
+      "phev": 13,
+      "hev": 188,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-08",
+      "total": 607,
+      "cero": 44,
+      "eco": 148,
+      "bev": 29,
+      "phev": 15,
+      "hev": 148,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2025-09",
+      "total": 683,
+      "cero": 67,
+      "eco": 160,
+      "bev": 51,
+      "phev": 16,
+      "hev": 160,
+      "topBrand": "TOYOTA",
+      "topModel": "OMODA5"
+    },
+    {
+      "period": "2025-10",
+      "total": 793,
+      "cero": 79,
+      "eco": 164,
+      "bev": 59,
+      "phev": 20,
+      "hev": 164,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-11",
+      "total": 768,
+      "cero": 64,
+      "eco": 199,
+      "bev": 47,
+      "phev": 17,
+      "hev": 199,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "R460"
+    },
+    {
+      "period": "2025-12",
+      "total": 753,
+      "cero": 65,
+      "eco": 193,
+      "bev": 49,
+      "phev": 16,
+      "hev": 193,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-01",
+      "total": 649,
+      "cero": 40,
+      "eco": 182,
+      "bev": 32,
+      "phev": 8,
+      "hev": 182,
+      "topBrand": "TOYOTA",
+      "topModel": "OMODA5 HEV"
+    },
+    {
+      "period": "2026-02",
+      "total": 733,
+      "cero": 51,
+      "eco": 210,
+      "bev": 35,
+      "phev": 16,
+      "hev": 210,
+      "topBrand": "RENAULT",
+      "topModel": "TOYOTA YARIS CROSS"
+    },
+    {
+      "period": "2026-03",
+      "total": 849,
+      "cero": 78,
+      "eco": 199,
+      "bev": 69,
+      "phev": 9,
+      "hev": 199,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-04",
+      "total": 801,
+      "cero": 64,
+      "eco": 239,
+      "bev": 49,
+      "phev": 15,
+      "hev": 239,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-05",
+      "total": 889,
+      "cero": 77,
+      "eco": 263,
+      "bev": 70,
+      "phev": 7,
+      "hev": 263,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-06",
+      "total": 856,
+      "cero": 75,
+      "eco": 251,
+      "bev": 61,
+      "phev": 14,
+      "hev": 251,
+      "topBrand": "TOYOTA",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2026-07",
+      "total": 888,
+      "cero": 69,
+      "eco": 239,
+      "bev": 54,
+      "phev": 15,
+      "hev": 239,
+      "topBrand": "PEUGEOT",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2026-08",
+      "total": 644,
+      "cero": 56,
+      "eco": 185,
+      "bev": 45,
+      "phev": 11,
+      "hev": 185,
+      "topBrand": "TOYOTA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2026-09",
+      "total": 771,
+      "cero": 114,
+      "eco": 205,
+      "bev": 100,
+      "phev": 14,
+      "hev": 205,
+      "topBrand": "PEUGEOT",
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2026-10",
+      "total": 833,
+      "cero": 98,
+      "eco": 229,
+      "bev": 80,
+      "phev": 18,
+      "hev": 229,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 18
+    },
+    {
+      "brand": "MERCEDES-BENZ",
+      "slug": "mercedes-benz",
+      "timesLeader": 8
+    },
+    {
+      "brand": "PEUGEOT",
+      "slug": "peugeot",
+      "timesLeader": 3
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "timesLeader": 2
+    },
+    {
+      "brand": "RENAULT",
+      "slug": "renault",
+      "timesLeader": 2
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "SANDERO",
+      "timesLeader": 12
+    },
+    {
+      "model": "MG ZS",
+      "timesLeader": 5
+    },
+    {
+      "model": "TOYOTA RAV4",
+      "timesLeader": 2
+    },
+    {
+      "model": "TOYOTA YARIS CROSS",
+      "timesLeader": 2
+    },
+    {
+      "model": "OMODA5",
+      "timesLeader": 2
+    }
+  ]
+}

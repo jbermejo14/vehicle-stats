@@ -1,0 +1,84 @@
+{
+  "brand": "SUZUKI",
+  "slug": "suzuki",
+  "total": 9523,
+  "percentage": 0.18,
+  "eco0Percentage": 60.5,
+  "avgKw": 31,
+  "monthlyEvolution": [
+    {
+      "period": "2024-01",
+      "total": 708,
+      "eco0Count": 344,
+      "avgKw": 32,
+      "avgCo2": 116,
+      "topModel": "VITARA"
+    },
+    {
+      "period": "2024-02",
+      "total": 908,
+      "eco0Count": 508,
+      "avgKw": 34,
+      "avgCo2": 117,
+      "topModel": "VITARA"
+    },
+    {
+      "period": "2024-03",
+      "total": 1239,
+      "eco0Count": 800,
+      "avgKw": 28,
+      "avgCo2": 117,
+      "topModel": "S-CROSS"
+    },
+    {
+      "period": "2024-06",
+      "total": 1180,
+      "eco0Count": 670,
+      "avgKw": 33,
+      "avgCo2": 112,
+      "topModel": "VITARA"
+    },
+    {
+      "period": "2024-07",
+      "total": 1069,
+      "eco0Count": 596,
+      "avgKw": 39,
+      "avgCo2": 108,
+      "topModel": "SUZUKI SWACE"
+    },
+    {
+      "period": "2024-09",
+      "total": 1015,
+      "eco0Count": 621,
+      "avgKw": 29,
+      "avgCo2": 105,
+      "topModel": "VITARA"
+    },
+    {
+      "period": "2024-10",
+      "total": 1005,
+      "eco0Count": 577,
+      "avgKw": 31,
+      "avgCo2": 108,
+      "topModel": "VITARA"
+    },
+    {
+      "period": "2024-12",
+      "total": 1214,
+      "eco0Count": 726,
+      "avgKw": 28,
+      "avgCo2": 108,
+      "topModel": "VITARA"
+    },
+    {
+      "period": "2025-03",
+      "total": 1185,
+      "eco0Count": 916,
+      "avgKw": 27,
+      "avgCo2": 112,
+      "topModel": "VITARA"
+    }
+  ],
+  "models": [],
+  "leadProvinces": []
+}

@@ -1,0 +1,444 @@
+{
+  "code": "11",
+  "name": "Cádiz",
+  "slug": "cadiz",
+  "community": "Andalucía",
+  "population": 1259339,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 111649,
+  "percentageOfSpain": 2.06,
+  "per1000Habitantes": 88.66,
+  "ceroCount": 5293,
+  "ecoCount": 20786,
+  "bevCount": 4562,
+  "phevCount": 731,
+  "hevCount": 20786,
+  "ceroPercentage": 4.7,
+  "ecoPercentage": 18.6,
+  "bevPercentage": 4.1,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 2507,
+      "cero": 70,
+      "eco": 444,
+      "bev": 66,
+      "phev": 4,
+      "hev": 444,
+      "topBrand": "TOYOTA",
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2024-02",
+      "total": 2516,
+      "cero": 79,
+      "eco": 421,
+      "bev": 75,
+      "phev": 4,
+      "hev": 421,
+      "topBrand": "TOYOTA",
+      "topModel": "LIBERTY 125 ABS"
+    },
+    {
+      "period": "2024-03",
+      "total": 2614,
+      "cero": 84,
+      "eco": 397,
+      "bev": 76,
+      "phev": 8,
+      "hev": 397,
+      "topBrand": "HONDA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-04",
+      "total": 3013,
+      "cero": 98,
+      "eco": 427,
+      "bev": 92,
+      "phev": 6,
+      "hev": 427,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-05",
+      "total": 2844,
+      "cero": 60,
+      "eco": 452,
+      "bev": 56,
+      "phev": 4,
+      "hev": 452,
+      "topBrand": "HONDA",
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2024-06",
+      "total": 3136,
+      "cero": 106,
+      "eco": 512,
+      "bev": 101,
+      "phev": 5,
+      "hev": 512,
+      "topBrand": "YAMAHA",
+      "topModel": "LIBERTY 125 ABS"
+    },
+    {
+      "period": "2024-07",
+      "total": 3115,
+      "cero": 73,
+      "eco": 586,
+      "bev": 72,
+      "phev": 1,
+      "hev": 586,
+      "topBrand": "HONDA",
+      "topModel": "LIBERTY 125 ABS"
+    },
+    {
+      "period": "2024-08",
+      "total": 2751,
+      "cero": 62,
+      "eco": 432,
+      "bev": 60,
+      "phev": 2,
+      "hev": 432,
+      "topBrand": "HONDA",
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2024-09",
+      "total": 2935,
+      "cero": 92,
+      "eco": 442,
+      "bev": 90,
+      "phev": 2,
+      "hev": 442,
+      "topBrand": "HONDA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-10",
+      "total": 3216,
+      "cero": 82,
+      "eco": 601,
+      "bev": 79,
+      "phev": 3,
+      "hev": 601,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-11",
+      "total": 2817,
+      "cero": 89,
+      "eco": 570,
+      "bev": 88,
+      "phev": 1,
+      "hev": 570,
+      "topBrand": "TOYOTA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-12",
+      "total": 3349,
+      "cero": 135,
+      "eco": 633,
+      "bev": 135,
+      "phev": 0,
+      "hev": 633,
+      "topBrand": "PIAGGIO",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-01",
+      "total": 2537,
+      "cero": 80,
+      "eco": 469,
+      "bev": 78,
+      "phev": 2,
+      "hev": 469,
+      "topBrand": "TOYOTA",
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2025-02",
+      "total": 2649,
+      "cero": 106,
+      "eco": 528,
+      "bev": 91,
+      "phev": 15,
+      "hev": 528,
+      "topBrand": "TOYOTA",
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2025-03",
+      "total": 3071,
+      "cero": 168,
+      "eco": 609,
+      "bev": 152,
+      "phev": 16,
+      "hev": 609,
+      "topBrand": "RENAULT",
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2025-04",
+      "total": 2853,
+      "cero": 115,
+      "eco": 508,
+      "bev": 105,
+      "phev": 10,
+      "hev": 508,
+      "topBrand": "HONDA",
+      "topModel": "LIBERTY 125 ABS"
+    },
+    {
+      "period": "2025-05",
+      "total": 3184,
+      "cero": 165,
+      "eco": 486,
+      "bev": 136,
+      "phev": 29,
+      "hev": 486,
+      "topBrand": "YAMAHA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-06",
+      "total": 3618,
+      "cero": 206,
+      "eco": 645,
+      "bev": 187,
+      "phev": 19,
+      "hev": 645,
+      "topBrand": "YAMAHA",
+      "topModel": "LIBERTY 125 ABS"
+    },
+    {
+      "period": "2025-07",
+      "total": 3957,
+      "cero": 210,
+      "eco": 634,
+      "bev": 166,
+      "phev": 44,
+      "hev": 634,
+      "topBrand": "YAMAHA",
+      "topModel": "GPD125D-A"
+    },
+    {
+      "period": "2025-08",
+      "total": 2996,
+      "cero": 161,
+      "eco": 481,
+      "bev": 118,
+      "phev": 43,
+      "hev": 481,
+      "topBrand": "YAMAHA",
+      "topModel": "LIBERTY 125 ABS"
+    },
+    {
+      "period": "2025-09",
+      "total": 3477,
+      "cero": 205,
+      "eco": 584,
+      "bev": 160,
+      "phev": 45,
+      "hev": 584,
+      "topBrand": "HONDA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-10",
+      "total": 3954,
+      "cero": 180,
+      "eco": 715,
+      "bev": 141,
+      "phev": 39,
+      "hev": 715,
+      "topBrand": "YAMAHA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-11",
+      "total": 3420,
+      "cero": 188,
+      "eco": 696,
+      "bev": 152,
+      "phev": 36,
+      "hev": 696,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-12",
+      "total": 3501,
+      "cero": 200,
+      "eco": 723,
+      "bev": 165,
+      "phev": 35,
+      "hev": 723,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-01",
+      "total": 2851,
+      "cero": 105,
+      "eco": 650,
+      "bev": 94,
+      "phev": 11,
+      "hev": 650,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2026-02",
+      "total": 2951,
+      "cero": 139,
+      "eco": 706,
+      "bev": 106,
+      "phev": 33,
+      "hev": 706,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-03",
+      "total": 3978,
+      "cero": 215,
+      "eco": 860,
+      "bev": 174,
+      "phev": 41,
+      "hev": 860,
+      "topBrand": "HONDA",
+      "topModel": "LIBERTY 125 ABS"
+    },
+    {
+      "period": "2026-04",
+      "total": 3682,
+      "cero": 201,
+      "eco": 764,
+      "bev": 162,
+      "phev": 39,
+      "hev": 764,
+      "topBrand": "HONDA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-05",
+      "total": 3895,
+      "cero": 252,
+      "eco": 773,
+      "bev": 211,
+      "phev": 41,
+      "hev": 773,
+      "topBrand": "YAMAHA",
+      "topModel": "LIBERTY 125 ABS"
+    },
+    {
+      "period": "2026-06",
+      "total": 4480,
+      "cero": 271,
+      "eco": 873,
+      "bev": 231,
+      "phev": 40,
+      "hev": 873,
+      "topBrand": "HONDA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-07",
+      "total": 4378,
+      "cero": 258,
+      "eco": 837,
+      "bev": 219,
+      "phev": 39,
+      "hev": 837,
+      "topBrand": "YAMAHA",
+      "topModel": "125X"
+    },
+    {
+      "period": "2026-08",
+      "total": 3388,
+      "cero": 203,
+      "eco": 679,
+      "bev": 171,
+      "phev": 32,
+      "hev": 679,
+      "topBrand": "HONDA",
+      "topModel": "125X"
+    },
+    {
+      "period": "2026-09",
+      "total": 4017,
+      "cero": 316,
+      "eco": 806,
+      "bev": 273,
+      "phev": 43,
+      "hev": 806,
+      "topBrand": "ZONTES",
+      "topModel": "125V"
+    },
+    {
+      "period": "2026-10",
+      "total": 3999,
+      "cero": 319,
+      "eco": 843,
+      "bev": 280,
+      "phev": 39,
+      "hev": 843,
+      "topBrand": "ZONTES",
+      "topModel": "SANDERO"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "HONDA",
+      "slug": "honda",
+      "timesLeader": 11
+    },
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 8
+    },
+    {
+      "brand": "YAMAHA",
+      "slug": "yamaha",
+      "timesLeader": 8
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "timesLeader": 3
+    },
+    {
+      "brand": "ZONTES",
+      "slug": "zontes",
+      "timesLeader": 2
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "SANDERO",
+      "timesLeader": 14
+    },
+    {
+      "model": "LIBERTY 125 ABS",
+      "timesLeader": 8
+    },
+    {
+      "model": "GPD125-A",
+      "timesLeader": 5
+    },
+    {
+      "model": "MG ZS",
+      "timesLeader": 2
+    },
+    {
+      "model": "125X",
+      "timesLeader": 2
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "brand": "MG",
+  "slug": "mg",
+  "total": 115571,
+  "percentage": 2.14,
+  "eco0Percentage": 45.3,
+  "avgKw": 88,
+  "monthlyEvolution": [
+    {
+      "period": "2024-01",
+      "total": 2065,
+      "eco0Count": 335,
+      "avgKw": 90,
+      "avgCo2": 144,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-02",
+      "total": 2120,
+      "eco0Count": 452,
+      "avgKw": 93,
+      "avgCo2": 144,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-03",
+      "total": 2616,
+      "eco0Count": 451,
+      "avgKw": 94,
+      "avgCo2": 148,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-04",
+      "total": 2452,
+      "eco0Count": 446,
+      "avgKw": 94,
+      "avgCo2": 146,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-05",
+      "total": 2508,
+      "eco0Count": 386,
+      "avgKw": 93,
+      "avgCo2": 149,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-06",
+      "total": 2583,
+      "eco0Count": 867,
+      "avgKw": 92,
+      "avgCo2": 140,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-07",
+      "total": 3980,
+      "eco0Count": 692,
+      "avgKw": 90,
+      "avgCo2": 148,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-08",
+      "total": 1952,
+      "eco0Count": 450,
+      "avgKw": 87,
+      "avgCo2": 144,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-09",
+      "total": 1779,
+      "eco0Count": 531,
+      "avgKw": 88,
+      "avgCo2": 139,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-10",
+      "total": 2738,
+      "eco0Count": 749,
+      "avgKw": 87,
+      "avgCo2": 139,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-11",
+      "total": 2758,
+      "eco0Count": 922,
+      "avgKw": 88,
+      "avgCo2": 128,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-12",
+      "total": 3449,
+      "eco0Count": 1706,
+      "avgKw": 85,
+      "avgCo2": 115,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-01",
+      "total": 2837,
+      "eco0Count": 1416,
+      "avgKw": 83,
+      "avgCo2": 125,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-02",
+      "total": 4728,
+      "eco0Count": 2138,
+      "avgKw": 86,
+      "avgCo2": 130,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-03",
+      "total": 5541,
+      "eco0Count": 1921,
+      "avgKw": 82,
+      "avgCo2": 133,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-04",
+      "total": 3654,
+      "eco0Count": 1159,
+      "avgKw": 87,
+      "avgCo2": 127,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-05",
+      "total": 5373,
+      "eco0Count": 1506,
+      "avgKw": 88,
+      "avgCo2": 115,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-06",
+      "total": 3688,
+      "eco0Count": 1663,
+      "avgKw": 90,
+      "avgCo2": 98,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-07",
+      "total": 3882,
+      "eco0Count": 1689,
+      "avgKw": 89,
+      "avgCo2": 97,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-08",
+      "total": 2765,
+      "eco0Count": 1270,
+      "avgKw": 90,
+      "avgCo2": 85,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-09",
+      "total": 3501,
+      "eco0Count": 1634,
+      "avgKw": 90,
+      "avgCo2": 87,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-10",
+      "total": 3764,
+      "eco0Count": 1970,
+      "avgKw": 89,
+      "avgCo2": 89,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-11",
+      "total": 3128,
+      "eco0Count": 1671,
+      "avgKw": 90,
+      "avgCo2": 96,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-12",
+      "total": 3389,
+      "eco0Count": 1883,
+      "avgKw": 90,
+      "avgCo2": 97,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2026-01",
+      "total": 2400,
+      "eco0Count": 1627,
+      "avgKw": 85,
+      "avgCo2": 116,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2026-02",
+      "total": 3835,
+      "eco0Count": 2858,
+      "avgKw": 84,
+      "avgCo2": 114,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2026-03",
+      "total": 5118,
+      "eco0Count": 3014,
+      "avgKw": 86,
+      "avgCo2": 115,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2026-04",
+      "total": 4535,
+      "eco0Count": 2498,
+      "avgKw": 85,
+      "avgCo2": 117,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2026-05",
+      "total": 4834,
+      "eco0Count": 3354,
+      "avgKw": 83,
+      "avgCo2": 113,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2026-06",
+      "total": 4987,
+      "eco0Count": 3084,
+      "avgKw": 86,
+      "avgCo2": 116,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2026-07",
+      "total": 3725,
+      "eco0Count": 2595,
+      "avgKw": 88,
+      "avgCo2": 110,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2026-08",
+      "total": 2716,
+      "eco0Count": 1951,
+      "avgKw": 88,
+      "avgCo2": 109,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2026-09",
+      "total": 3085,
+      "eco0Count": 1868,
+      "avgKw": 90,
+      "avgCo2": 100,
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2026-10",
+      "total": 3086,
+      "eco0Count": 1619,
+      "avgKw": 91,
+      "avgCo2": 113,
+      "topModel": "MG ZS"
+    }
+  ],
+  "models": [
+    {
+      "brand": "MG",
+      "brandSlug": "mg",
+      "model": "MG ZS",
+      "modelSlug": "mg-zs",
+      "fullName": "MG MG ZS",
+      "total": 62510,
+      "percentage": 1.15,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 78,
+      "avgCv": 106,
+      "avgCo2": 137
+    },
+    {
+      "brand": "MG",
+      "brandSlug": "mg",
+      "model": "MG HS",
+      "modelSlug": "mg-hs",
+      "fullName": "MG MG HS",
+      "total": 9586,
+      "percentage": 0.18,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 109,
+      "avgCv": 148,
+      "avgCo2": 46
+    },
+    {
+      "brand": "MG",
+      "brandSlug": "mg",
+      "model": "MG3 HYBRID+",
+      "modelSlug": "mg3-hybrid",
+      "fullName": "MG MG3 HYBRID+",
+      "total": 7546,
+      "percentage": 0.14,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 100
+    },
+    {
+      "brand": "MG",
+      "brandSlug": "mg",
+      "model": "MG3",
+      "modelSlug": "mg3",
+      "fullName": "MG MG3",
+      "total": 2399,
+      "percentage": 0.04,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 85,
+      "avgCv": 116,
+      "avgCo2": 137
+    }
+  ],
+  "leadProvinces": [
+    {
+      "province": "Guadalajara",
+      "slug": "guadalajara",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Soria",
+      "slug": "soria",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Alicante / Alacant",
+      "slug": "alicante-alacant",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Ourense",
+      "slug": "ourense",
+      "monthsLeading": 1
+    }
+  ]
+}

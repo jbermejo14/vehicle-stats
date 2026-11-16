@@ -1,0 +1,161 @@
+{
+  "brand": "TESLA",
+  "brandSlug": "tesla",
+  "model": "MODEL 3",
+  "modelSlug": "model-3",
+  "fullName": "TESLA MODEL 3",
+  "total": 27234,
+  "percentage": 0.5,
+  "category": "Turismo",
+  "primaryFuel": "Eléctrico Puro (BEV)",
+  "primaryBadge": "0 CERO",
+  "avgKw": 217,
+  "avgCv": 295,
+  "avgCo2": 37,
+  "evolution": [
+    {
+      "period": "2024-01",
+      "total": 753,
+      "avgKw": 231,
+      "avgCv": 314,
+      "avgCo2": 0,
+      "avgTara": 1847
+    },
+    {
+      "period": "2024-03",
+      "total": 924,
+      "avgKw": 226,
+      "avgCv": 307,
+      "avgCo2": 0,
+      "avgTara": 1845
+    },
+    {
+      "period": "2024-06",
+      "total": 1145,
+      "avgKw": 247,
+      "avgCv": 336,
+      "avgCo2": 0,
+      "avgTara": 1854
+    },
+    {
+      "period": "2024-09",
+      "total": 2270,
+      "avgKw": 222,
+      "avgCv": 302,
+      "avgCo2": 1,
+      "avgTara": 1843
+    },
+    {
+      "period": "2024-11",
+      "total": 1148,
+      "avgKw": 217,
+      "avgCv": 295,
+      "avgCo2": 136,
+      "avgTara": 1839
+    },
+    {
+      "period": "2024-12",
+      "total": 2499,
+      "avgKw": 222,
+      "avgCv": 302,
+      "avgCo2": 0,
+      "avgTara": 1832
+    },
+    {
+      "period": "2025-03",
+      "total": 1540,
+      "avgKw": 219,
+      "avgCv": 298,
+      "avgCo2": 1,
+      "avgTara": 1835
+    },
+    {
+      "period": "2025-06",
+      "total": 1566,
+      "avgKw": 219,
+      "avgCv": 298,
+      "avgCo2": 0,
+      "avgTara": 1836
+    },
+    {
+      "period": "2025-08",
+      "total": 1217,
+      "avgKw": 211,
+      "avgCv": 287,
+      "avgCo2": 1,
+      "avgTara": 1833
+    },
+    {
+      "period": "2025-09",
+      "total": 2059,
+      "avgKw": 211,
+      "avgCv": 287,
+      "avgCo2": 409,
+      "avgTara": 1836
+    },
+    {
+      "period": "2025-11",
+      "total": 1354,
+      "avgKw": 209,
+      "avgCv": 285,
+      "avgCo2": 0,
+      "avgTara": 1837
+    },
+    {
+      "period": "2025-12",
+      "total": 1029,
+      "avgKw": 212,
+      "avgCv": 288,
+      "avgCo2": 1,
+      "avgTara": 1839
+    },
+    {
+      "period": "2026-02",
+      "total": 1249,
+      "avgKw": 209,
+      "avgCv": 284,
+      "avgCo2": 1,
+      "avgTara": 1846
+    },
+    {
+      "period": "2026-03",
+      "total": 1394,
+      "avgKw": 216,
+      "avgCv": 295,
+      "avgCo2": 0,
+      "avgTara": 1844
+    },
+    {
+      "period": "2026-05",
+      "total": 1248,
+      "avgKw": 215,
+      "avgCv": 293,
+      "avgCo2": 0,
+      "avgTara": 1847
+    },
+    {
+      "period": "2026-06",
+      "total": 2060,
+      "avgKw": 211,
+      "avgCv": 288,
+      "avgCo2": 0,
+      "avgTara": 1848
+    },
+    {
+      "period": "2026-09",
+      "total": 2569,
+      "avgKw": 214,
+      "avgCv": 291,
+      "avgCo2": 0,
+      "avgTara": 1846
+    },
+    {
+      "period": "2026-10",
+      "total": 1210,
+      "avgKw": 204,
+      "avgCv": 278,
+      "avgCo2": 0,
+      "avgTara": 1862
+    }
+  ]
+}

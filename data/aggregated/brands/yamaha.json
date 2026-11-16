@@ -1,0 +1,311 @@
+{
+  "brand": "YAMAHA",
+  "slug": "yamaha",
+  "total": 107621,
+  "percentage": 1.99,
+  "eco0Percentage": 0.9,
+  "avgKw": 23,
+  "monthlyEvolution": [
+    {
+      "period": "2024-01",
+      "total": 2392,
+      "eco0Count": 39,
+      "avgKw": 26,
+      "avgCo2": 74,
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2024-02",
+      "total": 2515,
+      "eco0Count": 28,
+      "avgKw": 25,
+      "avgCo2": 74,
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2024-03",
+      "total": 2793,
+      "eco0Count": 27,
+      "avgKw": 26,
+      "avgCo2": 75,
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2024-04",
+      "total": 3314,
+      "eco0Count": 51,
+      "avgKw": 26,
+      "avgCo2": 75,
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2024-05",
+      "total": 3201,
+      "eco0Count": 49,
+      "avgKw": 26,
+      "avgCo2": 75,
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2024-06",
+      "total": 3690,
+      "eco0Count": 31,
+      "avgKw": 25,
+      "avgCo2": 73,
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2024-07",
+      "total": 3848,
+      "eco0Count": 48,
+      "avgKw": 24,
+      "avgCo2": 72,
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2024-08",
+      "total": 2714,
+      "eco0Count": 26,
+      "avgKw": 22,
+      "avgCo2": 69,
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2024-09",
+      "total": 3217,
+      "eco0Count": 28,
+      "avgKw": 25,
+      "avgCo2": 72,
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2024-10",
+      "total": 3321,
+      "eco0Count": 30,
+      "avgKw": 24,
+      "avgCo2": 72,
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2024-11",
+      "total": 2254,
+      "eco0Count": 24,
+      "avgKw": 27,
+      "avgCo2": 74,
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2024-12",
+      "total": 2528,
+      "eco0Count": 31,
+      "avgKw": 22,
+      "avgCo2": 69,
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2025-01",
+      "total": 2237,
+      "eco0Count": 34,
+      "avgKw": 23,
+      "avgCo2": 69,
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2025-02",
+      "total": 2209,
+      "eco0Count": 30,
+      "avgKw": 22,
+      "avgCo2": 67,
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2025-03",
+      "total": 2704,
+      "eco0Count": 20,
+      "avgKw": 24,
+      "avgCo2": 71,
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2025-04",
+      "total": 3124,
+      "eco0Count": 50,
+      "avgKw": 22,
+      "avgCo2": 69,
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2025-05",
+      "total": 3739,
+      "eco0Count": 32,
+      "avgKw": 23,
+      "avgCo2": 70,
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2025-06",
+      "total": 4147,
+      "eco0Count": 35,
+      "avgKw": 21,
+      "avgCo2": 68,
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2025-07",
+      "total": 4690,
+      "eco0Count": 28,
+      "avgKw": 21,
+      "avgCo2": 68,
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2025-08",
+      "total": 2808,
+      "eco0Count": 20,
+      "avgKw": 23,
+      "avgCo2": 70,
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2025-09",
+      "total": 3493,
+      "eco0Count": 23,
+      "avgKw": 22,
+      "avgCo2": 68,
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2025-10",
+      "total": 3785,
+      "eco0Count": 25,
+      "avgKw": 22,
+      "avgCo2": 69,
+      "topModel": "GPD125D-A"
+    },
+    {
+      "period": "2025-11",
+      "total": 2426,
+      "eco0Count": 9,
+      "avgKw": 25,
+      "avgCo2": 73,
+      "topModel": "GPD125D-A"
+    },
+    {
+      "period": "2025-12",
+      "total": 1970,
+      "eco0Count": 20,
+      "avgKw": 25,
+      "avgCo2": 73,
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2026-01",
+      "total": 2113,
+      "eco0Count": 10,
+      "avgKw": 25,
+      "avgCo2": 73,
+      "topModel": "GPD125D-A"
+    },
+    {
+      "period": "2026-02",
+      "total": 2534,
+      "eco0Count": 20,
+      "avgKw": 23,
+      "avgCo2": 70,
+      "topModel": "GPD125D-A"
+    },
+    {
+      "period": "2026-03",
+      "total": 3552,
+      "eco0Count": 19,
+      "avgKw": 23,
+      "avgCo2": 71,
+      "topModel": "GPD125D-A"
+    },
+    {
+      "period": "2026-04",
+      "total": 3654,
+      "eco0Count": 22,
+      "avgKw": 22,
+      "avgCo2": 69,
+      "topModel": "GPD125D-A"
+    },
+    {
+      "period": "2026-05",
+      "total": 3911,
+      "eco0Count": 39,
+      "avgKw": 22,
+      "avgCo2": 70,
+      "topModel": "GPD125D-A"
+    },
+    {
+      "period": "2026-06",
+      "total": 4515,
+      "eco0Count": 25,
+      "avgKw": 22,
+      "avgCo2": 70,
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2026-07",
+      "total": 4629,
+      "eco0Count": 38,
+      "avgKw": 21,
+      "avgCo2": 67,
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2026-08",
+      "total": 2927,
+      "eco0Count": 22,
+      "avgKw": 19,
+      "avgCo2": 64,
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2026-09",
+      "total": 3510,
+      "eco0Count": 37,
+      "avgKw": 20,
+      "avgCo2": 66,
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2026-10",
+      "total": 3157,
+      "eco0Count": 44,
+      "avgKw": 20,
+      "avgCo2": 67,
+      "topModel": "GPD125-A"
+    }
+  ],
+  "models": [
+    {
+      "brand": "YAMAHA",
+      "brandSlug": "yamaha",
+      "model": "GPD125-A",
+      "modelSlug": "gpd125-a",
+      "fullName": "YAMAHA GPD125-A",
+      "total": 12677,
+      "percentage": 0.23,
+      "category": "Motocicleta",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 9,
+      "avgCv": 12,
+      "avgCo2": 52
+    }
+  ],
+  "leadProvinces": [
+    {
+      "province": "Cádiz",
+      "slug": "cadiz",
+      "monthsLeading": 8
+    },
+    {
+      "province": "Illes Balears",
+      "slug": "illes-balears",
+      "monthsLeading": 2
+    }
+  ]
+}

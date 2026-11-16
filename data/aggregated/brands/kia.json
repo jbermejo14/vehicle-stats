@@ -1,0 +1,406 @@
+{
+  "brand": "KIA",
+  "slug": "kia",
+  "total": 182257,
+  "percentage": 3.37,
+  "eco0Percentage": 71.9,
+  "avgKw": 87,
+  "monthlyEvolution": [
+    {
+      "period": "2024-01",
+      "total": 4708,
+      "eco0Count": 3157,
+      "avgKw": 92,
+      "avgCo2": 118,
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2024-02",
+      "total": 4189,
+      "eco0Count": 2689,
+      "avgKw": 95,
+      "avgCo2": 120,
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2024-03",
+      "total": 7369,
+      "eco0Count": 4760,
+      "avgKw": 90,
+      "avgCo2": 123,
+      "topModel": "STONIC"
+    },
+    {
+      "period": "2024-04",
+      "total": 4903,
+      "eco0Count": 2981,
+      "avgKw": 94,
+      "avgCo2": 123,
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2024-05",
+      "total": 5395,
+      "eco0Count": 3755,
+      "avgKw": 92,
+      "avgCo2": 125,
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2024-06",
+      "total": 5203,
+      "eco0Count": 3058,
+      "avgKw": 95,
+      "avgCo2": 126,
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2024-07",
+      "total": 5570,
+      "eco0Count": 3843,
+      "avgKw": 88,
+      "avgCo2": 121,
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2024-08",
+      "total": 3643,
+      "eco0Count": 2251,
+      "avgKw": 89,
+      "avgCo2": 125,
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2024-09",
+      "total": 4280,
+      "eco0Count": 2563,
+      "avgKw": 88,
+      "avgCo2": 124,
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2024-10",
+      "total": 4719,
+      "eco0Count": 2899,
+      "avgKw": 87,
+      "avgCo2": 124,
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2024-11",
+      "total": 5770,
+      "eco0Count": 3335,
+      "avgKw": 87,
+      "avgCo2": 126,
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2024-12",
+      "total": 5616,
+      "eco0Count": 3937,
+      "avgKw": 84,
+      "avgCo2": 124,
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2025-01",
+      "total": 4976,
+      "eco0Count": 3334,
+      "avgKw": 84,
+      "avgCo2": 123,
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2025-02",
+      "total": 5850,
+      "eco0Count": 3975,
+      "avgKw": 83,
+      "avgCo2": 124,
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2025-03",
+      "total": 6428,
+      "eco0Count": 4418,
+      "avgKw": 81,
+      "avgCo2": 123,
+      "topModel": "STONIC"
+    },
+    {
+      "period": "2025-04",
+      "total": 6396,
+      "eco0Count": 4309,
+      "avgKw": 82,
+      "avgCo2": 123,
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2025-05",
+      "total": 6938,
+      "eco0Count": 4824,
+      "avgKw": 83,
+      "avgCo2": 122,
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2025-06",
+      "total": 5545,
+      "eco0Count": 4068,
+      "avgKw": 84,
+      "avgCo2": 120,
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2025-07",
+      "total": 5534,
+      "eco0Count": 4109,
+      "avgKw": 86,
+      "avgCo2": 123,
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2025-08",
+      "total": 3371,
+      "eco0Count": 2549,
+      "avgKw": 82,
+      "avgCo2": 123,
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2025-09",
+      "total": 4432,
+      "eco0Count": 3021,
+      "avgKw": 80,
+      "avgCo2": 123,
+      "topModel": "STONIC"
+    },
+    {
+      "period": "2025-10",
+      "total": 4804,
+      "eco0Count": 3964,
+      "avgKw": 84,
+      "avgCo2": 123,
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2025-11",
+      "total": 4541,
+      "eco0Count": 3397,
+      "avgKw": 85,
+      "avgCo2": 123,
+      "topModel": "STONIC"
+    },
+    {
+      "period": "2025-12",
+      "total": 4577,
+      "eco0Count": 3873,
+      "avgKw": 87,
+      "avgCo2": 123,
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2026-01",
+      "total": 3757,
+      "eco0Count": 3029,
+      "avgKw": 85,
+      "avgCo2": 123,
+      "topModel": "STONIC"
+    },
+    {
+      "period": "2026-02",
+      "total": 5325,
+      "eco0Count": 4061,
+      "avgKw": 85,
+      "avgCo2": 123,
+      "topModel": "STONIC"
+    },
+    {
+      "period": "2026-03",
+      "total": 6544,
+      "eco0Count": 4930,
+      "avgKw": 87,
+      "avgCo2": 125,
+      "topModel": "STONIC"
+    },
+    {
+      "period": "2026-04",
+      "total": 5854,
+      "eco0Count": 4886,
+      "avgKw": 86,
+      "avgCo2": 122,
+      "topModel": "STONIC"
+    },
+    {
+      "period": "2026-05",
+      "total": 6341,
+      "eco0Count": 5237,
+      "avgKw": 83,
+      "avgCo2": 123,
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2026-06",
+      "total": 6827,
+      "eco0Count": 5727,
+      "avgKw": 87,
+      "avgCo2": 122,
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2026-07",
+      "total": 6933,
+      "eco0Count": 4958,
+      "avgKw": 88,
+      "avgCo2": 123,
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2026-08",
+      "total": 4230,
+      "eco0Count": 3422,
+      "avgKw": 87,
+      "avgCo2": 121,
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2026-09",
+      "total": 4798,
+      "eco0Count": 3998,
+      "avgKw": 87,
+      "avgCo2": 122,
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2026-10",
+      "total": 6891,
+      "eco0Count": 5771,
+      "avgKw": 88,
+      "avgCo2": 123,
+      "topModel": "SPORTAGE"
+    }
+  ],
+  "models": [
+    {
+      "brand": "KIA",
+      "brandSlug": "kia",
+      "model": "SPORTAGE",
+      "modelSlug": "sportage",
+      "fullName": "KIA SPORTAGE",
+      "total": 48898,
+      "percentage": 0.9,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 120,
+      "avgCv": 163,
+      "avgCo2": 132
+    },
+    {
+      "brand": "KIA",
+      "brandSlug": "kia",
+      "model": "STONIC",
+      "modelSlug": "stonic",
+      "fullName": "KIA STONIC",
+      "total": 34754,
+      "percentage": 0.64,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 75,
+      "avgCv": 101,
+      "avgCo2": 125
+    },
+    {
+      "brand": "KIA",
+      "brandSlug": "kia",
+      "model": "NIRO",
+      "modelSlug": "niro",
+      "fullName": "KIA NIRO",
+      "total": 23095,
+      "percentage": 0.43,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 71,
+      "avgCv": 97,
+      "avgCo2": 100
+    },
+    {
+      "brand": "KIA",
+      "brandSlug": "kia",
+      "model": "XCEED",
+      "modelSlug": "xceed",
+      "fullName": "KIA XCEED",
+      "total": 2574,
+      "percentage": 0.05,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 91,
+      "avgCv": 123,
+      "avgCo2": 133
+    },
+    {
+      "brand": "KIA",
+      "brandSlug": "kia",
+      "model": "CEED",
+      "modelSlug": "ceed",
+      "fullName": "KIA CEED",
+      "total": 853,
+      "percentage": 0.02,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 76,
+      "avgCv": 103,
+      "avgCo2": 119
+    }
+  ],
+  "leadProvinces": [
+    {
+      "province": "Alicante / Alacant",
+      "slug": "alicante-alacant",
+      "monthsLeading": 4
+    },
+    {
+      "province": "Guadalajara",
+      "slug": "guadalajara",
+      "monthsLeading": 4
+    },
+    {
+      "province": "Castellón / Castelló",
+      "slug": "castellon-castello",
+      "monthsLeading": 3
+    },
+    {
+      "province": "Valencia / València",
+      "slug": "valencia-valencia",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Las Palmas",
+      "slug": "las-palmas",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Lugo",
+      "slug": "lugo",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Salamanca",
+      "slug": "salamanca",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Cuenca",
+      "slug": "cuenca",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Zamora",
+      "slug": "zamora",
+      "monthsLeading": 1
+    }
+  ]
+}

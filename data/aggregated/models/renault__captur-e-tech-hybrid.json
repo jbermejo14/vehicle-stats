@@ -1,0 +1,41 @@
+{
+  "brand": "RENAULT",
+  "brandSlug": "renault",
+  "model": "CAPTUR E-TECH HYBRID",
+  "modelSlug": "captur-e-tech-hybrid",
+  "fullName": "RENAULT CAPTUR E-TECH HYBRID",
+  "total": 2971,
+  "percentage": 0.05,
+  "category": "Turismo",
+  "primaryFuel": "Híbrido (HEV)",
+  "primaryBadge": "ECO",
+  "avgKw": 75,
+  "avgCv": 101,
+  "avgCo2": 102,
+  "evolution": [
+    {
+      "period": "2025-03",
+      "total": 1240,
+      "avgKw": 69,
+      "avgCv": 94,
+      "avgCo2": 104,
+      "avgTara": 1445
+    },
+    {
+      "period": "2025-09",
+      "total": 849,
+      "avgKw": 77,
+      "avgCv": 105,
+      "avgCo2": 101,
+      "avgTara": 1442
+    },
+    {
+      "period": "2026-02",
+      "total": 882,
+      "avgKw": 80,
+      "avgCv": 108,
+      "avgCo2": 100,
+      "avgTara": 1441
+    }
+  ]
+}

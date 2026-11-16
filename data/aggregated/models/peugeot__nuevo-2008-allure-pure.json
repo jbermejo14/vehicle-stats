@@ -1,0 +1,41 @@
+{
+  "brand": "PEUGEOT",
+  "brandSlug": "peugeot",
+  "model": "NUEVO 2008 ALLURE PURE",
+  "modelSlug": "nuevo-2008-allure-pure",
+  "fullName": "PEUGEOT NUEVO 2008 ALLURE PURE",
+  "total": 3870,
+  "percentage": 0.07,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 86,
+  "avgCv": 118,
+  "avgCo2": 132,
+  "evolution": [
+    {
+      "period": "2024-03",
+      "total": 861,
+      "avgKw": 83,
+      "avgCv": 113,
+      "avgCo2": 130,
+      "avgTara": 1270
+    },
+    {
+      "period": "2024-05",
+      "total": 1703,
+      "avgKw": 88,
+      "avgCv": 121,
+      "avgCo2": 133,
+      "avgTara": 1274
+    },
+    {
+      "period": "2024-06",
+      "total": 1306,
+      "avgKw": 85,
+      "avgCv": 116,
+      "avgCo2": 131,
+      "avgTara": 1272
+    }
+  ]
+}

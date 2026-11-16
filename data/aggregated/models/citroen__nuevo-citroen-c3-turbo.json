@@ -1,0 +1,33 @@
+{
+  "brand": "CITROEN",
+  "brandSlug": "citroen",
+  "model": "NUEVO CITROËN C3 TURBO",
+  "modelSlug": "nuevo-citroen-c3-turbo",
+  "fullName": "CITROEN NUEVO CITROËN C3 TURBO",
+  "total": 1995,
+  "percentage": 0.04,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 74,
+  "avgCv": 101,
+  "avgCo2": 127,
+  "evolution": [
+    {
+      "period": "2025-01",
+      "total": 874,
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 127,
+      "avgTara": 1226
+    },
+    {
+      "period": "2025-06",
+      "total": 1121,
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 127,
+      "avgTara": 1226
+    }
+  ]
+}

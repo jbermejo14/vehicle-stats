@@ -1,0 +1,25 @@
+{
+  "brand": "FORD",
+  "brandSlug": "ford",
+  "model": "TRANSIT CUSTOM",
+  "modelSlug": "transit-custom",
+  "fullName": "FORD TRANSIT CUSTOM",
+  "total": 614,
+  "percentage": 0.01,
+  "category": "Comercial",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 100,
+  "avgCv": 136,
+  "avgCo2": 178,
+  "evolution": [
+    {
+      "period": "2025-01",
+      "total": 614,
+      "avgKw": 100,
+      "avgCv": 136,
+      "avgCo2": 178,
+      "avgTara": 2069
+    }
+  ]
+}

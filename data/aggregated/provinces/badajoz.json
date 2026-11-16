@@ -1,0 +1,444 @@
+{
+  "code": "06",
+  "name": "Badajoz",
+  "slug": "badajoz",
+  "community": "Extremadura",
+  "population": 666971,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 41112,
+  "percentageOfSpain": 0.76,
+  "per1000Habitantes": 61.64,
+  "ceroCount": 2460,
+  "ecoCount": 7946,
+  "bevCount": 2107,
+  "phevCount": 353,
+  "hevCount": 7946,
+  "ceroPercentage": 6,
+  "ecoPercentage": 19.3,
+  "bevPercentage": 5.1,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 1023,
+      "cero": 37,
+      "eco": 148,
+      "bev": 33,
+      "phev": 4,
+      "hev": 148,
+      "topBrand": "TOYOTA",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-02",
+      "total": 1013,
+      "cero": 31,
+      "eco": 165,
+      "bev": 30,
+      "phev": 1,
+      "hev": 165,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-03",
+      "total": 989,
+      "cero": 48,
+      "eco": 167,
+      "bev": 47,
+      "phev": 1,
+      "hev": 167,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "AS440ST/P"
+    },
+    {
+      "period": "2024-04",
+      "total": 1109,
+      "cero": 48,
+      "eco": 163,
+      "bev": 47,
+      "phev": 1,
+      "hev": 163,
+      "topBrand": "TOYOTA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-05",
+      "total": 1090,
+      "cero": 44,
+      "eco": 166,
+      "bev": 44,
+      "phev": 0,
+      "hev": 166,
+      "topBrand": "TOYOTA",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-06",
+      "total": 1067,
+      "cero": 37,
+      "eco": 175,
+      "bev": 37,
+      "phev": 0,
+      "hev": 175,
+      "topBrand": "TOYOTA",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-07",
+      "total": 1213,
+      "cero": 33,
+      "eco": 228,
+      "bev": 33,
+      "phev": 0,
+      "hev": 228,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-08",
+      "total": 857,
+      "cero": 19,
+      "eco": 167,
+      "bev": 18,
+      "phev": 1,
+      "hev": 167,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-09",
+      "total": 978,
+      "cero": 37,
+      "eco": 221,
+      "bev": 36,
+      "phev": 1,
+      "hev": 221,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-10",
+      "total": 1332,
+      "cero": 50,
+      "eco": 269,
+      "bev": 50,
+      "phev": 0,
+      "hev": 269,
+      "topBrand": "TOYOTA",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-11",
+      "total": 1135,
+      "cero": 46,
+      "eco": 233,
+      "bev": 46,
+      "phev": 0,
+      "hev": 233,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA LAND CRUISER (1"
+    },
+    {
+      "period": "2024-12",
+      "total": 1235,
+      "cero": 61,
+      "eco": 279,
+      "bev": 61,
+      "phev": 0,
+      "hev": 279,
+      "topBrand": "TOYOTA",
+      "topModel": "BYD SEAL U DM-I"
+    },
+    {
+      "period": "2025-01",
+      "total": 1093,
+      "cero": 59,
+      "eco": 251,
+      "bev": 55,
+      "phev": 4,
+      "hev": 251,
+      "topBrand": "TOYOTA",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-02",
+      "total": 1033,
+      "cero": 45,
+      "eco": 225,
+      "bev": 41,
+      "phev": 4,
+      "hev": 225,
+      "topBrand": "TOYOTA",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-03",
+      "total": 1101,
+      "cero": 51,
+      "eco": 239,
+      "bev": 48,
+      "phev": 3,
+      "hev": 239,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-04",
+      "total": 1132,
+      "cero": 48,
+      "eco": 201,
+      "bev": 43,
+      "phev": 5,
+      "hev": 201,
+      "topBrand": "TOYOTA",
+      "topModel": "NOT APPLICABLE"
+    },
+    {
+      "period": "2025-05",
+      "total": 1257,
+      "cero": 69,
+      "eco": 230,
+      "bev": 60,
+      "phev": 9,
+      "hev": 230,
+      "topBrand": "TOYOTA",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-06",
+      "total": 1261,
+      "cero": 67,
+      "eco": 257,
+      "bev": 61,
+      "phev": 6,
+      "hev": 257,
+      "topBrand": "TOYOTA",
+      "topModel": "BYD SEAL U DM-I"
+    },
+    {
+      "period": "2025-07",
+      "total": 1450,
+      "cero": 71,
+      "eco": 258,
+      "bev": 52,
+      "phev": 19,
+      "hev": 258,
+      "topBrand": "TOYOTA",
+      "topModel": "AS440ST/FP"
+    },
+    {
+      "period": "2025-08",
+      "total": 928,
+      "cero": 72,
+      "eco": 180,
+      "bev": 52,
+      "phev": 20,
+      "hev": 180,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2025-09",
+      "total": 1210,
+      "cero": 116,
+      "eco": 226,
+      "bev": 89,
+      "phev": 27,
+      "hev": 226,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-10",
+      "total": 1584,
+      "cero": 105,
+      "eco": 268,
+      "bev": 88,
+      "phev": 17,
+      "hev": 268,
+      "topBrand": "PEUGEOT",
+      "topModel": "208 5P ALLURE GASOLINA"
+    },
+    {
+      "period": "2025-11",
+      "total": 1367,
+      "cero": 116,
+      "eco": 245,
+      "bev": 96,
+      "phev": 20,
+      "hev": 245,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "AS440ST/FP"
+    },
+    {
+      "period": "2025-12",
+      "total": 1542,
+      "cero": 121,
+      "eco": 474,
+      "bev": 105,
+      "phev": 16,
+      "hev": 474,
+      "topBrand": "HYUNDAI",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2026-01",
+      "total": 999,
+      "cero": 67,
+      "eco": 206,
+      "bev": 53,
+      "phev": 14,
+      "hev": 206,
+      "topBrand": "TOYOTA",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2026-02",
+      "total": 1199,
+      "cero": 74,
+      "eco": 219,
+      "bev": 57,
+      "phev": 17,
+      "hev": 219,
+      "topBrand": "TOYOTA",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2026-03",
+      "total": 1539,
+      "cero": 123,
+      "eco": 289,
+      "bev": 102,
+      "phev": 21,
+      "hev": 289,
+      "topBrand": "TOYOTA",
+      "topModel": "BYD ATTO 2  DM-I"
+    },
+    {
+      "period": "2026-04",
+      "total": 1346,
+      "cero": 91,
+      "eco": 253,
+      "bev": 71,
+      "phev": 20,
+      "hev": 253,
+      "topBrand": "BYD",
+      "topModel": "BYD ATTO 2  DM-I"
+    },
+    {
+      "period": "2026-05",
+      "total": 1272,
+      "cero": 108,
+      "eco": 263,
+      "bev": 89,
+      "phev": 19,
+      "hev": 263,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2026-06",
+      "total": 1410,
+      "cero": 110,
+      "eco": 253,
+      "bev": 89,
+      "phev": 21,
+      "hev": 253,
+      "topBrand": "TOYOTA",
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2026-07",
+      "total": 1489,
+      "cero": 88,
+      "eco": 260,
+      "bev": 65,
+      "phev": 23,
+      "hev": 260,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "KG MOBILITY REXTON"
+    },
+    {
+      "period": "2026-08",
+      "total": 1157,
+      "cero": 83,
+      "eco": 254,
+      "bev": 66,
+      "phev": 17,
+      "hev": 254,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2026-09",
+      "total": 1333,
+      "cero": 149,
+      "eco": 246,
+      "bev": 132,
+      "phev": 17,
+      "hev": 246,
+      "topBrand": "TOYOTA",
+      "topModel": "OMODA5 HEV"
+    },
+    {
+      "period": "2026-10",
+      "total": 1369,
+      "cero": 136,
+      "eco": 268,
+      "bev": 111,
+      "phev": 25,
+      "hev": 268,
+      "topBrand": "TOYOTA",
+      "topModel": "OMODA5 HEV"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 25
+    },
+    {
+      "brand": "MERCEDES-BENZ",
+      "slug": "mercedes-benz",
+      "timesLeader": 3
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "timesLeader": 3
+    },
+    {
+      "brand": "PEUGEOT",
+      "slug": "peugeot",
+      "timesLeader": 1
+    },
+    {
+      "brand": "HYUNDAI",
+      "slug": "hyundai",
+      "timesLeader": 1
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "TUCSON",
+      "timesLeader": 7
+    },
+    {
+      "model": "DESCONOCIDO",
+      "timesLeader": 5
+    },
+    {
+      "model": "SANDERO",
+      "timesLeader": 4
+    },
+    {
+      "model": "TOYOTA COROLLA",
+      "timesLeader": 3
+    },
+    {
+      "model": "BYD SEAL U DM-I",
+      "timesLeader": 2
+    }
+  ]
+}

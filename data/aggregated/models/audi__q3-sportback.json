@@ -1,0 +1,33 @@
+{
+  "brand": "AUDI",
+  "brandSlug": "audi",
+  "model": "Q3 SPORTBACK",
+  "modelSlug": "q3-sportback",
+  "fullName": "AUDI Q3 SPORTBACK",
+  "total": 1373,
+  "percentage": 0.03,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 115,
+  "avgCv": 157,
+  "avgCo2": 157,
+  "evolution": [
+    {
+      "period": "2024-06",
+      "total": 902,
+      "avgKw": 114,
+      "avgCv": 156,
+      "avgCo2": 157,
+      "avgTara": 1644
+    },
+    {
+      "period": "2024-08",
+      "total": 471,
+      "avgKw": 116,
+      "avgCv": 158,
+      "avgCo2": 158,
+      "avgTara": 1656
+    }
+  ]
+}

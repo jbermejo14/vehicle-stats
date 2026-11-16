@@ -1,0 +1,444 @@
+{
+  "code": "23",
+  "name": "Jaén",
+  "slug": "jaen",
+  "community": "Andalucía",
+  "population": 620242,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 39397,
+  "percentageOfSpain": 0.73,
+  "per1000Habitantes": 63.52,
+  "ceroCount": 1869,
+  "ecoCount": 7336,
+  "bevCount": 1660,
+  "phevCount": 209,
+  "hevCount": 7331,
+  "ceroPercentage": 4.7,
+  "ecoPercentage": 18.6,
+  "bevPercentage": 4.2,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 818,
+      "cero": 36,
+      "eco": 137,
+      "bev": 36,
+      "phev": 0,
+      "hev": 137,
+      "topBrand": "TOYOTA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-02",
+      "total": 797,
+      "cero": 22,
+      "eco": 161,
+      "bev": 17,
+      "phev": 5,
+      "hev": 161,
+      "topBrand": "TOYOTA",
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2024-03",
+      "total": 811,
+      "cero": 11,
+      "eco": 126,
+      "bev": 11,
+      "phev": 0,
+      "hev": 126,
+      "topBrand": "TOYOTA",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-04",
+      "total": 952,
+      "cero": 20,
+      "eco": 146,
+      "bev": 20,
+      "phev": 0,
+      "hev": 146,
+      "topBrand": "TOYOTA",
+      "topModel": "FH"
+    },
+    {
+      "period": "2024-05",
+      "total": 917,
+      "cero": 24,
+      "eco": 147,
+      "bev": 23,
+      "phev": 1,
+      "hev": 147,
+      "topBrand": "TOYOTA",
+      "topModel": "DUSTER"
+    },
+    {
+      "period": "2024-06",
+      "total": 933,
+      "cero": 27,
+      "eco": 164,
+      "bev": 27,
+      "phev": 0,
+      "hev": 164,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-07",
+      "total": 1059,
+      "cero": 25,
+      "eco": 209,
+      "bev": 24,
+      "phev": 1,
+      "hev": 209,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-08",
+      "total": 754,
+      "cero": 15,
+      "eco": 150,
+      "bev": 15,
+      "phev": 0,
+      "hev": 150,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-09",
+      "total": 951,
+      "cero": 31,
+      "eco": 155,
+      "bev": 31,
+      "phev": 0,
+      "hev": 155,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-10",
+      "total": 1302,
+      "cero": 33,
+      "eco": 211,
+      "bev": 33,
+      "phev": 0,
+      "hev": 211,
+      "topBrand": "DAF",
+      "topModel": "XG 480 FT"
+    },
+    {
+      "period": "2024-11",
+      "total": 1347,
+      "cero": 40,
+      "eco": 193,
+      "bev": 39,
+      "phev": 1,
+      "hev": 193,
+      "topBrand": "DAF",
+      "topModel": "XG 480 FT"
+    },
+    {
+      "period": "2024-12",
+      "total": 1197,
+      "cero": 40,
+      "eco": 238,
+      "bev": 40,
+      "phev": 0,
+      "hev": 238,
+      "topBrand": "TOYOTA",
+      "topModel": "XG 480 FT"
+    },
+    {
+      "period": "2025-01",
+      "total": 859,
+      "cero": 31,
+      "eco": 159,
+      "bev": 30,
+      "phev": 1,
+      "hev": 158,
+      "topBrand": "TOYOTA",
+      "topModel": "XG 480 FT"
+    },
+    {
+      "period": "2025-02",
+      "total": 925,
+      "cero": 32,
+      "eco": 165,
+      "bev": 32,
+      "phev": 0,
+      "hev": 163,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TOYOTA RAV4"
+    },
+    {
+      "period": "2025-03",
+      "total": 1167,
+      "cero": 48,
+      "eco": 250,
+      "bev": 44,
+      "phev": 4,
+      "hev": 250,
+      "topBrand": "TOYOTA",
+      "topModel": "NUEVO C4 HYBRID 136 Ë-"
+    },
+    {
+      "period": "2025-04",
+      "total": 1026,
+      "cero": 39,
+      "eco": 178,
+      "bev": 32,
+      "phev": 7,
+      "hev": 178,
+      "topBrand": "TOYOTA",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-05",
+      "total": 1076,
+      "cero": 44,
+      "eco": 197,
+      "bev": 39,
+      "phev": 5,
+      "hev": 197,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-06",
+      "total": 1204,
+      "cero": 85,
+      "eco": 259,
+      "bev": 76,
+      "phev": 9,
+      "hev": 259,
+      "topBrand": "TOYOTA",
+      "topModel": "AS440ST/P"
+    },
+    {
+      "period": "2025-07",
+      "total": 1311,
+      "cero": 70,
+      "eco": 243,
+      "bev": 61,
+      "phev": 9,
+      "hev": 243,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-08",
+      "total": 924,
+      "cero": 38,
+      "eco": 172,
+      "bev": 32,
+      "phev": 6,
+      "hev": 170,
+      "topBrand": "TOYOTA",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2025-09",
+      "total": 1263,
+      "cero": 69,
+      "eco": 220,
+      "bev": 62,
+      "phev": 7,
+      "hev": 220,
+      "topBrand": "TOYOTA",
+      "topModel": "AS440ST/P"
+    },
+    {
+      "period": "2025-10",
+      "total": 1823,
+      "cero": 61,
+      "eco": 287,
+      "bev": 54,
+      "phev": 7,
+      "hev": 287,
+      "topBrand": "IVECO",
+      "topModel": "XG 480 FT"
+    },
+    {
+      "period": "2025-11",
+      "total": 1518,
+      "cero": 77,
+      "eco": 241,
+      "bev": 63,
+      "phev": 14,
+      "hev": 241,
+      "topBrand": "TOYOTA",
+      "topModel": "FH"
+    },
+    {
+      "period": "2025-12",
+      "total": 1449,
+      "cero": 77,
+      "eco": 272,
+      "bev": 66,
+      "phev": 11,
+      "hev": 272,
+      "topBrand": "VOLVO",
+      "topModel": "LTF-LT FRG-FL"
+    },
+    {
+      "period": "2026-01",
+      "total": 1013,
+      "cero": 46,
+      "eco": 210,
+      "bev": 40,
+      "phev": 6,
+      "hev": 210,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2026-02",
+      "total": 1045,
+      "cero": 54,
+      "eco": 242,
+      "bev": 40,
+      "phev": 14,
+      "hev": 242,
+      "topBrand": "TOYOTA",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2026-03",
+      "total": 1377,
+      "cero": 85,
+      "eco": 286,
+      "bev": 70,
+      "phev": 15,
+      "hev": 286,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-04",
+      "total": 1216,
+      "cero": 93,
+      "eco": 254,
+      "bev": 86,
+      "phev": 7,
+      "hev": 254,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-05",
+      "total": 1252,
+      "cero": 76,
+      "eco": 224,
+      "bev": 66,
+      "phev": 10,
+      "hev": 224,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-06",
+      "total": 1518,
+      "cero": 107,
+      "eco": 411,
+      "bev": 90,
+      "phev": 17,
+      "hev": 411,
+      "topBrand": "CITROEN",
+      "topModel": "NUEVO C4 HYBRID 145 Ë-"
+    },
+    {
+      "period": "2026-07",
+      "total": 1466,
+      "cero": 104,
+      "eco": 290,
+      "bev": 84,
+      "phev": 20,
+      "hev": 290,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-08",
+      "total": 1111,
+      "cero": 65,
+      "eco": 256,
+      "bev": 54,
+      "phev": 11,
+      "hev": 256,
+      "topBrand": "TOYOTA",
+      "topModel": "125X"
+    },
+    {
+      "period": "2026-09",
+      "total": 1531,
+      "cero": 118,
+      "eco": 257,
+      "bev": 108,
+      "phev": 10,
+      "hev": 257,
+      "topBrand": "VOLVO",
+      "topModel": "FH"
+    },
+    {
+      "period": "2026-10",
+      "total": 1485,
+      "cero": 126,
+      "eco": 226,
+      "bev": 115,
+      "phev": 11,
+      "hev": 226,
+      "topBrand": "VOLVO",
+      "topModel": "FH"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 23
+    },
+    {
+      "brand": "VOLVO",
+      "slug": "volvo",
+      "timesLeader": 3
+    },
+    {
+      "brand": "MERCEDES-BENZ",
+      "slug": "mercedes-benz",
+      "timesLeader": 2
+    },
+    {
+      "brand": "DAF",
+      "slug": "daf",
+      "timesLeader": 2
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "timesLeader": 2
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "SANDERO",
+      "timesLeader": 9
+    },
+    {
+      "model": "XG 480 FT",
+      "timesLeader": 5
+    },
+    {
+      "model": "FH",
+      "timesLeader": 4
+    },
+    {
+      "model": "TUCSON",
+      "timesLeader": 2
+    },
+    {
+      "model": "DESCONOCIDO",
+      "timesLeader": 2
+    }
+  ]
+}

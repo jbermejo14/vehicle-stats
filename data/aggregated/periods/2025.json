@@ -1,0 +1,585 @@
+{
+  "year": 2025,
+  "total": 1944430,
+  "monthsCount": 12,
+  "yoyDiff": 228080,
+  "yoyPct": 13.29,
+  "prevPeriodTotal": 1716350,
+  "fuels": {
+    "gasolina": 1260074,
+    "diesel": 20633,
+    "hev": 509127,
+    "phev": 15737,
+    "bev": 138699,
+    "glpGnc": 160
+  },
+  "badges": {
+    "cero": 154436,
+    "eco": 509287,
+    "c": 1280707,
+    "b": 0,
+    "sinEtiqueta": 0
+  },
+  "months": [
+    {
+      "period": "2025-01",
+      "month": 1,
+      "monthName": "Enero",
+      "total": 125425,
+      "topBrand": "TOYOTA",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "period": "2025-02",
+      "month": 2,
+      "monthName": "Febrero",
+      "total": 147085,
+      "topBrand": "RENAULT",
+      "topModel": "MG MG ZS"
+    },
+    {
+      "period": "2025-03",
+      "month": 3,
+      "monthName": "Marzo",
+      "total": 179345,
+      "topBrand": "RENAULT",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "period": "2025-04",
+      "month": 4,
+      "monthName": "Abril",
+      "total": 162550,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "period": "2025-05",
+      "month": 5,
+      "monthName": "Mayo",
+      "total": 185750,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "period": "2025-06",
+      "month": 6,
+      "monthName": "Junio",
+      "total": 194021,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "period": "2025-07",
+      "month": 7,
+      "monthName": "Julio",
+      "total": 179039,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "period": "2025-08",
+      "month": 8,
+      "monthName": "Agosto",
+      "total": 113138,
+      "topBrand": "TOYOTA",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "period": "2025-09",
+      "month": 9,
+      "monthName": "Septiembre",
+      "total": 154363,
+      "topBrand": "TOYOTA",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "period": "2025-10",
+      "month": 10,
+      "monthName": "Octubre",
+      "total": 176870,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "period": "2025-11",
+      "month": 11,
+      "monthName": "Noviembre",
+      "total": 160698,
+      "topBrand": "RENAULT",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "period": "2025-12",
+      "month": 12,
+      "monthName": "Diciembre",
+      "total": 166146,
+      "topBrand": "RENAULT",
+      "topModel": "RENAULT CLIO"
+    }
+  ],
+  "brands": [
+    {
+      "brand": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "total": 125134,
+      "percentage": 6.44,
+      "eco0Percentage": 9.1,
+      "avgKw": 99
+    },
+    {
+      "brand": "RENAULT",
+      "slug": "renault",
+      "total": 119663,
+      "percentage": 6.15,
+      "eco0Percentage": 41.7,
+      "avgKw": 89
+    },
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "total": 118783,
+      "percentage": 6.11,
+      "eco0Percentage": 71.4,
+      "avgKw": 87
+    },
+    {
+      "brand": "PEUGEOT",
+      "slug": "peugeot",
+      "total": 91879,
+      "percentage": 4.73,
+      "eco0Percentage": 41,
+      "avgKw": 85
+    },
+    {
+      "brand": "MERCEDES-BENZ",
+      "slug": "mercedes-benz",
+      "total": 84224,
+      "percentage": 4.33,
+      "eco0Percentage": 30.3,
+      "avgKw": 140
+    },
+    {
+      "brand": "BMW",
+      "slug": "bmw",
+      "total": 80575,
+      "percentage": 4.14,
+      "eco0Percentage": 41.5,
+      "avgKw": 129
+    },
+    {
+      "brand": "HYUNDAI",
+      "slug": "hyundai",
+      "total": 71218,
+      "percentage": 3.66,
+      "eco0Percentage": 54.4,
+      "avgKw": 84
+    },
+    {
+      "brand": "SEAT",
+      "slug": "seat",
+      "total": 70368,
+      "percentage": 3.62,
+      "eco0Percentage": 7.2,
+      "avgKw": 88
+    },
+    {
+      "brand": "DACIA",
+      "slug": "dacia",
+      "total": 67191,
+      "percentage": 3.46,
+      "eco0Percentage": 29.8,
+      "avgKw": 71
+    },
+    {
+      "brand": "KIA",
+      "slug": "kia",
+      "total": 63392,
+      "percentage": 3.26,
+      "eco0Percentage": 72.3,
+      "avgKw": 83
+    },
+    {
+      "brand": "CITROEN",
+      "slug": "citroen",
+      "total": 63001,
+      "percentage": 3.24,
+      "eco0Percentage": 36.1,
+      "avgKw": 86
+    },
+    {
+      "brand": "FORD",
+      "slug": "ford",
+      "total": 62156,
+      "percentage": 3.2,
+      "eco0Percentage": 33.6,
+      "avgKw": 106
+    },
+    {
+      "brand": "HONDA",
+      "slug": "honda",
+      "total": 60576,
+      "percentage": 3.12,
+      "eco0Percentage": 7.7,
+      "avgKw": 33
+    },
+    {
+      "brand": "AUDI",
+      "slug": "audi",
+      "total": 59702,
+      "percentage": 3.07,
+      "eco0Percentage": 32,
+      "avgKw": 130
+    },
+    {
+      "brand": "MG",
+      "slug": "mg",
+      "total": 46250,
+      "percentage": 2.38,
+      "eco0Percentage": 43.1,
+      "avgKw": 88
+    },
+    {
+      "brand": "SKODA",
+      "slug": "skoda",
+      "total": 44085,
+      "percentage": 2.27,
+      "eco0Percentage": 12.3,
+      "avgKw": 98
+    },
+    {
+      "brand": "NISSAN",
+      "slug": "nissan",
+      "total": 41568,
+      "percentage": 2.14,
+      "eco0Percentage": 68.4,
+      "avgKw": 101
+    },
+    {
+      "brand": "OPEL",
+      "slug": "opel",
+      "total": 41504,
+      "percentage": 2.13,
+      "eco0Percentage": 23.7,
+      "avgKw": 83
+    },
+    {
+      "brand": "YAMAHA",
+      "slug": "yamaha",
+      "total": 37332,
+      "percentage": 1.92,
+      "eco0Percentage": 0.9,
+      "avgKw": 22
+    },
+    {
+      "brand": "CUPRA",
+      "slug": "cupra",
+      "total": 26943,
+      "percentage": 1.39,
+      "eco0Percentage": 86,
+      "avgKw": 120
+    }
+  ],
+  "models": [
+    {
+      "brand": "DACIA",
+      "brandSlug": "dacia",
+      "model": "SANDERO",
+      "modelSlug": "sandero",
+      "fullName": "DACIA SANDERO",
+      "total": 39069,
+      "percentage": 2.01,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 67,
+      "avgCv": 91,
+      "avgCo2": 112
+    },
+    {
+      "brand": "RENAULT",
+      "brandSlug": "renault",
+      "model": "CLIO",
+      "modelSlug": "clio",
+      "fullName": "RENAULT CLIO",
+      "total": 24771,
+      "percentage": 1.27,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 69,
+      "avgCv": 94,
+      "avgCo2": 111
+    },
+    {
+      "brand": "SEAT",
+      "brandSlug": "seat",
+      "model": "IBIZA",
+      "modelSlug": "ibiza",
+      "fullName": "SEAT IBIZA",
+      "total": 23943,
+      "percentage": 1.23,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 78,
+      "avgCv": 107,
+      "avgCo2": 118
+    },
+    {
+      "brand": "MG",
+      "brandSlug": "mg",
+      "model": "MG ZS",
+      "modelSlug": "mg-zs",
+      "fullName": "MG MG ZS",
+      "total": 23777,
+      "percentage": 1.22,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 77,
+      "avgCv": 105,
+      "avgCo2": 134
+    },
+    {
+      "brand": "HYUNDAI",
+      "brandSlug": "hyundai",
+      "model": "TUCSON",
+      "modelSlug": "tucson",
+      "fullName": "HYUNDAI TUCSON",
+      "total": 21903,
+      "percentage": 1.13,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 116,
+      "avgCv": 157,
+      "avgCo2": 122
+    },
+    {
+      "brand": "TOYOTA",
+      "brandSlug": "toyota",
+      "model": "TOYOTA COROLLA",
+      "modelSlug": "toyota-corolla",
+      "fullName": "TOYOTA TOYOTA COROLLA",
+      "total": 21836,
+      "percentage": 1.12,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 76,
+      "avgCv": 103,
+      "avgCo2": 103
+    },
+    {
+      "brand": "SEAT",
+      "brandSlug": "seat",
+      "model": "ARONA",
+      "modelSlug": "arona",
+      "fullName": "SEAT ARONA",
+      "total": 20542,
+      "percentage": 1.06,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 84,
+      "avgCv": 115,
+      "avgCo2": 123
+    },
+    {
+      "brand": "NISSAN",
+      "brandSlug": "nissan",
+      "model": "NISSAN QASHQAI",
+      "modelSlug": "nissan-qashqai",
+      "fullName": "NISSAN NISSAN QASHQAI",
+      "total": 20326,
+      "percentage": 1.05,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 110,
+      "avgCv": 150,
+      "avgCo2": 135
+    },
+    {
+      "brand": "TOYOTA",
+      "brandSlug": "toyota",
+      "model": "TOYOTA C-HR",
+      "modelSlug": "toyota-c-hr",
+      "fullName": "TOYOTA TOYOTA C-HR",
+      "total": 20198,
+      "percentage": 1.04,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 90,
+      "avgCv": 123,
+      "avgCo2": 72
+    },
+    {
+      "brand": "TOYOTA",
+      "brandSlug": "toyota",
+      "model": "TOYOTA YARIS CROSS",
+      "modelSlug": "toyota-yaris-cross",
+      "fullName": "TOYOTA TOYOTA YARIS CROSS",
+      "total": 19822,
+      "percentage": 1.02,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 105
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "brandSlug": "volkswagen",
+      "model": "T-ROC",
+      "modelSlug": "t-roc",
+      "fullName": "VOLKSWAGEN T-ROC",
+      "total": 19201,
+      "percentage": 0.99,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 101,
+      "avgCv": 138,
+      "avgCo2": 135
+    },
+    {
+      "brand": "TOYOTA",
+      "brandSlug": "toyota",
+      "model": "TOYOTA YARIS",
+      "modelSlug": "toyota-yaris",
+      "fullName": "TOYOTA TOYOTA YARIS",
+      "total": 16494,
+      "percentage": 0.85,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 94
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "brandSlug": "volkswagen",
+      "model": "GOLF",
+      "modelSlug": "golf",
+      "fullName": "VOLKSWAGEN GOLF",
+      "total": 16372,
+      "percentage": 0.84,
+      "category": "Otro",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 108,
+      "avgCv": 148,
+      "avgCo2": 116
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "brandSlug": "volkswagen",
+      "model": "TIGUAN",
+      "modelSlug": "tiguan",
+      "fullName": "VOLKSWAGEN TIGUAN",
+      "total": 16268,
+      "percentage": 0.84,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 110,
+      "avgCv": 150,
+      "avgCo2": 115
+    },
+    {
+      "brand": "KIA",
+      "brandSlug": "kia",
+      "model": "SPORTAGE",
+      "modelSlug": "sportage",
+      "fullName": "KIA SPORTAGE",
+      "total": 16255,
+      "percentage": 0.84,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 117,
+      "avgCv": 159,
+      "avgCo2": 133
+    },
+    {
+      "brand": "DACIA",
+      "brandSlug": "dacia",
+      "model": "DUSTER",
+      "modelSlug": "duster",
+      "fullName": "DACIA DUSTER",
+      "total": 14887,
+      "percentage": 0.77,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 84,
+      "avgCv": 114,
+      "avgCo2": 125
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "brandSlug": "volkswagen",
+      "model": "TAIGO",
+      "modelSlug": "taigo",
+      "fullName": "VOLKSWAGEN TAIGO",
+      "total": 14806,
+      "percentage": 0.76,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 84,
+      "avgCv": 114,
+      "avgCo2": 126
+    },
+    {
+      "brand": "KIA",
+      "brandSlug": "kia",
+      "model": "STONIC",
+      "modelSlug": "stonic",
+      "fullName": "KIA STONIC",
+      "total": 14402,
+      "percentage": 0.74,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 72,
+      "avgCv": 98,
+      "avgCo2": 125
+    },
+    {
+      "brand": "SIN MARCA",
+      "brandSlug": "sin-marca",
+      "model": "DESCONOCIDO",
+      "modelSlug": "desconocido",
+      "fullName": "SIN MARCA DESCONOCIDO",
+      "total": 13921,
+      "percentage": 0.72,
+      "category": "Otro",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 0
+    },
+    {
+      "brand": "HYUNDAI",
+      "brandSlug": "hyundai",
+      "model": "KONA",
+      "modelSlug": "kona",
+      "fullName": "HYUNDAI KONA",
+      "total": 12840,
+      "percentage": 0.66,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 71,
+      "avgCv": 97,
+      "avgCo2": 113
+    }
+  ]
+}

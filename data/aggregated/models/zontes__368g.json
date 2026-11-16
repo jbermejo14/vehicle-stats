@@ -1,0 +1,65 @@
+{
+  "brand": "ZONTES",
+  "brandSlug": "zontes",
+  "model": "368G",
+  "modelSlug": "368g",
+  "fullName": "ZONTES 368G",
+  "total": 5849,
+  "percentage": 0.11,
+  "category": "Motocicleta",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 29,
+  "avgCv": 39,
+  "avgCo2": 79,
+  "evolution": [
+    {
+      "period": "2025-09",
+      "total": 946,
+      "avgKw": 29,
+      "avgCv": 39,
+      "avgCo2": 79,
+      "avgTara": 203
+    },
+    {
+      "period": "2026-05",
+      "total": 1043,
+      "avgKw": 29,
+      "avgCv": 39,
+      "avgCo2": 79,
+      "avgTara": 202
+    },
+    {
+      "period": "2026-06",
+      "total": 1177,
+      "avgKw": 29,
+      "avgCv": 39,
+      "avgCo2": 79,
+      "avgTara": 198
+    },
+    {
+      "period": "2026-07",
+      "total": 1145,
+      "avgKw": 29,
+      "avgCv": 39,
+      "avgCo2": 79,
+      "avgTara": 197
+    },
+    {
+      "period": "2026-08",
+      "total": 657,
+      "avgKw": 29,
+      "avgCv": 39,
+      "avgCo2": 79,
+      "avgTara": 197
+    },
+    {
+      "period": "2026-09",
+      "total": 881,
+      "avgKw": 29,
+      "avgCv": 39,
+      "avgCo2": 79,
+      "avgTara": 197
+    }
+  ]
+}

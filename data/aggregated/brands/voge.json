@@ -1,0 +1,180 @@
+{
+  "brand": "VOGE",
+  "slug": "voge",
+  "total": 32669,
+  "percentage": 0.6,
+  "eco0Percentage": 0,
+  "avgKw": 42,
+  "monthlyEvolution": [
+    {
+      "period": "2024-08",
+      "total": 765,
+      "eco0Count": 0,
+      "avgKw": 39,
+      "avgCo2": 81,
+      "topModel": "DS900X"
+    },
+    {
+      "period": "2024-09",
+      "total": 1437,
+      "eco0Count": 0,
+      "avgKw": 44,
+      "avgCo2": 86,
+      "topModel": "DS900X"
+    },
+    {
+      "period": "2024-10",
+      "total": 1198,
+      "eco0Count": 0,
+      "avgKw": 34,
+      "avgCo2": 81,
+      "topModel": "DS900X"
+    },
+    {
+      "period": "2024-11",
+      "total": 974,
+      "eco0Count": 0,
+      "avgKw": 36,
+      "avgCo2": 81,
+      "topModel": "DS900X"
+    },
+    {
+      "period": "2025-04",
+      "total": 1364,
+      "eco0Count": 0,
+      "avgKw": 44,
+      "avgCo2": 83,
+      "topModel": "DS900X"
+    },
+    {
+      "period": "2025-05",
+      "total": 1728,
+      "eco0Count": 0,
+      "avgKw": 41,
+      "avgCo2": 83,
+      "topModel": "DS900X"
+    },
+    {
+      "period": "2025-07",
+      "total": 2668,
+      "eco0Count": 0,
+      "avgKw": 40,
+      "avgCo2": 83,
+      "topModel": "DS900X"
+    },
+    {
+      "period": "2025-08",
+      "total": 1177,
+      "eco0Count": 0,
+      "avgKw": 38,
+      "avgCo2": 81,
+      "topModel": "DS900X"
+    },
+    {
+      "period": "2025-09",
+      "total": 1591,
+      "eco0Count": 0,
+      "avgKw": 42,
+      "avgCo2": 86,
+      "topModel": "DS900X"
+    },
+    {
+      "period": "2025-10",
+      "total": 1918,
+      "eco0Count": 0,
+      "avgKw": 40,
+      "avgCo2": 86,
+      "topModel": "DS800X RALLY"
+    },
+    {
+      "period": "2025-11",
+      "total": 1797,
+      "eco0Count": 0,
+      "avgKw": 43,
+      "avgCo2": 89,
+      "topModel": "DS900X"
+    },
+    {
+      "period": "2025-12",
+      "total": 1523,
+      "eco0Count": 0,
+      "avgKw": 42,
+      "avgCo2": 87,
+      "topModel": "DS900X"
+    },
+    {
+      "period": "2026-01",
+      "total": 1603,
+      "eco0Count": 0,
+      "avgKw": 46,
+      "avgCo2": 91,
+      "topModel": "DS900X"
+    },
+    {
+      "period": "2026-02",
+      "total": 1827,
+      "eco0Count": 0,
+      "avgKw": 50,
+      "avgCo2": 96,
+      "topModel": "DS800X RALLY"
+    },
+    {
+      "period": "2026-03",
+      "total": 2232,
+      "eco0Count": 0,
+      "avgKw": 47,
+      "avgCo2": 94,
+      "topModel": "DS800X RALLY"
+    },
+    {
+      "period": "2026-04",
+      "total": 1989,
+      "eco0Count": 0,
+      "avgKw": 45,
+      "avgCo2": 91,
+      "topModel": "DS800X RALLY"
+    },
+    {
+      "period": "2026-05",
+      "total": 2322,
+      "eco0Count": 0,
+      "avgKw": 40,
+      "avgCo2": 86,
+      "topModel": "DS800X RALLY"
+    },
+    {
+      "period": "2026-06",
+      "total": 2378,
+      "eco0Count": 0,
+      "avgKw": 38,
+      "avgCo2": 84,
+      "topModel": "DS800X RALLY"
+    },
+    {
+      "period": "2026-07",
+      "total": 2178,
+      "eco0Count": 0,
+      "avgKw": 39,
+      "avgCo2": 86,
+      "topModel": "DS800X RALLY"
+    }
+  ],
+  "models": [
+    {
+      "brand": "VOGE",
+      "brandSlug": "voge",
+      "model": "DS900X",
+      "modelSlug": "ds900x",
+      "fullName": "VOGE DS900X",
+      "total": 1681,
+      "percentage": 0.03,
+      "category": "Motocicleta",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 66,
+      "avgCv": 90,
+      "avgCo2": 99
+    }
+  ],
+  "leadProvinces": []
+}

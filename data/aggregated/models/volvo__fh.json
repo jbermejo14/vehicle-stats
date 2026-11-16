@@ -1,0 +1,49 @@
+{
+  "brand": "VOLVO",
+  "brandSlug": "volvo",
+  "model": "FH",
+  "modelSlug": "fh",
+  "fullName": "VOLVO FH",
+  "total": 3449,
+  "percentage": 0.06,
+  "category": "Industrial",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 357,
+  "avgCv": 486,
+  "avgCo2": 28,
+  "evolution": [
+    {
+      "period": "2024-10",
+      "total": 858,
+      "avgKw": 354,
+      "avgCv": 482,
+      "avgCo2": 57,
+      "avgTara": 8467
+    },
+    {
+      "period": "2025-09",
+      "total": 761,
+      "avgKw": 352,
+      "avgCv": 479,
+      "avgCo2": 10,
+      "avgTara": 8471
+    },
+    {
+      "period": "2025-10",
+      "total": 948,
+      "avgKw": 359,
+      "avgCv": 488,
+      "avgCo2": 0,
+      "avgTara": 8473
+    },
+    {
+      "period": "2026-09",
+      "total": 882,
+      "avgKw": 361,
+      "avgCv": 492,
+      "avgCo2": 45,
+      "avgTara": 8501
+    }
+  ]
+}

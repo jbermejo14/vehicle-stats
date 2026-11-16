@@ -1,0 +1,73 @@
+{
+  "brand": "PEUGEOT",
+  "brandSlug": "peugeot",
+  "model": "2008 ALLURE HYBRID 145",
+  "modelSlug": "2008-allure-hybrid-145",
+  "fullName": "PEUGEOT 2008 ALLURE HYBRID 145",
+  "total": 8557,
+  "percentage": 0.16,
+  "category": "Turismo",
+  "primaryFuel": "Híbrido (HEV)",
+  "primaryBadge": "ECO",
+  "avgKw": 100,
+  "avgCv": 136,
+  "avgCo2": 111,
+  "evolution": [
+    {
+      "period": "2025-06",
+      "total": 1095,
+      "avgKw": 100,
+      "avgCv": 136,
+      "avgCo2": 111,
+      "avgTara": 1372
+    },
+    {
+      "period": "2025-10",
+      "total": 1309,
+      "avgKw": 100,
+      "avgCv": 136,
+      "avgCo2": 112,
+      "avgTara": 1372
+    },
+    {
+      "period": "2025-11",
+      "total": 1052,
+      "avgKw": 100,
+      "avgCv": 136,
+      "avgCo2": 112,
+      "avgTara": 1372
+    },
+    {
+      "period": "2025-12",
+      "total": 1125,
+      "avgKw": 100,
+      "avgCv": 136,
+      "avgCo2": 112,
+      "avgTara": 1372
+    },
+    {
+      "period": "2026-01",
+      "total": 927,
+      "avgKw": 100,
+      "avgCv": 136,
+      "avgCo2": 111,
+      "avgTara": 1372
+    },
+    {
+      "period": "2026-03",
+      "total": 1211,
+      "avgKw": 100,
+      "avgCv": 136,
+      "avgCo2": 111,
+      "avgTara": 1372
+    },
+    {
+      "period": "2026-04",
+      "total": 1838,
+      "avgKw": 100,
+      "avgCv": 136,
+      "avgCo2": 111,
+      "avgTara": 1372
+    }
+  ]
+}

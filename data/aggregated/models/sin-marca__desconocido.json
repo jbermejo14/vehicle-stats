@@ -1,0 +1,281 @@
+{
+  "brand": "SIN MARCA",
+  "brandSlug": "sin-marca",
+  "model": "DESCONOCIDO",
+  "modelSlug": "desconocido",
+  "fullName": "SIN MARCA DESCONOCIDO",
+  "total": 37561,
+  "percentage": 0.69,
+  "category": "Otro",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 0,
+  "avgCv": 0,
+  "avgCo2": 11,
+  "evolution": [
+    {
+      "period": "2024-01",
+      "total": 1095,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 0,
+      "avgTara": 0
+    },
+    {
+      "period": "2024-02",
+      "total": 1089,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 0,
+      "avgTara": 0
+    },
+    {
+      "period": "2024-03",
+      "total": 935,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 0,
+      "avgTara": 0
+    },
+    {
+      "period": "2024-04",
+      "total": 873,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 0,
+      "avgTara": 0
+    },
+    {
+      "period": "2024-05",
+      "total": 856,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 0,
+      "avgTara": 0
+    },
+    {
+      "period": "2024-06",
+      "total": 991,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 0,
+      "avgTara": 0
+    },
+    {
+      "period": "2024-07",
+      "total": 955,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 0,
+      "avgTara": 0
+    },
+    {
+      "period": "2024-08",
+      "total": 905,
+      "avgKw": 1,
+      "avgCv": 1,
+      "avgCo2": 116,
+      "avgTara": 1527
+    },
+    {
+      "period": "2024-09",
+      "total": 804,
+      "avgKw": 1,
+      "avgCv": 1,
+      "avgCo2": 104,
+      "avgTara": 1564
+    },
+    {
+      "period": "2024-10",
+      "total": 1171,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 0,
+      "avgTara": 0
+    },
+    {
+      "period": "2024-11",
+      "total": 875,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 0,
+      "avgTara": 0
+    },
+    {
+      "period": "2025-01",
+      "total": 1305,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 0,
+      "avgTara": 0
+    },
+    {
+      "period": "2025-02",
+      "total": 1346,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 0,
+      "avgTara": 0
+    },
+    {
+      "period": "2025-03",
+      "total": 1243,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 0,
+      "avgTara": 0
+    },
+    {
+      "period": "2025-04",
+      "total": 981,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 0,
+      "avgTara": 0
+    },
+    {
+      "period": "2025-05",
+      "total": 1247,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 0,
+      "avgTara": 0
+    },
+    {
+      "period": "2025-06",
+      "total": 1187,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 0,
+      "avgTara": 0
+    },
+    {
+      "period": "2025-07",
+      "total": 1272,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 0,
+      "avgTara": 0
+    },
+    {
+      "period": "2025-08",
+      "total": 748,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 0,
+      "avgTara": 0
+    },
+    {
+      "period": "2025-09",
+      "total": 1047,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 0,
+      "avgTara": 0
+    },
+    {
+      "period": "2025-10",
+      "total": 1429,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 0,
+      "avgTara": 0
+    },
+    {
+      "period": "2025-11",
+      "total": 998,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 0,
+      "avgTara": 0
+    },
+    {
+      "period": "2025-12",
+      "total": 1118,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 0,
+      "avgTara": 0
+    },
+    {
+      "period": "2026-01",
+      "total": 1355,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 0,
+      "avgTara": 0
+    },
+    {
+      "period": "2026-02",
+      "total": 1413,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 0,
+      "avgTara": 0
+    },
+    {
+      "period": "2026-03",
+      "total": 1578,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 0,
+      "avgTara": 0
+    },
+    {
+      "period": "2026-04",
+      "total": 1124,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 0,
+      "avgTara": 0
+    },
+    {
+      "period": "2026-05",
+      "total": 1250,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 0,
+      "avgTara": 0
+    },
+    {
+      "period": "2026-06",
+      "total": 1578,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 0,
+      "avgTara": 0
+    },
+    {
+      "period": "2026-07",
+      "total": 1255,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 0,
+      "avgTara": 0
+    },
+    {
+      "period": "2026-08",
+      "total": 808,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 91,
+      "avgTara": 909
+    },
+    {
+      "period": "2026-09",
+      "total": 1189,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 0,
+      "avgTara": 0
+    },
+    {
+      "period": "2026-10",
+      "total": 1541,
+      "avgKw": 0,
+      "avgCv": 0,
+      "avgCo2": 106,
+      "avgTara": 1595
+    }
+  ]
+}

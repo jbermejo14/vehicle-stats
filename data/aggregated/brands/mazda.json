@@ -1,0 +1,307 @@
+{
+  "brand": "MAZDA",
+  "slug": "mazda",
+  "total": 57761,
+  "percentage": 1.07,
+  "eco0Percentage": 86.8,
+  "avgKw": 111,
+  "monthlyEvolution": [
+    {
+      "period": "2024-01",
+      "total": 1066,
+      "eco0Count": 903,
+      "avgKw": 112,
+      "avgCo2": 129,
+      "topModel": "MAZDA CX-30"
+    },
+    {
+      "period": "2024-02",
+      "total": 1331,
+      "eco0Count": 1136,
+      "avgKw": 110,
+      "avgCo2": 131,
+      "topModel": "MAZDA CX-5"
+    },
+    {
+      "period": "2024-03",
+      "total": 1955,
+      "eco0Count": 1723,
+      "avgKw": 108,
+      "avgCo2": 129,
+      "topModel": "MAZDA CX-30"
+    },
+    {
+      "period": "2024-04",
+      "total": 1274,
+      "eco0Count": 1011,
+      "avgKw": 110,
+      "avgCo2": 130,
+      "topModel": "MAZDA CX-30"
+    },
+    {
+      "period": "2024-05",
+      "total": 1495,
+      "eco0Count": 1245,
+      "avgKw": 109,
+      "avgCo2": 129,
+      "topModel": "MAZDA CX-30"
+    },
+    {
+      "period": "2024-06",
+      "total": 1730,
+      "eco0Count": 1480,
+      "avgKw": 106,
+      "avgCo2": 129,
+      "topModel": "MAZDA CX-30"
+    },
+    {
+      "period": "2024-07",
+      "total": 1496,
+      "eco0Count": 1284,
+      "avgKw": 108,
+      "avgCo2": 130,
+      "topModel": "MAZDA CX-30"
+    },
+    {
+      "period": "2024-08",
+      "total": 1077,
+      "eco0Count": 886,
+      "avgKw": 104,
+      "avgCo2": 128,
+      "topModel": "MAZDA CX-30"
+    },
+    {
+      "period": "2024-09",
+      "total": 1805,
+      "eco0Count": 1577,
+      "avgKw": 111,
+      "avgCo2": 131,
+      "topModel": "MAZDA CX-30"
+    },
+    {
+      "period": "2024-10",
+      "total": 1429,
+      "eco0Count": 1186,
+      "avgKw": 112,
+      "avgCo2": 131,
+      "topModel": "MAZDA CX-30"
+    },
+    {
+      "period": "2024-11",
+      "total": 1519,
+      "eco0Count": 1290,
+      "avgKw": 111,
+      "avgCo2": 129,
+      "topModel": "MAZDA CX-5"
+    },
+    {
+      "period": "2024-12",
+      "total": 2526,
+      "eco0Count": 2223,
+      "avgKw": 113,
+      "avgCo2": 133,
+      "topModel": "MAZDA CX-5"
+    },
+    {
+      "period": "2025-01",
+      "total": 1331,
+      "eco0Count": 1144,
+      "avgKw": 110,
+      "avgCo2": 132,
+      "topModel": "MAZDA CX-30"
+    },
+    {
+      "period": "2025-02",
+      "total": 1809,
+      "eco0Count": 1602,
+      "avgKw": 113,
+      "avgCo2": 132,
+      "topModel": "MAZDA CX-30"
+    },
+    {
+      "period": "2025-03",
+      "total": 2158,
+      "eco0Count": 1880,
+      "avgKw": 111,
+      "avgCo2": 130,
+      "topModel": "MAZDA CX-30"
+    },
+    {
+      "period": "2025-04",
+      "total": 1722,
+      "eco0Count": 1496,
+      "avgKw": 110,
+      "avgCo2": 132,
+      "topModel": "MAZDA CX-30"
+    },
+    {
+      "period": "2025-05",
+      "total": 1867,
+      "eco0Count": 1632,
+      "avgKw": 110,
+      "avgCo2": 131,
+      "topModel": "MAZDA CX-30"
+    },
+    {
+      "period": "2025-06",
+      "total": 2425,
+      "eco0Count": 2100,
+      "avgKw": 111,
+      "avgCo2": 130,
+      "topModel": "MAZDA CX-30"
+    },
+    {
+      "period": "2025-07",
+      "total": 1442,
+      "eco0Count": 1205,
+      "avgKw": 108,
+      "avgCo2": 130,
+      "topModel": "MAZDA CX-30"
+    },
+    {
+      "period": "2025-08",
+      "total": 1000,
+      "eco0Count": 818,
+      "avgKw": 108,
+      "avgCo2": 129,
+      "topModel": "MAZDA CX-30"
+    },
+    {
+      "period": "2025-09",
+      "total": 1600,
+      "eco0Count": 1346,
+      "avgKw": 113,
+      "avgCo2": 127,
+      "topModel": "MAZDA CX-30"
+    },
+    {
+      "period": "2025-10",
+      "total": 1489,
+      "eco0Count": 1244,
+      "avgKw": 114,
+      "avgCo2": 130,
+      "topModel": "MAZDA CX-30"
+    },
+    {
+      "period": "2025-11",
+      "total": 1704,
+      "eco0Count": 1439,
+      "avgKw": 115,
+      "avgCo2": 129,
+      "topModel": "MAZDA CX-30"
+    },
+    {
+      "period": "2025-12",
+      "total": 2042,
+      "eco0Count": 1776,
+      "avgKw": 116,
+      "avgCo2": 128,
+      "topModel": "MAZDA CX-30"
+    },
+    {
+      "period": "2026-01",
+      "total": 1242,
+      "eco0Count": 1033,
+      "avgKw": 112,
+      "avgCo2": 130,
+      "topModel": "MAZDA CX-30"
+    },
+    {
+      "period": "2026-02",
+      "total": 1807,
+      "eco0Count": 1586,
+      "avgKw": 110,
+      "avgCo2": 130,
+      "topModel": "MAZDA CX-30"
+    },
+    {
+      "period": "2026-03",
+      "total": 2676,
+      "eco0Count": 2423,
+      "avgKw": 110,
+      "avgCo2": 138,
+      "topModel": "MAZDA CX-30"
+    },
+    {
+      "period": "2026-04",
+      "total": 2219,
+      "eco0Count": 2021,
+      "avgKw": 108,
+      "avgCo2": 144,
+      "topModel": "MAZDA CX-5"
+    },
+    {
+      "period": "2026-05",
+      "total": 2271,
+      "eco0Count": 2070,
+      "avgKw": 107,
+      "avgCo2": 140,
+      "topModel": "MAZDA CX-30"
+    },
+    {
+      "period": "2026-06",
+      "total": 2376,
+      "eco0Count": 2093,
+      "avgKw": 109,
+      "avgCo2": 139,
+      "topModel": "MAZDA CX-5"
+    },
+    {
+      "period": "2026-08",
+      "total": 1558,
+      "eco0Count": 1366,
+      "avgKw": 113,
+      "avgCo2": 140,
+      "topModel": "MAZDA CX-5"
+    },
+    {
+      "period": "2026-09",
+      "total": 2356,
+      "eco0Count": 2130,
+      "avgKw": 115,
+      "avgCo2": 142,
+      "topModel": "MAZDA CX-5"
+    },
+    {
+      "period": "2026-10",
+      "total": 1964,
+      "eco0Count": 1760,
+      "avgKw": 112,
+      "avgCo2": 140,
+      "topModel": "MAZDA CX-5"
+    }
+  ],
+  "models": [
+    {
+      "brand": "MAZDA",
+      "brandSlug": "mazda",
+      "model": "MAZDA CX-30",
+      "modelSlug": "mazda-cx-30",
+      "fullName": "MAZDA MAZDA CX-30",
+      "total": 1652,
+      "percentage": 0.03,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 106,
+      "avgCv": 144,
+      "avgCo2": 139
+    },
+    {
+      "brand": "MAZDA",
+      "brandSlug": "mazda",
+      "model": "MAZDA CX-5",
+      "modelSlug": "mazda-cx-5",
+      "fullName": "MAZDA MAZDA CX-5",
+      "total": 996,
+      "percentage": 0.02,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 104,
+      "avgCv": 141,
+      "avgCo2": 158
+    }
+  ],
+  "leadProvinces": []
+}

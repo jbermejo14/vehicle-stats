@@ -1,0 +1,33 @@
+{
+  "brand": "PEUGEOT",
+  "brandSlug": "peugeot",
+  "model": "208 5P ALLURE TURBO 10",
+  "modelSlug": "208-5p-allure-turbo-10",
+  "fullName": "PEUGEOT 208 5P ALLURE TURBO 10",
+  "total": 2109,
+  "percentage": 0.04,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 74,
+  "avgCv": 101,
+  "avgCo2": 116,
+  "evolution": [
+    {
+      "period": "2026-04",
+      "total": 978,
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 116,
+      "avgTara": 1196
+    },
+    {
+      "period": "2026-07",
+      "total": 1131,
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 116,
+      "avgTara": 1196
+    }
+  ]
+}

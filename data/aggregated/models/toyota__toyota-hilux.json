@@ -1,0 +1,25 @@
+{
+  "brand": "TOYOTA",
+  "brandSlug": "toyota",
+  "model": "TOYOTA HILUX",
+  "modelSlug": "toyota-hilux",
+  "fullName": "TOYOTA TOYOTA HILUX",
+  "total": 1009,
+  "percentage": 0.02,
+  "category": "Comercial",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 110,
+  "avgCv": 150,
+  "avgCo2": 256,
+  "evolution": [
+    {
+      "period": "2024-12",
+      "total": 1009,
+      "avgKw": 110,
+      "avgCv": 150,
+      "avgCo2": 256,
+      "avgTara": 2184
+    }
+  ]
+}

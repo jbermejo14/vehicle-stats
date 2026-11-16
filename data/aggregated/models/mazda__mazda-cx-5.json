@@ -1,0 +1,25 @@
+{
+  "brand": "MAZDA",
+  "brandSlug": "mazda",
+  "model": "MAZDA CX-5",
+  "modelSlug": "mazda-cx-5",
+  "fullName": "MAZDA MAZDA CX-5",
+  "total": 996,
+  "percentage": 0.02,
+  "category": "Turismo",
+  "primaryFuel": "Híbrido (HEV)",
+  "primaryBadge": "ECO",
+  "avgKw": 104,
+  "avgCv": 141,
+  "avgCo2": 158,
+  "evolution": [
+    {
+      "period": "2026-04",
+      "total": 996,
+      "avgKw": 104,
+      "avgCv": 141,
+      "avgCo2": 158,
+      "avgTara": 1742
+    }
+  ]
+}

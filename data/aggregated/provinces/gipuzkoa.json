@@ -1,0 +1,444 @@
+{
+  "code": "20",
+  "name": "Gipuzkoa",
+  "slug": "gipuzkoa",
+  "community": "País Vasco",
+  "population": 727409,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 48430,
+  "percentageOfSpain": 0.89,
+  "per1000Habitantes": 66.58,
+  "ceroCount": 3491,
+  "ecoCount": 12038,
+  "bevCount": 2890,
+  "phevCount": 601,
+  "hevCount": 12035,
+  "ceroPercentage": 7.2,
+  "ecoPercentage": 24.9,
+  "bevPercentage": 6,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 1170,
+      "cero": 60,
+      "eco": 227,
+      "bev": 55,
+      "phev": 5,
+      "hev": 227,
+      "topBrand": "PEUGEOT",
+      "topModel": "N2008 ALLURE PURETECH"
+    },
+    {
+      "period": "2024-02",
+      "total": 1202,
+      "cero": 34,
+      "eco": 239,
+      "bev": 34,
+      "phev": 0,
+      "hev": 239,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "LTF-LT FRG-LT"
+    },
+    {
+      "period": "2024-03",
+      "total": 1249,
+      "cero": 41,
+      "eco": 244,
+      "bev": 41,
+      "phev": 0,
+      "hev": 244,
+      "topBrand": "HONDA",
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2024-04",
+      "total": 1239,
+      "cero": 48,
+      "eco": 224,
+      "bev": 46,
+      "phev": 2,
+      "hev": 224,
+      "topBrand": "PEUGEOT",
+      "topModel": "LTF-LT FRG-LT"
+    },
+    {
+      "period": "2024-05",
+      "total": 1340,
+      "cero": 58,
+      "eco": 265,
+      "bev": 54,
+      "phev": 4,
+      "hev": 265,
+      "topBrand": "HONDA",
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2024-06",
+      "total": 1338,
+      "cero": 57,
+      "eco": 298,
+      "bev": 54,
+      "phev": 3,
+      "hev": 298,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-07",
+      "total": 1345,
+      "cero": 58,
+      "eco": 275,
+      "bev": 57,
+      "phev": 1,
+      "hev": 275,
+      "topBrand": "HONDA",
+      "topModel": "NUEVO RIFTER ALLURE BL"
+    },
+    {
+      "period": "2024-08",
+      "total": 1020,
+      "cero": 43,
+      "eco": 232,
+      "bev": 41,
+      "phev": 2,
+      "hev": 232,
+      "topBrand": "PEUGEOT",
+      "topModel": "NUEVO PARTNER STANDARD"
+    },
+    {
+      "period": "2024-09",
+      "total": 1188,
+      "cero": 50,
+      "eco": 289,
+      "bev": 50,
+      "phev": 0,
+      "hev": 289,
+      "topBrand": "PEUGEOT",
+      "topModel": "NUEVO RIFTER GT BLUEHD"
+    },
+    {
+      "period": "2024-10",
+      "total": 1400,
+      "cero": 72,
+      "eco": 309,
+      "bev": 72,
+      "phev": 0,
+      "hev": 309,
+      "topBrand": "PEUGEOT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-11",
+      "total": 1304,
+      "cero": 71,
+      "eco": 308,
+      "bev": 64,
+      "phev": 7,
+      "hev": 308,
+      "topBrand": "PEUGEOT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-12",
+      "total": 1369,
+      "cero": 69,
+      "eco": 382,
+      "bev": 69,
+      "phev": 0,
+      "hev": 382,
+      "topBrand": "PEUGEOT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-01",
+      "total": 1161,
+      "cero": 48,
+      "eco": 294,
+      "bev": 45,
+      "phev": 3,
+      "hev": 294,
+      "topBrand": "PEUGEOT",
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2025-02",
+      "total": 1122,
+      "cero": 66,
+      "eco": 319,
+      "bev": 48,
+      "phev": 18,
+      "hev": 319,
+      "topBrand": "PEUGEOT",
+      "topModel": "NUEVO RIFTER GT BLUEHD"
+    },
+    {
+      "period": "2025-03",
+      "total": 1369,
+      "cero": 86,
+      "eco": 366,
+      "bev": 70,
+      "phev": 16,
+      "hev": 366,
+      "topBrand": "HONDA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-04",
+      "total": 1461,
+      "cero": 108,
+      "eco": 369,
+      "bev": 88,
+      "phev": 20,
+      "hev": 369,
+      "topBrand": "PEUGEOT",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-05",
+      "total": 1614,
+      "cero": 99,
+      "eco": 455,
+      "bev": 86,
+      "phev": 13,
+      "hev": 455,
+      "topBrand": "DACIA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-06",
+      "total": 1699,
+      "cero": 135,
+      "eco": 419,
+      "bev": 118,
+      "phev": 17,
+      "hev": 419,
+      "topBrand": "PEUGEOT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-07",
+      "total": 1757,
+      "cero": 172,
+      "eco": 414,
+      "bev": 134,
+      "phev": 38,
+      "hev": 413,
+      "topBrand": "HONDA",
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2025-08",
+      "total": 1125,
+      "cero": 86,
+      "eco": 249,
+      "bev": 66,
+      "phev": 20,
+      "hev": 249,
+      "topBrand": "PEUGEOT",
+      "topModel": "LTF-LT FRG-LT"
+    },
+    {
+      "period": "2025-09",
+      "total": 1566,
+      "cero": 155,
+      "eco": 357,
+      "bev": 109,
+      "phev": 46,
+      "hev": 357,
+      "topBrand": "HONDA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-10",
+      "total": 1630,
+      "cero": 126,
+      "eco": 400,
+      "bev": 89,
+      "phev": 37,
+      "hev": 400,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-11",
+      "total": 1434,
+      "cero": 103,
+      "eco": 426,
+      "bev": 64,
+      "phev": 39,
+      "hev": 426,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "LTF-LT FRG-LT"
+    },
+    {
+      "period": "2025-12",
+      "total": 1431,
+      "cero": 118,
+      "eco": 453,
+      "bev": 80,
+      "phev": 38,
+      "hev": 452,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA RAV4"
+    },
+    {
+      "period": "2026-01",
+      "total": 1236,
+      "cero": 94,
+      "eco": 327,
+      "bev": 69,
+      "phev": 25,
+      "hev": 326,
+      "topBrand": "PEUGEOT",
+      "topModel": "PARTNER - FURGÓN M DIE"
+    },
+    {
+      "period": "2026-02",
+      "total": 1345,
+      "cero": 119,
+      "eco": 381,
+      "bev": 92,
+      "phev": 27,
+      "hev": 381,
+      "topBrand": "TOYOTA",
+      "topModel": "PARTNER - FURGÓN M DIE"
+    },
+    {
+      "period": "2026-03",
+      "total": 1625,
+      "cero": 145,
+      "eco": 434,
+      "bev": 103,
+      "phev": 42,
+      "hev": 434,
+      "topBrand": "PEUGEOT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-04",
+      "total": 1420,
+      "cero": 117,
+      "eco": 345,
+      "bev": 97,
+      "phev": 20,
+      "hev": 345,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2026-05",
+      "total": 1570,
+      "cero": 154,
+      "eco": 387,
+      "bev": 125,
+      "phev": 29,
+      "hev": 387,
+      "topBrand": "HONDA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-06",
+      "total": 1952,
+      "cero": 139,
+      "eco": 543,
+      "bev": 128,
+      "phev": 11,
+      "hev": 543,
+      "topBrand": "RENAULT",
+      "topModel": "SYMBIOZ"
+    },
+    {
+      "period": "2026-07",
+      "total": 1886,
+      "cero": 161,
+      "eco": 482,
+      "bev": 127,
+      "phev": 34,
+      "hev": 482,
+      "topBrand": "PEUGEOT",
+      "topModel": "2008 GT HYBRID 145 EDC"
+    },
+    {
+      "period": "2026-08",
+      "total": 1237,
+      "cero": 110,
+      "eco": 312,
+      "bev": 87,
+      "phev": 23,
+      "hev": 312,
+      "topBrand": "HONDA",
+      "topModel": "125X"
+    },
+    {
+      "period": "2026-09",
+      "total": 1911,
+      "cero": 240,
+      "eco": 555,
+      "bev": 209,
+      "phev": 31,
+      "hev": 555,
+      "topBrand": "RENAULT",
+      "topModel": "SYMBIOZ"
+    },
+    {
+      "period": "2026-10",
+      "total": 1715,
+      "cero": 249,
+      "eco": 459,
+      "bev": 219,
+      "phev": 30,
+      "hev": 459,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "PEUGEOT",
+      "slug": "peugeot",
+      "timesLeader": 15
+    },
+    {
+      "brand": "HONDA",
+      "slug": "honda",
+      "timesLeader": 8
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "timesLeader": 5
+    },
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 2
+    },
+    {
+      "brand": "RENAULT",
+      "slug": "renault",
+      "timesLeader": 2
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "SANDERO",
+      "timesLeader": 12
+    },
+    {
+      "model": "LTF-LT FRG-LT",
+      "timesLeader": 4
+    },
+    {
+      "model": "SH125AD",
+      "timesLeader": 4
+    },
+    {
+      "model": "NUEVO RIFTER GT BLUEHD",
+      "timesLeader": 2
+    },
+    {
+      "model": "DESCONOCIDO",
+      "timesLeader": 2
+    }
+  ]
+}

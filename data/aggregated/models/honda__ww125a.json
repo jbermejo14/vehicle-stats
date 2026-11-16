@@ -1,0 +1,89 @@
+{
+  "brand": "HONDA",
+  "brandSlug": "honda",
+  "model": "WW125A",
+  "modelSlug": "ww125a",
+  "fullName": "HONDA WW125A",
+  "total": 8403,
+  "percentage": 0.16,
+  "category": "Motocicleta",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 9,
+  "avgCv": 13,
+  "avgCo2": 47,
+  "evolution": [
+    {
+      "period": "2024-05",
+      "total": 1124,
+      "avgKw": 9,
+      "avgCv": 13,
+      "avgCo2": 46,
+      "avgTara": 130
+    },
+    {
+      "period": "2024-07",
+      "total": 1034,
+      "avgKw": 9,
+      "avgCv": 13,
+      "avgCo2": 46,
+      "avgTara": 130
+    },
+    {
+      "period": "2024-08",
+      "total": 822,
+      "avgKw": 9,
+      "avgCv": 13,
+      "avgCo2": 46,
+      "avgTara": 130
+    },
+    {
+      "period": "2024-09",
+      "total": 1036,
+      "avgKw": 9,
+      "avgCv": 13,
+      "avgCo2": 46,
+      "avgTara": 130
+    },
+    {
+      "period": "2024-10",
+      "total": 933,
+      "avgKw": 9,
+      "avgCv": 13,
+      "avgCo2": 46,
+      "avgTara": 130
+    },
+    {
+      "period": "2025-07",
+      "total": 1033,
+      "avgKw": 9,
+      "avgCv": 13,
+      "avgCo2": 49,
+      "avgTara": 133
+    },
+    {
+      "period": "2025-08",
+      "total": 560,
+      "avgKw": 9,
+      "avgCv": 13,
+      "avgCo2": 49,
+      "avgTara": 133
+    },
+    {
+      "period": "2026-07",
+      "total": 1053,
+      "avgKw": 9,
+      "avgCv": 13,
+      "avgCo2": 49,
+      "avgTara": 133
+    },
+    {
+      "period": "2026-08",
+      "total": 808,
+      "avgKw": 9,
+      "avgCv": 13,
+      "avgCo2": 49,
+      "avgTara": 133
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "brand": "FORD",
+  "brandSlug": "ford",
+  "model": "KUGA",
+  "modelSlug": "kuga",
+  "fullName": "FORD KUGA",
+  "total": 13273,
+  "percentage": 0.25,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 111,
+  "avgCv": 150,
+  "avgCo2": 72,
+  "evolution": [
+    {
+      "period": "2024-04",
+      "total": 908,
+      "avgKw": 111,
+      "avgCv": 151,
+      "avgCo2": 88,
+      "avgTara": 1777
+    },
+    {
+      "period": "2024-05",
+      "total": 1119,
+      "avgKw": 111,
+      "avgCv": 151,
+      "avgCo2": 79,
+      "avgTara": 1801
+    },
+    {
+      "period": "2024-10",
+      "total": 763,
+      "avgKw": 111,
+      "avgCv": 151,
+      "avgCo2": 82,
+      "avgTara": 1800
+    },
+    {
+      "period": "2025-01",
+      "total": 772,
+      "avgKw": 110,
+      "avgCv": 150,
+      "avgCo2": 92,
+      "avgTara": 1750
+    },
+    {
+      "period": "2025-02",
+      "total": 1091,
+      "avgKw": 111,
+      "avgCv": 150,
+      "avgCo2": 76,
+      "avgTara": 1774
+    },
+    {
+      "period": "2025-03",
+      "total": 1318,
+      "avgKw": 111,
+      "avgCv": 150,
+      "avgCo2": 59,
+      "avgTara": 1800
+    },
+    {
+      "period": "2025-04",
+      "total": 1050,
+      "avgKw": 111,
+      "avgCv": 151,
+      "avgCo2": 80,
+      "avgTara": 1754
+    },
+    {
+      "period": "2025-05",
+      "total": 974,
+      "avgKw": 110,
+      "avgCv": 150,
+      "avgCo2": 67,
+      "avgTara": 1774
+    },
+    {
+      "period": "2025-06",
+      "total": 1218,
+      "avgKw": 111,
+      "avgCv": 150,
+      "avgCo2": 52,
+      "avgTara": 1813
+    },
+    {
+      "period": "2025-10",
+      "total": 1120,
+      "avgKw": 111,
+      "avgCv": 151,
+      "avgCo2": 51,
+      "avgTara": 1820
+    },
+    {
+      "period": "2025-11",
+      "total": 1037,
+      "avgKw": 111,
+      "avgCv": 150,
+      "avgCo2": 63,
+      "avgTara": 1809
+    },
+    {
+      "period": "2026-02",
+      "total": 936,
+      "avgKw": 110,
+      "avgCv": 150,
+      "avgCo2": 72,
+      "avgTara": 1808
+    },
+    {
+      "period": "2026-07",
+      "total": 967,
+      "avgKw": 110,
+      "avgCv": 150,
+      "avgCo2": 96,
+      "avgTara": 1766
+    }
+  ]
+}

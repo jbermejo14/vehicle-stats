@@ -1,0 +1,33 @@
+{
+  "brand": "MG",
+  "brandSlug": "mg",
+  "model": "MG3",
+  "modelSlug": "mg3",
+  "fullName": "MG MG3",
+  "total": 2399,
+  "percentage": 0.04,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 85,
+  "avgCv": 116,
+  "avgCo2": 137,
+  "evolution": [
+    {
+      "period": "2025-03",
+      "total": 1068,
+      "avgKw": 85,
+      "avgCv": 116,
+      "avgCo2": 137,
+      "avgTara": 1237
+    },
+    {
+      "period": "2025-05",
+      "total": 1331,
+      "avgKw": 85,
+      "avgCv": 116,
+      "avgCo2": 137,
+      "avgTara": 1237
+    }
+  ]
+}

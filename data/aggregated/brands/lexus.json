@@ -1,0 +1,36 @@
+{
+  "brand": "LEXUS",
+  "slug": "lexus",
+  "total": 2657,
+  "percentage": 0.05,
+  "eco0Percentage": 87.2,
+  "avgKw": 109,
+  "monthlyEvolution": [
+    {
+      "period": "2024-07",
+      "total": 1043,
+      "eco0Count": 962,
+      "avgKw": 107,
+      "avgCo2": 113,
+      "topModel": "LEXUS LBX"
+    },
+    {
+      "period": "2024-08",
+      "total": 693,
+      "eco0Count": 624,
+      "avgKw": 108,
+      "avgCo2": 112,
+      "topModel": "LEXUS LBX"
+    },
+    {
+      "period": "2025-01",
+      "total": 921,
+      "eco0Count": 730,
+      "avgKw": 111,
+      "avgCo2": 99,
+      "topModel": "LEXUS LBX"
+    }
+  ],
+  "models": [],
+  "leadProvinces": []
+}

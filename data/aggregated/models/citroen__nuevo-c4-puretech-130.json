@@ -1,0 +1,33 @@
+{
+  "brand": "CITROEN",
+  "brandSlug": "citroen",
+  "model": "NUEVO C4 PURETECH 130",
+  "modelSlug": "nuevo-c4-puretech-130",
+  "fullName": "CITROEN NUEVO C4 PURETECH 130",
+  "total": 1647,
+  "percentage": 0.03,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 96,
+  "avgCv": 131,
+  "avgCo2": 122,
+  "evolution": [
+    {
+      "period": "2024-01",
+      "total": 907,
+      "avgKw": 96,
+      "avgCv": 131,
+      "avgCo2": 122,
+      "avgTara": 1328
+    },
+    {
+      "period": "2024-02",
+      "total": 740,
+      "avgKw": 96,
+      "avgCv": 131,
+      "avgCo2": 122,
+      "avgTara": 1329
+    }
+  ]
+}

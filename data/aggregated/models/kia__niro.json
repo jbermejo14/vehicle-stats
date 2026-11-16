@@ -1,0 +1,201 @@
+{
+  "brand": "KIA",
+  "brandSlug": "kia",
+  "model": "NIRO",
+  "modelSlug": "niro",
+  "fullName": "KIA NIRO",
+  "total": 23095,
+  "percentage": 0.43,
+  "category": "Turismo",
+  "primaryFuel": "Híbrido (HEV)",
+  "primaryBadge": "ECO",
+  "avgKw": 71,
+  "avgCv": 97,
+  "avgCo2": 100,
+  "evolution": [
+    {
+      "period": "2024-01",
+      "total": 978,
+      "avgKw": 75,
+      "avgCv": 101,
+      "avgCo2": 94,
+      "avgTara": 1521
+    },
+    {
+      "period": "2024-02",
+      "total": 945,
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 95,
+      "avgTara": 1522
+    },
+    {
+      "period": "2024-03",
+      "total": 1006,
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 96,
+      "avgTara": 1517
+    },
+    {
+      "period": "2024-07",
+      "total": 1513,
+      "avgKw": 69,
+      "avgCv": 94,
+      "avgCo2": 99,
+      "avgTara": 1495
+    },
+    {
+      "period": "2024-08",
+      "total": 517,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 98,
+      "avgTara": 1505
+    },
+    {
+      "period": "2024-10",
+      "total": 742,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 97,
+      "avgTara": 1503
+    },
+    {
+      "period": "2024-11",
+      "total": 973,
+      "avgKw": 68,
+      "avgCv": 93,
+      "avgCo2": 98,
+      "avgTara": 1497
+    },
+    {
+      "period": "2025-01",
+      "total": 759,
+      "avgKw": 68,
+      "avgCv": 93,
+      "avgCo2": 97,
+      "avgTara": 1494
+    },
+    {
+      "period": "2025-02",
+      "total": 1105,
+      "avgKw": 68,
+      "avgCv": 93,
+      "avgCo2": 100,
+      "avgTara": 1480
+    },
+    {
+      "period": "2025-04",
+      "total": 909,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 99,
+      "avgTara": 1491
+    },
+    {
+      "period": "2025-05",
+      "total": 1064,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 99,
+      "avgTara": 1490
+    },
+    {
+      "period": "2025-07",
+      "total": 1080,
+      "avgKw": 68,
+      "avgCv": 93,
+      "avgCo2": 96,
+      "avgTara": 1483
+    },
+    {
+      "period": "2025-08",
+      "total": 591,
+      "avgKw": 69,
+      "avgCv": 93,
+      "avgCo2": 99,
+      "avgTara": 1480
+    },
+    {
+      "period": "2025-10",
+      "total": 1039,
+      "avgKw": 71,
+      "avgCv": 96,
+      "avgCo2": 100,
+      "avgTara": 1478
+    },
+    {
+      "period": "2026-01",
+      "total": 891,
+      "avgKw": 66,
+      "avgCv": 90,
+      "avgCo2": 101,
+      "avgTara": 1567
+    },
+    {
+      "period": "2026-02",
+      "total": 1000,
+      "avgKw": 68,
+      "avgCv": 93,
+      "avgCo2": 102,
+      "avgTara": 1550
+    },
+    {
+      "period": "2026-04",
+      "total": 933,
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 102,
+      "avgTara": 1482
+    },
+    {
+      "period": "2026-05",
+      "total": 1000,
+      "avgKw": 75,
+      "avgCv": 101,
+      "avgCo2": 103,
+      "avgTara": 1478
+    },
+    {
+      "period": "2026-06",
+      "total": 1466,
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 102,
+      "avgTara": 1479
+    },
+    {
+      "period": "2026-07",
+      "total": 1279,
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 103,
+      "avgTara": 1505
+    },
+    {
+      "period": "2026-08",
+      "total": 867,
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 102,
+      "avgTara": 1514
+    },
+    {
+      "period": "2026-09",
+      "total": 1011,
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 103,
+      "avgTara": 1520
+    },
+    {
+      "period": "2026-10",
+      "total": 1427,
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 104,
+      "avgTara": 1523
+    }
+  ]
+}

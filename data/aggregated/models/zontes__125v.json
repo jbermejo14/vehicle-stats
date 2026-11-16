@@ -1,0 +1,33 @@
+{
+  "brand": "ZONTES",
+  "brandSlug": "zontes",
+  "model": "125V",
+  "modelSlug": "125v",
+  "fullName": "ZONTES 125V",
+  "total": 3495,
+  "percentage": 0.06,
+  "category": "Motocicleta",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 11,
+  "avgCv": 15,
+  "avgCo2": 59,
+  "evolution": [
+    {
+      "period": "2026-09",
+      "total": 1899,
+      "avgKw": 11,
+      "avgCv": 15,
+      "avgCo2": 59,
+      "avgTara": 117
+    },
+    {
+      "period": "2026-10",
+      "total": 1596,
+      "avgKw": 11,
+      "avgCv": 15,
+      "avgCo2": 59,
+      "avgTara": 117
+    }
+  ]
+}

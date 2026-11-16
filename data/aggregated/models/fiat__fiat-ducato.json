@@ -1,0 +1,25 @@
+{
+  "brand": "FIAT",
+  "brandSlug": "fiat",
+  "model": "FIAT DUCATO",
+  "modelSlug": "fiat-ducato",
+  "fullName": "FIAT FIAT DUCATO",
+  "total": 626,
+  "percentage": 0.01,
+  "category": "Comercial",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 102,
+  "avgCv": 139,
+  "avgCo2": 223,
+  "evolution": [
+    {
+      "period": "2024-01",
+      "total": 626,
+      "avgKw": 102,
+      "avgCv": 139,
+      "avgCo2": 223,
+      "avgTara": 2100
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "brand": "HONDA",
+  "slug": "honda",
+  "total": 165887,
+  "percentage": 3.06,
+  "eco0Percentage": 8,
+  "avgKw": 32,
+  "monthlyEvolution": [
+    {
+      "period": "2024-01",
+      "total": 3376,
+      "eco0Count": 274,
+      "avgKw": 34,
+      "avgCo2": 76,
+      "topModel": "NSS125AD"
+    },
+    {
+      "period": "2024-02",
+      "total": 4219,
+      "eco0Count": 305,
+      "avgKw": 32,
+      "avgCo2": 74,
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2024-03",
+      "total": 4385,
+      "eco0Count": 378,
+      "avgKw": 34,
+      "avgCo2": 77,
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2024-04",
+      "total": 4516,
+      "eco0Count": 486,
+      "avgKw": 33,
+      "avgCo2": 77,
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2024-05",
+      "total": 5174,
+      "eco0Count": 301,
+      "avgKw": 30,
+      "avgCo2": 72,
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2024-06",
+      "total": 4916,
+      "eco0Count": 245,
+      "avgKw": 29,
+      "avgCo2": 72,
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2024-07",
+      "total": 5841,
+      "eco0Count": 407,
+      "avgKw": 32,
+      "avgCo2": 74,
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2024-08",
+      "total": 4064,
+      "eco0Count": 266,
+      "avgKw": 27,
+      "avgCo2": 70,
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2024-09",
+      "total": 4646,
+      "eco0Count": 298,
+      "avgKw": 29,
+      "avgCo2": 71,
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2024-10",
+      "total": 5079,
+      "eco0Count": 431,
+      "avgKw": 33,
+      "avgCo2": 76,
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2024-11",
+      "total": 3899,
+      "eco0Count": 297,
+      "avgKw": 32,
+      "avgCo2": 74,
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2024-12",
+      "total": 3652,
+      "eco0Count": 402,
+      "avgKw": 33,
+      "avgCo2": 74,
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2025-01",
+      "total": 4112,
+      "eco0Count": 365,
+      "avgKw": 34,
+      "avgCo2": 77,
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2025-02",
+      "total": 4331,
+      "eco0Count": 374,
+      "avgKw": 35,
+      "avgCo2": 78,
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2025-03",
+      "total": 4550,
+      "eco0Count": 322,
+      "avgKw": 35,
+      "avgCo2": 78,
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2025-04",
+      "total": 4835,
+      "eco0Count": 373,
+      "avgKw": 35,
+      "avgCo2": 77,
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2025-05",
+      "total": 5828,
+      "eco0Count": 359,
+      "avgKw": 32,
+      "avgCo2": 75,
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2025-06",
+      "total": 6289,
+      "eco0Count": 420,
+      "avgKw": 31,
+      "avgCo2": 73,
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2025-07",
+      "total": 6582,
+      "eco0Count": 384,
+      "avgKw": 30,
+      "avgCo2": 73,
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2025-08",
+      "total": 4115,
+      "eco0Count": 256,
+      "avgKw": 32,
+      "avgCo2": 74,
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2025-09",
+      "total": 5538,
+      "eco0Count": 431,
+      "avgKw": 31,
+      "avgCo2": 74,
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2025-10",
+      "total": 5727,
+      "eco0Count": 448,
+      "avgKw": 33,
+      "avgCo2": 75,
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2025-11",
+      "total": 4417,
+      "eco0Count": 466,
+      "avgKw": 37,
+      "avgCo2": 79,
+      "topModel": "NSS125AD"
+    },
+    {
+      "period": "2025-12",
+      "total": 4252,
+      "eco0Count": 475,
+      "avgKw": 38,
+      "avgCo2": 80,
+      "topModel": "WW125S"
+    },
+    {
+      "period": "2026-01",
+      "total": 3623,
+      "eco0Count": 357,
+      "avgKw": 34,
+      "avgCo2": 77,
+      "topModel": "WW125S"
+    },
+    {
+      "period": "2026-02",
+      "total": 4245,
+      "eco0Count": 447,
+      "avgKw": 34,
+      "avgCo2": 76,
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2026-03",
+      "total": 5578,
+      "eco0Count": 523,
+      "avgKw": 32,
+      "avgCo2": 74,
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2026-04",
+      "total": 5019,
+      "eco0Count": 413,
+      "avgKw": 30,
+      "avgCo2": 72,
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2026-05",
+      "total": 5786,
+      "eco0Count": 469,
+      "avgKw": 31,
+      "avgCo2": 73,
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2026-06",
+      "total": 6403,
+      "eco0Count": 498,
+      "avgKw": 29,
+      "avgCo2": 71,
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2026-07",
+      "total": 5929,
+      "eco0Count": 433,
+      "avgKw": 29,
+      "avgCo2": 71,
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2026-08",
+      "total": 4515,
+      "eco0Count": 392,
+      "avgKw": 31,
+      "avgCo2": 72,
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2026-09",
+      "total": 5702,
+      "eco0Count": 522,
+      "avgKw": 31,
+      "avgCo2": 73,
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2026-10",
+      "total": 4744,
+      "eco0Count": 456,
+      "avgKw": 33,
+      "avgCo2": 75,
+      "topModel": "WW125A"
+    }
+  ],
+  "models": [
+    {
+      "brand": "HONDA",
+      "brandSlug": "honda",
+      "model": "WW125A",
+      "modelSlug": "ww125a",
+      "fullName": "HONDA WW125A",
+      "total": 8403,
+      "percentage": 0.16,
+      "category": "Motocicleta",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 9,
+      "avgCv": 13,
+      "avgCo2": 47
+    }
+  ],
+  "leadProvinces": [
+    {
+      "province": "Ceuta",
+      "slug": "ceuta",
+      "monthsLeading": 33
+    },
+    {
+      "province": "Málaga",
+      "slug": "malaga",
+      "monthsLeading": 30
+    },
+    {
+      "province": "Barcelona",
+      "slug": "barcelona",
+      "monthsLeading": 14
+    },
+    {
+      "province": "Santa Cruz de Tenerife",
+      "slug": "santa-cruz-de-tenerife",
+      "monthsLeading": 14
+    },
+    {
+      "province": "Girona",
+      "slug": "girona",
+      "monthsLeading": 12
+    },
+    {
+      "province": "Cádiz",
+      "slug": "cadiz",
+      "monthsLeading": 11
+    },
+    {
+      "province": "Gipuzkoa",
+      "slug": "gipuzkoa",
+      "monthsLeading": 8
+    },
+    {
+      "province": "Illes Balears",
+      "slug": "illes-balears",
+      "monthsLeading": 5
+    },
+    {
+      "province": "Córdoba",
+      "slug": "cordoba",
+      "monthsLeading": 3
+    },
+    {
+      "province": "Granada",
+      "slug": "granada",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Pontevedra",
+      "slug": "pontevedra",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Huelva",
+      "slug": "huelva",
+      "monthsLeading": 2
+    }
+  ]
+}

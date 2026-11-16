@@ -1,0 +1,65 @@
+{
+  "brand": "FORD",
+  "brandSlug": "ford",
+  "model": "FOCUS",
+  "modelSlug": "focus",
+  "fullName": "FORD FOCUS",
+  "total": 5913,
+  "percentage": 0.11,
+  "category": "Turismo",
+  "primaryFuel": "Híbrido (HEV)",
+  "primaryBadge": "ECO",
+  "avgKw": 114,
+  "avgCv": 155,
+  "avgCo2": 131,
+  "evolution": [
+    {
+      "period": "2024-01",
+      "total": 654,
+      "avgKw": 109,
+      "avgCv": 148,
+      "avgCo2": 126,
+      "avgTara": 1433
+    },
+    {
+      "period": "2024-05",
+      "total": 1426,
+      "avgKw": 105,
+      "avgCv": 143,
+      "avgCo2": 123,
+      "avgTara": 1442
+    },
+    {
+      "period": "2024-11",
+      "total": 821,
+      "avgKw": 118,
+      "avgCv": 161,
+      "avgCo2": 136,
+      "avgTara": 1470
+    },
+    {
+      "period": "2024-12",
+      "total": 904,
+      "avgKw": 117,
+      "avgCv": 159,
+      "avgCo2": 134,
+      "avgTara": 1468
+    },
+    {
+      "period": "2025-01",
+      "total": 1054,
+      "avgKw": 119,
+      "avgCv": 162,
+      "avgCo2": 135,
+      "avgTara": 1450
+    },
+    {
+      "period": "2025-02",
+      "total": 1054,
+      "avgKw": 120,
+      "avgCv": 163,
+      "avgCo2": 137,
+      "avgTara": 1463
+    }
+  ]
+}

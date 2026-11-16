@@ -1,0 +1,434 @@
+{
+  "code": "08",
+  "name": "Barcelona",
+  "slug": "barcelona",
+  "community": "Cataluña",
+  "population": 5805500,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 522173,
+  "percentageOfSpain": 9.65,
+  "per1000Habitantes": 89.94,
+  "ceroCount": 49715,
+  "ecoCount": 128747,
+  "bevCount": 46391,
+  "phevCount": 3324,
+  "hevCount": 128727,
+  "ceroPercentage": 9.5,
+  "ecoPercentage": 24.7,
+  "bevPercentage": 8.9,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 12164,
+      "cero": 719,
+      "eco": 2668,
+      "bev": 696,
+      "phev": 23,
+      "hev": 2668,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2024-02",
+      "total": 13393,
+      "cero": 889,
+      "eco": 3331,
+      "bev": 844,
+      "phev": 45,
+      "hev": 3331,
+      "topBrand": "HONDA",
+      "topModel": "FIAT 500"
+    },
+    {
+      "period": "2024-03",
+      "total": 13194,
+      "cero": 855,
+      "eco": 2814,
+      "bev": 804,
+      "phev": 51,
+      "hev": 2814,
+      "topBrand": "HONDA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-04",
+      "total": 13814,
+      "cero": 856,
+      "eco": 2878,
+      "bev": 814,
+      "phev": 42,
+      "hev": 2878,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-05",
+      "total": 14011,
+      "cero": 794,
+      "eco": 2984,
+      "bev": 769,
+      "phev": 25,
+      "hev": 2984,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-06",
+      "total": 14860,
+      "cero": 1060,
+      "eco": 3817,
+      "bev": 1053,
+      "phev": 7,
+      "hev": 3817,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "FIAT 500"
+    },
+    {
+      "period": "2024-07",
+      "total": 17096,
+      "cero": 887,
+      "eco": 4142,
+      "bev": 879,
+      "phev": 8,
+      "hev": 4141,
+      "topBrand": "HONDA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-08",
+      "total": 9250,
+      "cero": 500,
+      "eco": 2082,
+      "bev": 498,
+      "phev": 2,
+      "hev": 2082,
+      "topBrand": "TOYOTA",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-09",
+      "total": 13026,
+      "cero": 1152,
+      "eco": 2952,
+      "bev": 1145,
+      "phev": 7,
+      "hev": 2952,
+      "topBrand": "HONDA",
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2024-10",
+      "total": 16740,
+      "cero": 1057,
+      "eco": 4233,
+      "bev": 1047,
+      "phev": 10,
+      "hev": 4233,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-11",
+      "total": 14157,
+      "cero": 995,
+      "eco": 3600,
+      "bev": 981,
+      "phev": 14,
+      "hev": 3600,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-12",
+      "total": 15523,
+      "cero": 1483,
+      "eco": 4205,
+      "bev": 1479,
+      "phev": 4,
+      "hev": 4205,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-01",
+      "total": 12592,
+      "cero": 1012,
+      "eco": 3469,
+      "bev": 1001,
+      "phev": 11,
+      "hev": 3469,
+      "topBrand": "HONDA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-02",
+      "total": 13582,
+      "cero": 1015,
+      "eco": 3570,
+      "bev": 952,
+      "phev": 63,
+      "hev": 3570,
+      "topBrand": "TOYOTA",
+      "topModel": "CORSA EDITION 1.2T XHL"
+    },
+    {
+      "period": "2025-03",
+      "total": 15091,
+      "cero": 1363,
+      "eco": 3944,
+      "bev": 1312,
+      "phev": 51,
+      "hev": 3944,
+      "topBrand": "HONDA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-04",
+      "total": 13876,
+      "cero": 1242,
+      "eco": 3321,
+      "bev": 1156,
+      "phev": 86,
+      "hev": 3320,
+      "topBrand": "HONDA",
+      "topModel": "TOYOTA YARIS CROSS"
+    },
+    {
+      "period": "2025-05",
+      "total": 16838,
+      "cero": 1526,
+      "eco": 4089,
+      "bev": 1427,
+      "phev": 99,
+      "hev": 4089,
+      "topBrand": "HONDA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-06",
+      "total": 17206,
+      "cero": 1855,
+      "eco": 4083,
+      "bev": 1690,
+      "phev": 165,
+      "hev": 4082,
+      "topBrand": "HONDA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-07",
+      "total": 19221,
+      "cero": 1837,
+      "eco": 4487,
+      "bev": 1631,
+      "phev": 206,
+      "hev": 4487,
+      "topBrand": "HONDA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-08",
+      "total": 10606,
+      "cero": 1170,
+      "eco": 2689,
+      "bev": 1072,
+      "phev": 98,
+      "hev": 2689,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-09",
+      "total": 15773,
+      "cero": 1673,
+      "eco": 3654,
+      "bev": 1493,
+      "phev": 180,
+      "hev": 3654,
+      "topBrand": "HONDA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-10",
+      "total": 18773,
+      "cero": 1894,
+      "eco": 4459,
+      "bev": 1709,
+      "phev": 185,
+      "hev": 4459,
+      "topBrand": "HONDA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-11",
+      "total": 17186,
+      "cero": 2393,
+      "eco": 4350,
+      "bev": 2249,
+      "phev": 144,
+      "hev": 4346,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "ALPHA"
+    },
+    {
+      "period": "2025-12",
+      "total": 15376,
+      "cero": 1835,
+      "eco": 4026,
+      "bev": 1654,
+      "phev": 181,
+      "hev": 4024,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-01",
+      "total": 13093,
+      "cero": 1098,
+      "eco": 3618,
+      "bev": 991,
+      "phev": 107,
+      "hev": 3615,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2026-02",
+      "total": 15572,
+      "cero": 1553,
+      "eco": 4177,
+      "bev": 1407,
+      "phev": 146,
+      "hev": 4177,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA YARIS CROSS"
+    },
+    {
+      "period": "2026-03",
+      "total": 19658,
+      "cero": 2084,
+      "eco": 4895,
+      "bev": 1907,
+      "phev": 177,
+      "hev": 4895,
+      "topBrand": "HONDA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-04",
+      "total": 16689,
+      "cero": 1726,
+      "eco": 4404,
+      "bev": 1567,
+      "phev": 159,
+      "hev": 4401,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-05",
+      "total": 17570,
+      "cero": 2094,
+      "eco": 4494,
+      "bev": 1947,
+      "phev": 147,
+      "hev": 4489,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2026-06",
+      "total": 20645,
+      "cero": 2330,
+      "eco": 5352,
+      "bev": 2158,
+      "phev": 172,
+      "hev": 5352,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2026-07",
+      "total": 19155,
+      "cero": 2047,
+      "eco": 4473,
+      "bev": 1870,
+      "phev": 177,
+      "hev": 4473,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-08",
+      "total": 10992,
+      "cero": 1390,
+      "eco": 2874,
+      "bev": 1258,
+      "phev": 132,
+      "hev": 2874,
+      "topBrand": "TOYOTA",
+      "topModel": "125X"
+    },
+    {
+      "period": "2026-09",
+      "total": 17675,
+      "cero": 2664,
+      "eco": 4376,
+      "bev": 2446,
+      "phev": 218,
+      "hev": 4376,
+      "topBrand": "HONDA",
+      "topModel": "125V"
+    },
+    {
+      "period": "2026-10",
+      "total": 17776,
+      "cero": 2667,
+      "eco": 4237,
+      "bev": 2485,
+      "phev": 182,
+      "hev": 4237,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "HONDA",
+      "slug": "honda",
+      "timesLeader": 14
+    },
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 13
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "timesLeader": 7
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "SANDERO",
+      "timesLeader": 19
+    },
+    {
+      "model": "TOYOTA COROLLA",
+      "timesLeader": 2
+    },
+    {
+      "model": "FIAT 500",
+      "timesLeader": 2
+    },
+    {
+      "model": "TOYOTA YARIS CROSS",
+      "timesLeader": 2
+    },
+    {
+      "model": "IBIZA",
+      "timesLeader": 2
+    }
+  ]
+}

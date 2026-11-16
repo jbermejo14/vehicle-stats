@@ -1,0 +1,121 @@
+{
+  "brand": "OPEL",
+  "brandSlug": "opel",
+  "model": "CORSA GS 1.2T XHL MT6",
+  "modelSlug": "corsa-gs-1-2t-xhl-mt6",
+  "fullName": "OPEL CORSA GS 1.2T XHL MT6",
+  "total": 14304,
+  "percentage": 0.26,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 74,
+  "avgCv": 101,
+  "avgCo2": 117,
+  "evolution": [
+    {
+      "period": "2024-01",
+      "total": 895,
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 114,
+      "avgTara": 1175
+    },
+    {
+      "period": "2024-02",
+      "total": 851,
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 114,
+      "avgTara": 1175
+    },
+    {
+      "period": "2024-03",
+      "total": 978,
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 115,
+      "avgTara": 1175
+    },
+    {
+      "period": "2024-04",
+      "total": 1463,
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 117,
+      "avgTara": 1175
+    },
+    {
+      "period": "2024-05",
+      "total": 1217,
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 117,
+      "avgTara": 1175
+    },
+    {
+      "period": "2024-06",
+      "total": 928,
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 117,
+      "avgTara": 1175
+    },
+    {
+      "period": "2024-07",
+      "total": 787,
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 117,
+      "avgTara": 1175
+    },
+    {
+      "period": "2024-12",
+      "total": 1342,
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 118,
+      "avgTara": 1175
+    },
+    {
+      "period": "2025-03",
+      "total": 1136,
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 118,
+      "avgTara": 1175
+    },
+    {
+      "period": "2025-06",
+      "total": 1463,
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 118,
+      "avgTara": 1175
+    },
+    {
+      "period": "2025-07",
+      "total": 995,
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 118,
+      "avgTara": 1175
+    },
+    {
+      "period": "2025-11",
+      "total": 800,
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 118,
+      "avgTara": 1175
+    },
+    {
+      "period": "2026-06",
+      "total": 1449,
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 116,
+      "avgTara": 1180
+    }
+  ]
+}

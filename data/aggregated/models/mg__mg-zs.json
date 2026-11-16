@@ -1,0 +1,289 @@
+{
+  "brand": "MG",
+  "brandSlug": "mg",
+  "model": "MG ZS",
+  "modelSlug": "mg-zs",
+  "fullName": "MG MG ZS",
+  "total": 62510,
+  "percentage": 1.15,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 78,
+  "avgCv": 106,
+  "avgCo2": 137,
+  "evolution": [
+    {
+      "period": "2024-01",
+      "total": 1598,
+      "avgKw": 79,
+      "avgCv": 108,
+      "avgCo2": 151,
+      "avgTara": 1318
+    },
+    {
+      "period": "2024-02",
+      "total": 1496,
+      "avgKw": 79,
+      "avgCv": 108,
+      "avgCo2": 151,
+      "avgTara": 1318
+    },
+    {
+      "period": "2024-03",
+      "total": 1791,
+      "avgKw": 79,
+      "avgCv": 107,
+      "avgCo2": 150,
+      "avgTara": 1316
+    },
+    {
+      "period": "2024-04",
+      "total": 1686,
+      "avgKw": 79,
+      "avgCv": 107,
+      "avgCo2": 150,
+      "avgTara": 1317
+    },
+    {
+      "period": "2024-05",
+      "total": 1652,
+      "avgKw": 79,
+      "avgCv": 107,
+      "avgCo2": 150,
+      "avgTara": 1317
+    },
+    {
+      "period": "2024-06",
+      "total": 1479,
+      "avgKw": 79,
+      "avgCv": 107,
+      "avgCo2": 150,
+      "avgTara": 1317
+    },
+    {
+      "period": "2024-07",
+      "total": 2624,
+      "avgKw": 79,
+      "avgCv": 107,
+      "avgCo2": 150,
+      "avgTara": 1316
+    },
+    {
+      "period": "2024-08",
+      "total": 1334,
+      "avgKw": 79,
+      "avgCv": 107,
+      "avgCo2": 150,
+      "avgTara": 1316
+    },
+    {
+      "period": "2024-09",
+      "total": 1032,
+      "avgKw": 79,
+      "avgCv": 107,
+      "avgCo2": 152,
+      "avgTara": 1318
+    },
+    {
+      "period": "2024-10",
+      "total": 1812,
+      "avgKw": 79,
+      "avgCv": 107,
+      "avgCo2": 153,
+      "avgTara": 1328
+    },
+    {
+      "period": "2024-11",
+      "total": 1651,
+      "avgKw": 78,
+      "avgCv": 106,
+      "avgCo2": 152,
+      "avgTara": 1331
+    },
+    {
+      "period": "2024-12",
+      "total": 1879,
+      "avgKw": 77,
+      "avgCv": 105,
+      "avgCo2": 142,
+      "avgTara": 1373
+    },
+    {
+      "period": "2025-01",
+      "total": 2100,
+      "avgKw": 77,
+      "avgCv": 104,
+      "avgCo2": 137,
+      "avgTara": 1392
+    },
+    {
+      "period": "2025-02",
+      "total": 2620,
+      "avgKw": 77,
+      "avgCv": 105,
+      "avgCo2": 140,
+      "avgTara": 1379
+    },
+    {
+      "period": "2025-03",
+      "total": 3459,
+      "avgKw": 77,
+      "avgCv": 105,
+      "avgCo2": 141,
+      "avgTara": 1378
+    },
+    {
+      "period": "2025-04",
+      "total": 2440,
+      "avgKw": 77,
+      "avgCv": 105,
+      "avgCo2": 142,
+      "avgTara": 1372
+    },
+    {
+      "period": "2025-05",
+      "total": 2479,
+      "avgKw": 77,
+      "avgCv": 105,
+      "avgCo2": 137,
+      "avgTara": 1391
+    },
+    {
+      "period": "2025-06",
+      "total": 1879,
+      "avgKw": 77,
+      "avgCv": 104,
+      "avgCo2": 131,
+      "avgTara": 1417
+    },
+    {
+      "period": "2025-07",
+      "total": 1609,
+      "avgKw": 77,
+      "avgCv": 105,
+      "avgCo2": 129,
+      "avgTara": 1423
+    },
+    {
+      "period": "2025-08",
+      "total": 1168,
+      "avgKw": 77,
+      "avgCv": 105,
+      "avgCo2": 126,
+      "avgTara": 1435
+    },
+    {
+      "period": "2025-09",
+      "total": 1508,
+      "avgKw": 78,
+      "avgCv": 106,
+      "avgCo2": 125,
+      "avgTara": 1438
+    },
+    {
+      "period": "2025-10",
+      "total": 1483,
+      "avgKw": 78,
+      "avgCv": 106,
+      "avgCo2": 125,
+      "avgTara": 1435
+    },
+    {
+      "period": "2025-11",
+      "total": 1518,
+      "avgKw": 78,
+      "avgCv": 106,
+      "avgCo2": 125,
+      "avgTara": 1436
+    },
+    {
+      "period": "2025-12",
+      "total": 1514,
+      "avgKw": 78,
+      "avgCv": 106,
+      "avgCo2": 125,
+      "avgTara": 1437
+    },
+    {
+      "period": "2026-01",
+      "total": 1417,
+      "avgKw": 78,
+      "avgCv": 106,
+      "avgCo2": 123,
+      "avgTara": 1445
+    },
+    {
+      "period": "2026-02",
+      "total": 1712,
+      "avgKw": 78,
+      "avgCv": 106,
+      "avgCo2": 124,
+      "avgTara": 1443
+    },
+    {
+      "period": "2026-03",
+      "total": 2018,
+      "avgKw": 78,
+      "avgCv": 106,
+      "avgCo2": 124,
+      "avgTara": 1437
+    },
+    {
+      "period": "2026-04",
+      "total": 2370,
+      "avgKw": 80,
+      "avgCv": 109,
+      "avgCo2": 130,
+      "avgTara": 1408
+    },
+    {
+      "period": "2026-05",
+      "total": 2193,
+      "avgKw": 79,
+      "avgCv": 107,
+      "avgCo2": 126,
+      "avgTara": 1430
+    },
+    {
+      "period": "2026-06",
+      "total": 2386,
+      "avgKw": 80,
+      "avgCv": 109,
+      "avgCo2": 130,
+      "avgTara": 1411
+    },
+    {
+      "period": "2026-07",
+      "total": 1961,
+      "avgKw": 78,
+      "avgCv": 107,
+      "avgCo2": 125,
+      "avgTara": 1432
+    },
+    {
+      "period": "2026-08",
+      "total": 1446,
+      "avgKw": 78,
+      "avgCv": 106,
+      "avgCo2": 124,
+      "avgTara": 1441
+    },
+    {
+      "period": "2026-09",
+      "total": 1411,
+      "avgKw": 79,
+      "avgCv": 107,
+      "avgCo2": 125,
+      "avgTara": 1433
+    },
+    {
+      "period": "2026-10",
+      "total": 1785,
+      "avgKw": 81,
+      "avgCv": 110,
+      "avgCo2": 133,
+      "avgTara": 1395
+    }
+  ]
+}

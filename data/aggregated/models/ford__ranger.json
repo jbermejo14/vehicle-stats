@@ -1,0 +1,25 @@
+{
+  "brand": "FORD",
+  "brandSlug": "ford",
+  "model": "RANGER",
+  "modelSlug": "ranger",
+  "fullName": "FORD RANGER",
+  "total": 664,
+  "percentage": 0.01,
+  "category": "Comercial",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 146,
+  "avgCv": 198,
+  "avgCo2": 227,
+  "evolution": [
+    {
+      "period": "2026-01",
+      "total": 664,
+      "avgKw": 146,
+      "avgCv": 198,
+      "avgCo2": 227,
+      "avgTara": 2342
+    }
+  ]
+}

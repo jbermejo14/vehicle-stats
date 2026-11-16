@@ -1,0 +1,257 @@
+{
+  "brand": "KIA",
+  "brandSlug": "kia",
+  "model": "STONIC",
+  "modelSlug": "stonic",
+  "fullName": "KIA STONIC",
+  "total": 34754,
+  "percentage": 0.64,
+  "category": "Turismo",
+  "primaryFuel": "Híbrido (HEV)",
+  "primaryBadge": "ECO",
+  "avgKw": 75,
+  "avgCv": 101,
+  "avgCo2": 125,
+  "evolution": [
+    {
+      "period": "2024-01",
+      "total": 999,
+      "avgKw": 73,
+      "avgCv": 99,
+      "avgCo2": 125,
+      "avgTara": 1213
+    },
+    {
+      "period": "2024-03",
+      "total": 1966,
+      "avgKw": 73,
+      "avgCv": 99,
+      "avgCo2": 123,
+      "avgTara": 1220
+    },
+    {
+      "period": "2024-05",
+      "total": 1044,
+      "avgKw": 73,
+      "avgCv": 100,
+      "avgCo2": 124,
+      "avgTara": 1217
+    },
+    {
+      "period": "2024-07",
+      "total": 832,
+      "avgKw": 69,
+      "avgCv": 94,
+      "avgCo2": 127,
+      "avgTara": 1204
+    },
+    {
+      "period": "2024-08",
+      "total": 744,
+      "avgKw": 70,
+      "avgCv": 95,
+      "avgCo2": 126,
+      "avgTara": 1208
+    },
+    {
+      "period": "2024-09",
+      "total": 803,
+      "avgKw": 68,
+      "avgCv": 93,
+      "avgCo2": 126,
+      "avgTara": 1205
+    },
+    {
+      "period": "2024-10",
+      "total": 884,
+      "avgKw": 70,
+      "avgCv": 95,
+      "avgCo2": 126,
+      "avgTara": 1212
+    },
+    {
+      "period": "2024-11",
+      "total": 704,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 127,
+      "avgTara": 1203
+    },
+    {
+      "period": "2024-12",
+      "total": 1075,
+      "avgKw": 71,
+      "avgCv": 96,
+      "avgCo2": 125,
+      "avgTara": 1215
+    },
+    {
+      "period": "2025-01",
+      "total": 1101,
+      "avgKw": 71,
+      "avgCv": 96,
+      "avgCo2": 125,
+      "avgTara": 1214
+    },
+    {
+      "period": "2025-02",
+      "total": 1340,
+      "avgKw": 70,
+      "avgCv": 95,
+      "avgCo2": 126,
+      "avgTara": 1210
+    },
+    {
+      "period": "2025-03",
+      "total": 1704,
+      "avgKw": 71,
+      "avgCv": 97,
+      "avgCo2": 125,
+      "avgTara": 1216
+    },
+    {
+      "period": "2025-04",
+      "total": 1355,
+      "avgKw": 71,
+      "avgCv": 97,
+      "avgCo2": 124,
+      "avgTara": 1219
+    },
+    {
+      "period": "2025-05",
+      "total": 1422,
+      "avgKw": 72,
+      "avgCv": 98,
+      "avgCo2": 124,
+      "avgTara": 1221
+    },
+    {
+      "period": "2025-06",
+      "total": 1209,
+      "avgKw": 72,
+      "avgCv": 98,
+      "avgCo2": 123,
+      "avgTara": 1222
+    },
+    {
+      "period": "2025-07",
+      "total": 893,
+      "avgKw": 72,
+      "avgCv": 98,
+      "avgCo2": 125,
+      "avgTara": 1221
+    },
+    {
+      "period": "2025-08",
+      "total": 657,
+      "avgKw": 72,
+      "avgCv": 98,
+      "avgCo2": 124,
+      "avgTara": 1225
+    },
+    {
+      "period": "2025-09",
+      "total": 1224,
+      "avgKw": 71,
+      "avgCv": 97,
+      "avgCo2": 127,
+      "avgTara": 1218
+    },
+    {
+      "period": "2025-10",
+      "total": 1005,
+      "avgKw": 73,
+      "avgCv": 99,
+      "avgCo2": 123,
+      "avgTara": 1226
+    },
+    {
+      "period": "2025-11",
+      "total": 1232,
+      "avgKw": 73,
+      "avgCv": 100,
+      "avgCo2": 124,
+      "avgTara": 1225
+    },
+    {
+      "period": "2025-12",
+      "total": 1260,
+      "avgKw": 75,
+      "avgCv": 103,
+      "avgCo2": 124,
+      "avgTara": 1226
+    },
+    {
+      "period": "2026-01",
+      "total": 992,
+      "avgKw": 78,
+      "avgCv": 105,
+      "avgCo2": 125,
+      "avgTara": 1223
+    },
+    {
+      "period": "2026-02",
+      "total": 1603,
+      "avgKw": 79,
+      "avgCv": 108,
+      "avgCo2": 125,
+      "avgTara": 1225
+    },
+    {
+      "period": "2026-03",
+      "total": 1758,
+      "avgKw": 81,
+      "avgCv": 110,
+      "avgCo2": 124,
+      "avgTara": 1232
+    },
+    {
+      "period": "2026-04",
+      "total": 1594,
+      "avgKw": 82,
+      "avgCv": 112,
+      "avgCo2": 124,
+      "avgTara": 1233
+    },
+    {
+      "period": "2026-05",
+      "total": 1274,
+      "avgKw": 83,
+      "avgCv": 112,
+      "avgCo2": 124,
+      "avgTara": 1234
+    },
+    {
+      "period": "2026-07",
+      "total": 1005,
+      "avgKw": 81,
+      "avgCv": 111,
+      "avgCo2": 124,
+      "avgTara": 1229
+    },
+    {
+      "period": "2026-08",
+      "total": 885,
+      "avgKw": 81,
+      "avgCv": 111,
+      "avgCo2": 124,
+      "avgTara": 1230
+    },
+    {
+      "period": "2026-09",
+      "total": 813,
+      "avgKw": 81,
+      "avgCv": 110,
+      "avgCo2": 124,
+      "avgTara": 1230
+    },
+    {
+      "period": "2026-10",
+      "total": 1377,
+      "avgKw": 81,
+      "avgCv": 110,
+      "avgCo2": 125,
+      "avgTara": 1229
+    }
+  ]
+}

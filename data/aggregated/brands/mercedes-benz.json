@@ -1,0 +1,66 @@
+{
+  "brand": "MERCEDES BENZ",
+  "slug": "mercedes-benz",
+  "total": 7863,
+  "percentage": 0.15,
+  "eco0Percentage": 4.8,
+  "avgKw": 127,
+  "monthlyEvolution": [
+    {
+      "period": "2025-11",
+      "total": 1245,
+      "eco0Count": 54,
+      "avgKw": 125,
+      "avgCo2": 154,
+      "topModel": "SPRINTER"
+    },
+    {
+      "period": "2025-12",
+      "total": 1274,
+      "eco0Count": 60,
+      "avgKw": 130,
+      "avgCo2": 154,
+      "topModel": "SPRINTER"
+    },
+    {
+      "period": "2026-01",
+      "total": 1093,
+      "eco0Count": 48,
+      "avgKw": 126,
+      "avgCo2": 154,
+      "topModel": "VITO"
+    },
+    {
+      "period": "2026-04",
+      "total": 1391,
+      "eco0Count": 63,
+      "avgKw": 128,
+      "avgCo2": 153,
+      "topModel": "SPRINTER"
+    },
+    {
+      "period": "2026-07",
+      "total": 1682,
+      "eco0Count": 79,
+      "avgKw": 126,
+      "avgCo2": 156,
+      "topModel": "SPRINTER"
+    },
+    {
+      "period": "2026-08",
+      "total": 1178,
+      "eco0Count": 72,
+      "avgKw": 129,
+      "avgCo2": 156,
+      "topModel": "SPRINTER"
+    }
+  ],
+  "models": [],
+  "leadProvinces": [
+    {
+      "province": "Melilla",
+      "slug": "melilla",
+      "monthsLeading": 1
+    }
+  ]
+}

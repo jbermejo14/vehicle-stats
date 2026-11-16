@@ -1,0 +1,84 @@
+{
+  "brand": "MINI",
+  "slug": "mini",
+  "total": 10014,
+  "percentage": 0.19,
+  "eco0Percentage": 30.9,
+  "avgKw": 119,
+  "monthlyEvolution": [
+    {
+      "period": "2024-01",
+      "total": 777,
+      "eco0Count": 25,
+      "avgKw": 103,
+      "avgCo2": 123,
+      "topModel": "COOPER"
+    },
+    {
+      "period": "2024-02",
+      "total": 991,
+      "eco0Count": 170,
+      "avgKw": 110,
+      "avgCo2": 134,
+      "topModel": "COOPER"
+    },
+    {
+      "period": "2024-03",
+      "total": 1185,
+      "eco0Count": 78,
+      "avgKw": 106,
+      "avgCo2": 132,
+      "topModel": "COOPER"
+    },
+    {
+      "period": "2024-10",
+      "total": 1006,
+      "eco0Count": 384,
+      "avgKw": 121,
+      "avgCo2": 136,
+      "topModel": "COOPER C"
+    },
+    {
+      "period": "2024-11",
+      "total": 1025,
+      "eco0Count": 447,
+      "avgKw": 124,
+      "avgCo2": 136,
+      "topModel": "COOPER C"
+    },
+    {
+      "period": "2024-12",
+      "total": 1200,
+      "eco0Count": 538,
+      "avgKw": 124,
+      "avgCo2": 137,
+      "topModel": "COOPER C"
+    },
+    {
+      "period": "2025-01",
+      "total": 855,
+      "eco0Count": 252,
+      "avgKw": 120,
+      "avgCo2": 137,
+      "topModel": "COOPER C"
+    },
+    {
+      "period": "2025-02",
+      "total": 1847,
+      "eco0Count": 896,
+      "avgKw": 127,
+      "avgCo2": 137,
+      "topModel": "COOPER C"
+    },
+    {
+      "period": "2025-04",
+      "total": 1128,
+      "eco0Count": 304,
+      "avgKw": 122,
+      "avgCo2": 140,
+      "topModel": "COOPER C"
+    }
+  ],
+  "models": [],
+  "leadProvinces": []
+}

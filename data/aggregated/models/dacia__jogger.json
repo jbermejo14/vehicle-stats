@@ -1,0 +1,25 @@
+{
+  "brand": "DACIA",
+  "brandSlug": "dacia",
+  "model": "JOGGER",
+  "modelSlug": "jogger",
+  "fullName": "DACIA JOGGER",
+  "total": 953,
+  "percentage": 0.02,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 71,
+  "avgCv": 96,
+  "avgCo2": 117,
+  "evolution": [
+    {
+      "period": "2024-05",
+      "total": 953,
+      "avgKw": 71,
+      "avgCv": 96,
+      "avgCo2": 117,
+      "avgTara": 1334
+    }
+  ]
+}

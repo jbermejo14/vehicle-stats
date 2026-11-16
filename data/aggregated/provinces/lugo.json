@@ -1,0 +1,444 @@
+{
+  "code": "27",
+  "name": "Lugo",
+  "slug": "lugo",
+  "community": "Galicia",
+  "population": 324267,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 26392,
+  "percentageOfSpain": 0.49,
+  "per1000Habitantes": 81.39,
+  "ceroCount": 2013,
+  "ecoCount": 5589,
+  "bevCount": 1847,
+  "phevCount": 166,
+  "hevCount": 5588,
+  "ceroPercentage": 7.6,
+  "ecoPercentage": 21.2,
+  "bevPercentage": 7,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 655,
+      "cero": 18,
+      "eco": 125,
+      "bev": 15,
+      "phev": 3,
+      "hev": 125,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-02",
+      "total": 661,
+      "cero": 30,
+      "eco": 154,
+      "bev": 25,
+      "phev": 5,
+      "hev": 154,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-03",
+      "total": 682,
+      "cero": 30,
+      "eco": 130,
+      "bev": 27,
+      "phev": 3,
+      "hev": 130,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "TRAFIC"
+    },
+    {
+      "period": "2024-04",
+      "total": 815,
+      "cero": 22,
+      "eco": 146,
+      "bev": 20,
+      "phev": 2,
+      "hev": 146,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "TOYOTA HILUX"
+    },
+    {
+      "period": "2024-05",
+      "total": 709,
+      "cero": 24,
+      "eco": 142,
+      "bev": 23,
+      "phev": 1,
+      "hev": 142,
+      "topBrand": "RENAULT",
+      "topModel": "CEED"
+    },
+    {
+      "period": "2024-06",
+      "total": 785,
+      "cero": 30,
+      "eco": 164,
+      "bev": 30,
+      "phev": 0,
+      "hev": 164,
+      "topBrand": "DACIA",
+      "topModel": "DUSTER"
+    },
+    {
+      "period": "2024-07",
+      "total": 724,
+      "cero": 32,
+      "eco": 172,
+      "bev": 32,
+      "phev": 0,
+      "hev": 172,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-08",
+      "total": 533,
+      "cero": 34,
+      "eco": 85,
+      "bev": 34,
+      "phev": 0,
+      "hev": 85,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-09",
+      "total": 796,
+      "cero": 29,
+      "eco": 124,
+      "bev": 29,
+      "phev": 0,
+      "hev": 124,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA HILUX"
+    },
+    {
+      "period": "2024-10",
+      "total": 734,
+      "cero": 34,
+      "eco": 199,
+      "bev": 34,
+      "phev": 0,
+      "hev": 199,
+      "topBrand": "TOYOTA",
+      "topModel": "DUSTER"
+    },
+    {
+      "period": "2024-11",
+      "total": 607,
+      "cero": 25,
+      "eco": 137,
+      "bev": 25,
+      "phev": 0,
+      "hev": 137,
+      "topBrand": "TOYOTA",
+      "topModel": "MB E 19 UE"
+    },
+    {
+      "period": "2024-12",
+      "total": 746,
+      "cero": 63,
+      "eco": 166,
+      "bev": 62,
+      "phev": 1,
+      "hev": 166,
+      "topBrand": "TOYOTA",
+      "topModel": "EV3"
+    },
+    {
+      "period": "2025-01",
+      "total": 702,
+      "cero": 33,
+      "eco": 127,
+      "bev": 33,
+      "phev": 0,
+      "hev": 127,
+      "topBrand": "TOYOTA",
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2025-02",
+      "total": 591,
+      "cero": 30,
+      "eco": 123,
+      "bev": 29,
+      "phev": 1,
+      "hev": 123,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-03",
+      "total": 692,
+      "cero": 33,
+      "eco": 151,
+      "bev": 32,
+      "phev": 1,
+      "hev": 151,
+      "topBrand": "KIA",
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2025-04",
+      "total": 739,
+      "cero": 54,
+      "eco": 132,
+      "bev": 52,
+      "phev": 2,
+      "hev": 132,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2025-05",
+      "total": 949,
+      "cero": 58,
+      "eco": 165,
+      "bev": 54,
+      "phev": 4,
+      "hev": 165,
+      "topBrand": "KIA",
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2025-06",
+      "total": 1051,
+      "cero": 79,
+      "eco": 178,
+      "bev": 71,
+      "phev": 8,
+      "hev": 178,
+      "topBrand": "TOYOTA",
+      "topModel": "FABIA"
+    },
+    {
+      "period": "2025-07",
+      "total": 852,
+      "cero": 68,
+      "eco": 154,
+      "bev": 55,
+      "phev": 13,
+      "hev": 154,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "TOURNEO COURIER"
+    },
+    {
+      "period": "2025-08",
+      "total": 615,
+      "cero": 54,
+      "eco": 124,
+      "bev": 44,
+      "phev": 10,
+      "hev": 124,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-09",
+      "total": 756,
+      "cero": 63,
+      "eco": 183,
+      "bev": 57,
+      "phev": 6,
+      "hev": 183,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-10",
+      "total": 899,
+      "cero": 65,
+      "eco": 236,
+      "bev": 50,
+      "phev": 15,
+      "hev": 236,
+      "topBrand": "RENAULT",
+      "topModel": "CLIO E-TECH HYBRID"
+    },
+    {
+      "period": "2025-11",
+      "total": 882,
+      "cero": 79,
+      "eco": 326,
+      "bev": 75,
+      "phev": 4,
+      "hev": 326,
+      "topBrand": "ECOAUTO",
+      "topModel": "DUSTER"
+    },
+    {
+      "period": "2025-12",
+      "total": 834,
+      "cero": 88,
+      "eco": 170,
+      "bev": 76,
+      "phev": 12,
+      "hev": 170,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "AMAROK"
+    },
+    {
+      "period": "2026-01",
+      "total": 770,
+      "cero": 25,
+      "eco": 193,
+      "bev": 20,
+      "phev": 5,
+      "hev": 193,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "AMAROK"
+    },
+    {
+      "period": "2026-02",
+      "total": 737,
+      "cero": 53,
+      "eco": 196,
+      "bev": 46,
+      "phev": 7,
+      "hev": 196,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA RAV4"
+    },
+    {
+      "period": "2026-03",
+      "total": 835,
+      "cero": 87,
+      "eco": 185,
+      "bev": 78,
+      "phev": 9,
+      "hev": 184,
+      "topBrand": "RENAULT",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2026-04",
+      "total": 798,
+      "cero": 72,
+      "eco": 142,
+      "bev": 69,
+      "phev": 3,
+      "hev": 142,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-05",
+      "total": 896,
+      "cero": 98,
+      "eco": 190,
+      "bev": 90,
+      "phev": 8,
+      "hev": 190,
+      "topBrand": "RENAULT",
+      "topModel": "SUPERB"
+    },
+    {
+      "period": "2026-06",
+      "total": 1004,
+      "cero": 119,
+      "eco": 207,
+      "bev": 113,
+      "phev": 6,
+      "hev": 207,
+      "topBrand": "DACIA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-07",
+      "total": 912,
+      "cero": 102,
+      "eco": 199,
+      "bev": 91,
+      "phev": 11,
+      "hev": 199,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "T-ROC"
+    },
+    {
+      "period": "2026-08",
+      "total": 658,
+      "cero": 88,
+      "eco": 126,
+      "bev": 78,
+      "phev": 10,
+      "hev": 126,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA YARIS"
+    },
+    {
+      "period": "2026-09",
+      "total": 846,
+      "cero": 150,
+      "eco": 178,
+      "bev": 143,
+      "phev": 7,
+      "hev": 178,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "MB E 19 UE"
+    },
+    {
+      "period": "2026-10",
+      "total": 927,
+      "cero": 144,
+      "eco": 160,
+      "bev": 135,
+      "phev": 9,
+      "hev": 160,
+      "topBrand": "SKODA",
+      "topModel": "FABIA"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "MERCEDES-BENZ",
+      "slug": "mercedes-benz",
+      "timesLeader": 9
+    },
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 9
+    },
+    {
+      "brand": "RENAULT",
+      "slug": "renault",
+      "timesLeader": 6
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "timesLeader": 4
+    },
+    {
+      "brand": "DACIA",
+      "slug": "dacia",
+      "timesLeader": 2
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "SANDERO",
+      "timesLeader": 5
+    },
+    {
+      "model": "DUSTER",
+      "timesLeader": 3
+    },
+    {
+      "model": "DESCONOCIDO",
+      "timesLeader": 3
+    },
+    {
+      "model": "SPORTAGE",
+      "timesLeader": 3
+    },
+    {
+      "model": "TOYOTA HILUX",
+      "timesLeader": 2
+    }
+  ]
+}

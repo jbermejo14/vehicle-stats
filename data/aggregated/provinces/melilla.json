@@ -1,0 +1,439 @@
+{
+  "code": "52",
+  "name": "Melilla",
+  "slug": "melilla",
+  "community": "Melilla",
+  "population": 85491,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 9051,
+  "percentageOfSpain": 0.17,
+  "per1000Habitantes": 105.87,
+  "ceroCount": 288,
+  "ecoCount": 1731,
+  "bevCount": 225,
+  "phevCount": 63,
+  "hevCount": 1730,
+  "ceroPercentage": 3.2,
+  "ecoPercentage": 19.1,
+  "bevPercentage": 2.5,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 227,
+      "cero": 7,
+      "eco": 48,
+      "bev": 7,
+      "phev": 0,
+      "hev": 48,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "C 220 CDI"
+    },
+    {
+      "period": "2024-02",
+      "total": 218,
+      "cero": 3,
+      "eco": 40,
+      "bev": 3,
+      "phev": 0,
+      "hev": 40,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2024-03",
+      "total": 177,
+      "cero": 1,
+      "eco": 42,
+      "bev": 1,
+      "phev": 0,
+      "hev": 42,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2024-04",
+      "total": 200,
+      "cero": 21,
+      "eco": 32,
+      "bev": 21,
+      "phev": 0,
+      "hev": 32,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "TOYOTA RAV4"
+    },
+    {
+      "period": "2024-05",
+      "total": 266,
+      "cero": 5,
+      "eco": 47,
+      "bev": 5,
+      "phev": 0,
+      "hev": 47,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "GPD125-A"
+    },
+    {
+      "period": "2024-06",
+      "total": 222,
+      "cero": 12,
+      "eco": 48,
+      "bev": 12,
+      "phev": 0,
+      "hev": 48,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TIGUAN"
+    },
+    {
+      "period": "2024-07",
+      "total": 229,
+      "cero": 9,
+      "eco": 43,
+      "bev": 7,
+      "phev": 2,
+      "hev": 43,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA RAV4"
+    },
+    {
+      "period": "2024-08",
+      "total": 236,
+      "cero": 2,
+      "eco": 37,
+      "bev": 2,
+      "phev": 0,
+      "hev": 37,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2024-09",
+      "total": 220,
+      "cero": 3,
+      "eco": 36,
+      "bev": 3,
+      "phev": 0,
+      "hev": 36,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "C 220 CDI"
+    },
+    {
+      "period": "2024-10",
+      "total": 252,
+      "cero": 3,
+      "eco": 42,
+      "bev": 3,
+      "phev": 0,
+      "hev": 42,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "C 220 CDI"
+    },
+    {
+      "period": "2024-11",
+      "total": 214,
+      "cero": 9,
+      "eco": 34,
+      "bev": 9,
+      "phev": 0,
+      "hev": 34,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "TOURAN"
+    },
+    {
+      "period": "2024-12",
+      "total": 207,
+      "cero": 10,
+      "eco": 39,
+      "bev": 10,
+      "phev": 0,
+      "hev": 39,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "TOYOTA RAV4"
+    },
+    {
+      "period": "2025-01",
+      "total": 262,
+      "cero": 5,
+      "eco": 46,
+      "bev": 5,
+      "phev": 0,
+      "hev": 46,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "C 220 CDI"
+    },
+    {
+      "period": "2025-02",
+      "total": 212,
+      "cero": 7,
+      "eco": 40,
+      "bev": 6,
+      "phev": 1,
+      "hev": 40,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA RAV4"
+    },
+    {
+      "period": "2025-03",
+      "total": 233,
+      "cero": 6,
+      "eco": 47,
+      "bev": 6,
+      "phev": 0,
+      "hev": 47,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA RAV4"
+    },
+    {
+      "period": "2025-04",
+      "total": 224,
+      "cero": 4,
+      "eco": 50,
+      "bev": 4,
+      "phev": 0,
+      "hev": 50,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "SR1ADV"
+    },
+    {
+      "period": "2025-05",
+      "total": 251,
+      "cero": 2,
+      "eco": 42,
+      "bev": 2,
+      "phev": 0,
+      "hev": 42,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "C 220 CDI"
+    },
+    {
+      "period": "2025-06",
+      "total": 255,
+      "cero": 11,
+      "eco": 55,
+      "bev": 11,
+      "phev": 0,
+      "hev": 55,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA RAV4"
+    },
+    {
+      "period": "2025-07",
+      "total": 291,
+      "cero": 7,
+      "eco": 64,
+      "bev": 5,
+      "phev": 2,
+      "hev": 64,
+      "topBrand": "TOYOTA",
+      "topModel": "368G"
+    },
+    {
+      "period": "2025-08",
+      "total": 306,
+      "cero": 10,
+      "eco": 46,
+      "bev": 9,
+      "phev": 1,
+      "hev": 46,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2025-09",
+      "total": 337,
+      "cero": 7,
+      "eco": 58,
+      "bev": 5,
+      "phev": 2,
+      "hev": 58,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "C 220 CDI"
+    },
+    {
+      "period": "2025-10",
+      "total": 299,
+      "cero": 8,
+      "eco": 48,
+      "bev": 7,
+      "phev": 1,
+      "hev": 48,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "C 220 CDI"
+    },
+    {
+      "period": "2025-11",
+      "total": 313,
+      "cero": 9,
+      "eco": 71,
+      "bev": 7,
+      "phev": 2,
+      "hev": 71,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "SR1ADV"
+    },
+    {
+      "period": "2025-12",
+      "total": 328,
+      "cero": 18,
+      "eco": 70,
+      "bev": 9,
+      "phev": 9,
+      "hev": 70,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA RAV4"
+    },
+    {
+      "period": "2026-01",
+      "total": 267,
+      "cero": 6,
+      "eco": 63,
+      "bev": 3,
+      "phev": 3,
+      "hev": 63,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2026-02",
+      "total": 304,
+      "cero": 2,
+      "eco": 63,
+      "bev": 1,
+      "phev": 1,
+      "hev": 63,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TIGUAN"
+    },
+    {
+      "period": "2026-03",
+      "total": 283,
+      "cero": 15,
+      "eco": 58,
+      "bev": 11,
+      "phev": 4,
+      "hev": 58,
+      "topBrand": "TOYOTA",
+      "topModel": "POLO"
+    },
+    {
+      "period": "2026-04",
+      "total": 265,
+      "cero": 9,
+      "eco": 49,
+      "bev": 5,
+      "phev": 4,
+      "hev": 49,
+      "topBrand": "MERCEDES BENZ",
+      "topModel": "368G"
+    },
+    {
+      "period": "2026-05",
+      "total": 281,
+      "cero": 10,
+      "eco": 57,
+      "bev": 5,
+      "phev": 5,
+      "hev": 56,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-06",
+      "total": 321,
+      "cero": 11,
+      "eco": 57,
+      "bev": 9,
+      "phev": 2,
+      "hev": 57,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "368G"
+    },
+    {
+      "period": "2026-07",
+      "total": 358,
+      "cero": 13,
+      "eco": 64,
+      "bev": 8,
+      "phev": 5,
+      "hev": 64,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "368G"
+    },
+    {
+      "period": "2026-08",
+      "total": 317,
+      "cero": 17,
+      "eco": 74,
+      "bev": 8,
+      "phev": 9,
+      "hev": 74,
+      "topBrand": "TOYOTA",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2026-09",
+      "total": 325,
+      "cero": 14,
+      "eco": 59,
+      "bev": 8,
+      "phev": 6,
+      "hev": 59,
+      "topBrand": "TOYOTA",
+      "topModel": "125X"
+    },
+    {
+      "period": "2026-10",
+      "total": 351,
+      "cero": 12,
+      "eco": 62,
+      "bev": 8,
+      "phev": 4,
+      "hev": 62,
+      "topBrand": "TOYOTA",
+      "topModel": "TIGUAN"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "MERCEDES-BENZ",
+      "slug": "mercedes-benz",
+      "timesLeader": 17
+    },
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 11
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "timesLeader": 5
+    },
+    {
+      "brand": "MERCEDES BENZ",
+      "slug": "mercedes-benz",
+      "timesLeader": 1
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "C 220 CDI",
+      "timesLeader": 7
+    },
+    {
+      "model": "TOYOTA RAV4",
+      "timesLeader": 7
+    },
+    {
+      "model": "GOLF",
+      "timesLeader": 6
+    },
+    {
+      "model": "368G",
+      "timesLeader": 4
+    },
+    {
+      "model": "TIGUAN",
+      "timesLeader": 3
+    }
+  ]
+}

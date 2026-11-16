@@ -1,0 +1,65 @@
+{
+  "brand": "FIAT",
+  "brandSlug": "fiat",
+  "model": "FIAT 500",
+  "modelSlug": "fiat-500",
+  "fullName": "FIAT FIAT 500",
+  "total": 7536,
+  "percentage": 0.14,
+  "category": "Turismo",
+  "primaryFuel": "Híbrido (HEV)",
+  "primaryBadge": "ECO",
+  "avgKw": 51,
+  "avgCv": 70,
+  "avgCo2": 107,
+  "evolution": [
+    {
+      "period": "2024-01",
+      "total": 1179,
+      "avgKw": 51,
+      "avgCv": 70,
+      "avgCo2": 106,
+      "avgTara": 1044
+    },
+    {
+      "period": "2024-02",
+      "total": 1622,
+      "avgKw": 51,
+      "avgCv": 70,
+      "avgCo2": 106,
+      "avgTara": 1044
+    },
+    {
+      "period": "2024-03",
+      "total": 906,
+      "avgKw": 51,
+      "avgCv": 70,
+      "avgCo2": 106,
+      "avgTara": 1046
+    },
+    {
+      "period": "2024-04",
+      "total": 841,
+      "avgKw": 51,
+      "avgCv": 70,
+      "avgCo2": 106,
+      "avgTara": 1040
+    },
+    {
+      "period": "2024-05",
+      "total": 1315,
+      "avgKw": 52,
+      "avgCv": 70,
+      "avgCo2": 108,
+      "avgTara": 1043
+    },
+    {
+      "period": "2024-06",
+      "total": 1673,
+      "avgKw": 52,
+      "avgCv": 70,
+      "avgCo2": 110,
+      "avgTara": 1045
+    }
+  ]
+}

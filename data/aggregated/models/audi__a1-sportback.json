@@ -1,0 +1,25 @@
+{
+  "brand": "AUDI",
+  "brandSlug": "audi",
+  "model": "A1 SPORTBACK",
+  "modelSlug": "a1-sportback",
+  "fullName": "AUDI A1 SPORTBACK",
+  "total": 642,
+  "percentage": 0.01,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 85,
+  "avgCv": 116,
+  "avgCo2": 128,
+  "evolution": [
+    {
+      "period": "2026-01",
+      "total": 642,
+      "avgKw": 85,
+      "avgCv": 116,
+      "avgCo2": 128,
+      "avgTara": 1208
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "brand": "SKODA",
+  "brandSlug": "skoda",
+  "model": "KAMIQ",
+  "modelSlug": "kamiq",
+  "fullName": "SKODA KAMIQ",
+  "total": 26177,
+  "percentage": 0.48,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 90,
+  "avgCv": 123,
+  "avgCo2": 126,
+  "evolution": [
+    {
+      "period": "2024-01",
+      "total": 696,
+      "avgKw": 90,
+      "avgCv": 122,
+      "avgCo2": 131,
+      "avgTara": 1247
+    },
+    {
+      "period": "2024-02",
+      "total": 903,
+      "avgKw": 82,
+      "avgCv": 111,
+      "avgCo2": 128,
+      "avgTara": 1235
+    },
+    {
+      "period": "2024-04",
+      "total": 853,
+      "avgKw": 87,
+      "avgCv": 119,
+      "avgCo2": 127,
+      "avgTara": 1244
+    },
+    {
+      "period": "2024-06",
+      "total": 1129,
+      "avgKw": 87,
+      "avgCv": 118,
+      "avgCo2": 127,
+      "avgTara": 1248
+    },
+    {
+      "period": "2024-07",
+      "total": 961,
+      "avgKw": 88,
+      "avgCv": 120,
+      "avgCo2": 127,
+      "avgTara": 1251
+    },
+    {
+      "period": "2024-09",
+      "total": 682,
+      "avgKw": 93,
+      "avgCv": 127,
+      "avgCo2": 128,
+      "avgTara": 1258
+    },
+    {
+      "period": "2024-10",
+      "total": 839,
+      "avgKw": 94,
+      "avgCv": 128,
+      "avgCo2": 128,
+      "avgTara": 1259
+    },
+    {
+      "period": "2024-11",
+      "total": 818,
+      "avgKw": 94,
+      "avgCv": 128,
+      "avgCo2": 128,
+      "avgTara": 1259
+    },
+    {
+      "period": "2024-12",
+      "total": 1561,
+      "avgKw": 91,
+      "avgCv": 124,
+      "avgCo2": 126,
+      "avgTara": 1253
+    },
+    {
+      "period": "2025-02",
+      "total": 876,
+      "avgKw": 90,
+      "avgCv": 122,
+      "avgCo2": 126,
+      "avgTara": 1254
+    },
+    {
+      "period": "2025-03",
+      "total": 1242,
+      "avgKw": 88,
+      "avgCv": 120,
+      "avgCo2": 125,
+      "avgTara": 1249
+    },
+    {
+      "period": "2025-04",
+      "total": 892,
+      "avgKw": 88,
+      "avgCv": 119,
+      "avgCo2": 125,
+      "avgTara": 1245
+    },
+    {
+      "period": "2025-05",
+      "total": 1129,
+      "avgKw": 87,
+      "avgCv": 119,
+      "avgCo2": 125,
+      "avgTara": 1248
+    },
+    {
+      "period": "2025-06",
+      "total": 1221,
+      "avgKw": 88,
+      "avgCv": 119,
+      "avgCo2": 125,
+      "avgTara": 1250
+    },
+    {
+      "period": "2025-07",
+      "total": 965,
+      "avgKw": 92,
+      "avgCv": 126,
+      "avgCo2": 127,
+      "avgTara": 1258
+    },
+    {
+      "period": "2025-08",
+      "total": 538,
+      "avgKw": 94,
+      "avgCv": 128,
+      "avgCo2": 127,
+      "avgTara": 1258
+    },
+    {
+      "period": "2025-09",
+      "total": 928,
+      "avgKw": 92,
+      "avgCv": 126,
+      "avgCo2": 126,
+      "avgTara": 1252
+    },
+    {
+      "period": "2025-10",
+      "total": 1000,
+      "avgKw": 89,
+      "avgCv": 122,
+      "avgCo2": 126,
+      "avgTara": 1249
+    },
+    {
+      "period": "2025-11",
+      "total": 768,
+      "avgKw": 89,
+      "avgCv": 122,
+      "avgCo2": 126,
+      "avgTara": 1249
+    },
+    {
+      "period": "2026-01",
+      "total": 811,
+      "avgKw": 89,
+      "avgCv": 122,
+      "avgCo2": 126,
+      "avgTara": 1248
+    },
+    {
+      "period": "2026-02",
+      "total": 1072,
+      "avgKw": 88,
+      "avgCv": 120,
+      "avgCo2": 125,
+      "avgTara": 1245
+    },
+    {
+      "period": "2026-03",
+      "total": 1401,
+      "avgKw": 91,
+      "avgCv": 125,
+      "avgCo2": 125,
+      "avgTara": 1250
+    },
+    {
+      "period": "2026-04",
+      "total": 949,
+      "avgKw": 93,
+      "avgCv": 127,
+      "avgCo2": 125,
+      "avgTara": 1251
+    },
+    {
+      "period": "2026-05",
+      "total": 989,
+      "avgKw": 93,
+      "avgCv": 127,
+      "avgCo2": 126,
+      "avgTara": 1253
+    },
+    {
+      "period": "2026-06",
+      "total": 1522,
+      "avgKw": 93,
+      "avgCv": 127,
+      "avgCo2": 125,
+      "avgTara": 1252
+    },
+    {
+      "period": "2026-08",
+      "total": 547,
+      "avgKw": 92,
+      "avgCv": 126,
+      "avgCo2": 126,
+      "avgTara": 1251
+    },
+    {
+      "period": "2026-10",
+      "total": 885,
+      "avgKw": 93,
+      "avgCv": 127,
+      "avgCo2": 126,
+      "avgTara": 1252
+    }
+  ]
+}

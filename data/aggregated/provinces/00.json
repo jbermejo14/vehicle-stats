@@ -1,0 +1,444 @@
+{
+  "code": "00",
+  "name": "00",
+  "slug": "00",
+  "community": "España",
+  "population": 0,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 1203,
+  "percentageOfSpain": 0.02,
+  "per1000Habitantes": 0,
+  "ceroCount": 23,
+  "ecoCount": 103,
+  "bevCount": 21,
+  "phevCount": 2,
+  "hevCount": 103,
+  "ceroPercentage": 1.9,
+  "ecoPercentage": 8.6,
+  "bevPercentage": 1.7,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 35,
+      "cero": 1,
+      "eco": 5,
+      "bev": 1,
+      "phev": 0,
+      "hev": 5,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "TIGUAN"
+    },
+    {
+      "period": "2024-02",
+      "total": 31,
+      "cero": 0,
+      "eco": 2,
+      "bev": 0,
+      "phev": 0,
+      "hev": 2,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "TIGUAN"
+    },
+    {
+      "period": "2024-03",
+      "total": 47,
+      "cero": 1,
+      "eco": 7,
+      "bev": 1,
+      "phev": 0,
+      "hev": 7,
+      "topBrand": "BMW",
+      "topModel": "X4 XDRIVE20D"
+    },
+    {
+      "period": "2024-04",
+      "total": 49,
+      "cero": 1,
+      "eco": 6,
+      "bev": 1,
+      "phev": 0,
+      "hev": 6,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2024-05",
+      "total": 56,
+      "cero": 0,
+      "eco": 4,
+      "bev": 0,
+      "phev": 0,
+      "hev": 4,
+      "topBrand": "BMW",
+      "topModel": "NEVIS 881"
+    },
+    {
+      "period": "2024-06",
+      "total": 51,
+      "cero": 0,
+      "eco": 3,
+      "bev": 0,
+      "phev": 0,
+      "hev": 3,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "AMPHITRYON 998"
+    },
+    {
+      "period": "2024-07",
+      "total": 46,
+      "cero": 0,
+      "eco": 6,
+      "bev": 0,
+      "phev": 0,
+      "hev": 6,
+      "topBrand": "RENAULT",
+      "topModel": "X1 XDRIVE20D"
+    },
+    {
+      "period": "2024-08",
+      "total": 29,
+      "cero": 1,
+      "eco": 3,
+      "bev": 1,
+      "phev": 0,
+      "hev": 3,
+      "topBrand": "BMW",
+      "topModel": "ACTROS 1845LS"
+    },
+    {
+      "period": "2024-09",
+      "total": 48,
+      "cero": 1,
+      "eco": 5,
+      "bev": 1,
+      "phev": 0,
+      "hev": 5,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA YARIS HYBRID"
+    },
+    {
+      "period": "2024-10",
+      "total": 49,
+      "cero": 0,
+      "eco": 4,
+      "bev": 0,
+      "phev": 0,
+      "hev": 4,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "FH"
+    },
+    {
+      "period": "2024-11",
+      "total": 50,
+      "cero": 0,
+      "eco": 2,
+      "bev": 0,
+      "phev": 0,
+      "hev": 2,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "TOYOTA AVENSIS"
+    },
+    {
+      "period": "2024-12",
+      "total": 35,
+      "cero": 1,
+      "eco": 3,
+      "bev": 1,
+      "phev": 0,
+      "hev": 3,
+      "topBrand": "PEUGEOT",
+      "topModel": "3008 ALLURE BLUEHDI 13"
+    },
+    {
+      "period": "2025-01",
+      "total": 30,
+      "cero": 0,
+      "eco": 5,
+      "bev": 0,
+      "phev": 0,
+      "hev": 5,
+      "topBrand": "BMW",
+      "topModel": "S450"
+    },
+    {
+      "period": "2025-02",
+      "total": 57,
+      "cero": 1,
+      "eco": 4,
+      "bev": 1,
+      "phev": 0,
+      "hev": 4,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "TIGUAN"
+    },
+    {
+      "period": "2025-03",
+      "total": 52,
+      "cero": 1,
+      "eco": 4,
+      "bev": 1,
+      "phev": 0,
+      "hev": 4,
+      "topBrand": "VOLVO",
+      "topModel": "3E20"
+    },
+    {
+      "period": "2025-04",
+      "total": 57,
+      "cero": 2,
+      "eco": 4,
+      "bev": 2,
+      "phev": 0,
+      "hev": 4,
+      "topBrand": "MAN",
+      "topModel": "NL 273 F/CITTOUR"
+    },
+    {
+      "period": "2025-05",
+      "total": 37,
+      "cero": 1,
+      "eco": 4,
+      "bev": 1,
+      "phev": 0,
+      "hev": 4,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "TIGUAN"
+    },
+    {
+      "period": "2025-06",
+      "total": 41,
+      "cero": 0,
+      "eco": 6,
+      "bev": 0,
+      "phev": 0,
+      "hev": 6,
+      "topBrand": "BMW",
+      "topModel": "3E20"
+    },
+    {
+      "period": "2025-07",
+      "total": 33,
+      "cero": 0,
+      "eco": 3,
+      "bev": 0,
+      "phev": 0,
+      "hev": 3,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "XC40"
+    },
+    {
+      "period": "2025-08",
+      "total": 30,
+      "cero": 0,
+      "eco": 3,
+      "bev": 0,
+      "phev": 0,
+      "hev": 3,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "TIGUAN"
+    },
+    {
+      "period": "2025-09",
+      "total": 30,
+      "cero": 1,
+      "eco": 2,
+      "bev": 1,
+      "phev": 0,
+      "hev": 2,
+      "topBrand": "BMW",
+      "topModel": "XF 460 FT"
+    },
+    {
+      "period": "2025-10",
+      "total": 38,
+      "cero": 2,
+      "eco": 1,
+      "bev": 2,
+      "phev": 0,
+      "hev": 1,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TIGUAN"
+    },
+    {
+      "period": "2025-11",
+      "total": 30,
+      "cero": 0,
+      "eco": 4,
+      "bev": 0,
+      "phev": 0,
+      "hev": 4,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TIGUAN"
+    },
+    {
+      "period": "2025-12",
+      "total": 26,
+      "cero": 2,
+      "eco": 1,
+      "bev": 2,
+      "phev": 0,
+      "hev": 1,
+      "topBrand": "PEUGEOT",
+      "topModel": "T 520 HIGHCAB T4X2 E6"
+    },
+    {
+      "period": "2026-01",
+      "total": 24,
+      "cero": 1,
+      "eco": 2,
+      "bev": 1,
+      "phev": 0,
+      "hev": 2,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TIGUAN"
+    },
+    {
+      "period": "2026-02",
+      "total": 33,
+      "cero": 1,
+      "eco": 4,
+      "bev": 0,
+      "phev": 1,
+      "hev": 4,
+      "topBrand": "TOYOTA",
+      "topModel": "N 3008 ALLURE BLUEHDI"
+    },
+    {
+      "period": "2026-03",
+      "total": 21,
+      "cero": 0,
+      "eco": 1,
+      "bev": 0,
+      "phev": 0,
+      "hev": 1,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TIGUAN"
+    },
+    {
+      "period": "2026-04",
+      "total": 22,
+      "cero": 2,
+      "eco": 0,
+      "bev": 2,
+      "phev": 0,
+      "hev": 0,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TIGUAN"
+    },
+    {
+      "period": "2026-05",
+      "total": 20,
+      "cero": 0,
+      "eco": 1,
+      "bev": 0,
+      "phev": 0,
+      "hev": 1,
+      "topBrand": "FORD",
+      "topModel": "FOCUS"
+    },
+    {
+      "period": "2026-06",
+      "total": 15,
+      "cero": 1,
+      "eco": 1,
+      "bev": 1,
+      "phev": 0,
+      "hev": 1,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TIGUAN"
+    },
+    {
+      "period": "2026-07",
+      "total": 34,
+      "cero": 1,
+      "eco": 1,
+      "bev": 0,
+      "phev": 1,
+      "hev": 1,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TIGUAN"
+    },
+    {
+      "period": "2026-08",
+      "total": 9,
+      "cero": 0,
+      "eco": 1,
+      "bev": 0,
+      "phev": 0,
+      "hev": 1,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TIGUAN"
+    },
+    {
+      "period": "2026-09",
+      "total": 19,
+      "cero": 0,
+      "eco": 0,
+      "bev": 0,
+      "phev": 0,
+      "hev": 0,
+      "topBrand": "PEUGEOT",
+      "topModel": "3008 ACTIVE PACK BLUEH"
+    },
+    {
+      "period": "2026-10",
+      "total": 19,
+      "cero": 1,
+      "eco": 1,
+      "bev": 1,
+      "phev": 0,
+      "hev": 1,
+      "topBrand": "PEUGEOT",
+      "topModel": "TIGUAN"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "MERCEDES-BENZ",
+      "slug": "mercedes-benz",
+      "timesLeader": 9
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "timesLeader": 9
+    },
+    {
+      "brand": "BMW",
+      "slug": "bmw",
+      "timesLeader": 6
+    },
+    {
+      "brand": "PEUGEOT",
+      "slug": "peugeot",
+      "timesLeader": 4
+    },
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 2
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "TIGUAN",
+      "timesLeader": 14
+    },
+    {
+      "model": "3E20",
+      "timesLeader": 2
+    },
+    {
+      "model": "X4 XDRIVE20D",
+      "timesLeader": 1
+    },
+    {
+      "model": "TOYOTA COROLLA",
+      "timesLeader": 1
+    },
+    {
+      "model": "NEVIS 881",
+      "timesLeader": 1
+    }
+  ]
+}

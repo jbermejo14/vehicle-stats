@@ -1,0 +1,25 @@
+{
+  "brand": "HYUNDAI",
+  "brandSlug": "hyundai",
+  "model": "BAYON",
+  "modelSlug": "bayon",
+  "fullName": "HYUNDAI BAYON",
+  "total": 1088,
+  "percentage": 0.02,
+  "category": "Turismo",
+  "primaryFuel": "Híbrido (HEV)",
+  "primaryBadge": "ECO",
+  "avgKw": 70,
+  "avgCv": 95,
+  "avgCo2": 122,
+  "evolution": [
+    {
+      "period": "2025-12",
+      "total": 1088,
+      "avgKw": 70,
+      "avgCv": 95,
+      "avgCo2": 122,
+      "avgTara": 1183
+    }
+  ]
+}

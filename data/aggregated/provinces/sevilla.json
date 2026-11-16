@@ -1,0 +1,444 @@
+{
+  "code": "41",
+  "name": "Sevilla",
+  "slug": "sevilla",
+  "community": "Andalucía",
+  "population": 1960014,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 132301,
+  "percentageOfSpain": 2.44,
+  "per1000Habitantes": 67.5,
+  "ceroCount": 8204,
+  "ecoCount": 27787,
+  "bevCount": 7382,
+  "phevCount": 822,
+  "hevCount": 27786,
+  "ceroPercentage": 6.2,
+  "ecoPercentage": 21,
+  "bevPercentage": 5.6,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 3127,
+      "cero": 91,
+      "eco": 674,
+      "bev": 86,
+      "phev": 5,
+      "hev": 674,
+      "topBrand": "TOYOTA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-02",
+      "total": 2995,
+      "cero": 101,
+      "eco": 559,
+      "bev": 98,
+      "phev": 3,
+      "hev": 559,
+      "topBrand": "TOYOTA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-03",
+      "total": 3270,
+      "cero": 128,
+      "eco": 606,
+      "bev": 123,
+      "phev": 5,
+      "hev": 606,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-04",
+      "total": 3434,
+      "cero": 108,
+      "eco": 648,
+      "bev": 103,
+      "phev": 5,
+      "hev": 648,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-05",
+      "total": 3461,
+      "cero": 106,
+      "eco": 641,
+      "bev": 103,
+      "phev": 3,
+      "hev": 641,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-06",
+      "total": 3609,
+      "cero": 144,
+      "eco": 749,
+      "bev": 142,
+      "phev": 2,
+      "hev": 749,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-07",
+      "total": 3704,
+      "cero": 124,
+      "eco": 812,
+      "bev": 122,
+      "phev": 2,
+      "hev": 812,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-08",
+      "total": 2696,
+      "cero": 71,
+      "eco": 482,
+      "bev": 69,
+      "phev": 2,
+      "hev": 482,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-09",
+      "total": 3483,
+      "cero": 161,
+      "eco": 721,
+      "bev": 161,
+      "phev": 0,
+      "hev": 721,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-10",
+      "total": 4000,
+      "cero": 115,
+      "eco": 874,
+      "bev": 115,
+      "phev": 0,
+      "hev": 874,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-11",
+      "total": 3755,
+      "cero": 163,
+      "eco": 765,
+      "bev": 159,
+      "phev": 4,
+      "hev": 765,
+      "topBrand": "TOYOTA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-12",
+      "total": 3868,
+      "cero": 249,
+      "eco": 836,
+      "bev": 248,
+      "phev": 1,
+      "hev": 836,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-01",
+      "total": 3156,
+      "cero": 127,
+      "eco": 672,
+      "bev": 118,
+      "phev": 9,
+      "hev": 672,
+      "topBrand": "TOYOTA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-02",
+      "total": 3261,
+      "cero": 171,
+      "eco": 763,
+      "bev": 157,
+      "phev": 14,
+      "hev": 763,
+      "topBrand": "TOYOTA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-03",
+      "total": 3873,
+      "cero": 246,
+      "eco": 824,
+      "bev": 231,
+      "phev": 15,
+      "hev": 824,
+      "topBrand": "RENAULT",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-04",
+      "total": 3352,
+      "cero": 174,
+      "eco": 671,
+      "bev": 162,
+      "phev": 12,
+      "hev": 671,
+      "topBrand": "TOYOTA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-05",
+      "total": 3704,
+      "cero": 213,
+      "eco": 646,
+      "bev": 193,
+      "phev": 20,
+      "hev": 646,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-06",
+      "total": 4142,
+      "cero": 303,
+      "eco": 815,
+      "bev": 283,
+      "phev": 20,
+      "hev": 815,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-07",
+      "total": 4578,
+      "cero": 336,
+      "eco": 866,
+      "bev": 285,
+      "phev": 51,
+      "hev": 866,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TAIGO"
+    },
+    {
+      "period": "2025-08",
+      "total": 3028,
+      "cero": 234,
+      "eco": 590,
+      "bev": 194,
+      "phev": 40,
+      "hev": 590,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-09",
+      "total": 4270,
+      "cero": 328,
+      "eco": 735,
+      "bev": 294,
+      "phev": 34,
+      "hev": 734,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-10",
+      "total": 4742,
+      "cero": 300,
+      "eco": 930,
+      "bev": 261,
+      "phev": 39,
+      "hev": 930,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-11",
+      "total": 4435,
+      "cero": 292,
+      "eco": 1008,
+      "bev": 236,
+      "phev": 56,
+      "hev": 1008,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-12",
+      "total": 4328,
+      "cero": 306,
+      "eco": 953,
+      "bev": 249,
+      "phev": 57,
+      "hev": 953,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "T-ROC"
+    },
+    {
+      "period": "2026-01",
+      "total": 3391,
+      "cero": 161,
+      "eco": 772,
+      "bev": 146,
+      "phev": 15,
+      "hev": 772,
+      "topBrand": "TOYOTA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2026-02",
+      "total": 3720,
+      "cero": 256,
+      "eco": 870,
+      "bev": 212,
+      "phev": 44,
+      "hev": 870,
+      "topBrand": "TOYOTA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2026-03",
+      "total": 4750,
+      "cero": 370,
+      "eco": 990,
+      "bev": 339,
+      "phev": 31,
+      "hev": 990,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-04",
+      "total": 4084,
+      "cero": 326,
+      "eco": 826,
+      "bev": 291,
+      "phev": 35,
+      "hev": 826,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-05",
+      "total": 4572,
+      "cero": 347,
+      "eco": 1099,
+      "bev": 310,
+      "phev": 37,
+      "hev": 1099,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-06",
+      "total": 5250,
+      "cero": 424,
+      "eco": 1277,
+      "bev": 376,
+      "phev": 48,
+      "hev": 1277,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-07",
+      "total": 4980,
+      "cero": 368,
+      "eco": 1185,
+      "bev": 317,
+      "phev": 51,
+      "hev": 1185,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-08",
+      "total": 3530,
+      "cero": 282,
+      "eco": 885,
+      "bev": 239,
+      "phev": 43,
+      "hev": 885,
+      "topBrand": "TOYOTA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2026-09",
+      "total": 4760,
+      "cero": 550,
+      "eco": 987,
+      "bev": 498,
+      "phev": 52,
+      "hev": 987,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-10",
+      "total": 4993,
+      "cero": 529,
+      "eco": 1056,
+      "bev": 462,
+      "phev": 67,
+      "hev": 1056,
+      "topBrand": "ZONTES",
+      "topModel": "125V"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 25
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "timesLeader": 6
+    },
+    {
+      "brand": "MERCEDES-BENZ",
+      "slug": "mercedes-benz",
+      "timesLeader": 1
+    },
+    {
+      "brand": "RENAULT",
+      "slug": "renault",
+      "timesLeader": 1
+    },
+    {
+      "brand": "ZONTES",
+      "slug": "zontes",
+      "timesLeader": 1
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "SANDERO",
+      "timesLeader": 21
+    },
+    {
+      "model": "MG ZS",
+      "timesLeader": 10
+    },
+    {
+      "model": "TAIGO",
+      "timesLeader": 1
+    },
+    {
+      "model": "T-ROC",
+      "timesLeader": 1
+    },
+    {
+      "model": "125V",
+      "timesLeader": 1
+    }
+  ]
+}

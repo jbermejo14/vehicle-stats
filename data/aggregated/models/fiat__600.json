@@ -1,0 +1,25 @@
+{
+  "brand": "FIAT",
+  "brandSlug": "fiat",
+  "model": "600",
+  "modelSlug": "600",
+  "fullName": "FIAT 600",
+  "total": 1424,
+  "percentage": 0.03,
+  "category": "Turismo",
+  "primaryFuel": "Híbrido (HEV)",
+  "primaryBadge": "ECO",
+  "avgKw": 75,
+  "avgCv": 102,
+  "avgCo2": 109,
+  "evolution": [
+    {
+      "period": "2025-03",
+      "total": 1424,
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 109,
+      "avgTara": 1357
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "brand": "OMODA",
+  "slug": "omoda",
+  "total": 32555,
+  "percentage": 0.6,
+  "eco0Percentage": 63.2,
+  "avgKw": 109,
+  "monthlyEvolution": [
+    {
+      "period": "2024-08",
+      "total": 744,
+      "eco0Count": 1,
+      "avgKw": 137,
+      "avgCo2": 170,
+      "topModel": "OMODA5"
+    },
+    {
+      "period": "2024-11",
+      "total": 999,
+      "eco0Count": 67,
+      "avgKw": 111,
+      "avgCo2": 159,
+      "topModel": "OMODA5"
+    },
+    {
+      "period": "2025-01",
+      "total": 918,
+      "eco0Count": 22,
+      "avgKw": 109,
+      "avgCo2": 159,
+      "topModel": "OMODA5"
+    },
+    {
+      "period": "2025-02",
+      "total": 903,
+      "eco0Count": 16,
+      "avgKw": 109,
+      "avgCo2": 159,
+      "topModel": "OMODA5"
+    },
+    {
+      "period": "2025-05",
+      "total": 1373,
+      "eco0Count": 191,
+      "avgKw": 110,
+      "avgCo2": 147,
+      "topModel": "OMODA5"
+    },
+    {
+      "period": "2025-06",
+      "total": 1306,
+      "eco0Count": 208,
+      "avgKw": 110,
+      "avgCo2": 146,
+      "topModel": "OMODA5"
+    },
+    {
+      "period": "2025-07",
+      "total": 1301,
+      "eco0Count": 690,
+      "avgKw": 110,
+      "avgCo2": 100,
+      "topModel": "OMODA5"
+    },
+    {
+      "period": "2025-08",
+      "total": 938,
+      "eco0Count": 458,
+      "avgKw": 112,
+      "avgCo2": 108,
+      "topModel": "OMODA5"
+    },
+    {
+      "period": "2025-11",
+      "total": 1641,
+      "eco0Count": 1373,
+      "avgKw": 108,
+      "avgCo2": 97,
+      "topModel": "OMODA5 HEV"
+    },
+    {
+      "period": "2025-12",
+      "total": 1499,
+      "eco0Count": 1258,
+      "avgKw": 109,
+      "avgCo2": 97,
+      "topModel": "OMODA5 HEV"
+    },
+    {
+      "period": "2026-01",
+      "total": 1453,
+      "eco0Count": 1265,
+      "avgKw": 107,
+      "avgCo2": 103,
+      "topModel": "OMODA5 HEV"
+    },
+    {
+      "period": "2026-02",
+      "total": 2081,
+      "eco0Count": 1764,
+      "avgKw": 109,
+      "avgCo2": 94,
+      "topModel": "OMODA5 HEV"
+    },
+    {
+      "period": "2026-03",
+      "total": 2589,
+      "eco0Count": 1913,
+      "avgKw": 108,
+      "avgCo2": 91,
+      "topModel": "OMODA5 HEV"
+    },
+    {
+      "period": "2026-04",
+      "total": 2182,
+      "eco0Count": 1498,
+      "avgKw": 107,
+      "avgCo2": 94,
+      "topModel": "OMODA5 HEV"
+    },
+    {
+      "period": "2026-05",
+      "total": 2492,
+      "eco0Count": 1819,
+      "avgKw": 106,
+      "avgCo2": 93,
+      "topModel": "OMODA5 HEV"
+    },
+    {
+      "period": "2026-06",
+      "total": 2428,
+      "eco0Count": 1937,
+      "avgKw": 106,
+      "avgCo2": 97,
+      "topModel": "OMODA5 HEV"
+    },
+    {
+      "period": "2026-07",
+      "total": 1859,
+      "eco0Count": 1530,
+      "avgKw": 107,
+      "avgCo2": 97,
+      "topModel": "OMODA5 HEV"
+    },
+    {
+      "period": "2026-08",
+      "total": 1298,
+      "eco0Count": 1089,
+      "avgKw": 108,
+      "avgCo2": 95,
+      "topModel": "OMODA5 HEV"
+    },
+    {
+      "period": "2026-09",
+      "total": 2398,
+      "eco0Count": 1791,
+      "avgKw": 108,
+      "avgCo2": 90,
+      "topModel": "OMODA5 HEV"
+    },
+    {
+      "period": "2026-10",
+      "total": 2153,
+      "eco0Count": 1669,
+      "avgKw": 106,
+      "avgCo2": 90,
+      "topModel": "OMODA5 HEV"
+    }
+  ],
+  "models": [
+    {
+      "brand": "OMODA",
+      "brandSlug": "omoda",
+      "model": "OMODA5 HEV",
+      "modelSlug": "omoda5-hev",
+      "fullName": "OMODA OMODA5 HEV",
+      "total": 12091,
+      "percentage": 0.22,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 105,
+      "avgCv": 143,
+      "avgCo2": 120
+    },
+    {
+      "brand": "OMODA",
+      "brandSlug": "omoda",
+      "model": "OMODA5",
+      "modelSlug": "omoda5",
+      "fullName": "OMODA OMODA5",
+      "total": 8492,
+      "percentage": 0.16,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 117,
+      "avgCv": 159,
+      "avgCo2": 162
+    }
+  ],
+  "leadProvinces": [
+    {
+      "province": "Illes Balears",
+      "slug": "illes-balears",
+      "monthsLeading": 1
+    }
+  ]
+}

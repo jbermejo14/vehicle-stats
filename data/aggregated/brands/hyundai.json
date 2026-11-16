@@ -1,0 +1,421 @@
+{
+  "brand": "HYUNDAI",
+  "slug": "hyundai",
+  "total": 183888,
+  "percentage": 3.4,
+  "eco0Percentage": 50.8,
+  "avgKw": 88,
+  "monthlyEvolution": [
+    {
+      "period": "2024-01",
+      "total": 4269,
+      "eco0Count": 1983,
+      "avgKw": 94,
+      "avgCo2": 125,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-02",
+      "total": 4915,
+      "eco0Count": 2033,
+      "avgKw": 93,
+      "avgCo2": 124,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-03",
+      "total": 5550,
+      "eco0Count": 2159,
+      "avgKw": 93,
+      "avgCo2": 129,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-04",
+      "total": 6011,
+      "eco0Count": 2304,
+      "avgKw": 92,
+      "avgCo2": 127,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-05",
+      "total": 6598,
+      "eco0Count": 2075,
+      "avgKw": 89,
+      "avgCo2": 128,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-06",
+      "total": 6224,
+      "eco0Count": 2471,
+      "avgKw": 86,
+      "avgCo2": 125,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-07",
+      "total": 6691,
+      "eco0Count": 3180,
+      "avgKw": 87,
+      "avgCo2": 125,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-08",
+      "total": 3928,
+      "eco0Count": 1892,
+      "avgKw": 90,
+      "avgCo2": 126,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-09",
+      "total": 4936,
+      "eco0Count": 2437,
+      "avgKw": 87,
+      "avgCo2": 123,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-10",
+      "total": 5837,
+      "eco0Count": 3079,
+      "avgKw": 86,
+      "avgCo2": 123,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-11",
+      "total": 4475,
+      "eco0Count": 2340,
+      "avgKw": 88,
+      "avgCo2": 122,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-12",
+      "total": 7461,
+      "eco0Count": 4300,
+      "avgKw": 86,
+      "avgCo2": 122,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-01",
+      "total": 4593,
+      "eco0Count": 2087,
+      "avgKw": 92,
+      "avgCo2": 127,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-02",
+      "total": 4642,
+      "eco0Count": 2243,
+      "avgKw": 85,
+      "avgCo2": 123,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-03",
+      "total": 4378,
+      "eco0Count": 2430,
+      "avgKw": 86,
+      "avgCo2": 120,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-04",
+      "total": 8099,
+      "eco0Count": 3051,
+      "avgKw": 79,
+      "avgCo2": 121,
+      "topModel": "I20"
+    },
+    {
+      "period": "2025-05",
+      "total": 7071,
+      "eco0Count": 3702,
+      "avgKw": 81,
+      "avgCo2": 121,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-06",
+      "total": 6388,
+      "eco0Count": 3175,
+      "avgKw": 83,
+      "avgCo2": 121,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-07",
+      "total": 7144,
+      "eco0Count": 4259,
+      "avgKw": 86,
+      "avgCo2": 121,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-08",
+      "total": 3767,
+      "eco0Count": 2377,
+      "avgKw": 86,
+      "avgCo2": 119,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-09",
+      "total": 4640,
+      "eco0Count": 2984,
+      "avgKw": 84,
+      "avgCo2": 117,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-10",
+      "total": 5458,
+      "eco0Count": 3408,
+      "avgKw": 83,
+      "avgCo2": 117,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-11",
+      "total": 5305,
+      "eco0Count": 3166,
+      "avgKw": 87,
+      "avgCo2": 112,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-12",
+      "total": 9733,
+      "eco0Count": 5882,
+      "avgKw": 85,
+      "avgCo2": 121,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2026-01",
+      "total": 2741,
+      "eco0Count": 1707,
+      "avgKw": 88,
+      "avgCo2": 122,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2026-02",
+      "total": 3480,
+      "eco0Count": 2089,
+      "avgKw": 87,
+      "avgCo2": 122,
+      "topModel": "KONA"
+    },
+    {
+      "period": "2026-03",
+      "total": 7261,
+      "eco0Count": 3476,
+      "avgKw": 90,
+      "avgCo2": 127,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2026-04",
+      "total": 6020,
+      "eco0Count": 2668,
+      "avgKw": 89,
+      "avgCo2": 127,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2026-05",
+      "total": 5694,
+      "eco0Count": 3284,
+      "avgKw": 98,
+      "avgCo2": 126,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2026-06",
+      "total": 5620,
+      "eco0Count": 2539,
+      "avgKw": 89,
+      "avgCo2": 126,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2026-07",
+      "total": 4728,
+      "eco0Count": 2388,
+      "avgKw": 91,
+      "avgCo2": 126,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2026-08",
+      "total": 3163,
+      "eco0Count": 1961,
+      "avgKw": 94,
+      "avgCo2": 124,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2026-09",
+      "total": 3256,
+      "eco0Count": 1911,
+      "avgKw": 92,
+      "avgCo2": 124,
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2026-10",
+      "total": 3812,
+      "eco0Count": 2337,
+      "avgKw": 89,
+      "avgCo2": 122,
+      "topModel": "KONA"
+    }
+  ],
+  "models": [
+    {
+      "brand": "HYUNDAI",
+      "brandSlug": "hyundai",
+      "model": "TUCSON",
+      "modelSlug": "tucson",
+      "fullName": "HYUNDAI TUCSON",
+      "total": 58745,
+      "percentage": 1.09,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 117,
+      "avgCv": 160,
+      "avgCo2": 127
+    },
+    {
+      "brand": "HYUNDAI",
+      "brandSlug": "hyundai",
+      "model": "KONA",
+      "modelSlug": "kona",
+      "fullName": "HYUNDAI KONA",
+      "total": 35383,
+      "percentage": 0.65,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 113
+    },
+    {
+      "brand": "HYUNDAI",
+      "brandSlug": "hyundai",
+      "model": "I20",
+      "modelSlug": "i20",
+      "fullName": "HYUNDAI I20",
+      "total": 23745,
+      "percentage": 0.44,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 68,
+      "avgCv": 93,
+      "avgCo2": 121
+    },
+    {
+      "brand": "HYUNDAI",
+      "brandSlug": "hyundai",
+      "model": "I10",
+      "modelSlug": "i10",
+      "fullName": "HYUNDAI I10",
+      "total": 1455,
+      "percentage": 0.03,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 48,
+      "avgCv": 66,
+      "avgCo2": 117
+    },
+    {
+      "brand": "HYUNDAI",
+      "brandSlug": "hyundai",
+      "model": "BAYON",
+      "modelSlug": "bayon",
+      "fullName": "HYUNDAI BAYON",
+      "total": 1088,
+      "percentage": 0.02,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 70,
+      "avgCv": 95,
+      "avgCo2": 122
+    }
+  ],
+  "leadProvinces": [
+    {
+      "province": "Asturias",
+      "slug": "asturias",
+      "monthsLeading": 11
+    },
+    {
+      "province": "Alicante / Alacant",
+      "slug": "alicante-alacant",
+      "monthsLeading": 9
+    },
+    {
+      "province": "Illes Balears",
+      "slug": "illes-balears",
+      "monthsLeading": 8
+    },
+    {
+      "province": "Álava / Araba",
+      "slug": "alava-araba",
+      "monthsLeading": 5
+    },
+    {
+      "province": "Albacete",
+      "slug": "albacete",
+      "monthsLeading": 4
+    },
+    {
+      "province": "Girona",
+      "slug": "girona",
+      "monthsLeading": 3
+    },
+    {
+      "province": "Burgos",
+      "slug": "burgos",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Ávila",
+      "slug": "avila",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Cuenca",
+      "slug": "cuenca",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Zamora",
+      "slug": "zamora",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Badajoz",
+      "slug": "badajoz",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Cáceres",
+      "slug": "caceres",
+      "monthsLeading": 1
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "brand": "PEUGEOT",
+  "brandSlug": "peugeot",
+  "model": "208 5P ALLURE GASOLINA",
+  "modelSlug": "208-5p-allure-gasolina",
+  "fullName": "PEUGEOT 208 5P ALLURE GASOLINA",
+  "total": 7665,
+  "percentage": 0.14,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 74,
+  "avgCv": 101,
+  "avgCo2": 118,
+  "evolution": [
+    {
+      "period": "2025-03",
+      "total": 1302,
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 118,
+      "avgTara": 1165
+    },
+    {
+      "period": "2025-04",
+      "total": 898,
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 118,
+      "avgTara": 1165
+    },
+    {
+      "period": "2025-05",
+      "total": 1182,
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 118,
+      "avgTara": 1165
+    },
+    {
+      "period": "2025-06",
+      "total": 1391,
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 118,
+      "avgTara": 1165
+    },
+    {
+      "period": "2025-09",
+      "total": 793,
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 118,
+      "avgTara": 1165
+    },
+    {
+      "period": "2025-12",
+      "total": 1143,
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 118,
+      "avgTara": 1165
+    },
+    {
+      "period": "2026-01",
+      "total": 956,
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 118,
+      "avgTara": 1165
+    }
+  ]
+}

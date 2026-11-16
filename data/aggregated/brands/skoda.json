@@ -1,0 +1,346 @@
+{
+  "brand": "SKODA",
+  "slug": "skoda",
+  "total": 121494,
+  "percentage": 2.24,
+  "eco0Percentage": 12.4,
+  "avgKw": 99,
+  "monthlyEvolution": [
+    {
+      "period": "2024-01",
+      "total": 2462,
+      "eco0Count": 185,
+      "avgKw": 95,
+      "avgCo2": 130,
+      "topModel": "KAMIQ"
+    },
+    {
+      "period": "2024-02",
+      "total": 3468,
+      "eco0Count": 394,
+      "avgKw": 95,
+      "avgCo2": 128,
+      "topModel": "KAMIQ"
+    },
+    {
+      "period": "2024-03",
+      "total": 3341,
+      "eco0Count": 274,
+      "avgKw": 93,
+      "avgCo2": 128,
+      "topModel": "KAMIQ"
+    },
+    {
+      "period": "2024-04",
+      "total": 3206,
+      "eco0Count": 257,
+      "avgKw": 93,
+      "avgCo2": 128,
+      "topModel": "KAMIQ"
+    },
+    {
+      "period": "2024-05",
+      "total": 2998,
+      "eco0Count": 291,
+      "avgKw": 96,
+      "avgCo2": 128,
+      "topModel": "FABIA"
+    },
+    {
+      "period": "2024-06",
+      "total": 3371,
+      "eco0Count": 261,
+      "avgKw": 94,
+      "avgCo2": 128,
+      "topModel": "KAMIQ"
+    },
+    {
+      "period": "2024-07",
+      "total": 3026,
+      "eco0Count": 251,
+      "avgKw": 94,
+      "avgCo2": 128,
+      "topModel": "KAMIQ"
+    },
+    {
+      "period": "2024-08",
+      "total": 1882,
+      "eco0Count": 204,
+      "avgKw": 95,
+      "avgCo2": 127,
+      "topModel": "KAROQ"
+    },
+    {
+      "period": "2024-09",
+      "total": 2901,
+      "eco0Count": 301,
+      "avgKw": 95,
+      "avgCo2": 125,
+      "topModel": "KAMIQ"
+    },
+    {
+      "period": "2024-10",
+      "total": 3821,
+      "eco0Count": 322,
+      "avgKw": 95,
+      "avgCo2": 127,
+      "topModel": "FABIA"
+    },
+    {
+      "period": "2024-11",
+      "total": 4061,
+      "eco0Count": 395,
+      "avgKw": 98,
+      "avgCo2": 127,
+      "topModel": "FABIA"
+    },
+    {
+      "period": "2024-12",
+      "total": 5107,
+      "eco0Count": 478,
+      "avgKw": 93,
+      "avgCo2": 124,
+      "topModel": "KAMIQ"
+    },
+    {
+      "period": "2025-01",
+      "total": 2637,
+      "eco0Count": 287,
+      "avgKw": 94,
+      "avgCo2": 122,
+      "topModel": "FABIA"
+    },
+    {
+      "period": "2025-02",
+      "total": 3472,
+      "eco0Count": 596,
+      "avgKw": 96,
+      "avgCo2": 121,
+      "topModel": "KAMIQ"
+    },
+    {
+      "period": "2025-03",
+      "total": 4180,
+      "eco0Count": 326,
+      "avgKw": 96,
+      "avgCo2": 120,
+      "topModel": "KAMIQ"
+    },
+    {
+      "period": "2025-04",
+      "total": 3557,
+      "eco0Count": 348,
+      "avgKw": 95,
+      "avgCo2": 123,
+      "topModel": "KAMIQ"
+    },
+    {
+      "period": "2025-05",
+      "total": 4323,
+      "eco0Count": 475,
+      "avgKw": 95,
+      "avgCo2": 121,
+      "topModel": "KAMIQ"
+    },
+    {
+      "period": "2025-06",
+      "total": 4638,
+      "eco0Count": 479,
+      "avgKw": 96,
+      "avgCo2": 121,
+      "topModel": "KAMIQ"
+    },
+    {
+      "period": "2025-07",
+      "total": 4178,
+      "eco0Count": 537,
+      "avgKw": 101,
+      "avgCo2": 121,
+      "topModel": "FABIA"
+    },
+    {
+      "period": "2025-08",
+      "total": 2230,
+      "eco0Count": 323,
+      "avgKw": 104,
+      "avgCo2": 122,
+      "topModel": "FABIA"
+    },
+    {
+      "period": "2025-09",
+      "total": 3500,
+      "eco0Count": 439,
+      "avgKw": 100,
+      "avgCo2": 122,
+      "topModel": "FABIA"
+    },
+    {
+      "period": "2025-10",
+      "total": 4238,
+      "eco0Count": 645,
+      "avgKw": 99,
+      "avgCo2": 121,
+      "topModel": "FABIA"
+    },
+    {
+      "period": "2025-11",
+      "total": 3537,
+      "eco0Count": 501,
+      "avgKw": 102,
+      "avgCo2": 121,
+      "topModel": "FABIA"
+    },
+    {
+      "period": "2025-12",
+      "total": 3595,
+      "eco0Count": 460,
+      "avgKw": 101,
+      "avgCo2": 122,
+      "topModel": "KAMIQ"
+    },
+    {
+      "period": "2026-01",
+      "total": 3126,
+      "eco0Count": 395,
+      "avgKw": 100,
+      "avgCo2": 123,
+      "topModel": "KAMIQ"
+    },
+    {
+      "period": "2026-02",
+      "total": 4153,
+      "eco0Count": 592,
+      "avgKw": 98,
+      "avgCo2": 122,
+      "topModel": "FABIA"
+    },
+    {
+      "period": "2026-03",
+      "total": 4578,
+      "eco0Count": 557,
+      "avgKw": 100,
+      "avgCo2": 121,
+      "topModel": "KAMIQ"
+    },
+    {
+      "period": "2026-04",
+      "total": 4284,
+      "eco0Count": 626,
+      "avgKw": 102,
+      "avgCo2": 122,
+      "topModel": "FABIA"
+    },
+    {
+      "period": "2026-05",
+      "total": 4005,
+      "eco0Count": 557,
+      "avgKw": 102,
+      "avgCo2": 122,
+      "topModel": "FABIA"
+    },
+    {
+      "period": "2026-06",
+      "total": 4709,
+      "eco0Count": 615,
+      "avgKw": 102,
+      "avgCo2": 123,
+      "topModel": "KAMIQ"
+    },
+    {
+      "period": "2026-07",
+      "total": 3525,
+      "eco0Count": 571,
+      "avgKw": 104,
+      "avgCo2": 122,
+      "topModel": "FABIA"
+    },
+    {
+      "period": "2026-08",
+      "total": 2490,
+      "eco0Count": 561,
+      "avgKw": 109,
+      "avgCo2": 122,
+      "topModel": "KAMIQ"
+    },
+    {
+      "period": "2026-09",
+      "total": 2941,
+      "eco0Count": 572,
+      "avgKw": 108,
+      "avgCo2": 123,
+      "topModel": "KAMIQ"
+    },
+    {
+      "period": "2026-10",
+      "total": 3954,
+      "eco0Count": 951,
+      "avgKw": 110,
+      "avgCo2": 121,
+      "topModel": "FABIA"
+    }
+  ],
+  "models": [
+    {
+      "brand": "SKODA",
+      "brandSlug": "skoda",
+      "model": "KAMIQ",
+      "modelSlug": "kamiq",
+      "fullName": "SKODA KAMIQ",
+      "total": 26177,
+      "percentage": 0.48,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 90,
+      "avgCv": 123,
+      "avgCo2": 126
+    },
+    {
+      "brand": "SKODA",
+      "brandSlug": "skoda",
+      "model": "FABIA",
+      "modelSlug": "fabia",
+      "fullName": "SKODA FABIA",
+      "total": 19102,
+      "percentage": 0.35,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 116
+    },
+    {
+      "brand": "SKODA",
+      "brandSlug": "skoda",
+      "model": "KAROQ",
+      "modelSlug": "karoq",
+      "fullName": "SKODA KAROQ",
+      "total": 3347,
+      "percentage": 0.06,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 107,
+      "avgCv": 145,
+      "avgCo2": 139
+    }
+  ],
+  "leadProvinces": [
+    {
+      "province": "Asturias",
+      "slug": "asturias",
+      "monthsLeading": 5
+    },
+    {
+      "province": "Zaragoza",
+      "slug": "zaragoza",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Lugo",
+      "slug": "lugo",
+      "monthsLeading": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "brand": "ZONTES",
+  "brandSlug": "zontes",
+  "model": "125X",
+  "modelSlug": "125x",
+  "fullName": "ZONTES 125X",
+  "total": 9013,
+  "percentage": 0.17,
+  "category": "Motocicleta",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 11,
+  "avgCv": 15,
+  "avgCo2": 59,
+  "evolution": [
+    {
+      "period": "2026-06",
+      "total": 1829,
+      "avgKw": 11,
+      "avgCv": 15,
+      "avgCo2": 59,
+      "avgTara": 117
+    },
+    {
+      "period": "2026-07",
+      "total": 2035,
+      "avgKw": 11,
+      "avgCv": 15,
+      "avgCo2": 59,
+      "avgTara": 117
+    },
+    {
+      "period": "2026-08",
+      "total": 2094,
+      "avgKw": 11,
+      "avgCv": 15,
+      "avgCo2": 59,
+      "avgTara": 117
+    },
+    {
+      "period": "2026-09",
+      "total": 1354,
+      "avgKw": 11,
+      "avgCv": 15,
+      "avgCo2": 59,
+      "avgTara": 117
+    },
+    {
+      "period": "2026-10",
+      "total": 1701,
+      "avgKw": 11,
+      "avgCv": 15,
+      "avgCo2": 59,
+      "avgTara": 117
+    }
+  ]
+}

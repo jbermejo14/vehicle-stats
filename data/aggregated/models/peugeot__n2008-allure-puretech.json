@@ -1,0 +1,33 @@
+{
+  "brand": "PEUGEOT",
+  "brandSlug": "peugeot",
+  "model": "N2008 ALLURE PURETECH",
+  "modelSlug": "n2008-allure-puretech",
+  "fullName": "PEUGEOT N2008 ALLURE PURETECH",
+  "total": 1734,
+  "percentage": 0.03,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 85,
+  "avgCv": 116,
+  "avgCo2": 128,
+  "evolution": [
+    {
+      "period": "2024-01",
+      "total": 1012,
+      "avgKw": 85,
+      "avgCv": 116,
+      "avgCo2": 128,
+      "avgTara": 1272
+    },
+    {
+      "period": "2024-02",
+      "total": 722,
+      "avgKw": 84,
+      "avgCv": 115,
+      "avgCo2": 128,
+      "avgTara": 1271
+    }
+  ]
+}

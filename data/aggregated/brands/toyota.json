@@ -1,0 +1,616 @@
+{
+  "brand": "TOYOTA",
+  "slug": "toyota",
+  "total": 342131,
+  "percentage": 6.32,
+  "eco0Percentage": 73.7,
+  "avgKw": 86,
+  "monthlyEvolution": [
+    {
+      "period": "2024-01",
+      "total": 8887,
+      "eco0Count": 7053,
+      "avgKw": 87,
+      "avgCo2": 118,
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2024-02",
+      "total": 7560,
+      "eco0Count": 5765,
+      "avgKw": 88,
+      "avgCo2": 119,
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2024-03",
+      "total": 10734,
+      "eco0Count": 8107,
+      "avgKw": 84,
+      "avgCo2": 115,
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2024-04",
+      "total": 10446,
+      "eco0Count": 7989,
+      "avgKw": 86,
+      "avgCo2": 116,
+      "topModel": "TOYOTA YARIS"
+    },
+    {
+      "period": "2024-05",
+      "total": 9720,
+      "eco0Count": 7092,
+      "avgKw": 88,
+      "avgCo2": 117,
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2024-06",
+      "total": 10218,
+      "eco0Count": 7620,
+      "avgKw": 83,
+      "avgCo2": 113,
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2024-07",
+      "total": 9645,
+      "eco0Count": 7650,
+      "avgKw": 84,
+      "avgCo2": 110,
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2024-08",
+      "total": 6549,
+      "eco0Count": 4985,
+      "avgKw": 85,
+      "avgCo2": 110,
+      "topModel": "TOYOTA YARIS CROSS"
+    },
+    {
+      "period": "2024-09",
+      "total": 8198,
+      "eco0Count": 5750,
+      "avgKw": 90,
+      "avgCo2": 117,
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2024-10",
+      "total": 10525,
+      "eco0Count": 7941,
+      "avgKw": 86,
+      "avgCo2": 114,
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2024-11",
+      "total": 9454,
+      "eco0Count": 7006,
+      "avgKw": 84,
+      "avgCo2": 117,
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2024-12",
+      "total": 12577,
+      "eco0Count": 8437,
+      "avgKw": 90,
+      "avgCo2": 133,
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2025-01",
+      "total": 9036,
+      "eco0Count": 6821,
+      "avgKw": 87,
+      "avgCo2": 112,
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2025-02",
+      "total": 9705,
+      "eco0Count": 6956,
+      "avgKw": 89,
+      "avgCo2": 105,
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2025-03",
+      "total": 8712,
+      "eco0Count": 6100,
+      "avgKw": 88,
+      "avgCo2": 106,
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2025-04",
+      "total": 9913,
+      "eco0Count": 7204,
+      "avgKw": 85,
+      "avgCo2": 103,
+      "topModel": "TOYOTA YARIS CROSS"
+    },
+    {
+      "period": "2025-05",
+      "total": 11299,
+      "eco0Count": 7976,
+      "avgKw": 85,
+      "avgCo2": 103,
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2025-06",
+      "total": 11084,
+      "eco0Count": 7663,
+      "avgKw": 86,
+      "avgCo2": 103,
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2025-07",
+      "total": 11559,
+      "eco0Count": 7995,
+      "avgKw": 87,
+      "avgCo2": 104,
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2025-08",
+      "total": 8196,
+      "eco0Count": 5795,
+      "avgKw": 89,
+      "avgCo2": 99,
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2025-09",
+      "total": 10335,
+      "eco0Count": 7305,
+      "avgKw": 88,
+      "avgCo2": 107,
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2025-10",
+      "total": 9591,
+      "eco0Count": 6893,
+      "avgKw": 87,
+      "avgCo2": 108,
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2025-11",
+      "total": 9730,
+      "eco0Count": 7435,
+      "avgKw": 86,
+      "avgCo2": 108,
+      "topModel": "TOYOTA YARIS CROSS"
+    },
+    {
+      "period": "2025-12",
+      "total": 9623,
+      "eco0Count": 6715,
+      "avgKw": 92,
+      "avgCo2": 108,
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2026-01",
+      "total": 9000,
+      "eco0Count": 6731,
+      "avgKw": 87,
+      "avgCo2": 109,
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2026-02",
+      "total": 10835,
+      "eco0Count": 7855,
+      "avgKw": 84,
+      "avgCo2": 112,
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2026-03",
+      "total": 14170,
+      "eco0Count": 10587,
+      "avgKw": 83,
+      "avgCo2": 109,
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2026-04",
+      "total": 10296,
+      "eco0Count": 8559,
+      "avgKw": 88,
+      "avgCo2": 111,
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2026-05",
+      "total": 11590,
+      "eco0Count": 9577,
+      "avgKw": 85,
+      "avgCo2": 110,
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2026-06",
+      "total": 11736,
+      "eco0Count": 8931,
+      "avgKw": 85,
+      "avgCo2": 107,
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2026-07",
+      "total": 11503,
+      "eco0Count": 8255,
+      "avgKw": 85,
+      "avgCo2": 107,
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2026-08",
+      "total": 8755,
+      "eco0Count": 6576,
+      "avgKw": 84,
+      "avgCo2": 107,
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2026-09",
+      "total": 11223,
+      "eco0Count": 7766,
+      "avgKw": 87,
+      "avgCo2": 106,
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2026-10",
+      "total": 9727,
+      "eco0Count": 6985,
+      "avgKw": 88,
+      "avgCo2": 110,
+      "topModel": "TOYOTA COROLLA"
+    }
+  ],
+  "models": [
+    {
+      "brand": "TOYOTA",
+      "brandSlug": "toyota",
+      "model": "TOYOTA COROLLA",
+      "modelSlug": "toyota-corolla",
+      "fullName": "TOYOTA TOYOTA COROLLA",
+      "total": 67678,
+      "percentage": 1.25,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 77,
+      "avgCv": 104,
+      "avgCo2": 103
+    },
+    {
+      "brand": "TOYOTA",
+      "brandSlug": "toyota",
+      "model": "TOYOTA C-HR",
+      "modelSlug": "toyota-c-hr",
+      "fullName": "TOYOTA TOYOTA C-HR",
+      "total": 63077,
+      "percentage": 1.17,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 93,
+      "avgCv": 126,
+      "avgCo2": 86
+    },
+    {
+      "brand": "TOYOTA",
+      "brandSlug": "toyota",
+      "model": "TOYOTA YARIS CROSS",
+      "modelSlug": "toyota-yaris-cross",
+      "fullName": "TOYOTA TOYOTA YARIS CROSS",
+      "total": 55556,
+      "percentage": 1.03,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 105
+    },
+    {
+      "brand": "TOYOTA",
+      "brandSlug": "toyota",
+      "model": "TOYOTA YARIS",
+      "modelSlug": "toyota-yaris",
+      "fullName": "TOYOTA TOYOTA YARIS",
+      "total": 46799,
+      "percentage": 0.86,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 70,
+      "avgCv": 94,
+      "avgCo2": 96
+    },
+    {
+      "brand": "TOYOTA",
+      "brandSlug": "toyota",
+      "model": "TOYOTA RAV4",
+      "modelSlug": "toyota-rav4",
+      "fullName": "TOYOTA TOYOTA RAV4",
+      "total": 28361,
+      "percentage": 0.52,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 129,
+      "avgCv": 175,
+      "avgCo2": 101
+    },
+    {
+      "brand": "TOYOTA",
+      "brandSlug": "toyota",
+      "model": "TOYOTA HILUX",
+      "modelSlug": "toyota-hilux",
+      "fullName": "TOYOTA TOYOTA HILUX",
+      "total": 1009,
+      "percentage": 0.02,
+      "category": "Comercial",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 110,
+      "avgCv": 150,
+      "avgCo2": 256
+    }
+  ],
+  "leadProvinces": [
+    {
+      "province": "A Coruña",
+      "slug": "a-coruna",
+      "monthsLeading": 30
+    },
+    {
+      "province": "Ávila",
+      "slug": "avila",
+      "monthsLeading": 26
+    },
+    {
+      "province": "Badajoz",
+      "slug": "badajoz",
+      "monthsLeading": 25
+    },
+    {
+      "province": "Sevilla",
+      "slug": "sevilla",
+      "monthsLeading": 25
+    },
+    {
+      "province": "Tarragona",
+      "slug": "tarragona",
+      "monthsLeading": 25
+    },
+    {
+      "province": "Burgos",
+      "slug": "burgos",
+      "monthsLeading": 25
+    },
+    {
+      "province": "Jaén",
+      "slug": "jaen",
+      "monthsLeading": 23
+    },
+    {
+      "province": "Guadalajara",
+      "slug": "guadalajara",
+      "monthsLeading": 21
+    },
+    {
+      "province": "Huelva",
+      "slug": "huelva",
+      "monthsLeading": 21
+    },
+    {
+      "province": "Cantabria",
+      "slug": "cantabria",
+      "monthsLeading": 19
+    },
+    {
+      "province": "La Rioja",
+      "slug": "la-rioja",
+      "monthsLeading": 18
+    },
+    {
+      "province": "Segovia",
+      "slug": "segovia",
+      "monthsLeading": 17
+    },
+    {
+      "province": "Zaragoza",
+      "slug": "zaragoza",
+      "monthsLeading": 16
+    },
+    {
+      "province": "Cáceres",
+      "slug": "caceres",
+      "monthsLeading": 15
+    },
+    {
+      "province": "León",
+      "slug": "leon",
+      "monthsLeading": 15
+    },
+    {
+      "province": "Córdoba",
+      "slug": "cordoba",
+      "monthsLeading": 14
+    },
+    {
+      "province": "Girona",
+      "slug": "girona",
+      "monthsLeading": 14
+    },
+    {
+      "province": "Madrid",
+      "slug": "madrid",
+      "monthsLeading": 14
+    },
+    {
+      "province": "Barcelona",
+      "slug": "barcelona",
+      "monthsLeading": 13
+    },
+    {
+      "province": "Valencia / València",
+      "slug": "valencia-valencia",
+      "monthsLeading": 13
+    },
+    {
+      "province": "Ciudad Real",
+      "slug": "ciudad-real",
+      "monthsLeading": 12
+    },
+    {
+      "province": "Salamanca",
+      "slug": "salamanca",
+      "monthsLeading": 12
+    },
+    {
+      "province": "Ourense",
+      "slug": "ourense",
+      "monthsLeading": 12
+    },
+    {
+      "province": "Palencia",
+      "slug": "palencia",
+      "monthsLeading": 11
+    },
+    {
+      "province": "Bizkaia",
+      "slug": "bizkaia",
+      "monthsLeading": 11
+    },
+    {
+      "province": "Melilla",
+      "slug": "melilla",
+      "monthsLeading": 11
+    },
+    {
+      "province": "Álava / Araba",
+      "slug": "alava-araba",
+      "monthsLeading": 10
+    },
+    {
+      "province": "Zamora",
+      "slug": "zamora",
+      "monthsLeading": 10
+    },
+    {
+      "province": "Soria",
+      "slug": "soria",
+      "monthsLeading": 10
+    },
+    {
+      "province": "Teruel",
+      "slug": "teruel",
+      "monthsLeading": 9
+    },
+    {
+      "province": "Lugo",
+      "slug": "lugo",
+      "monthsLeading": 9
+    },
+    {
+      "province": "Cádiz",
+      "slug": "cadiz",
+      "monthsLeading": 8
+    },
+    {
+      "province": "Las Palmas",
+      "slug": "las-palmas",
+      "monthsLeading": 7
+    },
+    {
+      "province": "Granada",
+      "slug": "granada",
+      "monthsLeading": 6
+    },
+    {
+      "province": "Asturias",
+      "slug": "asturias",
+      "monthsLeading": 5
+    },
+    {
+      "province": "Santa Cruz de Tenerife",
+      "slug": "santa-cruz-de-tenerife",
+      "monthsLeading": 5
+    },
+    {
+      "province": "Toledo",
+      "slug": "toledo",
+      "monthsLeading": 4
+    },
+    {
+      "province": "Pontevedra",
+      "slug": "pontevedra",
+      "monthsLeading": 3
+    },
+    {
+      "province": "Valladolid",
+      "slug": "valladolid",
+      "monthsLeading": 3
+    },
+    {
+      "province": "Illes Balears",
+      "slug": "illes-balears",
+      "monthsLeading": 2
+    },
+    {
+      "province": "00",
+      "slug": "00",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Málaga",
+      "slug": "malaga",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Gipuzkoa",
+      "slug": "gipuzkoa",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Lleida",
+      "slug": "lleida",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Castellón / Castelló",
+      "slug": "castellon-castello",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Alicante / Alacant",
+      "slug": "alicante-alacant",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Huesca",
+      "slug": "huesca",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Navarra",
+      "slug": "navarra",
+      "monthsLeading": 1
+    }
+  ]
+}

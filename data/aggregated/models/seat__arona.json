@@ -1,0 +1,289 @@
+{
+  "brand": "SEAT",
+  "brandSlug": "seat",
+  "model": "ARONA",
+  "modelSlug": "arona",
+  "fullName": "SEAT ARONA",
+  "total": 58672,
+  "percentage": 1.08,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 85,
+  "avgCv": 116,
+  "avgCo2": 123,
+  "evolution": [
+    {
+      "period": "2024-01",
+      "total": 1517,
+      "avgKw": 82,
+      "avgCv": 112,
+      "avgCo2": 124,
+      "avgTara": 1222
+    },
+    {
+      "period": "2024-02",
+      "total": 1957,
+      "avgKw": 82,
+      "avgCv": 112,
+      "avgCo2": 122,
+      "avgTara": 1219
+    },
+    {
+      "period": "2024-03",
+      "total": 1701,
+      "avgKw": 84,
+      "avgCv": 114,
+      "avgCo2": 123,
+      "avgTara": 1221
+    },
+    {
+      "period": "2024-04",
+      "total": 2355,
+      "avgKw": 83,
+      "avgCv": 114,
+      "avgCo2": 123,
+      "avgTara": 1218
+    },
+    {
+      "period": "2024-05",
+      "total": 1633,
+      "avgKw": 83,
+      "avgCv": 114,
+      "avgCo2": 123,
+      "avgTara": 1215
+    },
+    {
+      "period": "2024-06",
+      "total": 3196,
+      "avgKw": 89,
+      "avgCv": 121,
+      "avgCo2": 125,
+      "avgTara": 1227
+    },
+    {
+      "period": "2024-07",
+      "total": 1339,
+      "avgKw": 85,
+      "avgCv": 116,
+      "avgCo2": 124,
+      "avgTara": 1218
+    },
+    {
+      "period": "2024-08",
+      "total": 867,
+      "avgKw": 85,
+      "avgCv": 115,
+      "avgCo2": 124,
+      "avgTara": 1216
+    },
+    {
+      "period": "2024-09",
+      "total": 1263,
+      "avgKw": 86,
+      "avgCv": 118,
+      "avgCo2": 125,
+      "avgTara": 1221
+    },
+    {
+      "period": "2024-10",
+      "total": 1220,
+      "avgKw": 85,
+      "avgCv": 116,
+      "avgCo2": 124,
+      "avgTara": 1217
+    },
+    {
+      "period": "2024-11",
+      "total": 1263,
+      "avgKw": 85,
+      "avgCv": 116,
+      "avgCo2": 124,
+      "avgTara": 1218
+    },
+    {
+      "period": "2024-12",
+      "total": 2129,
+      "avgKw": 87,
+      "avgCv": 119,
+      "avgCo2": 125,
+      "avgTara": 1224
+    },
+    {
+      "period": "2025-01",
+      "total": 970,
+      "avgKw": 85,
+      "avgCv": 116,
+      "avgCo2": 124,
+      "avgTara": 1220
+    },
+    {
+      "period": "2025-02",
+      "total": 1797,
+      "avgKw": 85,
+      "avgCv": 116,
+      "avgCo2": 123,
+      "avgTara": 1218
+    },
+    {
+      "period": "2025-03",
+      "total": 3139,
+      "avgKw": 84,
+      "avgCv": 114,
+      "avgCo2": 124,
+      "avgTara": 1216
+    },
+    {
+      "period": "2025-04",
+      "total": 1622,
+      "avgKw": 83,
+      "avgCv": 113,
+      "avgCo2": 123,
+      "avgTara": 1214
+    },
+    {
+      "period": "2025-05",
+      "total": 2033,
+      "avgKw": 85,
+      "avgCv": 116,
+      "avgCo2": 123,
+      "avgTara": 1218
+    },
+    {
+      "period": "2025-06",
+      "total": 2639,
+      "avgKw": 83,
+      "avgCv": 114,
+      "avgCo2": 122,
+      "avgTara": 1214
+    },
+    {
+      "period": "2025-07",
+      "total": 1951,
+      "avgKw": 84,
+      "avgCv": 115,
+      "avgCo2": 123,
+      "avgTara": 1218
+    },
+    {
+      "period": "2025-08",
+      "total": 932,
+      "avgKw": 86,
+      "avgCv": 118,
+      "avgCo2": 123,
+      "avgTara": 1220
+    },
+    {
+      "period": "2025-09",
+      "total": 1397,
+      "avgKw": 84,
+      "avgCv": 115,
+      "avgCo2": 123,
+      "avgTara": 1217
+    },
+    {
+      "period": "2025-10",
+      "total": 1360,
+      "avgKw": 85,
+      "avgCv": 116,
+      "avgCo2": 122,
+      "avgTara": 1216
+    },
+    {
+      "period": "2025-11",
+      "total": 1243,
+      "avgKw": 83,
+      "avgCv": 113,
+      "avgCo2": 122,
+      "avgTara": 1214
+    },
+    {
+      "period": "2025-12",
+      "total": 1459,
+      "avgKw": 84,
+      "avgCv": 115,
+      "avgCo2": 122,
+      "avgTara": 1216
+    },
+    {
+      "period": "2026-01",
+      "total": 1737,
+      "avgKw": 85,
+      "avgCv": 117,
+      "avgCo2": 121,
+      "avgTara": 1216
+    },
+    {
+      "period": "2026-02",
+      "total": 1647,
+      "avgKw": 85,
+      "avgCv": 117,
+      "avgCo2": 123,
+      "avgTara": 1220
+    },
+    {
+      "period": "2026-03",
+      "total": 2382,
+      "avgKw": 87,
+      "avgCv": 119,
+      "avgCo2": 123,
+      "avgTara": 1222
+    },
+    {
+      "period": "2026-04",
+      "total": 2269,
+      "avgKw": 87,
+      "avgCv": 118,
+      "avgCo2": 123,
+      "avgTara": 1221
+    },
+    {
+      "period": "2026-05",
+      "total": 1671,
+      "avgKw": 86,
+      "avgCv": 117,
+      "avgCo2": 123,
+      "avgTara": 1220
+    },
+    {
+      "period": "2026-06",
+      "total": 2391,
+      "avgKw": 86,
+      "avgCv": 117,
+      "avgCo2": 123,
+      "avgTara": 1221
+    },
+    {
+      "period": "2026-07",
+      "total": 1694,
+      "avgKw": 86,
+      "avgCv": 117,
+      "avgCo2": 122,
+      "avgTara": 1218
+    },
+    {
+      "period": "2026-08",
+      "total": 1348,
+      "avgKw": 86,
+      "avgCv": 117,
+      "avgCo2": 122,
+      "avgTara": 1218
+    },
+    {
+      "period": "2026-09",
+      "total": 1427,
+      "avgKw": 86,
+      "avgCv": 117,
+      "avgCo2": 123,
+      "avgTara": 1220
+    },
+    {
+      "period": "2026-10",
+      "total": 1124,
+      "avgKw": 86,
+      "avgCv": 117,
+      "avgCo2": 122,
+      "avgTara": 1219
+    }
+  ]
+}

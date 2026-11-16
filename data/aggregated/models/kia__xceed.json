@@ -1,0 +1,33 @@
+{
+  "brand": "KIA",
+  "brandSlug": "kia",
+  "model": "XCEED",
+  "modelSlug": "xceed",
+  "fullName": "KIA XCEED",
+  "total": 2574,
+  "percentage": 0.05,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 91,
+  "avgCv": 123,
+  "avgCo2": 133,
+  "evolution": [
+    {
+      "period": "2024-03",
+      "total": 1323,
+      "avgKw": 99,
+      "avgCv": 135,
+      "avgCo2": 132,
+      "avgTara": 1388
+    },
+    {
+      "period": "2024-11",
+      "total": 1251,
+      "avgKw": 82,
+      "avgCv": 111,
+      "avgCo2": 135,
+      "avgTara": 1368
+    }
+  ]
+}

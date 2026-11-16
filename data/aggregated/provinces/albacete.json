@@ -1,0 +1,444 @@
+{
+  "code": "02",
+  "name": "Albacete",
+  "slug": "albacete",
+  "community": "Castilla-La Mancha",
+  "population": 387735,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 27241,
+  "percentageOfSpain": 0.5,
+  "per1000Habitantes": 70.26,
+  "ceroCount": 1474,
+  "ecoCount": 5907,
+  "bevCount": 1290,
+  "phevCount": 184,
+  "hevCount": 5897,
+  "ceroPercentage": 5.4,
+  "ecoPercentage": 21.7,
+  "bevPercentage": 4.7,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 691,
+      "cero": 14,
+      "eco": 155,
+      "bev": 13,
+      "phev": 1,
+      "hev": 155,
+      "topBrand": "BMW",
+      "topModel": "PANDA"
+    },
+    {
+      "period": "2024-02",
+      "total": 704,
+      "cero": 21,
+      "eco": 117,
+      "bev": 17,
+      "phev": 4,
+      "hev": 117,
+      "topBrand": "JEEP",
+      "topModel": "AVENGER"
+    },
+    {
+      "period": "2024-03",
+      "total": 666,
+      "cero": 20,
+      "eco": 111,
+      "bev": 19,
+      "phev": 1,
+      "hev": 111,
+      "topBrand": "VOLVO",
+      "topModel": "AVENGER"
+    },
+    {
+      "period": "2024-04",
+      "total": 751,
+      "cero": 21,
+      "eco": 123,
+      "bev": 21,
+      "phev": 0,
+      "hev": 123,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "FIAT DUCATO"
+    },
+    {
+      "period": "2024-05",
+      "total": 688,
+      "cero": 24,
+      "eco": 118,
+      "bev": 24,
+      "phev": 0,
+      "hev": 118,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-06",
+      "total": 701,
+      "cero": 22,
+      "eco": 143,
+      "bev": 21,
+      "phev": 1,
+      "hev": 143,
+      "topBrand": "BMW",
+      "topModel": "RENEGADE"
+    },
+    {
+      "period": "2024-07",
+      "total": 748,
+      "cero": 16,
+      "eco": 160,
+      "bev": 15,
+      "phev": 1,
+      "hev": 160,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-08",
+      "total": 610,
+      "cero": 9,
+      "eco": 99,
+      "bev": 9,
+      "phev": 0,
+      "hev": 99,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-09",
+      "total": 540,
+      "cero": 11,
+      "eco": 104,
+      "bev": 11,
+      "phev": 0,
+      "hev": 104,
+      "topBrand": "BMW",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-10",
+      "total": 897,
+      "cero": 21,
+      "eco": 174,
+      "bev": 21,
+      "phev": 0,
+      "hev": 174,
+      "topBrand": "VOLVO",
+      "topModel": "FH"
+    },
+    {
+      "period": "2024-11",
+      "total": 733,
+      "cero": 27,
+      "eco": 170,
+      "bev": 26,
+      "phev": 1,
+      "hev": 170,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "INDE8770"
+    },
+    {
+      "period": "2024-12",
+      "total": 782,
+      "cero": 38,
+      "eco": 186,
+      "bev": 37,
+      "phev": 1,
+      "hev": 186,
+      "topBrand": "HYUNDAI",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-01",
+      "total": 668,
+      "cero": 30,
+      "eco": 161,
+      "bev": 29,
+      "phev": 1,
+      "hev": 161,
+      "topBrand": "HYUNDAI",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-02",
+      "total": 663,
+      "cero": 23,
+      "eco": 139,
+      "bev": 23,
+      "phev": 0,
+      "hev": 139,
+      "topBrand": "BMW",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-03",
+      "total": 810,
+      "cero": 35,
+      "eco": 167,
+      "bev": 34,
+      "phev": 1,
+      "hev": 167,
+      "topBrand": "RENAULT",
+      "topModel": "T HIGH T4X2 13L E6"
+    },
+    {
+      "period": "2025-04",
+      "total": 673,
+      "cero": 26,
+      "eco": 137,
+      "bev": 24,
+      "phev": 2,
+      "hev": 137,
+      "topBrand": "RENAULT",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-05",
+      "total": 865,
+      "cero": 38,
+      "eco": 159,
+      "bev": 34,
+      "phev": 4,
+      "hev": 158,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-06",
+      "total": 893,
+      "cero": 61,
+      "eco": 163,
+      "bev": 53,
+      "phev": 8,
+      "hev": 163,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-07",
+      "total": 1059,
+      "cero": 49,
+      "eco": 216,
+      "bev": 38,
+      "phev": 11,
+      "hev": 216,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TONALE"
+    },
+    {
+      "period": "2025-08",
+      "total": 710,
+      "cero": 40,
+      "eco": 146,
+      "bev": 36,
+      "phev": 4,
+      "hev": 145,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-09",
+      "total": 728,
+      "cero": 54,
+      "eco": 147,
+      "bev": 42,
+      "phev": 12,
+      "hev": 147,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-10",
+      "total": 1013,
+      "cero": 64,
+      "eco": 189,
+      "bev": 50,
+      "phev": 14,
+      "hev": 186,
+      "topBrand": "RENAULT",
+      "topModel": "FH"
+    },
+    {
+      "period": "2025-11",
+      "total": 865,
+      "cero": 64,
+      "eco": 204,
+      "bev": 48,
+      "phev": 16,
+      "hev": 204,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "FIAT DUCATO"
+    },
+    {
+      "period": "2025-12",
+      "total": 820,
+      "cero": 63,
+      "eco": 209,
+      "bev": 53,
+      "phev": 10,
+      "hev": 208,
+      "topBrand": "HYUNDAI",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2026-01",
+      "total": 751,
+      "cero": 42,
+      "eco": 189,
+      "bev": 36,
+      "phev": 6,
+      "hev": 189,
+      "topBrand": "BMW",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2026-02",
+      "total": 811,
+      "cero": 46,
+      "eco": 204,
+      "bev": 39,
+      "phev": 7,
+      "hev": 203,
+      "topBrand": "RENAULT",
+      "topModel": "PANDA"
+    },
+    {
+      "period": "2026-03",
+      "total": 915,
+      "cero": 81,
+      "eco": 207,
+      "bev": 68,
+      "phev": 13,
+      "hev": 207,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2026-04",
+      "total": 786,
+      "cero": 52,
+      "eco": 178,
+      "bev": 48,
+      "phev": 4,
+      "hev": 176,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2026-05",
+      "total": 1069,
+      "cero": 81,
+      "eco": 293,
+      "bev": 70,
+      "phev": 11,
+      "hev": 293,
+      "topBrand": "HYUNDAI",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2026-06",
+      "total": 979,
+      "cero": 73,
+      "eco": 233,
+      "bev": 64,
+      "phev": 9,
+      "hev": 233,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-07",
+      "total": 995,
+      "cero": 67,
+      "eco": 246,
+      "bev": 57,
+      "phev": 10,
+      "hev": 246,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "ALFA ROMEO JUNIOR"
+    },
+    {
+      "period": "2026-08",
+      "total": 777,
+      "cero": 55,
+      "eco": 176,
+      "bev": 45,
+      "phev": 10,
+      "hev": 175,
+      "topBrand": "ZONTES",
+      "topModel": "125X"
+    },
+    {
+      "period": "2026-09",
+      "total": 894,
+      "cero": 86,
+      "eco": 259,
+      "bev": 77,
+      "phev": 9,
+      "hev": 259,
+      "topBrand": "FIAT",
+      "topModel": "PANDA"
+    },
+    {
+      "period": "2026-10",
+      "total": 986,
+      "cero": 100,
+      "eco": 225,
+      "bev": 88,
+      "phev": 12,
+      "hev": 225,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "FH"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "timesLeader": 12
+    },
+    {
+      "brand": "BMW",
+      "slug": "bmw",
+      "timesLeader": 5
+    },
+    {
+      "brand": "RENAULT",
+      "slug": "renault",
+      "timesLeader": 5
+    },
+    {
+      "brand": "HYUNDAI",
+      "slug": "hyundai",
+      "timesLeader": 4
+    },
+    {
+      "brand": "MERCEDES-BENZ",
+      "slug": "mercedes-benz",
+      "timesLeader": 3
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "TUCSON",
+      "timesLeader": 9
+    },
+    {
+      "model": "SANDERO",
+      "timesLeader": 5
+    },
+    {
+      "model": "DESCONOCIDO",
+      "timesLeader": 4
+    },
+    {
+      "model": "PANDA",
+      "timesLeader": 3
+    },
+    {
+      "model": "FH",
+      "timesLeader": 3
+    }
+  ]
+}

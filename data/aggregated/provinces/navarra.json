@@ -1,0 +1,434 @@
+{
+  "code": "31",
+  "name": "Navarra",
+  "slug": "navarra",
+  "community": "Comunidad Foral de Navarra",
+  "population": 672155,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 47963,
+  "percentageOfSpain": 0.89,
+  "per1000Habitantes": 71.36,
+  "ceroCount": 6456,
+  "ecoCount": 9319,
+  "bevCount": 6011,
+  "phevCount": 445,
+  "hevCount": 9319,
+  "ceroPercentage": 13.5,
+  "ecoPercentage": 19.4,
+  "bevPercentage": 12.5,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 1191,
+      "cero": 77,
+      "eco": 213,
+      "bev": 76,
+      "phev": 1,
+      "hev": 213,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "LTF-LT FRG-LT"
+    },
+    {
+      "period": "2024-02",
+      "total": 1222,
+      "cero": 77,
+      "eco": 209,
+      "bev": 73,
+      "phev": 4,
+      "hev": 209,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "LTM-GEN LSL-XL"
+    },
+    {
+      "period": "2024-03",
+      "total": 1213,
+      "cero": 86,
+      "eco": 211,
+      "bev": 83,
+      "phev": 3,
+      "hev": 211,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "FH"
+    },
+    {
+      "period": "2024-04",
+      "total": 1299,
+      "cero": 80,
+      "eco": 190,
+      "bev": 80,
+      "phev": 0,
+      "hev": 190,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-05",
+      "total": 1334,
+      "cero": 129,
+      "eco": 235,
+      "bev": 128,
+      "phev": 1,
+      "hev": 235,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DUSTER"
+    },
+    {
+      "period": "2024-06",
+      "total": 1414,
+      "cero": 118,
+      "eco": 252,
+      "bev": 116,
+      "phev": 2,
+      "hev": 252,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "FH"
+    },
+    {
+      "period": "2024-07",
+      "total": 1162,
+      "cero": 74,
+      "eco": 211,
+      "bev": 73,
+      "phev": 1,
+      "hev": 211,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-08",
+      "total": 1067,
+      "cero": 61,
+      "eco": 192,
+      "bev": 60,
+      "phev": 1,
+      "hev": 192,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-09",
+      "total": 1250,
+      "cero": 114,
+      "eco": 269,
+      "bev": 113,
+      "phev": 1,
+      "hev": 269,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2024-10",
+      "total": 1403,
+      "cero": 100,
+      "eco": 316,
+      "bev": 98,
+      "phev": 2,
+      "hev": 316,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-11",
+      "total": 1258,
+      "cero": 108,
+      "eco": 259,
+      "bev": 107,
+      "phev": 1,
+      "hev": 259,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-12",
+      "total": 1330,
+      "cero": 183,
+      "eco": 256,
+      "bev": 183,
+      "phev": 0,
+      "hev": 256,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2025-01",
+      "total": 1116,
+      "cero": 97,
+      "eco": 223,
+      "bev": 95,
+      "phev": 2,
+      "hev": 223,
+      "topBrand": "PEUGEOT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-02",
+      "total": 1218,
+      "cero": 82,
+      "eco": 269,
+      "bev": 70,
+      "phev": 12,
+      "hev": 269,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-03",
+      "total": 1213,
+      "cero": 129,
+      "eco": 257,
+      "bev": 122,
+      "phev": 7,
+      "hev": 257,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-04",
+      "total": 1174,
+      "cero": 124,
+      "eco": 219,
+      "bev": 115,
+      "phev": 9,
+      "hev": 219,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-05",
+      "total": 1545,
+      "cero": 179,
+      "eco": 286,
+      "bev": 165,
+      "phev": 14,
+      "hev": 286,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "EV3"
+    },
+    {
+      "period": "2025-06",
+      "total": 1673,
+      "cero": 190,
+      "eco": 305,
+      "bev": 173,
+      "phev": 17,
+      "hev": 305,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-07",
+      "total": 1309,
+      "cero": 173,
+      "eco": 249,
+      "bev": 152,
+      "phev": 21,
+      "hev": 249,
+      "topBrand": "TOYOTA",
+      "topModel": "RIFTER GT BLUEHDI 130"
+    },
+    {
+      "period": "2025-08",
+      "total": 1203,
+      "cero": 160,
+      "eco": 223,
+      "bev": 141,
+      "phev": 19,
+      "hev": 223,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "EV3"
+    },
+    {
+      "period": "2025-09",
+      "total": 1477,
+      "cero": 238,
+      "eco": 295,
+      "bev": 206,
+      "phev": 32,
+      "hev": 295,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2025-10",
+      "total": 1682,
+      "cero": 237,
+      "eco": 300,
+      "bev": 199,
+      "phev": 38,
+      "hev": 300,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-11",
+      "total": 1442,
+      "cero": 241,
+      "eco": 327,
+      "bev": 201,
+      "phev": 40,
+      "hev": 327,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-12",
+      "total": 1430,
+      "cero": 279,
+      "eco": 327,
+      "bev": 254,
+      "phev": 25,
+      "hev": 327,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-01",
+      "total": 1234,
+      "cero": 106,
+      "eco": 272,
+      "bev": 86,
+      "phev": 20,
+      "hev": 272,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-02",
+      "total": 1413,
+      "cero": 197,
+      "eco": 281,
+      "bev": 172,
+      "phev": 25,
+      "hev": 281,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-03",
+      "total": 1788,
+      "cero": 306,
+      "eco": 344,
+      "bev": 268,
+      "phev": 38,
+      "hev": 344,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2026-04",
+      "total": 1527,
+      "cero": 227,
+      "eco": 340,
+      "bev": 218,
+      "phev": 9,
+      "hev": 340,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2026-05",
+      "total": 1727,
+      "cero": 353,
+      "eco": 329,
+      "bev": 339,
+      "phev": 14,
+      "hev": 329,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2026-06",
+      "total": 2053,
+      "cero": 411,
+      "eco": 430,
+      "bev": 395,
+      "phev": 16,
+      "hev": 430,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2026-07",
+      "total": 1557,
+      "cero": 293,
+      "eco": 270,
+      "bev": 269,
+      "phev": 24,
+      "hev": 270,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-08",
+      "total": 1414,
+      "cero": 283,
+      "eco": 291,
+      "bev": 262,
+      "phev": 21,
+      "hev": 291,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2026-09",
+      "total": 1828,
+      "cero": 508,
+      "eco": 349,
+      "bev": 495,
+      "phev": 13,
+      "hev": 349,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "MODEL Y"
+    },
+    {
+      "period": "2026-10",
+      "total": 1797,
+      "cero": 436,
+      "eco": 320,
+      "bev": 424,
+      "phev": 12,
+      "hev": 320,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "timesLeader": 32
+    },
+    {
+      "brand": "PEUGEOT",
+      "slug": "peugeot",
+      "timesLeader": 1
+    },
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 1
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "SANDERO",
+      "timesLeader": 14
+    },
+    {
+      "model": "DESCONOCIDO",
+      "timesLeader": 5
+    },
+    {
+      "model": "MODEL 3",
+      "timesLeader": 4
+    },
+    {
+      "model": "FH",
+      "timesLeader": 2
+    },
+    {
+      "model": "EV3",
+      "timesLeader": 2
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "brand": "KTM",
+  "slug": "ktm",
+  "total": 1523,
+  "percentage": 0.03,
+  "eco0Percentage": 0,
+  "avgKw": 27,
+  "monthlyEvolution": [
+    {
+      "period": "2024-12",
+      "total": 1523,
+      "eco0Count": 0,
+      "avgKw": 27,
+      "avgCo2": 75,
+      "topModel": "KTM 300 EXC"
+    }
+  ],
+  "models": [],
+  "leadProvinces": []
+}

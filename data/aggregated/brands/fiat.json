@@ -1,0 +1,346 @@
+{
+  "brand": "FIAT",
+  "slug": "fiat",
+  "total": 71163,
+  "percentage": 1.31,
+  "eco0Percentage": 47.6,
+  "avgKw": 75,
+  "monthlyEvolution": [
+    {
+      "period": "2024-01",
+      "total": 2820,
+      "eco0Count": 1658,
+      "avgKw": 70,
+      "avgCo2": 144,
+      "topModel": "FIAT 500"
+    },
+    {
+      "period": "2024-02",
+      "total": 3328,
+      "eco0Count": 2196,
+      "avgKw": 65,
+      "avgCo2": 135,
+      "topModel": "FIAT 500"
+    },
+    {
+      "period": "2024-03",
+      "total": 2592,
+      "eco0Count": 1598,
+      "avgKw": 66,
+      "avgCo2": 134,
+      "topModel": "FIAT 500"
+    },
+    {
+      "period": "2024-04",
+      "total": 2506,
+      "eco0Count": 1408,
+      "avgKw": 67,
+      "avgCo2": 136,
+      "topModel": "FIAT 500"
+    },
+    {
+      "period": "2024-05",
+      "total": 2670,
+      "eco0Count": 1632,
+      "avgKw": 64,
+      "avgCo2": 130,
+      "topModel": "FIAT 500"
+    },
+    {
+      "period": "2024-06",
+      "total": 3028,
+      "eco0Count": 2129,
+      "avgKw": 63,
+      "avgCo2": 129,
+      "topModel": "FIAT 500"
+    },
+    {
+      "period": "2024-07",
+      "total": 1643,
+      "eco0Count": 606,
+      "avgKw": 75,
+      "avgCo2": 149,
+      "topModel": "FIAT 500"
+    },
+    {
+      "period": "2024-08",
+      "total": 1205,
+      "eco0Count": 294,
+      "avgKw": 82,
+      "avgCo2": 154,
+      "topModel": "DOBLO"
+    },
+    {
+      "period": "2024-09",
+      "total": 1679,
+      "eco0Count": 481,
+      "avgKw": 79,
+      "avgCo2": 151,
+      "topModel": "SCUDO"
+    },
+    {
+      "period": "2024-10",
+      "total": 1843,
+      "eco0Count": 676,
+      "avgKw": 79,
+      "avgCo2": 145,
+      "topModel": "DOBLO"
+    },
+    {
+      "period": "2024-11",
+      "total": 2081,
+      "eco0Count": 829,
+      "avgKw": 76,
+      "avgCo2": 146,
+      "topModel": "DOBLO"
+    },
+    {
+      "period": "2024-12",
+      "total": 1908,
+      "eco0Count": 1022,
+      "avgKw": 70,
+      "avgCo2": 137,
+      "topModel": "PANDA"
+    },
+    {
+      "period": "2025-01",
+      "total": 1214,
+      "eco0Count": 397,
+      "avgKw": 76,
+      "avgCo2": 154,
+      "topModel": "DOBLO"
+    },
+    {
+      "period": "2025-02",
+      "total": 1972,
+      "eco0Count": 1019,
+      "avgKw": 78,
+      "avgCo2": 146,
+      "topModel": "500"
+    },
+    {
+      "period": "2025-03",
+      "total": 2969,
+      "eco0Count": 1760,
+      "avgKw": 78,
+      "avgCo2": 134,
+      "topModel": "600"
+    },
+    {
+      "period": "2025-04",
+      "total": 2153,
+      "eco0Count": 1090,
+      "avgKw": 77,
+      "avgCo2": 139,
+      "topModel": "600"
+    },
+    {
+      "period": "2025-05",
+      "total": 2281,
+      "eco0Count": 1075,
+      "avgKw": 78,
+      "avgCo2": 143,
+      "topModel": "PANDA"
+    },
+    {
+      "period": "2025-06",
+      "total": 2584,
+      "eco0Count": 1593,
+      "avgKw": 86,
+      "avgCo2": 137,
+      "topModel": "600"
+    },
+    {
+      "period": "2025-07",
+      "total": 1860,
+      "eco0Count": 764,
+      "avgKw": 81,
+      "avgCo2": 148,
+      "topModel": "DOBLO"
+    },
+    {
+      "period": "2025-08",
+      "total": 1231,
+      "eco0Count": 374,
+      "avgKw": 79,
+      "avgCo2": 151,
+      "topModel": "DOBLO"
+    },
+    {
+      "period": "2025-09",
+      "total": 1620,
+      "eco0Count": 609,
+      "avgKw": 82,
+      "avgCo2": 149,
+      "topModel": "DOBLO"
+    },
+    {
+      "period": "2025-10",
+      "total": 1843,
+      "eco0Count": 764,
+      "avgKw": 80,
+      "avgCo2": 145,
+      "topModel": "DOBLO"
+    },
+    {
+      "period": "2025-11",
+      "total": 1642,
+      "eco0Count": 554,
+      "avgKw": 82,
+      "avgCo2": 152,
+      "topModel": "DOBLO"
+    },
+    {
+      "period": "2025-12",
+      "total": 1586,
+      "eco0Count": 526,
+      "avgKw": 80,
+      "avgCo2": 148,
+      "topModel": "DOBLO"
+    },
+    {
+      "period": "2026-01",
+      "total": 1482,
+      "eco0Count": 620,
+      "avgKw": 75,
+      "avgCo2": 144,
+      "topModel": "DOBLO"
+    },
+    {
+      "period": "2026-02",
+      "total": 2018,
+      "eco0Count": 1166,
+      "avgKw": 78,
+      "avgCo2": 138,
+      "topModel": "600"
+    },
+    {
+      "period": "2026-03",
+      "total": 3095,
+      "eco0Count": 1578,
+      "avgKw": 73,
+      "avgCo2": 136,
+      "topModel": "PANDA"
+    },
+    {
+      "period": "2026-04",
+      "total": 1927,
+      "eco0Count": 747,
+      "avgKw": 74,
+      "avgCo2": 145,
+      "topModel": "DOBLO"
+    },
+    {
+      "period": "2026-05",
+      "total": 2427,
+      "eco0Count": 1003,
+      "avgKw": 80,
+      "avgCo2": 148,
+      "topModel": "600"
+    },
+    {
+      "period": "2026-06",
+      "total": 2912,
+      "eco0Count": 1380,
+      "avgKw": 79,
+      "avgCo2": 143,
+      "topModel": "600"
+    },
+    {
+      "period": "2026-07",
+      "total": 1924,
+      "eco0Count": 619,
+      "avgKw": 76,
+      "avgCo2": 151,
+      "topModel": "PANDA"
+    },
+    {
+      "period": "2026-08",
+      "total": 1364,
+      "eco0Count": 467,
+      "avgKw": 75,
+      "avgCo2": 150,
+      "topModel": "PANDA"
+    },
+    {
+      "period": "2026-09",
+      "total": 1990,
+      "eco0Count": 627,
+      "avgKw": 81,
+      "avgCo2": 149,
+      "topModel": "DOBLO"
+    },
+    {
+      "period": "2026-10",
+      "total": 1766,
+      "eco0Count": 628,
+      "avgKw": 77,
+      "avgCo2": 150,
+      "topModel": "PANDA"
+    }
+  ],
+  "models": [
+    {
+      "brand": "FIAT",
+      "brandSlug": "fiat",
+      "model": "FIAT 500",
+      "modelSlug": "fiat-500",
+      "fullName": "FIAT FIAT 500",
+      "total": 7536,
+      "percentage": 0.14,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 51,
+      "avgCv": 70,
+      "avgCo2": 107
+    },
+    {
+      "brand": "FIAT",
+      "brandSlug": "fiat",
+      "model": "600",
+      "modelSlug": "600",
+      "fullName": "FIAT 600",
+      "total": 1424,
+      "percentage": 0.03,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 109
+    },
+    {
+      "brand": "FIAT",
+      "brandSlug": "fiat",
+      "model": "FIAT DUCATO",
+      "modelSlug": "fiat-ducato",
+      "fullName": "FIAT FIAT DUCATO",
+      "total": 626,
+      "percentage": 0.01,
+      "category": "Comercial",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 102,
+      "avgCv": 139,
+      "avgCo2": 223
+    }
+  ],
+  "leadProvinces": [
+    {
+      "province": "Zaragoza",
+      "slug": "zaragoza",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Alicante / Alacant",
+      "slug": "alicante-alacant",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Albacete",
+      "slug": "albacete",
+      "monthsLeading": 1
+    }
+  ]
+}

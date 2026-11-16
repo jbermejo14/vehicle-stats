@@ -1,0 +1,461 @@
+{
+  "brand": "CITROEN",
+  "slug": "citroen",
+  "total": 181205,
+  "percentage": 3.35,
+  "eco0Percentage": 29.5,
+  "avgKw": 85,
+  "monthlyEvolution": [
+    {
+      "period": "2024-01",
+      "total": 4344,
+      "eco0Count": 199,
+      "avgKw": 83,
+      "avgCo2": 135,
+      "topModel": "NUEVO C4 PURETECH 130"
+    },
+    {
+      "period": "2024-02",
+      "total": 6432,
+      "eco0Count": 291,
+      "avgKw": 82,
+      "avgCo2": 138,
+      "topModel": "C3 AIRCROSS PURETECH 1"
+    },
+    {
+      "period": "2024-03",
+      "total": 6638,
+      "eco0Count": 486,
+      "avgKw": 81,
+      "avgCo2": 135,
+      "topModel": "C3 AIRCROSS PURETECH 1"
+    },
+    {
+      "period": "2024-04",
+      "total": 6456,
+      "eco0Count": 482,
+      "avgKw": 81,
+      "avgCo2": 135,
+      "topModel": "C3 ORIGIN PURETECH 83"
+    },
+    {
+      "period": "2024-05",
+      "total": 7015,
+      "eco0Count": 432,
+      "avgKw": 81,
+      "avgCo2": 133,
+      "topModel": "C3 ORIGIN BLUE HDI 100"
+    },
+    {
+      "period": "2024-06",
+      "total": 7498,
+      "eco0Count": 1004,
+      "avgKw": 85,
+      "avgCo2": 133,
+      "topModel": "C3 ORIGIN BLUE HDI 100"
+    },
+    {
+      "period": "2024-07",
+      "total": 5506,
+      "eco0Count": 614,
+      "avgKw": 85,
+      "avgCo2": 137,
+      "topModel": "NUEVO BERLINGO TALLA M"
+    },
+    {
+      "period": "2024-08",
+      "total": 2954,
+      "eco0Count": 344,
+      "avgKw": 83,
+      "avgCo2": 138,
+      "topModel": "C3 ORIGIN PURETECH 83"
+    },
+    {
+      "period": "2024-09",
+      "total": 4500,
+      "eco0Count": 430,
+      "avgKw": 84,
+      "avgCo2": 141,
+      "topModel": "NUEVO BERLINGOÁTALLA M"
+    },
+    {
+      "period": "2024-10",
+      "total": 4916,
+      "eco0Count": 483,
+      "avgKw": 84,
+      "avgCo2": 142,
+      "topModel": "NUEVO BERLINGO TALLA M"
+    },
+    {
+      "period": "2024-11",
+      "total": 4859,
+      "eco0Count": 584,
+      "avgKw": 84,
+      "avgCo2": 139,
+      "topModel": "NUEVO BERLINGO TALLA M"
+    },
+    {
+      "period": "2024-12",
+      "total": 4331,
+      "eco0Count": 721,
+      "avgKw": 85,
+      "avgCo2": 140,
+      "topModel": "NUEVO CITROËN C3 TURBO"
+    },
+    {
+      "period": "2025-01",
+      "total": 4605,
+      "eco0Count": 1374,
+      "avgKw": 85,
+      "avgCo2": 135,
+      "topModel": "NUEVO CITROËN C3 TURBO"
+    },
+    {
+      "period": "2025-02",
+      "total": 4587,
+      "eco0Count": 1641,
+      "avgKw": 87,
+      "avgCo2": 131,
+      "topModel": "NUEVO C4 HYBRID 136 Ë-"
+    },
+    {
+      "period": "2025-03",
+      "total": 6113,
+      "eco0Count": 2277,
+      "avgKw": 87,
+      "avgCo2": 131,
+      "topModel": "NUEVO C4 HYBRID 136 Ë-"
+    },
+    {
+      "period": "2025-04",
+      "total": 5471,
+      "eco0Count": 1832,
+      "avgKw": 86,
+      "avgCo2": 134,
+      "topModel": "NUEVO CITROËN C3 TURBO"
+    },
+    {
+      "period": "2025-05",
+      "total": 6978,
+      "eco0Count": 2743,
+      "avgKw": 87,
+      "avgCo2": 132,
+      "topModel": "NUEVO C4 HYBRID 145 Ë-"
+    },
+    {
+      "period": "2025-06",
+      "total": 6711,
+      "eco0Count": 2336,
+      "avgKw": 86,
+      "avgCo2": 133,
+      "topModel": "NUEVO CITROËN C3 AIRCR"
+    },
+    {
+      "period": "2025-07",
+      "total": 5449,
+      "eco0Count": 1815,
+      "avgKw": 85,
+      "avgCo2": 134,
+      "topModel": "NUEVO CITROËN C3 TURBO"
+    },
+    {
+      "period": "2025-08",
+      "total": 3481,
+      "eco0Count": 1312,
+      "avgKw": 86,
+      "avgCo2": 134,
+      "topModel": "NUEVO C4 HYBRID 145 Ë-"
+    },
+    {
+      "period": "2025-09",
+      "total": 4797,
+      "eco0Count": 1709,
+      "avgKw": 85,
+      "avgCo2": 134,
+      "topModel": "NUEVO C4 HYBRID 145 Ë-"
+    },
+    {
+      "period": "2025-10",
+      "total": 4812,
+      "eco0Count": 1680,
+      "avgKw": 84,
+      "avgCo2": 136,
+      "topModel": "NUEVO C4 HYBRID 145 Ë-"
+    },
+    {
+      "period": "2025-11",
+      "total": 5198,
+      "eco0Count": 1928,
+      "avgKw": 84,
+      "avgCo2": 134,
+      "topModel": "NUEVO CITROËN C3 AIRCR"
+    },
+    {
+      "period": "2025-12",
+      "total": 4799,
+      "eco0Count": 2083,
+      "avgKw": 85,
+      "avgCo2": 134,
+      "topModel": "NUEVO C4 HYBRID 145 Ë-"
+    },
+    {
+      "period": "2026-01",
+      "total": 3995,
+      "eco0Count": 2028,
+      "avgKw": 88,
+      "avgCo2": 130,
+      "topModel": "NUEVO C4 HYBRID 145 Ë-"
+    },
+    {
+      "period": "2026-02",
+      "total": 5577,
+      "eco0Count": 2726,
+      "avgKw": 87,
+      "avgCo2": 130,
+      "topModel": "NUEVO C4 HYBRID 145 Ë-"
+    },
+    {
+      "period": "2026-03",
+      "total": 7125,
+      "eco0Count": 3685,
+      "avgKw": 88,
+      "avgCo2": 130,
+      "topModel": "NUEVO C4 HYBRID 145 Ë-"
+    },
+    {
+      "period": "2026-04",
+      "total": 5295,
+      "eco0Count": 2175,
+      "avgKw": 87,
+      "avgCo2": 137,
+      "topModel": "NUEVO CITROËN C3 AIRCR"
+    },
+    {
+      "period": "2026-05",
+      "total": 5173,
+      "eco0Count": 2379,
+      "avgKw": 87,
+      "avgCo2": 134,
+      "topModel": "NUEVO CITROËN C3 AIRCR"
+    },
+    {
+      "period": "2026-06",
+      "total": 6497,
+      "eco0Count": 2994,
+      "avgKw": 87,
+      "avgCo2": 136,
+      "topModel": "NUEVO C4 HYBRID 145 Ë-"
+    },
+    {
+      "period": "2026-07",
+      "total": 5765,
+      "eco0Count": 2463,
+      "avgKw": 86,
+      "avgCo2": 136,
+      "topModel": "NUEVO C4 HYBRID 145 Ë-"
+    },
+    {
+      "period": "2026-08",
+      "total": 3855,
+      "eco0Count": 1652,
+      "avgKw": 86,
+      "avgCo2": 137,
+      "topModel": "NUEVO C3 AIRCROSS HYBR"
+    },
+    {
+      "period": "2026-09",
+      "total": 4750,
+      "eco0Count": 2339,
+      "avgKw": 86,
+      "avgCo2": 133,
+      "topModel": "NUEVO C3 AIRCROSS HYBR"
+    },
+    {
+      "period": "2026-10",
+      "total": 4723,
+      "eco0Count": 2283,
+      "avgKw": 86,
+      "avgCo2": 133,
+      "topModel": "NUEVO C4 HYBRID 145 Ë-"
+    }
+  ],
+  "models": [
+    {
+      "brand": "CITROEN",
+      "brandSlug": "citroen",
+      "model": "NUEVO C4 HYBRID 145 Ë-",
+      "modelSlug": "nuevo-c4-hybrid-145-e",
+      "fullName": "CITROEN NUEVO C4 HYBRID 145 Ë-",
+      "total": 4551,
+      "percentage": 0.08,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 100,
+      "avgCv": 136,
+      "avgCo2": 106
+    },
+    {
+      "brand": "CITROEN",
+      "brandSlug": "citroen",
+      "model": "NUEVO C4 HYBRID 136 Ë-",
+      "modelSlug": "nuevo-c4-hybrid-136-e",
+      "fullName": "CITROEN NUEVO C4 HYBRID 136 Ë-",
+      "total": 2983,
+      "percentage": 0.06,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 100,
+      "avgCv": 136,
+      "avgCo2": 106
+    },
+    {
+      "brand": "CITROEN",
+      "brandSlug": "citroen",
+      "model": "C3 ORIGIN BLUE HDI 100",
+      "modelSlug": "c3-origin-blue-hdi-100",
+      "fullName": "CITROEN C3 ORIGIN BLUE HDI 100",
+      "total": 2452,
+      "percentage": 0.05,
+      "category": "Turismo",
+      "primaryFuel": "Diésel",
+      "primaryBadge": "C",
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 117
+    },
+    {
+      "brand": "CITROEN",
+      "brandSlug": "citroen",
+      "model": "C3 AIRCROSS PURETECH 1",
+      "modelSlug": "c3-aircross-puretech-1",
+      "fullName": "CITROEN C3 AIRCROSS PURETECH 1",
+      "total": 2157,
+      "percentage": 0.04,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 81,
+      "avgCv": 110,
+      "avgCo2": 134
+    },
+    {
+      "brand": "CITROEN",
+      "brandSlug": "citroen",
+      "model": "NUEVO CITROËN C3 AIRCR",
+      "modelSlug": "nuevo-citroen-c3-aircr",
+      "fullName": "CITROEN NUEVO CITROËN C3 AIRCR",
+      "total": 2029,
+      "percentage": 0.04,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 85,
+      "avgCv": 116,
+      "avgCo2": 129
+    },
+    {
+      "brand": "CITROEN",
+      "brandSlug": "citroen",
+      "model": "NUEVO CITROËN C3 TURBO",
+      "modelSlug": "nuevo-citroen-c3-turbo",
+      "fullName": "CITROEN NUEVO CITROËN C3 TURBO",
+      "total": 1995,
+      "percentage": 0.04,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 127
+    },
+    {
+      "brand": "CITROEN",
+      "brandSlug": "citroen",
+      "model": "C3 ORIGIN PURETECH 83",
+      "modelSlug": "c3-origin-puretech-83",
+      "fullName": "CITROEN C3 ORIGIN PURETECH 83",
+      "total": 1827,
+      "percentage": 0.03,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 61,
+      "avgCv": 83,
+      "avgCo2": 123
+    },
+    {
+      "brand": "CITROEN",
+      "brandSlug": "citroen",
+      "model": "NUEVO C4 PURETECH 130",
+      "modelSlug": "nuevo-c4-puretech-130",
+      "fullName": "CITROEN NUEVO C4 PURETECH 130",
+      "total": 1647,
+      "percentage": 0.03,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 96,
+      "avgCv": 131,
+      "avgCo2": 122
+    },
+    {
+      "brand": "CITROEN",
+      "brandSlug": "citroen",
+      "model": "NUEVO C3 PURETECH 83 S",
+      "modelSlug": "nuevo-c3-puretech-83-s",
+      "fullName": "CITROEN NUEVO C3 PURETECH 83 S",
+      "total": 873,
+      "percentage": 0.02,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 61,
+      "avgCv": 83,
+      "avgCo2": 123
+    }
+  ],
+  "leadProvinces": [
+    {
+      "province": "Cáceres",
+      "slug": "caceres",
+      "monthsLeading": 6
+    },
+    {
+      "province": "Toledo",
+      "slug": "toledo",
+      "monthsLeading": 6
+    },
+    {
+      "province": "Álava / Araba",
+      "slug": "alava-araba",
+      "monthsLeading": 4
+    },
+    {
+      "province": "Lleida",
+      "slug": "lleida",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Soria",
+      "slug": "soria",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Illes Balears",
+      "slug": "illes-balears",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Salamanca",
+      "slug": "salamanca",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Jaén",
+      "slug": "jaen",
+      "monthsLeading": 1
+    }
+  ]
+}

@@ -5,7 +5,6 @@ import { useData } from '@/context/DataContext';
 import { KpiCard } from '@/components/telemetry/KpiCard';
 import { TelemetryTooltip } from '@/components/telemetry/TelemetryTooltip';
 import { BadgePill } from '@/components/telemetry/BadgePill';
-import { TechnicalPartnerBanner } from '@/components/common/MonetizationBanner';
 import { 
   Car, 
   Zap, 
@@ -39,9 +38,6 @@ export function OverviewView() {
 
   return (
     <div className="space-y-6">
-      {/* Monetization / Partner Banner */}
-      <TechnicalPartnerBanner />
-
       {/* Informative Banner when Tramite is Transferencias */}
       {filters.tramite === 'transferencias' && (
         <div className="p-3.5 rounded-xl bg-accent/10 border border-accent/40 flex items-start space-x-3 text-xs text-zinc-300 shadow-[0_0_20px_rgba(255,85,0,0.1)]">

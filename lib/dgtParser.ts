@@ -1,5 +1,6 @@
 import { DgtRecord, EtiquetaDgt, TipoPropulsion, TramoIedmt } from './dgtTypes';
 import { getProvinceByPostalCode } from './spainProvinces';
+import { deduceDgtBadge } from './dgtBadge';
 
 export interface ParseResult {
   records: DgtRecord[];
@@ -36,16 +37,19 @@ export function inferPropulsion(
   propCode: string,
   hibridoInd: string,
   modelName: string,
-  co2: number
+  co2: number,
+  euroNorm?: string,
+  fecMatRaw?: string
 ): { propulsion: TipoPropulsion; etiqueta: EtiquetaDgt } {
   const hib = hibridoInd.toUpperCase().trim();
   const pCode = propCode.trim();
   const modelUpper = modelName.toUpperCase();
 
-  // Pure Electric (BEV)
+  // 1. Pure Electric (BEV) or Range Extended (REEV)
   if (
     hib === 'BEV' || 
-    pCode === '03000' || 
+    hib === 'REE' ||
+    pCode.startsWith('03') || 
     pCode === '03' || 
     modelUpper.includes('BEV') || 
     modelUpper.includes('ELECTRIC') ||
@@ -55,9 +59,11 @@ export function inferPropulsion(
     return { propulsion: 'Eléctrico Puro (BEV)', etiqueta: '0 CERO' };
   }
 
-  // Plug-in Hybrid (PHEV)
+  // 2. Plug-in Hybrid (PHEV)
   if (
-    hib === 'PHEV' || 
+    hib.startsWith('PHE') || 
+    pCode.startsWith('31') || 
+    pCode.startsWith('32') ||
     modelUpper.includes('PHEV') || 
     modelUpper.includes('PLUG-IN') || 
     (co2 > 0 && co2 <= 50 && hib.includes('HEV'))
@@ -65,10 +71,13 @@ export function inferPropulsion(
     return { propulsion: 'Híbrido Enchufable (PHEV)', etiqueta: '0 CERO' };
   }
 
-  // Conventional Hybrid (HEV) / Microhybrid (MHEV)
+  // 3. Conventional Hybrid (HEV) / Microhybrid (MHEV)
   if (
     hib === 'HEV' || 
+    hib === 'MHE' || 
     hib === 'MHEV' || 
+    pCode.startsWith('11') || 
+    pCode.startsWith('12') ||
     modelUpper.includes('HEV') || 
     modelUpper.includes('HYBRID') || 
     modelUpper.includes('MHEV')
@@ -76,8 +85,9 @@ export function inferPropulsion(
     return { propulsion: 'Híbrido (HEV)', etiqueta: 'ECO' };
   }
 
-  // Gas (GLP / GNC / Bifuel)
+  // 4. Gas (GLP / GNC / Bifuel)
   if (
+    pCode.startsWith('21') ||
     pCode.includes('GLP') || 
     pCode.includes('GNC') || 
     modelUpper.includes('ECO-G') || 
@@ -88,9 +98,11 @@ export function inferPropulsion(
     return { propulsion: 'GLP / GNC', etiqueta: 'ECO' };
   }
 
-  // Diesel
+  // 5. Diesel (Gasóleo A, B agrícola, o C)
   if (
-    pCode === '02000' || 
+    pCode.startsWith('02') || 
+    pCode.startsWith('04') || 
+    pCode.startsWith('05') || 
     pCode === '02' || 
     modelUpper.includes('TDI') || 
     modelUpper.includes('DCI') || 
@@ -99,11 +111,27 @@ export function inferPropulsion(
     modelUpper.includes('CDI') || 
     modelUpper.includes('DIESEL')
   ) {
-    return { propulsion: 'Diésel', etiqueta: 'C' };
+    const badgeResult = deduceDgtBadge({
+      propulsionCode: pCode,
+      hybridIndicator: hib,
+      euroNorm,
+      registrationDate: fecMatRaw,
+      modelName,
+      co2
+    });
+    return { propulsion: 'Diésel', etiqueta: badgeResult.badge };
   }
 
-  // Default: Gasolina
-  return { propulsion: 'Gasolina', etiqueta: 'C' };
+  // 6. Default: Gasolina
+  const badgeResult = deduceDgtBadge({
+    propulsionCode: pCode,
+    hybridIndicator: hib,
+    euroNorm,
+    registrationDate: fecMatRaw,
+    modelName,
+    co2
+  });
+  return { propulsion: 'Gasolina', etiqueta: badgeResult.badge };
 }
 
 /**
@@ -123,26 +151,26 @@ export function categorizeVehicle(tipoCod: string, catItv: string): 'Turismo' | 
   const cat = catItv.trim().toUpperCase();
   const tipo = tipoCod.trim();
 
-  if (cat.startsWith('M1') || tipo === '400' || tipo === '401' || tipo === '402') {
+  if (cat.startsWith('M1') || tipo === '400' || tipo === '401' || tipo === '402' || tipo === '40') {
     return 'Turismo';
   }
-  if (cat.startsWith('L3') || cat.startsWith('L4') || tipo === '500' || tipo === '501' || tipo === '*05') {
+  if (cat.startsWith('L3') || cat.startsWith('L4') || tipo === '500' || tipo === '501' || tipo === '*05' || tipo === '50') {
     return 'Motocicleta';
   }
-  if (cat.startsWith('L1') || cat.startsWith('L2') || tipo === '900' || tipo === '*02') {
+  if (cat.startsWith('L1') || cat.startsWith('L2') || tipo === '900' || tipo === '*02' || tipo === '90') {
     return 'Ciclomotor';
   }
-  if (cat.startsWith('N1') || tipo === '251' || tipo === '250' || tipo === '240') {
+  if (cat.startsWith('N1') || tipo === '251' || tipo === '250' || tipo === '240' || tipo === '20') {
     return 'Comercial';
   }
-  if (cat.startsWith('N2') || cat.startsWith('N3') || cat.startsWith('M2') || cat.startsWith('M3')) {
+  if (cat.startsWith('N2') || cat.startsWith('N3') || cat.startsWith('M2') || cat.startsWith('M3') || tipo === '30') {
     return 'Industrial';
   }
   return 'Otro';
 }
 
 /**
- * Formats DDMMYYYY string to ISO YYYY-MM-DD
+ * Formats DDMMYYYY string to ISO YYYY-MM-DD and display DD/MM/YYYY
  */
 export function formatDgtDate(raw: string): { display: string; iso: string } {
   if (!raw || raw.length < 8) {
@@ -160,21 +188,32 @@ export function formatDgtDate(raw: string): { display: string; iso: string } {
 
 /**
  * Parses a single fixed-width DGT MATRABA line (714 chars)
+ * Official field offsets per DGT MATRICULACIONES_MATRABA specification.
  */
-export function parseDgtLine(line: string, index: number): DgtRecord | null {
-  if (!line || line.trim().length < 80) return null;
+export function parseDgtLine(line: string, index: number, onLogUnparsed?: (msg: string) => void): DgtRecord | null {
+  if (!line || line.trim().length < 80) {
+    if (onLogUnparsed && line && line.trim().length > 0) {
+      onLogUnparsed(`Línea ${index}: Longitud insuficiente (${line.trim().length} caracteres)`);
+    }
+    return null;
+  }
   // Ignore header line (e.g. "Vehículos matriculados...")
-  if (line.includes('Vehículos matriculados') || line.includes('Vehculos matriculados')) {
+  if (line.includes('Vehículos') || line.includes('Vehculos') || line.includes('Letras de la serie')) {
     return null;
   }
 
   try {
     const fecMatRaw = line.substring(0, 8).trim();
+    if (!fecMatRaw || fecMatRaw.length < 8 || isNaN(Number(fecMatRaw))) {
+      if (onLogUnparsed) onLogUnparsed(`Línea ${index}: Fecha de matrícula inválida '${fecMatRaw}'`);
+      return null;
+    }
+
     const claseMatricula = line.substring(8, 9).trim() || '0';
     const marca = line.substring(17, 47).trim();
     const modelo = line.substring(47, 69).trim();
     const vinParcial = line.substring(70, 91).trim();
-    const wmi = vinParcial.substring(0, 3);
+    const wmi = vinParcial.substring(0, 3).toUpperCase();
     const tipoVehiculoCod = line.substring(91, 94).trim();
     
     // Numeric metrics
@@ -183,7 +222,6 @@ export function parseDgtLine(line: string, index: number): DgtRecord | null {
     
     // Municipality & Postal code
     let municipioRaw = line.substring(125, 149).trim();
-    // Remove leading INE digits if embedded (e.g. 001BILBAO -> BILBAO)
     municipioRaw = municipioRaw.replace(/^\d{3,5}/, '').trim();
     const cp = line.substring(165, 170).trim();
     
@@ -192,11 +230,14 @@ export function parseDgtLine(line: string, index: number): DgtRecord | null {
     const provinciaNombre = provMeta ? provMeta.name : 'No asignada';
     const comunidadAutonoma = provMeta ? provMeta.community : 'España';
 
+    // New or Used indicator (position 178..179)
+    const indNuevoUsado = line.length > 178 ? line.substring(178, 179).trim().toUpperCase() : 'N';
+
     // Power & emissions
     const kw = parseFloat(line.substring(225, 234).trim()) || 0;
     const cv = Math.round(kw * 1.35962);
 
-    // CO2: strip any non-digit suffix (e.g. '119N' -> 119)
+    // CO2
     const co2Raw = line.substring(238, 243).trim().replace(/[^0-9]/g, '');
     const co2 = parseInt(co2Raw, 10) || 0;
 
@@ -211,7 +252,7 @@ export function parseDgtLine(line: string, index: number): DgtRecord | null {
     const propCode = line.substring(448, 453).trim();
     const hibridoInd = line.substring(453, 456).trim();
 
-    const { propulsion, etiqueta } = inferPropulsion(propCode, hibridoInd, modelo, co2);
+    const { propulsion, etiqueta } = inferPropulsion(propCode, hibridoInd, modelo, co2, normativaEuro, fecMatRaw);
     const tramoIedmt = calculateTramoIedmt(co2);
     const categoriaLabel = categorizeVehicle(tipoVehiculoCod, categoria);
     const dateInfo = formatDgtDate(fecMatRaw);
@@ -220,10 +261,19 @@ export function parseDgtLine(line: string, index: number): DgtRecord | null {
     const viaDelantera = parseInt(line.substring(642, 646).trim(), 10) || 0;
     const viaTrasera = parseInt(line.substring(646, 650).trim(), 10) || 0;
 
+    // Tipo de trámite:
+    // - Si IND_NUEVO_USADO == 'U': Rematriculación / Vehículo usado importado
+    // - Si COD_CLASE_MAT == '6': Ciclomotor
+    // - Si COD_CLASE_MAT == '7': Transporte temporal
+    // - Si COD_CLASE_MAT == '0' y IND_NUEVO_USADO == 'N': Nueva matriculación ordinaria
     let tipoTramite: 'Nueva' | 'Transferencia' | 'Ciclomotor' | 'Otro' = 'Nueva';
-    if (claseMatricula === '7') tipoTramite = 'Transferencia';
-    else if (claseMatricula === '6') tipoTramite = 'Ciclomotor';
-    else if (claseMatricula !== '0') tipoTramite = 'Otro';
+    if (indNuevoUsado === 'U') {
+      tipoTramite = 'Transferencia'; // Usado / rematriculado
+    } else if (claseMatricula === '6') {
+      tipoTramite = 'Ciclomotor';
+    } else if (claseMatricula === '7') {
+      tipoTramite = 'Otro';
+    }
 
     return {
       id: `dgt-${index}-${vinParcial.slice(0, 6)}`,
@@ -264,7 +314,8 @@ export function parseDgtLine(line: string, index: number): DgtRecord | null {
       viaTrasera,
       fabricante: fabricante || marca
     };
-  } catch (err) {
+  } catch (err: any) {
+    if (onLogUnparsed) onLogUnparsed(`Línea ${index}: Error al interpretar registro: ${err?.message || err}`);
     return null;
   }
 }
@@ -293,7 +344,7 @@ export function parseDgtContent(
       continue;
     }
 
-    const record = parseDgtLine(line, i);
+    const record = parseDgtLine(line, i, (msg) => errors.push(msg));
     if (record) {
       records.push(record);
     } else {
@@ -322,7 +373,6 @@ export function parseDgtContent(
  */
 export function decodeDgtBuffer(buffer: ArrayBuffer): string {
   try {
-    // DGT microdata files are encoded in ISO-8859-1 (Western European)
     const latinDecoder = new TextDecoder('iso-8859-1');
     return latinDecoder.decode(buffer);
   } catch {

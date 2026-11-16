@@ -1,0 +1,161 @@
+{
+  "brand": "FORD",
+  "brandSlug": "ford",
+  "model": "PUMA",
+  "modelSlug": "puma",
+  "fullName": "FORD PUMA",
+  "total": 16294,
+  "percentage": 0.3,
+  "category": "Turismo",
+  "primaryFuel": "Híbrido (HEV)",
+  "primaryBadge": "ECO",
+  "avgKw": 95,
+  "avgCv": 129,
+  "avgCo2": 126,
+  "evolution": [
+    {
+      "period": "2024-01",
+      "total": 635,
+      "avgKw": 96,
+      "avgCv": 131,
+      "avgCo2": 124,
+      "avgTara": 1334
+    },
+    {
+      "period": "2024-02",
+      "total": 913,
+      "avgKw": 96,
+      "avgCv": 130,
+      "avgCo2": 124,
+      "avgTara": 1331
+    },
+    {
+      "period": "2024-03",
+      "total": 835,
+      "avgKw": 97,
+      "avgCv": 132,
+      "avgCo2": 125,
+      "avgTara": 1343
+    },
+    {
+      "period": "2024-04",
+      "total": 1101,
+      "avgKw": 96,
+      "avgCv": 130,
+      "avgCo2": 125,
+      "avgTara": 1345
+    },
+    {
+      "period": "2024-07",
+      "total": 799,
+      "avgKw": 96,
+      "avgCv": 130,
+      "avgCo2": 125,
+      "avgTara": 1340
+    },
+    {
+      "period": "2024-08",
+      "total": 666,
+      "avgKw": 94,
+      "avgCv": 128,
+      "avgCo2": 124,
+      "avgTara": 1334
+    },
+    {
+      "period": "2024-09",
+      "total": 703,
+      "avgKw": 95,
+      "avgCv": 129,
+      "avgCo2": 125,
+      "avgTara": 1339
+    },
+    {
+      "period": "2024-12",
+      "total": 1250,
+      "avgKw": 101,
+      "avgCv": 137,
+      "avgCo2": 128,
+      "avgTara": 1376
+    },
+    {
+      "period": "2025-01",
+      "total": 799,
+      "avgKw": 92,
+      "avgCv": 125,
+      "avgCo2": 126,
+      "avgTara": 1344
+    },
+    {
+      "period": "2025-02",
+      "total": 1057,
+      "avgKw": 94,
+      "avgCv": 127,
+      "avgCo2": 126,
+      "avgTara": 1345
+    },
+    {
+      "period": "2025-04",
+      "total": 897,
+      "avgKw": 93,
+      "avgCv": 127,
+      "avgCo2": 127,
+      "avgTara": 1350
+    },
+    {
+      "period": "2025-05",
+      "total": 1363,
+      "avgKw": 92,
+      "avgCv": 126,
+      "avgCo2": 127,
+      "avgTara": 1367
+    },
+    {
+      "period": "2025-06",
+      "total": 1109,
+      "avgKw": 94,
+      "avgCv": 128,
+      "avgCo2": 127,
+      "avgTara": 1376
+    },
+    {
+      "period": "2025-08",
+      "total": 527,
+      "avgKw": 89,
+      "avgCv": 121,
+      "avgCo2": 125,
+      "avgTara": 1358
+    },
+    {
+      "period": "2025-09",
+      "total": 769,
+      "avgKw": 89,
+      "avgCv": 121,
+      "avgCo2": 125,
+      "avgTara": 1363
+    },
+    {
+      "period": "2025-11",
+      "total": 740,
+      "avgKw": 95,
+      "avgCv": 129,
+      "avgCo2": 125,
+      "avgTara": 1357
+    },
+    {
+      "period": "2026-04",
+      "total": 1088,
+      "avgKw": 98,
+      "avgCv": 134,
+      "avgCo2": 126,
+      "avgTara": 1362
+    },
+    {
+      "period": "2026-05",
+      "total": 1043,
+      "avgKw": 97,
+      "avgCv": 132,
+      "avgCo2": 126,
+      "avgTara": 1366
+    }
+  ]
+}

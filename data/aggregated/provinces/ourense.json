@@ -1,0 +1,444 @@
+{
+  "code": "32",
+  "name": "Ourense",
+  "slug": "ourense",
+  "community": "Galicia",
+  "population": 304295,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 20473,
+  "percentageOfSpain": 0.38,
+  "per1000Habitantes": 67.28,
+  "ceroCount": 1397,
+  "ecoCount": 4481,
+  "bevCount": 1248,
+  "phevCount": 149,
+  "hevCount": 4474,
+  "ceroPercentage": 6.8,
+  "ecoPercentage": 21.9,
+  "bevPercentage": 6.1,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 500,
+      "cero": 23,
+      "eco": 97,
+      "bev": 19,
+      "phev": 4,
+      "hev": 97,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-02",
+      "total": 463,
+      "cero": 18,
+      "eco": 93,
+      "bev": 16,
+      "phev": 2,
+      "hev": 93,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-03",
+      "total": 519,
+      "cero": 19,
+      "eco": 95,
+      "bev": 18,
+      "phev": 1,
+      "hev": 95,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-04",
+      "total": 541,
+      "cero": 25,
+      "eco": 123,
+      "bev": 20,
+      "phev": 5,
+      "hev": 123,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "FIAT 500"
+    },
+    {
+      "period": "2024-05",
+      "total": 552,
+      "cero": 19,
+      "eco": 132,
+      "bev": 17,
+      "phev": 2,
+      "hev": 132,
+      "topBrand": "TOYOTA",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-06",
+      "total": 535,
+      "cero": 19,
+      "eco": 116,
+      "bev": 18,
+      "phev": 1,
+      "hev": 115,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2024-07",
+      "total": 553,
+      "cero": 15,
+      "eco": 119,
+      "bev": 15,
+      "phev": 0,
+      "hev": 119,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-08",
+      "total": 466,
+      "cero": 11,
+      "eco": 92,
+      "bev": 11,
+      "phev": 0,
+      "hev": 92,
+      "topBrand": "BMW",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-09",
+      "total": 506,
+      "cero": 16,
+      "eco": 99,
+      "bev": 16,
+      "phev": 0,
+      "hev": 99,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2024-10",
+      "total": 596,
+      "cero": 22,
+      "eco": 121,
+      "bev": 19,
+      "phev": 3,
+      "hev": 121,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-11",
+      "total": 546,
+      "cero": 22,
+      "eco": 133,
+      "bev": 22,
+      "phev": 0,
+      "hev": 133,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2024-12",
+      "total": 623,
+      "cero": 37,
+      "eco": 147,
+      "bev": 37,
+      "phev": 0,
+      "hev": 147,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-01",
+      "total": 479,
+      "cero": 25,
+      "eco": 102,
+      "bev": 24,
+      "phev": 1,
+      "hev": 102,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-02",
+      "total": 524,
+      "cero": 17,
+      "eco": 129,
+      "bev": 15,
+      "phev": 2,
+      "hev": 129,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-03",
+      "total": 539,
+      "cero": 36,
+      "eco": 137,
+      "bev": 35,
+      "phev": 1,
+      "hev": 137,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-04",
+      "total": 587,
+      "cero": 35,
+      "eco": 105,
+      "bev": 31,
+      "phev": 4,
+      "hev": 105,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2025-05",
+      "total": 618,
+      "cero": 49,
+      "eco": 125,
+      "bev": 46,
+      "phev": 3,
+      "hev": 125,
+      "topBrand": "RENAULT",
+      "topModel": "ATTO 3"
+    },
+    {
+      "period": "2025-06",
+      "total": 636,
+      "cero": 39,
+      "eco": 114,
+      "bev": 36,
+      "phev": 3,
+      "hev": 114,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-07",
+      "total": 599,
+      "cero": 37,
+      "eco": 113,
+      "bev": 34,
+      "phev": 3,
+      "hev": 113,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2025-08",
+      "total": 494,
+      "cero": 29,
+      "eco": 106,
+      "bev": 24,
+      "phev": 5,
+      "hev": 106,
+      "topBrand": "TOYOTA",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-09",
+      "total": 593,
+      "cero": 44,
+      "eco": 116,
+      "bev": 39,
+      "phev": 5,
+      "hev": 116,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-10",
+      "total": 713,
+      "cero": 60,
+      "eco": 161,
+      "bev": 49,
+      "phev": 11,
+      "hev": 161,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2025-11",
+      "total": 551,
+      "cero": 36,
+      "eco": 140,
+      "bev": 29,
+      "phev": 7,
+      "hev": 140,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2025-12",
+      "total": 700,
+      "cero": 55,
+      "eco": 172,
+      "bev": 45,
+      "phev": 10,
+      "hev": 170,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2026-01",
+      "total": 556,
+      "cero": 29,
+      "eco": 137,
+      "bev": 22,
+      "phev": 7,
+      "hev": 137,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2026-02",
+      "total": 605,
+      "cero": 46,
+      "eco": 194,
+      "bev": 37,
+      "phev": 9,
+      "hev": 194,
+      "topBrand": "TOYOTA",
+      "topModel": "SUZUKI SWACE"
+    },
+    {
+      "period": "2026-03",
+      "total": 703,
+      "cero": 52,
+      "eco": 160,
+      "bev": 47,
+      "phev": 5,
+      "hev": 159,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2026-04",
+      "total": 714,
+      "cero": 65,
+      "eco": 173,
+      "bev": 56,
+      "phev": 9,
+      "hev": 172,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2026-05",
+      "total": 688,
+      "cero": 74,
+      "eco": 163,
+      "bev": 64,
+      "phev": 10,
+      "hev": 162,
+      "topBrand": "TOYOTA",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2026-06",
+      "total": 771,
+      "cero": 77,
+      "eco": 146,
+      "bev": 72,
+      "phev": 5,
+      "hev": 146,
+      "topBrand": "BMW",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-07",
+      "total": 778,
+      "cero": 62,
+      "eco": 165,
+      "bev": 54,
+      "phev": 8,
+      "hev": 165,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-08",
+      "total": 654,
+      "cero": 57,
+      "eco": 150,
+      "bev": 49,
+      "phev": 8,
+      "hev": 150,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2026-09",
+      "total": 735,
+      "cero": 107,
+      "eco": 128,
+      "bev": 101,
+      "phev": 6,
+      "hev": 127,
+      "topBrand": "TOYOTA",
+      "topModel": "MG HS"
+    },
+    {
+      "period": "2026-10",
+      "total": 836,
+      "cero": 120,
+      "eco": 178,
+      "bev": 111,
+      "phev": 9,
+      "hev": 178,
+      "topBrand": "MG",
+      "topModel": "MG HS"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "timesLeader": 14
+    },
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 12
+    },
+    {
+      "brand": "MERCEDES-BENZ",
+      "slug": "mercedes-benz",
+      "timesLeader": 4
+    },
+    {
+      "brand": "BMW",
+      "slug": "bmw",
+      "timesLeader": 2
+    },
+    {
+      "brand": "RENAULT",
+      "slug": "renault",
+      "timesLeader": 1
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "SANDERO",
+      "timesLeader": 11
+    },
+    {
+      "model": "GOLF",
+      "timesLeader": 10
+    },
+    {
+      "model": "DESCONOCIDO",
+      "timesLeader": 6
+    },
+    {
+      "model": "MG HS",
+      "timesLeader": 2
+    },
+    {
+      "model": "FIAT 500",
+      "timesLeader": 1
+    }
+  ]
+}

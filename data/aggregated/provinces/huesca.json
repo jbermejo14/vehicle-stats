@@ -1,0 +1,444 @@
+{
+  "code": "22",
+  "name": "Huesca",
+  "slug": "huesca",
+  "community": "Aragón",
+  "population": 226878,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 19080,
+  "percentageOfSpain": 0.35,
+  "per1000Habitantes": 84.1,
+  "ceroCount": 1219,
+  "ecoCount": 3857,
+  "bevCount": 1068,
+  "phevCount": 151,
+  "hevCount": 3857,
+  "ceroPercentage": 6.4,
+  "ecoPercentage": 20.2,
+  "bevPercentage": 5.6,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 466,
+      "cero": 17,
+      "eco": 71,
+      "bev": 16,
+      "phev": 1,
+      "hev": 71,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-02",
+      "total": 496,
+      "cero": 16,
+      "eco": 74,
+      "bev": 14,
+      "phev": 2,
+      "hev": 74,
+      "topBrand": "RENAULT",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-03",
+      "total": 504,
+      "cero": 26,
+      "eco": 91,
+      "bev": 23,
+      "phev": 3,
+      "hev": 91,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-04",
+      "total": 464,
+      "cero": 10,
+      "eco": 80,
+      "bev": 9,
+      "phev": 1,
+      "hev": 80,
+      "topBrand": "RENAULT",
+      "topModel": "ARONA"
+    },
+    {
+      "period": "2024-05",
+      "total": 512,
+      "cero": 15,
+      "eco": 78,
+      "bev": 14,
+      "phev": 1,
+      "hev": 78,
+      "topBrand": "RENAULT",
+      "topModel": "DUSTER"
+    },
+    {
+      "period": "2024-06",
+      "total": 566,
+      "cero": 15,
+      "eco": 93,
+      "bev": 15,
+      "phev": 0,
+      "hev": 93,
+      "topBrand": "RENAULT",
+      "topModel": "ARONA"
+    },
+    {
+      "period": "2024-07",
+      "total": 555,
+      "cero": 7,
+      "eco": 107,
+      "bev": 7,
+      "phev": 0,
+      "hev": 107,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DUSTER"
+    },
+    {
+      "period": "2024-08",
+      "total": 411,
+      "cero": 8,
+      "eco": 68,
+      "bev": 8,
+      "phev": 0,
+      "hev": 68,
+      "topBrand": "SIN MARCA",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-09",
+      "total": 492,
+      "cero": 11,
+      "eco": 102,
+      "bev": 10,
+      "phev": 1,
+      "hev": 102,
+      "topBrand": "SEAT",
+      "topModel": "ARONA"
+    },
+    {
+      "period": "2024-10",
+      "total": 565,
+      "cero": 18,
+      "eco": 119,
+      "bev": 18,
+      "phev": 0,
+      "hev": 119,
+      "topBrand": "RENAULT",
+      "topModel": "DUSTER"
+    },
+    {
+      "period": "2024-11",
+      "total": 499,
+      "cero": 24,
+      "eco": 93,
+      "bev": 23,
+      "phev": 1,
+      "hev": 93,
+      "topBrand": "RENAULT",
+      "topModel": "TOYOTA HILUX"
+    },
+    {
+      "period": "2024-12",
+      "total": 593,
+      "cero": 26,
+      "eco": 132,
+      "bev": 26,
+      "phev": 0,
+      "hev": 132,
+      "topBrand": "RENAULT",
+      "topModel": "DUSTER"
+    },
+    {
+      "period": "2025-01",
+      "total": 402,
+      "cero": 17,
+      "eco": 86,
+      "bev": 17,
+      "phev": 0,
+      "hev": 86,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-02",
+      "total": 459,
+      "cero": 22,
+      "eco": 87,
+      "bev": 19,
+      "phev": 3,
+      "hev": 87,
+      "topBrand": "RENAULT",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-03",
+      "total": 613,
+      "cero": 28,
+      "eco": 138,
+      "bev": 24,
+      "phev": 4,
+      "hev": 138,
+      "topBrand": "RENAULT",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-04",
+      "total": 484,
+      "cero": 33,
+      "eco": 87,
+      "bev": 30,
+      "phev": 3,
+      "hev": 87,
+      "topBrand": "RENAULT",
+      "topModel": "CADDY"
+    },
+    {
+      "period": "2025-05",
+      "total": 578,
+      "cero": 25,
+      "eco": 113,
+      "bev": 23,
+      "phev": 2,
+      "hev": 113,
+      "topBrand": "RENAULT",
+      "topModel": "DUSTER"
+    },
+    {
+      "period": "2025-06",
+      "total": 695,
+      "cero": 38,
+      "eco": 123,
+      "bev": 36,
+      "phev": 2,
+      "hev": 123,
+      "topBrand": "RENAULT",
+      "topModel": "C 251 H X4"
+    },
+    {
+      "period": "2025-07",
+      "total": 689,
+      "cero": 71,
+      "eco": 112,
+      "bev": 60,
+      "phev": 11,
+      "hev": 112,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-08",
+      "total": 422,
+      "cero": 40,
+      "eco": 75,
+      "bev": 31,
+      "phev": 9,
+      "hev": 75,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-09",
+      "total": 574,
+      "cero": 34,
+      "eco": 121,
+      "bev": 25,
+      "phev": 9,
+      "hev": 121,
+      "topBrand": "RENAULT",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-10",
+      "total": 652,
+      "cero": 47,
+      "eco": 147,
+      "bev": 33,
+      "phev": 14,
+      "hev": 147,
+      "topBrand": "RENAULT",
+      "topModel": "6R 250"
+    },
+    {
+      "period": "2025-11",
+      "total": 563,
+      "cero": 34,
+      "eco": 131,
+      "bev": 24,
+      "phev": 10,
+      "hev": 131,
+      "topBrand": "DACIA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-12",
+      "total": 573,
+      "cero": 44,
+      "eco": 155,
+      "bev": 31,
+      "phev": 13,
+      "hev": 155,
+      "topBrand": "RENAULT",
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2026-01",
+      "total": 467,
+      "cero": 23,
+      "eco": 109,
+      "bev": 22,
+      "phev": 1,
+      "hev": 109,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2026-02",
+      "total": 503,
+      "cero": 30,
+      "eco": 120,
+      "bev": 25,
+      "phev": 5,
+      "hev": 120,
+      "topBrand": "RENAULT",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2026-03",
+      "total": 695,
+      "cero": 50,
+      "eco": 163,
+      "bev": 42,
+      "phev": 8,
+      "hev": 163,
+      "topBrand": "RENAULT",
+      "topModel": "SCS 24/L - 13.62 E B"
+    },
+    {
+      "period": "2026-04",
+      "total": 618,
+      "cero": 58,
+      "eco": 137,
+      "bev": 57,
+      "phev": 1,
+      "hev": 137,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-05",
+      "total": 671,
+      "cero": 62,
+      "eco": 158,
+      "bev": 52,
+      "phev": 10,
+      "hev": 158,
+      "topBrand": "RENAULT",
+      "topModel": "KAROQ"
+    },
+    {
+      "period": "2026-06",
+      "total": 790,
+      "cero": 64,
+      "eco": 177,
+      "bev": 59,
+      "phev": 5,
+      "hev": 177,
+      "topBrand": "RENAULT",
+      "topModel": "NUEVO C4 HYBRID 145 Ë-"
+    },
+    {
+      "period": "2026-07",
+      "total": 688,
+      "cero": 81,
+      "eco": 124,
+      "bev": 73,
+      "phev": 8,
+      "hev": 124,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-08",
+      "total": 472,
+      "cero": 57,
+      "eco": 103,
+      "bev": 50,
+      "phev": 7,
+      "hev": 103,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-09",
+      "total": 659,
+      "cero": 75,
+      "eco": 143,
+      "bev": 67,
+      "phev": 8,
+      "hev": 143,
+      "topBrand": "RENAULT",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2026-10",
+      "total": 690,
+      "cero": 93,
+      "eco": 140,
+      "bev": 85,
+      "phev": 8,
+      "hev": 140,
+      "topBrand": "RENAULT",
+      "topModel": "NUEVO C4 HYBRID 145 Ë-"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "RENAULT",
+      "slug": "renault",
+      "timesLeader": 27
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "timesLeader": 3
+    },
+    {
+      "brand": "SIN MARCA",
+      "slug": "sin-marca",
+      "timesLeader": 1
+    },
+    {
+      "brand": "SEAT",
+      "slug": "seat",
+      "timesLeader": 1
+    },
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 1
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "SANDERO",
+      "timesLeader": 9
+    },
+    {
+      "model": "DESCONOCIDO",
+      "timesLeader": 7
+    },
+    {
+      "model": "DUSTER",
+      "timesLeader": 5
+    },
+    {
+      "model": "ARONA",
+      "timesLeader": 3
+    },
+    {
+      "model": "NUEVO C4 HYBRID 145 Ë-",
+      "timesLeader": 2
+    }
+  ]
+}

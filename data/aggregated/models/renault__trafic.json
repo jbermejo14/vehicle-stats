@@ -1,0 +1,33 @@
+{
+  "brand": "RENAULT",
+  "brandSlug": "renault",
+  "model": "TRAFIC",
+  "modelSlug": "trafic",
+  "fullName": "RENAULT TRAFIC",
+  "total": 1575,
+  "percentage": 0.03,
+  "category": "Comercial",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 95,
+  "avgCv": 130,
+  "avgCo2": 182,
+  "evolution": [
+    {
+      "period": "2024-06",
+      "total": 939,
+      "avgKw": 96,
+      "avgCv": 131,
+      "avgCo2": 182,
+      "avgTara": 1947
+    },
+    {
+      "period": "2026-01",
+      "total": 636,
+      "avgKw": 94,
+      "avgCv": 129,
+      "avgCo2": 181,
+      "avgTara": 1916
+    }
+  ]
+}

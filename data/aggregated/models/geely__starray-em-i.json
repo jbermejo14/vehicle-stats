@@ -1,0 +1,41 @@
+{
+  "brand": "GEELY",
+  "brandSlug": "geely",
+  "model": "STARRAY EM-I",
+  "modelSlug": "starray-em-i",
+  "fullName": "GEELY STARRAY EM-I",
+  "total": 2361,
+  "percentage": 0.04,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 79,
+  "avgCv": 107,
+  "avgCo2": 40,
+  "evolution": [
+    {
+      "period": "2026-07",
+      "total": 907,
+      "avgKw": 81,
+      "avgCv": 110,
+      "avgCo2": 43,
+      "avgTara": 1861
+    },
+    {
+      "period": "2026-08",
+      "total": 574,
+      "avgKw": 80,
+      "avgCv": 108,
+      "avgCo2": 39,
+      "avgTara": 1877
+    },
+    {
+      "period": "2026-10",
+      "total": 880,
+      "avgKw": 77,
+      "avgCv": 104,
+      "avgCo2": 38,
+      "avgTara": 1879
+    }
+  ]
+}

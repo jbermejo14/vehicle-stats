@@ -1,0 +1,73 @@
+{
+  "brand": "CUPRA",
+  "brandSlug": "cupra",
+  "model": "FORMENTOR",
+  "modelSlug": "formentor",
+  "fullName": "CUPRA FORMENTOR",
+  "total": 6938,
+  "percentage": 0.13,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 112,
+  "avgCv": 153,
+  "avgCo2": 144,
+  "evolution": [
+    {
+      "period": "2024-04",
+      "total": 1426,
+      "avgKw": 113,
+      "avgCv": 154,
+      "avgCo2": 151,
+      "avgTara": 1451
+    },
+    {
+      "period": "2024-06",
+      "total": 1171,
+      "avgKw": 113,
+      "avgCv": 154,
+      "avgCo2": 150,
+      "avgTara": 1455
+    },
+    {
+      "period": "2024-07",
+      "total": 828,
+      "avgKw": 110,
+      "avgCv": 151,
+      "avgCo2": 149,
+      "avgTara": 1468
+    },
+    {
+      "period": "2024-08",
+      "total": 444,
+      "avgKw": 110,
+      "avgCv": 150,
+      "avgCo2": 150,
+      "avgTara": 1464
+    },
+    {
+      "period": "2026-04",
+      "total": 1013,
+      "avgKw": 112,
+      "avgCv": 153,
+      "avgCo2": 136,
+      "avgTara": 1483
+    },
+    {
+      "period": "2026-06",
+      "total": 1117,
+      "avgKw": 113,
+      "avgCv": 154,
+      "avgCo2": 136,
+      "avgTara": 1485
+    },
+    {
+      "period": "2026-07",
+      "total": 939,
+      "avgKw": 113,
+      "avgCv": 154,
+      "avgCo2": 137,
+      "avgTara": 1480
+    }
+  ]
+}

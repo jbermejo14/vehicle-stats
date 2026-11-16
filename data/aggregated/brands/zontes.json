@@ -1,0 +1,260 @@
+{
+  "brand": "ZONTES",
+  "slug": "zontes",
+  "total": 53363,
+  "percentage": 0.99,
+  "eco0Percentage": 0,
+  "avgKw": 23,
+  "monthlyEvolution": [
+    {
+      "period": "2024-07",
+      "total": 1170,
+      "eco0Count": 0,
+      "avgKw": 15,
+      "avgCo2": 62,
+      "topModel": "C125"
+    },
+    {
+      "period": "2025-02",
+      "total": 1162,
+      "eco0Count": 0,
+      "avgKw": 22,
+      "avgCo2": 69,
+      "topModel": "368G"
+    },
+    {
+      "period": "2025-03",
+      "total": 1758,
+      "eco0Count": 0,
+      "avgKw": 30,
+      "avgCo2": 75,
+      "topModel": "368G"
+    },
+    {
+      "period": "2025-04",
+      "total": 1744,
+      "eco0Count": 0,
+      "avgKw": 28,
+      "avgCo2": 74,
+      "topModel": "368G"
+    },
+    {
+      "period": "2025-05",
+      "total": 1941,
+      "eco0Count": 0,
+      "avgKw": 26,
+      "avgCo2": 71,
+      "topModel": "368G"
+    },
+    {
+      "period": "2025-06",
+      "total": 2160,
+      "eco0Count": 0,
+      "avgKw": 26,
+      "avgCo2": 71,
+      "topModel": "368G"
+    },
+    {
+      "period": "2025-07",
+      "total": 1997,
+      "eco0Count": 0,
+      "avgKw": 29,
+      "avgCo2": 75,
+      "topModel": "368G"
+    },
+    {
+      "period": "2025-08",
+      "total": 1355,
+      "eco0Count": 0,
+      "avgKw": 27,
+      "avgCo2": 73,
+      "topModel": "368G"
+    },
+    {
+      "period": "2025-09",
+      "total": 2058,
+      "eco0Count": 0,
+      "avgKw": 28,
+      "avgCo2": 74,
+      "topModel": "368G"
+    },
+    {
+      "period": "2025-10",
+      "total": 2213,
+      "eco0Count": 0,
+      "avgKw": 28,
+      "avgCo2": 74,
+      "topModel": "368G"
+    },
+    {
+      "period": "2025-11",
+      "total": 1656,
+      "eco0Count": 0,
+      "avgKw": 25,
+      "avgCo2": 72,
+      "topModel": "368G"
+    },
+    {
+      "period": "2025-12",
+      "total": 1326,
+      "eco0Count": 0,
+      "avgKw": 26,
+      "avgCo2": 72,
+      "topModel": "368G"
+    },
+    {
+      "period": "2026-01",
+      "total": 1376,
+      "eco0Count": 0,
+      "avgKw": 26,
+      "avgCo2": 74,
+      "topModel": "368G"
+    },
+    {
+      "period": "2026-02",
+      "total": 1522,
+      "eco0Count": 0,
+      "avgKw": 27,
+      "avgCo2": 74,
+      "topModel": "368G"
+    },
+    {
+      "period": "2026-03",
+      "total": 2192,
+      "eco0Count": 0,
+      "avgKw": 27,
+      "avgCo2": 74,
+      "topModel": "368G"
+    },
+    {
+      "period": "2026-04",
+      "total": 2124,
+      "eco0Count": 0,
+      "avgKw": 27,
+      "avgCo2": 74,
+      "topModel": "368G"
+    },
+    {
+      "period": "2026-05",
+      "total": 2613,
+      "eco0Count": 0,
+      "avgKw": 25,
+      "avgCo2": 72,
+      "topModel": "368G"
+    },
+    {
+      "period": "2026-06",
+      "total": 4506,
+      "eco0Count": 0,
+      "avgKw": 20,
+      "avgCo2": 67,
+      "topModel": "125X"
+    },
+    {
+      "period": "2026-07",
+      "total": 4672,
+      "eco0Count": 0,
+      "avgKw": 19,
+      "avgCo2": 67,
+      "topModel": "125X"
+    },
+    {
+      "period": "2026-08",
+      "total": 3532,
+      "eco0Count": 0,
+      "avgKw": 17,
+      "avgCo2": 65,
+      "topModel": "125X"
+    },
+    {
+      "period": "2026-09",
+      "total": 5105,
+      "eco0Count": 0,
+      "avgKw": 16,
+      "avgCo2": 64,
+      "topModel": "125V"
+    },
+    {
+      "period": "2026-10",
+      "total": 5181,
+      "eco0Count": 0,
+      "avgKw": 18,
+      "avgCo2": 65,
+      "topModel": "125X"
+    }
+  ],
+  "models": [
+    {
+      "brand": "ZONTES",
+      "brandSlug": "zontes",
+      "model": "125X",
+      "modelSlug": "125x",
+      "fullName": "ZONTES 125X",
+      "total": 9013,
+      "percentage": 0.17,
+      "category": "Motocicleta",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 11,
+      "avgCv": 15,
+      "avgCo2": 59
+    },
+    {
+      "brand": "ZONTES",
+      "brandSlug": "zontes",
+      "model": "368G",
+      "modelSlug": "368g",
+      "fullName": "ZONTES 368G",
+      "total": 5849,
+      "percentage": 0.11,
+      "category": "Motocicleta",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 29,
+      "avgCv": 39,
+      "avgCo2": 79
+    },
+    {
+      "brand": "ZONTES",
+      "brandSlug": "zontes",
+      "model": "125V",
+      "modelSlug": "125v",
+      "fullName": "ZONTES 125V",
+      "total": 3495,
+      "percentage": 0.06,
+      "category": "Motocicleta",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 11,
+      "avgCv": 15,
+      "avgCo2": 59
+    }
+  ],
+  "leadProvinces": [
+    {
+      "province": "Cádiz",
+      "slug": "cadiz",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Albacete",
+      "slug": "albacete",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Ceuta",
+      "slug": "ceuta",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Córdoba",
+      "slug": "cordoba",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Sevilla",
+      "slug": "sevilla",
+      "monthsLeading": 1
+    }
+  ]
+}

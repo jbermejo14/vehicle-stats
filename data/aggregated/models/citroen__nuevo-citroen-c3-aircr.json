@@ -1,0 +1,33 @@
+{
+  "brand": "CITROEN",
+  "brandSlug": "citroen",
+  "model": "NUEVO CITROËN C3 AIRCR",
+  "modelSlug": "nuevo-citroen-c3-aircr",
+  "fullName": "CITROEN NUEVO CITROËN C3 AIRCR",
+  "total": 2029,
+  "percentage": 0.04,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 85,
+  "avgCv": 116,
+  "avgCo2": 129,
+  "evolution": [
+    {
+      "period": "2025-06",
+      "total": 1124,
+      "avgKw": 85,
+      "avgCv": 116,
+      "avgCo2": 129,
+      "avgTara": 1359
+    },
+    {
+      "period": "2025-11",
+      "total": 905,
+      "avgKw": 86,
+      "avgCv": 117,
+      "avgCo2": 128,
+      "avgTara": 1359
+    }
+  ]
+}

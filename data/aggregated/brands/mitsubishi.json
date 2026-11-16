@@ -1,0 +1,36 @@
+{
+  "brand": "MITSUBISHI",
+  "slug": "mitsubishi",
+  "total": 4324,
+  "percentage": 0.08,
+  "eco0Percentage": 19.8,
+  "avgKw": 73,
+  "monthlyEvolution": [
+    {
+      "period": "2024-03",
+      "total": 1285,
+      "eco0Count": 395,
+      "avgKw": 75,
+      "avgCo2": 123,
+      "topModel": "ASX 100T MOTION"
+    },
+    {
+      "period": "2025-03",
+      "total": 1789,
+      "eco0Count": 285,
+      "avgKw": 71,
+      "avgCo2": 113,
+      "topModel": "COLT 100T MOTION"
+    },
+    {
+      "period": "2025-04",
+      "total": 1250,
+      "eco0Count": 177,
+      "avgKw": 73,
+      "avgCo2": 116,
+      "topModel": "COLT 100T MOTION"
+    }
+  ],
+  "models": [],
+  "leadProvinces": []
+}

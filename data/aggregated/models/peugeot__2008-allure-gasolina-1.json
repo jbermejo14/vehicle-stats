@@ -1,0 +1,33 @@
+{
+  "brand": "PEUGEOT",
+  "brandSlug": "peugeot",
+  "model": "2008 ALLURE GASOLINA 1",
+  "modelSlug": "2008-allure-gasolina-1",
+  "fullName": "PEUGEOT 2008 ALLURE GASOLINA 1",
+  "total": 1938,
+  "percentage": 0.04,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 74,
+  "avgCv": 101,
+  "avgCo2": 129,
+  "evolution": [
+    {
+      "period": "2024-12",
+      "total": 949,
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 129,
+      "avgTara": 1263
+    },
+    {
+      "period": "2025-07",
+      "total": 989,
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 129,
+      "avgTara": 1263
+    }
+  ]
+}

@@ -1,0 +1,439 @@
+{
+  "code": "30",
+  "name": "Murcia",
+  "slug": "murcia",
+  "community": "Región de Murcia",
+  "population": 1551692,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 136239,
+  "percentageOfSpain": 2.52,
+  "per1000Habitantes": 87.8,
+  "ceroCount": 8553,
+  "ecoCount": 24426,
+  "bevCount": 7716,
+  "phevCount": 837,
+  "hevCount": 24418,
+  "ceroPercentage": 6.3,
+  "ecoPercentage": 17.9,
+  "bevPercentage": 5.7,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 3198,
+      "cero": 112,
+      "eco": 519,
+      "bev": 107,
+      "phev": 5,
+      "hev": 519,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "ACTROS 1851 LS"
+    },
+    {
+      "period": "2024-02",
+      "total": 3507,
+      "cero": 108,
+      "eco": 541,
+      "bev": 100,
+      "phev": 8,
+      "hev": 541,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "ACTROS 1851 LS"
+    },
+    {
+      "period": "2024-03",
+      "total": 3085,
+      "cero": 102,
+      "eco": 516,
+      "bev": 99,
+      "phev": 3,
+      "hev": 516,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "ACTROS 1851 LS"
+    },
+    {
+      "period": "2024-04",
+      "total": 3576,
+      "cero": 96,
+      "eco": 546,
+      "bev": 89,
+      "phev": 7,
+      "hev": 546,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-05",
+      "total": 3621,
+      "cero": 127,
+      "eco": 525,
+      "bev": 122,
+      "phev": 5,
+      "hev": 525,
+      "topBrand": "RENAULT",
+      "topModel": "T HIGH T4X2 13L E6"
+    },
+    {
+      "period": "2024-06",
+      "total": 3526,
+      "cero": 135,
+      "eco": 580,
+      "bev": 130,
+      "phev": 5,
+      "hev": 580,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-07",
+      "total": 3915,
+      "cero": 88,
+      "eco": 726,
+      "bev": 83,
+      "phev": 5,
+      "hev": 726,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2024-08",
+      "total": 2769,
+      "cero": 107,
+      "eco": 490,
+      "bev": 106,
+      "phev": 1,
+      "hev": 490,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-09",
+      "total": 3213,
+      "cero": 136,
+      "eco": 609,
+      "bev": 135,
+      "phev": 1,
+      "hev": 609,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-10",
+      "total": 4459,
+      "cero": 117,
+      "eco": 688,
+      "bev": 114,
+      "phev": 3,
+      "hev": 688,
+      "topBrand": "INDE",
+      "topModel": "INDE8770"
+    },
+    {
+      "period": "2024-11",
+      "total": 3825,
+      "cero": 170,
+      "eco": 581,
+      "bev": 164,
+      "phev": 6,
+      "hev": 581,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "ACTROS 1851 LS"
+    },
+    {
+      "period": "2024-12",
+      "total": 3711,
+      "cero": 223,
+      "eco": 801,
+      "bev": 221,
+      "phev": 2,
+      "hev": 800,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2025-01",
+      "total": 3398,
+      "cero": 152,
+      "eco": 662,
+      "bev": 150,
+      "phev": 2,
+      "hev": 662,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-02",
+      "total": 3483,
+      "cero": 147,
+      "eco": 683,
+      "bev": 134,
+      "phev": 13,
+      "hev": 683,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-03",
+      "total": 3756,
+      "cero": 219,
+      "eco": 644,
+      "bev": 211,
+      "phev": 8,
+      "hev": 644,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-04",
+      "total": 3550,
+      "cero": 221,
+      "eco": 668,
+      "bev": 207,
+      "phev": 14,
+      "hev": 667,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2025-05",
+      "total": 4044,
+      "cero": 211,
+      "eco": 663,
+      "bev": 197,
+      "phev": 14,
+      "hev": 662,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TOURAN"
+    },
+    {
+      "period": "2025-06",
+      "total": 4275,
+      "cero": 311,
+      "eco": 740,
+      "bev": 294,
+      "phev": 17,
+      "hev": 740,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-07",
+      "total": 4823,
+      "cero": 273,
+      "eco": 847,
+      "bev": 232,
+      "phev": 41,
+      "hev": 846,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TOURAN"
+    },
+    {
+      "period": "2025-08",
+      "total": 3075,
+      "cero": 183,
+      "eco": 528,
+      "bev": 148,
+      "phev": 35,
+      "hev": 527,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-09",
+      "total": 3984,
+      "cero": 305,
+      "eco": 672,
+      "bev": 268,
+      "phev": 37,
+      "hev": 672,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-10",
+      "total": 5196,
+      "cero": 293,
+      "eco": 845,
+      "bev": 242,
+      "phev": 51,
+      "hev": 844,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "INDE8770"
+    },
+    {
+      "period": "2025-11",
+      "total": 4317,
+      "cero": 312,
+      "eco": 785,
+      "bev": 271,
+      "phev": 41,
+      "hev": 785,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "INDE8770"
+    },
+    {
+      "period": "2025-12",
+      "total": 4581,
+      "cero": 377,
+      "eco": 977,
+      "bev": 316,
+      "phev": 61,
+      "hev": 975,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "ACTROS 1848 LS"
+    },
+    {
+      "period": "2026-01",
+      "total": 3437,
+      "cero": 182,
+      "eco": 665,
+      "bev": 158,
+      "phev": 24,
+      "hev": 665,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2026-02",
+      "total": 4081,
+      "cero": 258,
+      "eco": 854,
+      "bev": 215,
+      "phev": 43,
+      "hev": 854,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2026-03",
+      "total": 4539,
+      "cero": 361,
+      "eco": 901,
+      "bev": 332,
+      "phev": 29,
+      "hev": 901,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2026-04",
+      "total": 4180,
+      "cero": 320,
+      "eco": 772,
+      "bev": 282,
+      "phev": 38,
+      "hev": 772,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-05",
+      "total": 4759,
+      "cero": 397,
+      "eco": 906,
+      "bev": 360,
+      "phev": 37,
+      "hev": 906,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2026-06",
+      "total": 5283,
+      "cero": 436,
+      "eco": 1000,
+      "bev": 398,
+      "phev": 38,
+      "hev": 1000,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2026-07",
+      "total": 5231,
+      "cero": 431,
+      "eco": 997,
+      "bev": 370,
+      "phev": 61,
+      "hev": 997,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2026-08",
+      "total": 3512,
+      "cero": 312,
+      "eco": 702,
+      "bev": 266,
+      "phev": 46,
+      "hev": 702,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2026-09",
+      "total": 4801,
+      "cero": 687,
+      "eco": 930,
+      "bev": 624,
+      "phev": 63,
+      "hev": 930,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2026-10",
+      "total": 5529,
+      "cero": 644,
+      "eco": 863,
+      "bev": 571,
+      "phev": 73,
+      "hev": 863,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "INDE8770"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "timesLeader": 25
+    },
+    {
+      "brand": "MERCEDES-BENZ",
+      "slug": "mercedes-benz",
+      "timesLeader": 7
+    },
+    {
+      "brand": "RENAULT",
+      "slug": "renault",
+      "timesLeader": 1
+    },
+    {
+      "brand": "INDE",
+      "slug": "inde",
+      "timesLeader": 1
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "SANDERO",
+      "timesLeader": 9
+    },
+    {
+      "model": "GOLF",
+      "timesLeader": 8
+    },
+    {
+      "model": "ACTROS 1851 LS",
+      "timesLeader": 4
+    },
+    {
+      "model": "INDE8770",
+      "timesLeader": 4
+    },
+    {
+      "model": "MG ZS",
+      "timesLeader": 2
+    }
+  ]
+}

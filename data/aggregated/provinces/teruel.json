@@ -1,0 +1,444 @@
+{
+  "code": "44",
+  "name": "Teruel",
+  "slug": "teruel",
+  "community": "Aragón",
+  "population": 135046,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 9703,
+  "percentageOfSpain": 0.18,
+  "per1000Habitantes": 71.85,
+  "ceroCount": 485,
+  "ecoCount": 2072,
+  "bevCount": 400,
+  "phevCount": 85,
+  "hevCount": 2072,
+  "ceroPercentage": 5,
+  "ecoPercentage": 21.4,
+  "bevPercentage": 4.1,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 205,
+      "cero": 8,
+      "eco": 23,
+      "bev": 6,
+      "phev": 2,
+      "hev": 23,
+      "topBrand": "IVECO",
+      "topModel": "DUSTER"
+    },
+    {
+      "period": "2024-02",
+      "total": 271,
+      "cero": 5,
+      "eco": 44,
+      "bev": 5,
+      "phev": 0,
+      "hev": 44,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "ACTROS 1848 LS"
+    },
+    {
+      "period": "2024-03",
+      "total": 259,
+      "cero": 8,
+      "eco": 61,
+      "bev": 6,
+      "phev": 2,
+      "hev": 61,
+      "topBrand": "TOYOTA",
+      "topModel": "N/A"
+    },
+    {
+      "period": "2024-04",
+      "total": 269,
+      "cero": 10,
+      "eco": 35,
+      "bev": 9,
+      "phev": 1,
+      "hev": 35,
+      "topBrand": "IVECO",
+      "topModel": "AS440ST/P"
+    },
+    {
+      "period": "2024-05",
+      "total": 314,
+      "cero": 10,
+      "eco": 63,
+      "bev": 10,
+      "phev": 0,
+      "hev": 63,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "AS440ST/P"
+    },
+    {
+      "period": "2024-06",
+      "total": 278,
+      "cero": 6,
+      "eco": 66,
+      "bev": 6,
+      "phev": 0,
+      "hev": 66,
+      "topBrand": "IVECO",
+      "topModel": "35C16"
+    },
+    {
+      "period": "2024-07",
+      "total": 252,
+      "cero": 2,
+      "eco": 61,
+      "bev": 2,
+      "phev": 0,
+      "hev": 61,
+      "topBrand": "IVECO",
+      "topModel": "35C16"
+    },
+    {
+      "period": "2024-08",
+      "total": 196,
+      "cero": 6,
+      "eco": 31,
+      "bev": 6,
+      "phev": 0,
+      "hev": 31,
+      "topBrand": "IVECO",
+      "topModel": "35S16"
+    },
+    {
+      "period": "2024-09",
+      "total": 223,
+      "cero": 9,
+      "eco": 58,
+      "bev": 9,
+      "phev": 0,
+      "hev": 58,
+      "topBrand": "DACIA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-10",
+      "total": 263,
+      "cero": 13,
+      "eco": 56,
+      "bev": 13,
+      "phev": 0,
+      "hev": 56,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-11",
+      "total": 254,
+      "cero": 8,
+      "eco": 51,
+      "bev": 8,
+      "phev": 0,
+      "hev": 51,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-12",
+      "total": 287,
+      "cero": 11,
+      "eco": 75,
+      "bev": 11,
+      "phev": 0,
+      "hev": 75,
+      "topBrand": "DACIA",
+      "topModel": "DUSTER"
+    },
+    {
+      "period": "2025-01",
+      "total": 255,
+      "cero": 18,
+      "eco": 54,
+      "bev": 18,
+      "phev": 0,
+      "hev": 54,
+      "topBrand": "TOYOTA",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-02",
+      "total": 231,
+      "cero": 8,
+      "eco": 53,
+      "bev": 8,
+      "phev": 0,
+      "hev": 53,
+      "topBrand": "IVECO",
+      "topModel": "AS440ST/P"
+    },
+    {
+      "period": "2025-03",
+      "total": 241,
+      "cero": 6,
+      "eco": 68,
+      "bev": 5,
+      "phev": 1,
+      "hev": 68,
+      "topBrand": "RENAULT",
+      "topModel": "CAPTUR E-TECH HYBRID"
+    },
+    {
+      "period": "2025-04",
+      "total": 229,
+      "cero": 7,
+      "eco": 56,
+      "bev": 6,
+      "phev": 1,
+      "hev": 56,
+      "topBrand": "RENAULT",
+      "topModel": "AS440ST/P"
+    },
+    {
+      "period": "2025-05",
+      "total": 306,
+      "cero": 10,
+      "eco": 57,
+      "bev": 9,
+      "phev": 1,
+      "hev": 57,
+      "topBrand": "LECITRAILER",
+      "topModel": "LTD-SK"
+    },
+    {
+      "period": "2025-06",
+      "total": 312,
+      "cero": 15,
+      "eco": 63,
+      "bev": 15,
+      "phev": 0,
+      "hev": 63,
+      "topBrand": "DACIA",
+      "topModel": "DUSTER"
+    },
+    {
+      "period": "2025-07",
+      "total": 308,
+      "cero": 6,
+      "eco": 63,
+      "bev": 4,
+      "phev": 2,
+      "hev": 63,
+      "topBrand": "IVECO",
+      "topModel": "35S16"
+    },
+    {
+      "period": "2025-08",
+      "total": 210,
+      "cero": 14,
+      "eco": 39,
+      "bev": 11,
+      "phev": 3,
+      "hev": 39,
+      "topBrand": "TOYOTA",
+      "topModel": "R460"
+    },
+    {
+      "period": "2025-09",
+      "total": 256,
+      "cero": 15,
+      "eco": 62,
+      "bev": 11,
+      "phev": 4,
+      "hev": 62,
+      "topBrand": "RENAULT",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-10",
+      "total": 380,
+      "cero": 22,
+      "eco": 80,
+      "bev": 15,
+      "phev": 7,
+      "hev": 80,
+      "topBrand": "SCHMITZ CARGOBULL",
+      "topModel": "SCS 24/L - 13.62 MEGA"
+    },
+    {
+      "period": "2025-11",
+      "total": 382,
+      "cero": 14,
+      "eco": 75,
+      "bev": 10,
+      "phev": 4,
+      "hev": 75,
+      "topBrand": "LECITRAILER",
+      "topModel": "LTM-GEN LSL-XL"
+    },
+    {
+      "period": "2025-12",
+      "total": 312,
+      "cero": 16,
+      "eco": 80,
+      "bev": 13,
+      "phev": 3,
+      "hev": 80,
+      "topBrand": "TOYOTA",
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2026-01",
+      "total": 260,
+      "cero": 11,
+      "eco": 64,
+      "bev": 6,
+      "phev": 5,
+      "hev": 64,
+      "topBrand": "TOYOTA",
+      "topModel": "N/A"
+    },
+    {
+      "period": "2026-02",
+      "total": 312,
+      "cero": 16,
+      "eco": 65,
+      "bev": 14,
+      "phev": 2,
+      "hev": 65,
+      "topBrand": "RENAULT",
+      "topModel": "AS440ST/P"
+    },
+    {
+      "period": "2026-03",
+      "total": 341,
+      "cero": 21,
+      "eco": 69,
+      "bev": 13,
+      "phev": 8,
+      "hev": 69,
+      "topBrand": "TOYOTA",
+      "topModel": "N/A"
+    },
+    {
+      "period": "2026-04",
+      "total": 274,
+      "cero": 20,
+      "eco": 65,
+      "bev": 16,
+      "phev": 4,
+      "hev": 65,
+      "topBrand": "RENAULT",
+      "topModel": "SCS 24/L - 13.62 MEGA"
+    },
+    {
+      "period": "2026-05",
+      "total": 337,
+      "cero": 32,
+      "eco": 78,
+      "bev": 25,
+      "phev": 7,
+      "hev": 78,
+      "topBrand": "TOYOTA",
+      "topModel": "35C16"
+    },
+    {
+      "period": "2026-06",
+      "total": 388,
+      "cero": 21,
+      "eco": 82,
+      "bev": 18,
+      "phev": 3,
+      "hev": 82,
+      "topBrand": "TOYOTA",
+      "topModel": "35C16"
+    },
+    {
+      "period": "2026-07",
+      "total": 364,
+      "cero": 31,
+      "eco": 75,
+      "bev": 24,
+      "phev": 7,
+      "hev": 75,
+      "topBrand": "RENAULT",
+      "topModel": "35S16"
+    },
+    {
+      "period": "2026-08",
+      "total": 284,
+      "cero": 21,
+      "eco": 56,
+      "bev": 15,
+      "phev": 6,
+      "hev": 56,
+      "topBrand": "RENAULT",
+      "topModel": "T HIGH T4X2 13L E6"
+    },
+    {
+      "period": "2026-09",
+      "total": 325,
+      "cero": 31,
+      "eco": 85,
+      "bev": 28,
+      "phev": 3,
+      "hev": 85,
+      "topBrand": "LECITRAILER",
+      "topModel": "LTM-GEN LSL-XL"
+    },
+    {
+      "period": "2026-10",
+      "total": 325,
+      "cero": 34,
+      "eco": 59,
+      "bev": 25,
+      "phev": 9,
+      "hev": 59,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 9
+    },
+    {
+      "brand": "RENAULT",
+      "slug": "renault",
+      "timesLeader": 9
+    },
+    {
+      "brand": "IVECO",
+      "slug": "iveco",
+      "timesLeader": 7
+    },
+    {
+      "brand": "DACIA",
+      "slug": "dacia",
+      "timesLeader": 3
+    },
+    {
+      "brand": "LECITRAILER",
+      "slug": "lecitrailer",
+      "timesLeader": 3
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "AS440ST/P",
+      "timesLeader": 5
+    },
+    {
+      "model": "35C16",
+      "timesLeader": 4
+    },
+    {
+      "model": "SANDERO",
+      "timesLeader": 4
+    },
+    {
+      "model": "DUSTER",
+      "timesLeader": 3
+    },
+    {
+      "model": "35S16",
+      "timesLeader": 3
+    }
+  ]
+}

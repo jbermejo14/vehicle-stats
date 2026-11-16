@@ -1,0 +1,33 @@
+{
+  "brand": "MAZDA",
+  "brandSlug": "mazda",
+  "model": "MAZDA CX-30",
+  "modelSlug": "mazda-cx-30",
+  "fullName": "MAZDA MAZDA CX-30",
+  "total": 1652,
+  "percentage": 0.03,
+  "category": "Turismo",
+  "primaryFuel": "Híbrido (HEV)",
+  "primaryBadge": "ECO",
+  "avgKw": 106,
+  "avgCv": 144,
+  "avgCo2": 139,
+  "evolution": [
+    {
+      "period": "2024-09",
+      "total": 660,
+      "avgKw": 108,
+      "avgCv": 146,
+      "avgCo2": 137,
+      "avgTara": 1475
+    },
+    {
+      "period": "2025-12",
+      "total": 992,
+      "avgKw": 104,
+      "avgCv": 142,
+      "avgCo2": 140,
+      "avgTara": 1473
+    }
+  ]
+}

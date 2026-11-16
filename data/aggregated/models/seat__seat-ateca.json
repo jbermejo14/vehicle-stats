@@ -1,0 +1,57 @@
+{
+  "brand": "SEAT",
+  "brandSlug": "seat",
+  "model": "SEAT ATECA",
+  "modelSlug": "seat-ateca",
+  "fullName": "SEAT SEAT ATECA",
+  "total": 4087,
+  "percentage": 0.08,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 104,
+  "avgCv": 142,
+  "avgCo2": 146,
+  "evolution": [
+    {
+      "period": "2024-07",
+      "total": 830,
+      "avgKw": 105,
+      "avgCv": 143,
+      "avgCo2": 144,
+      "avgTara": 1418
+    },
+    {
+      "period": "2024-09",
+      "total": 708,
+      "avgKw": 104,
+      "avgCv": 142,
+      "avgCo2": 146,
+      "avgTara": 1407
+    },
+    {
+      "period": "2024-11",
+      "total": 768,
+      "avgKw": 104,
+      "avgCv": 142,
+      "avgCo2": 146,
+      "avgTara": 1406
+    },
+    {
+      "period": "2024-12",
+      "total": 1179,
+      "avgKw": 104,
+      "avgCv": 141,
+      "avgCo2": 147,
+      "avgTara": 1400
+    },
+    {
+      "period": "2025-01",
+      "total": 602,
+      "avgKw": 104,
+      "avgCv": 142,
+      "avgCo2": 146,
+      "avgTara": 1403
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "brand": "AUDI",
+  "brandSlug": "audi",
+  "model": "Q2",
+  "modelSlug": "q2",
+  "fullName": "AUDI Q2",
+  "total": 756,
+  "percentage": 0.01,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 96,
+  "avgCv": 131,
+  "avgCo2": 137,
+  "evolution": [
+    {
+      "period": "2024-02",
+      "total": 756,
+      "avgKw": 96,
+      "avgCv": 131,
+      "avgCo2": 137,
+      "avgTara": 1412
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "brand": "TOYOTA",
+  "brandSlug": "toyota",
+  "model": "TOYOTA YARIS CROSS",
+  "modelSlug": "toyota-yaris-cross",
+  "fullName": "TOYOTA TOYOTA YARIS CROSS",
+  "total": 55556,
+  "percentage": 1.03,
+  "category": "Turismo",
+  "primaryFuel": "Híbrido (HEV)",
+  "primaryBadge": "ECO",
+  "avgKw": 68,
+  "avgCv": 92,
+  "avgCo2": 105,
+  "evolution": [
+    {
+      "period": "2024-01",
+      "total": 1524,
+      "avgKw": 68,
+      "avgCv": 93,
+      "avgCo2": 107,
+      "avgTara": 1275
+    },
+    {
+      "period": "2024-02",
+      "total": 1180,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 107,
+      "avgTara": 1275
+    },
+    {
+      "period": "2024-03",
+      "total": 1654,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 104,
+      "avgTara": 1262
+    },
+    {
+      "period": "2024-04",
+      "total": 1580,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 106,
+      "avgTara": 1272
+    },
+    {
+      "period": "2024-05",
+      "total": 944,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 107,
+      "avgTara": 1289
+    },
+    {
+      "period": "2024-06",
+      "total": 1582,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 105,
+      "avgTara": 1278
+    },
+    {
+      "period": "2024-07",
+      "total": 1713,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 107,
+      "avgTara": 1293
+    },
+    {
+      "period": "2024-08",
+      "total": 1356,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 108,
+      "avgTara": 1296
+    },
+    {
+      "period": "2024-09",
+      "total": 1336,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 107,
+      "avgTara": 1292
+    },
+    {
+      "period": "2024-10",
+      "total": 1999,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 107,
+      "avgTara": 1292
+    },
+    {
+      "period": "2024-11",
+      "total": 1785,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 107,
+      "avgTara": 1295
+    },
+    {
+      "period": "2024-12",
+      "total": 1768,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 107,
+      "avgTara": 1295
+    },
+    {
+      "period": "2025-01",
+      "total": 1493,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 107,
+      "avgTara": 1295
+    },
+    {
+      "period": "2025-02",
+      "total": 1482,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 107,
+      "avgTara": 1294
+    },
+    {
+      "period": "2025-03",
+      "total": 1252,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 107,
+      "avgTara": 1296
+    },
+    {
+      "period": "2025-04",
+      "total": 2033,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 107,
+      "avgTara": 1291
+    },
+    {
+      "period": "2025-05",
+      "total": 1650,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 106,
+      "avgTara": 1293
+    },
+    {
+      "period": "2025-06",
+      "total": 2094,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 105,
+      "avgTara": 1297
+    },
+    {
+      "period": "2025-07",
+      "total": 2082,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 104,
+      "avgTara": 1290
+    },
+    {
+      "period": "2025-08",
+      "total": 1157,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 104,
+      "avgTara": 1288
+    },
+    {
+      "period": "2025-09",
+      "total": 1433,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 103,
+      "avgTara": 1288
+    },
+    {
+      "period": "2025-10",
+      "total": 1521,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 104,
+      "avgTara": 1292
+    },
+    {
+      "period": "2025-11",
+      "total": 1975,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 103,
+      "avgTara": 1289
+    },
+    {
+      "period": "2025-12",
+      "total": 1650,
+      "avgKw": 70,
+      "avgCv": 95,
+      "avgCo2": 104,
+      "avgTara": 1289
+    },
+    {
+      "period": "2026-01",
+      "total": 1126,
+      "avgKw": 69,
+      "avgCv": 93,
+      "avgCo2": 104,
+      "avgTara": 1289
+    },
+    {
+      "period": "2026-02",
+      "total": 2061,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 105,
+      "avgTara": 1285
+    },
+    {
+      "period": "2026-03",
+      "total": 2259,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 104,
+      "avgTara": 1285
+    },
+    {
+      "period": "2026-04",
+      "total": 1748,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 104,
+      "avgTara": 1285
+    },
+    {
+      "period": "2026-05",
+      "total": 1680,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 104,
+      "avgTara": 1286
+    },
+    {
+      "period": "2026-06",
+      "total": 2121,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 104,
+      "avgTara": 1284
+    },
+    {
+      "period": "2026-07",
+      "total": 2048,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 104,
+      "avgTara": 1282
+    },
+    {
+      "period": "2026-08",
+      "total": 1143,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 103,
+      "avgTara": 1283
+    },
+    {
+      "period": "2026-09",
+      "total": 1732,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 103,
+      "avgTara": 1284
+    },
+    {
+      "period": "2026-10",
+      "total": 1395,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 105,
+      "avgTara": 1286
+    }
+  ]
+}

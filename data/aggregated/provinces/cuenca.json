@@ -1,0 +1,444 @@
+{
+  "code": "16",
+  "name": "Cuenca",
+  "slug": "cuenca",
+  "community": "Castilla-La Mancha",
+  "population": 198436,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 12873,
+  "percentageOfSpain": 0.24,
+  "per1000Habitantes": 64.87,
+  "ceroCount": 685,
+  "ecoCount": 2422,
+  "bevCount": 584,
+  "phevCount": 101,
+  "hevCount": 2420,
+  "ceroPercentage": 5.3,
+  "ecoPercentage": 18.8,
+  "bevPercentage": 4.5,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 281,
+      "cero": 4,
+      "eco": 56,
+      "bev": 4,
+      "phev": 0,
+      "hev": 56,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "LTP-BOB LSL-XL"
+    },
+    {
+      "period": "2024-02",
+      "total": 300,
+      "cero": 5,
+      "eco": 52,
+      "bev": 5,
+      "phev": 0,
+      "hev": 52,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "LTCO-TANK"
+    },
+    {
+      "period": "2024-03",
+      "total": 270,
+      "cero": 6,
+      "eco": 39,
+      "bev": 5,
+      "phev": 1,
+      "hev": 39,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-04",
+      "total": 346,
+      "cero": 8,
+      "eco": 56,
+      "bev": 7,
+      "phev": 1,
+      "hev": 55,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "T HIGH T4X2 13L E6"
+    },
+    {
+      "period": "2024-05",
+      "total": 326,
+      "cero": 11,
+      "eco": 53,
+      "bev": 10,
+      "phev": 1,
+      "hev": 53,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "AS440ST/P"
+    },
+    {
+      "period": "2024-06",
+      "total": 397,
+      "cero": 8,
+      "eco": 52,
+      "bev": 8,
+      "phev": 0,
+      "hev": 52,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "AS440ST/P"
+    },
+    {
+      "period": "2024-07",
+      "total": 406,
+      "cero": 6,
+      "eco": 89,
+      "bev": 6,
+      "phev": 0,
+      "hev": 89,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-08",
+      "total": 250,
+      "cero": 4,
+      "eco": 50,
+      "bev": 4,
+      "phev": 0,
+      "hev": 50,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "AS440ST/P"
+    },
+    {
+      "period": "2024-09",
+      "total": 296,
+      "cero": 11,
+      "eco": 60,
+      "bev": 11,
+      "phev": 0,
+      "hev": 60,
+      "topBrand": "IVECO",
+      "topModel": "AS440ST/P"
+    },
+    {
+      "period": "2024-10",
+      "total": 365,
+      "cero": 11,
+      "eco": 66,
+      "bev": 11,
+      "phev": 0,
+      "hev": 66,
+      "topBrand": "JOHN DEERE",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-11",
+      "total": 349,
+      "cero": 7,
+      "eco": 59,
+      "bev": 7,
+      "phev": 0,
+      "hev": 59,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "AS440ST/P"
+    },
+    {
+      "period": "2024-12",
+      "total": 334,
+      "cero": 19,
+      "eco": 75,
+      "bev": 19,
+      "phev": 0,
+      "hev": 75,
+      "topBrand": "HYUNDAI",
+      "topModel": "N/A"
+    },
+    {
+      "period": "2025-01",
+      "total": 322,
+      "cero": 7,
+      "eco": 63,
+      "bev": 7,
+      "phev": 0,
+      "hev": 63,
+      "topBrand": "VOLVO",
+      "topModel": "TUGHRA TGR 1846"
+    },
+    {
+      "period": "2025-02",
+      "total": 307,
+      "cero": 15,
+      "eco": 67,
+      "bev": 15,
+      "phev": 0,
+      "hev": 67,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "AS440ST/P"
+    },
+    {
+      "period": "2025-03",
+      "total": 349,
+      "cero": 9,
+      "eco": 67,
+      "bev": 7,
+      "phev": 2,
+      "hev": 67,
+      "topBrand": "RENAULT",
+      "topModel": "STONIC"
+    },
+    {
+      "period": "2025-04",
+      "total": 319,
+      "cero": 12,
+      "eco": 65,
+      "bev": 11,
+      "phev": 1,
+      "hev": 65,
+      "topBrand": "RENAULT",
+      "topModel": "AS440ST/P"
+    },
+    {
+      "period": "2025-05",
+      "total": 395,
+      "cero": 16,
+      "eco": 73,
+      "bev": 15,
+      "phev": 1,
+      "hev": 73,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "AS440ST/P"
+    },
+    {
+      "period": "2025-06",
+      "total": 508,
+      "cero": 28,
+      "eco": 82,
+      "bev": 22,
+      "phev": 6,
+      "hev": 82,
+      "topBrand": "IVECO",
+      "topModel": "AS440ST/P"
+    },
+    {
+      "period": "2025-07",
+      "total": 457,
+      "cero": 25,
+      "eco": 70,
+      "bev": 17,
+      "phev": 8,
+      "hev": 70,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-08",
+      "total": 369,
+      "cero": 18,
+      "eco": 51,
+      "bev": 18,
+      "phev": 0,
+      "hev": 51,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "ACTROS 1848 LS"
+    },
+    {
+      "period": "2025-09",
+      "total": 371,
+      "cero": 32,
+      "eco": 70,
+      "bev": 26,
+      "phev": 6,
+      "hev": 70,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "MG HS"
+    },
+    {
+      "period": "2025-10",
+      "total": 439,
+      "cero": 31,
+      "eco": 74,
+      "bev": 20,
+      "phev": 11,
+      "hev": 73,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "MG HS"
+    },
+    {
+      "period": "2025-11",
+      "total": 412,
+      "cero": 27,
+      "eco": 86,
+      "bev": 23,
+      "phev": 4,
+      "hev": 86,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-12",
+      "total": 409,
+      "cero": 40,
+      "eco": 87,
+      "bev": 31,
+      "phev": 9,
+      "hev": 87,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "MG HS"
+    },
+    {
+      "period": "2026-01",
+      "total": 344,
+      "cero": 18,
+      "eco": 79,
+      "bev": 17,
+      "phev": 1,
+      "hev": 79,
+      "topBrand": "RENAULT",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2026-02",
+      "total": 398,
+      "cero": 25,
+      "eco": 90,
+      "bev": 20,
+      "phev": 5,
+      "hev": 90,
+      "topBrand": "KIA",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2026-03",
+      "total": 481,
+      "cero": 37,
+      "eco": 92,
+      "bev": 29,
+      "phev": 8,
+      "hev": 92,
+      "topBrand": "DACIA",
+      "topModel": "AS440ST/P"
+    },
+    {
+      "period": "2026-04",
+      "total": 465,
+      "cero": 24,
+      "eco": 90,
+      "bev": 18,
+      "phev": 6,
+      "hev": 90,
+      "topBrand": "IVECO",
+      "topModel": "AS440ST/P"
+    },
+    {
+      "period": "2026-05",
+      "total": 433,
+      "cero": 23,
+      "eco": 86,
+      "bev": 21,
+      "phev": 2,
+      "hev": 86,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "AS440ST/P"
+    },
+    {
+      "period": "2026-06",
+      "total": 501,
+      "cero": 37,
+      "eco": 86,
+      "bev": 29,
+      "phev": 8,
+      "hev": 86,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2026-07",
+      "total": 495,
+      "cero": 34,
+      "eco": 100,
+      "bev": 29,
+      "phev": 5,
+      "hev": 100,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "AS440ST/P"
+    },
+    {
+      "period": "2026-08",
+      "total": 365,
+      "cero": 28,
+      "eco": 80,
+      "bev": 26,
+      "phev": 2,
+      "hev": 80,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "125X"
+    },
+    {
+      "period": "2026-09",
+      "total": 404,
+      "cero": 58,
+      "eco": 76,
+      "bev": 52,
+      "phev": 6,
+      "hev": 76,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2026-10",
+      "total": 410,
+      "cero": 41,
+      "eco": 81,
+      "bev": 34,
+      "phev": 7,
+      "hev": 81,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "SANDERO"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "MERCEDES-BENZ",
+      "slug": "mercedes-benz",
+      "timesLeader": 22
+    },
+    {
+      "brand": "IVECO",
+      "slug": "iveco",
+      "timesLeader": 3
+    },
+    {
+      "brand": "RENAULT",
+      "slug": "renault",
+      "timesLeader": 3
+    },
+    {
+      "brand": "JOHN DEERE",
+      "slug": "john-deere",
+      "timesLeader": 1
+    },
+    {
+      "brand": "HYUNDAI",
+      "slug": "hyundai",
+      "timesLeader": 1
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "AS440ST/P",
+      "timesLeader": 13
+    },
+    {
+      "model": "SANDERO",
+      "timesLeader": 3
+    },
+    {
+      "model": "TUCSON",
+      "timesLeader": 3
+    },
+    {
+      "model": "MG HS",
+      "timesLeader": 3
+    },
+    {
+      "model": "DESCONOCIDO",
+      "timesLeader": 2
+    }
+  ]
+}

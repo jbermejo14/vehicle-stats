@@ -1,0 +1,33 @@
+{
+  "brand": "CITROEN",
+  "brandSlug": "citroen",
+  "model": "C3 ORIGIN PURETECH 83",
+  "modelSlug": "c3-origin-puretech-83",
+  "fullName": "CITROEN C3 ORIGIN PURETECH 83",
+  "total": 1827,
+  "percentage": 0.03,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 61,
+  "avgCv": 83,
+  "avgCo2": 123,
+  "evolution": [
+    {
+      "period": "2024-04",
+      "total": 958,
+      "avgKw": 61,
+      "avgCv": 83,
+      "avgCo2": 123,
+      "avgTara": 1055
+    },
+    {
+      "period": "2024-05",
+      "total": 869,
+      "avgKw": 61,
+      "avgCv": 83,
+      "avgCo2": 123,
+      "avgTara": 1055
+    }
+  ]
+}

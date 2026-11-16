@@ -1,0 +1,439 @@
+{
+  "code": "04",
+  "name": "Almería",
+  "slug": "almeria",
+  "community": "Andalucía",
+  "population": 753364,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 66671,
+  "percentageOfSpain": 1.23,
+  "per1000Habitantes": 88.5,
+  "ceroCount": 3330,
+  "ecoCount": 11439,
+  "bevCount": 2849,
+  "phevCount": 481,
+  "hevCount": 11435,
+  "ceroPercentage": 5,
+  "ecoPercentage": 17.2,
+  "bevPercentage": 4.3,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 1365,
+      "cero": 39,
+      "eco": 222,
+      "bev": 35,
+      "phev": 4,
+      "hev": 222,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-02",
+      "total": 1498,
+      "cero": 42,
+      "eco": 253,
+      "bev": 40,
+      "phev": 2,
+      "hev": 253,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-03",
+      "total": 1542,
+      "cero": 46,
+      "eco": 281,
+      "bev": 44,
+      "phev": 2,
+      "hev": 281,
+      "topBrand": "BMW",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-04",
+      "total": 1645,
+      "cero": 59,
+      "eco": 252,
+      "bev": 56,
+      "phev": 3,
+      "hev": 252,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TOURAN"
+    },
+    {
+      "period": "2024-05",
+      "total": 1767,
+      "cero": 50,
+      "eco": 266,
+      "bev": 48,
+      "phev": 2,
+      "hev": 266,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2024-06",
+      "total": 1670,
+      "cero": 46,
+      "eco": 290,
+      "bev": 44,
+      "phev": 2,
+      "hev": 290,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2024-07",
+      "total": 1755,
+      "cero": 43,
+      "eco": 311,
+      "bev": 38,
+      "phev": 5,
+      "hev": 311,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2024-08",
+      "total": 1302,
+      "cero": 41,
+      "eco": 222,
+      "bev": 39,
+      "phev": 2,
+      "hev": 222,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-09",
+      "total": 1895,
+      "cero": 54,
+      "eco": 314,
+      "bev": 54,
+      "phev": 0,
+      "hev": 314,
+      "topBrand": "VOLVO",
+      "topModel": "FH"
+    },
+    {
+      "period": "2024-10",
+      "total": 2424,
+      "cero": 35,
+      "eco": 374,
+      "bev": 32,
+      "phev": 3,
+      "hev": 374,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "FH"
+    },
+    {
+      "period": "2024-11",
+      "total": 1733,
+      "cero": 42,
+      "eco": 279,
+      "bev": 42,
+      "phev": 0,
+      "hev": 279,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "INDE8770"
+    },
+    {
+      "period": "2024-12",
+      "total": 1843,
+      "cero": 66,
+      "eco": 301,
+      "bev": 65,
+      "phev": 1,
+      "hev": 301,
+      "topBrand": "VOLVO",
+      "topModel": "FH"
+    },
+    {
+      "period": "2025-01",
+      "total": 1611,
+      "cero": 52,
+      "eco": 287,
+      "bev": 51,
+      "phev": 1,
+      "hev": 287,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TOURAN"
+    },
+    {
+      "period": "2025-02",
+      "total": 1652,
+      "cero": 53,
+      "eco": 331,
+      "bev": 48,
+      "phev": 5,
+      "hev": 331,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2025-03",
+      "total": 1876,
+      "cero": 74,
+      "eco": 348,
+      "bev": 64,
+      "phev": 10,
+      "hev": 347,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2025-04",
+      "total": 1821,
+      "cero": 75,
+      "eco": 317,
+      "bev": 56,
+      "phev": 19,
+      "hev": 317,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "FH"
+    },
+    {
+      "period": "2025-05",
+      "total": 2014,
+      "cero": 112,
+      "eco": 295,
+      "bev": 104,
+      "phev": 8,
+      "hev": 295,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2025-06",
+      "total": 1975,
+      "cero": 114,
+      "eco": 317,
+      "bev": 98,
+      "phev": 16,
+      "hev": 317,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TIGUAN"
+    },
+    {
+      "period": "2025-07",
+      "total": 2225,
+      "cero": 126,
+      "eco": 389,
+      "bev": 93,
+      "phev": 33,
+      "hev": 389,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2025-08",
+      "total": 1557,
+      "cero": 95,
+      "eco": 247,
+      "bev": 74,
+      "phev": 21,
+      "hev": 247,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-09",
+      "total": 2194,
+      "cero": 126,
+      "eco": 330,
+      "bev": 109,
+      "phev": 17,
+      "hev": 330,
+      "topBrand": "VOLVO",
+      "topModel": "FH"
+    },
+    {
+      "period": "2025-10",
+      "total": 2623,
+      "cero": 111,
+      "eco": 415,
+      "bev": 76,
+      "phev": 35,
+      "hev": 414,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "S560"
+    },
+    {
+      "period": "2025-11",
+      "total": 2089,
+      "cero": 113,
+      "eco": 388,
+      "bev": 87,
+      "phev": 26,
+      "hev": 388,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-12",
+      "total": 1990,
+      "cero": 124,
+      "eco": 404,
+      "bev": 109,
+      "phev": 15,
+      "hev": 404,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-01",
+      "total": 1823,
+      "cero": 83,
+      "eco": 335,
+      "bev": 67,
+      "phev": 16,
+      "hev": 335,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "T HIGH T4X2 13L E6"
+    },
+    {
+      "period": "2026-02",
+      "total": 1933,
+      "cero": 114,
+      "eco": 361,
+      "bev": 91,
+      "phev": 23,
+      "hev": 360,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "S560"
+    },
+    {
+      "period": "2026-03",
+      "total": 2203,
+      "cero": 156,
+      "eco": 428,
+      "bev": 130,
+      "phev": 26,
+      "hev": 428,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TOURAN"
+    },
+    {
+      "period": "2026-04",
+      "total": 2182,
+      "cero": 137,
+      "eco": 385,
+      "bev": 112,
+      "phev": 25,
+      "hev": 385,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TOURAN"
+    },
+    {
+      "period": "2026-05",
+      "total": 2334,
+      "cero": 171,
+      "eco": 438,
+      "bev": 146,
+      "phev": 25,
+      "hev": 437,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2026-06",
+      "total": 2489,
+      "cero": 155,
+      "eco": 475,
+      "bev": 135,
+      "phev": 20,
+      "hev": 475,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TOURAN"
+    },
+    {
+      "period": "2026-07",
+      "total": 2654,
+      "cero": 168,
+      "eco": 464,
+      "bev": 135,
+      "phev": 33,
+      "hev": 464,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2026-08",
+      "total": 1783,
+      "cero": 135,
+      "eco": 359,
+      "bev": 118,
+      "phev": 17,
+      "hev": 359,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "125X"
+    },
+    {
+      "period": "2026-09",
+      "total": 2482,
+      "cero": 257,
+      "eco": 373,
+      "bev": 224,
+      "phev": 33,
+      "hev": 373,
+      "topBrand": "VOLVO",
+      "topModel": "FH"
+    },
+    {
+      "period": "2026-10",
+      "total": 2722,
+      "cero": 216,
+      "eco": 388,
+      "bev": 185,
+      "phev": 31,
+      "hev": 388,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "AS440ST/P"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "timesLeader": 26
+    },
+    {
+      "brand": "VOLVO",
+      "slug": "volvo",
+      "timesLeader": 4
+    },
+    {
+      "brand": "MERCEDES-BENZ",
+      "slug": "mercedes-benz",
+      "timesLeader": 3
+    },
+    {
+      "brand": "BMW",
+      "slug": "bmw",
+      "timesLeader": 1
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "GOLF",
+      "timesLeader": 9
+    },
+    {
+      "model": "SANDERO",
+      "timesLeader": 7
+    },
+    {
+      "model": "FH",
+      "timesLeader": 6
+    },
+    {
+      "model": "TOURAN",
+      "timesLeader": 5
+    },
+    {
+      "model": "S560",
+      "timesLeader": 2
+    }
+  ]
+}

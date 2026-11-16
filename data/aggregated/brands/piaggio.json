@@ -1,0 +1,111 @@
+{
+  "brand": "PIAGGIO",
+  "slug": "piaggio",
+  "total": 14261,
+  "percentage": 0.26,
+  "eco0Percentage": 6.7,
+  "avgKw": 11,
+  "monthlyEvolution": [
+    {
+      "period": "2024-01",
+      "total": 809,
+      "eco0Count": 81,
+      "avgKw": 14,
+      "avgCo2": 69,
+      "topModel": "MEDLEY 125"
+    },
+    {
+      "period": "2024-02",
+      "total": 959,
+      "eco0Count": 57,
+      "avgKw": 12,
+      "avgCo2": 65,
+      "topModel": "LIBERTY 125 ABS"
+    },
+    {
+      "period": "2024-04",
+      "total": 1294,
+      "eco0Count": 65,
+      "avgKw": 11,
+      "avgCo2": 65,
+      "topModel": "LIBERTY 125 ABS"
+    },
+    {
+      "period": "2024-05",
+      "total": 1603,
+      "eco0Count": 80,
+      "avgKw": 11,
+      "avgCo2": 64,
+      "topModel": "LIBERTY 125 ABS"
+    },
+    {
+      "period": "2024-06",
+      "total": 1440,
+      "eco0Count": 79,
+      "avgKw": 11,
+      "avgCo2": 64,
+      "topModel": "LIBERTY 125 ABS"
+    },
+    {
+      "period": "2024-07",
+      "total": 1408,
+      "eco0Count": 70,
+      "avgKw": 11,
+      "avgCo2": 64,
+      "topModel": "LIBERTY 125 ABS"
+    },
+    {
+      "period": "2024-08",
+      "total": 999,
+      "eco0Count": 51,
+      "avgKw": 11,
+      "avgCo2": 64,
+      "topModel": "LIBERTY 125 ABS"
+    },
+    {
+      "period": "2024-09",
+      "total": 1158,
+      "eco0Count": 64,
+      "avgKw": 11,
+      "avgCo2": 65,
+      "topModel": "LIBERTY 125 ABS"
+    },
+    {
+      "period": "2024-10",
+      "total": 1068,
+      "eco0Count": 63,
+      "avgKw": 12,
+      "avgCo2": 66,
+      "topModel": "LIBERTY 125 ABS"
+    },
+    {
+      "period": "2024-11",
+      "total": 953,
+      "eco0Count": 74,
+      "avgKw": 11,
+      "avgCo2": 64,
+      "topModel": "LIBERTY 125 ABS"
+    },
+    {
+      "period": "2024-12",
+      "total": 2570,
+      "eco0Count": 268,
+      "avgKw": 11,
+      "avgCo2": 64,
+      "topModel": "MEDLEY 125"
+    }
+  ],
+  "models": [],
+  "leadProvinces": [
+    {
+      "province": "Illes Balears",
+      "slug": "illes-balears",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Cádiz",
+      "slug": "cadiz",
+      "monthsLeading": 1
+    }
+  ]
+}

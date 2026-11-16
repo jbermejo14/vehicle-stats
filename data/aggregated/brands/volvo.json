@@ -1,0 +1,351 @@
+{
+  "brand": "VOLVO",
+  "slug": "volvo",
+  "total": 73454,
+  "percentage": 1.36,
+  "eco0Percentage": 53.7,
+  "avgKw": 198,
+  "monthlyEvolution": [
+    {
+      "period": "2024-01",
+      "total": 1761,
+      "eco0Count": 856,
+      "avgKw": 198,
+      "avgCo2": 132,
+      "topModel": "XC40"
+    },
+    {
+      "period": "2024-02",
+      "total": 2136,
+      "eco0Count": 1129,
+      "avgKw": 182,
+      "avgCo2": 131,
+      "topModel": "XC40"
+    },
+    {
+      "period": "2024-03",
+      "total": 2455,
+      "eco0Count": 1326,
+      "avgKw": 174,
+      "avgCo2": 133,
+      "topModel": "XC40"
+    },
+    {
+      "period": "2024-04",
+      "total": 2577,
+      "eco0Count": 1439,
+      "avgKw": 185,
+      "avgCo2": 133,
+      "topModel": "XC40"
+    },
+    {
+      "period": "2024-05",
+      "total": 2237,
+      "eco0Count": 1361,
+      "avgKw": 181,
+      "avgCo2": 137,
+      "topModel": "XC40"
+    },
+    {
+      "period": "2024-06",
+      "total": 2354,
+      "eco0Count": 1464,
+      "avgKw": 185,
+      "avgCo2": 137,
+      "topModel": "XC40"
+    },
+    {
+      "period": "2024-07",
+      "total": 2269,
+      "eco0Count": 1333,
+      "avgKw": 185,
+      "avgCo2": 131,
+      "topModel": "XC40"
+    },
+    {
+      "period": "2024-08",
+      "total": 1438,
+      "eco0Count": 805,
+      "avgKw": 181,
+      "avgCo2": 139,
+      "topModel": "XC40"
+    },
+    {
+      "period": "2024-09",
+      "total": 1952,
+      "eco0Count": 934,
+      "avgKw": 207,
+      "avgCo2": 135,
+      "topModel": "XC40"
+    },
+    {
+      "period": "2024-10",
+      "total": 2641,
+      "eco0Count": 1129,
+      "avgKw": 221,
+      "avgCo2": 133,
+      "topModel": "FH"
+    },
+    {
+      "period": "2024-11",
+      "total": 2537,
+      "eco0Count": 1439,
+      "avgKw": 190,
+      "avgCo2": 131,
+      "topModel": "XC40"
+    },
+    {
+      "period": "2024-12",
+      "total": 3301,
+      "eco0Count": 2192,
+      "avgKw": 183,
+      "avgCo2": 140,
+      "topModel": "XC40"
+    },
+    {
+      "period": "2025-01",
+      "total": 1455,
+      "eco0Count": 522,
+      "avgKw": 210,
+      "avgCo2": 127,
+      "topModel": "FH"
+    },
+    {
+      "period": "2025-02",
+      "total": 1561,
+      "eco0Count": 804,
+      "avgKw": 186,
+      "avgCo2": 134,
+      "topModel": "XC40"
+    },
+    {
+      "period": "2025-03",
+      "total": 2187,
+      "eco0Count": 1251,
+      "avgKw": 186,
+      "avgCo2": 132,
+      "topModel": "XC40"
+    },
+    {
+      "period": "2025-04",
+      "total": 2228,
+      "eco0Count": 1304,
+      "avgKw": 188,
+      "avgCo2": 135,
+      "topModel": "XC40"
+    },
+    {
+      "period": "2025-05",
+      "total": 1960,
+      "eco0Count": 1169,
+      "avgKw": 183,
+      "avgCo2": 134,
+      "topModel": "XC40"
+    },
+    {
+      "period": "2025-06",
+      "total": 2002,
+      "eco0Count": 1218,
+      "avgKw": 186,
+      "avgCo2": 133,
+      "topModel": "XC40"
+    },
+    {
+      "period": "2025-07",
+      "total": 2079,
+      "eco0Count": 1145,
+      "avgKw": 191,
+      "avgCo2": 130,
+      "topModel": "XC40"
+    },
+    {
+      "period": "2025-08",
+      "total": 1270,
+      "eco0Count": 646,
+      "avgKw": 198,
+      "avgCo2": 128,
+      "topModel": "XC40"
+    },
+    {
+      "period": "2025-09",
+      "total": 2235,
+      "eco0Count": 937,
+      "avgKw": 226,
+      "avgCo2": 137,
+      "topModel": "FH"
+    },
+    {
+      "period": "2025-10",
+      "total": 2791,
+      "eco0Count": 1225,
+      "avgKw": 228,
+      "avgCo2": 138,
+      "topModel": "FH"
+    },
+    {
+      "period": "2025-11",
+      "total": 2458,
+      "eco0Count": 1345,
+      "avgKw": 203,
+      "avgCo2": 142,
+      "topModel": "XC40"
+    },
+    {
+      "period": "2025-12",
+      "total": 2820,
+      "eco0Count": 1789,
+      "avgKw": 187,
+      "avgCo2": 140,
+      "topModel": "XC40"
+    },
+    {
+      "period": "2026-01",
+      "total": 1532,
+      "eco0Count": 502,
+      "avgKw": 235,
+      "avgCo2": 126,
+      "topModel": "FH"
+    },
+    {
+      "period": "2026-02",
+      "total": 1693,
+      "eco0Count": 797,
+      "avgKw": 203,
+      "avgCo2": 133,
+      "topModel": "XC40"
+    },
+    {
+      "period": "2026-03",
+      "total": 2362,
+      "eco0Count": 1341,
+      "avgKw": 194,
+      "avgCo2": 139,
+      "topModel": "XC40"
+    },
+    {
+      "period": "2026-04",
+      "total": 2159,
+      "eco0Count": 1261,
+      "avgKw": 193,
+      "avgCo2": 140,
+      "topModel": "XC40"
+    },
+    {
+      "period": "2026-05",
+      "total": 1927,
+      "eco0Count": 1192,
+      "avgKw": 181,
+      "avgCo2": 141,
+      "topModel": "XC40"
+    },
+    {
+      "period": "2026-06",
+      "total": 2043,
+      "eco0Count": 1192,
+      "avgKw": 192,
+      "avgCo2": 141,
+      "topModel": "XC60"
+    },
+    {
+      "period": "2026-07",
+      "total": 2578,
+      "eco0Count": 1301,
+      "avgKw": 212,
+      "avgCo2": 142,
+      "topModel": "XC40"
+    },
+    {
+      "period": "2026-08",
+      "total": 1504,
+      "eco0Count": 700,
+      "avgKw": 211,
+      "avgCo2": 138,
+      "topModel": "FH"
+    },
+    {
+      "period": "2026-09",
+      "total": 2458,
+      "eco0Count": 1059,
+      "avgKw": 239,
+      "avgCo2": 139,
+      "topModel": "FH"
+    },
+    {
+      "period": "2026-10",
+      "total": 2494,
+      "eco0Count": 1318,
+      "avgKw": 216,
+      "avgCo2": 140,
+      "topModel": "XC40"
+    }
+  ],
+  "models": [
+    {
+      "brand": "VOLVO",
+      "brandSlug": "volvo",
+      "model": "XC40",
+      "modelSlug": "xc40",
+      "fullName": "VOLVO XC40",
+      "total": 7786,
+      "percentage": 0.14,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 122,
+      "avgCv": 165,
+      "avgCo2": 149
+    },
+    {
+      "brand": "VOLVO",
+      "brandSlug": "volvo",
+      "model": "FH",
+      "modelSlug": "fh",
+      "fullName": "VOLVO FH",
+      "total": 3449,
+      "percentage": 0.06,
+      "category": "Industrial",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 357,
+      "avgCv": 486,
+      "avgCo2": 28
+    }
+  ],
+  "leadProvinces": [
+    {
+      "province": "Almería",
+      "slug": "almeria",
+      "monthsLeading": 4
+    },
+    {
+      "province": "Lleida",
+      "slug": "lleida",
+      "monthsLeading": 3
+    },
+    {
+      "province": "Jaén",
+      "slug": "jaen",
+      "monthsLeading": 3
+    },
+    {
+      "province": "Albacete",
+      "slug": "albacete",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Huelva",
+      "slug": "huelva",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Cuenca",
+      "slug": "cuenca",
+      "monthsLeading": 1
+    },
+    {
+      "province": "00",
+      "slug": "00",
+      "monthsLeading": 1
+    }
+  ]
+}

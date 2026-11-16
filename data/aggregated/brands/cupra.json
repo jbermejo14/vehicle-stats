@@ -1,0 +1,315 @@
+{
+  "brand": "CUPRA",
+  "slug": "cupra",
+  "total": 75600,
+  "percentage": 1.4,
+  "eco0Percentage": 78.4,
+  "avgKw": 120,
+  "monthlyEvolution": [
+    {
+      "period": "2024-01",
+      "total": 1187,
+      "eco0Count": 739,
+      "avgKw": 119,
+      "avgCo2": 108,
+      "topModel": "FORMENTOR E-HYBRID"
+    },
+    {
+      "period": "2024-02",
+      "total": 1262,
+      "eco0Count": 766,
+      "avgKw": 123,
+      "avgCo2": 108,
+      "topModel": "FORMENTOR"
+    },
+    {
+      "period": "2024-03",
+      "total": 1726,
+      "eco0Count": 886,
+      "avgKw": 116,
+      "avgCo2": 106,
+      "topModel": "FORMENTOR"
+    },
+    {
+      "period": "2024-04",
+      "total": 2691,
+      "eco0Count": 1083,
+      "avgKw": 117,
+      "avgCo2": 135,
+      "topModel": "FORMENTOR"
+    },
+    {
+      "period": "2024-05",
+      "total": 2108,
+      "eco0Count": 1343,
+      "avgKw": 117,
+      "avgCo2": 128,
+      "topModel": "CUPRA LEON"
+    },
+    {
+      "period": "2024-06",
+      "total": 3385,
+      "eco0Count": 2014,
+      "avgKw": 121,
+      "avgCo2": 131,
+      "topModel": "FORMENTOR"
+    },
+    {
+      "period": "2024-07",
+      "total": 2025,
+      "eco0Count": 1192,
+      "avgKw": 120,
+      "avgCo2": 124,
+      "topModel": "FORMENTOR"
+    },
+    {
+      "period": "2024-08",
+      "total": 866,
+      "eco0Count": 419,
+      "avgKw": 121,
+      "avgCo2": 124,
+      "topModel": "FORMENTOR"
+    },
+    {
+      "period": "2024-09",
+      "total": 1253,
+      "eco0Count": 852,
+      "avgKw": 138,
+      "avgCo2": 125,
+      "topModel": "FORMENTOR"
+    },
+    {
+      "period": "2024-10",
+      "total": 2004,
+      "eco0Count": 1542,
+      "avgKw": 134,
+      "avgCo2": 105,
+      "topModel": "FORMENTOR"
+    },
+    {
+      "period": "2024-11",
+      "total": 1861,
+      "eco0Count": 1564,
+      "avgKw": 121,
+      "avgCo2": 115,
+      "topModel": "CUPRA LEON"
+    },
+    {
+      "period": "2024-12",
+      "total": 2277,
+      "eco0Count": 1388,
+      "avgKw": 119,
+      "avgCo2": 112,
+      "topModel": "CUPRA LEON"
+    },
+    {
+      "period": "2025-01",
+      "total": 1129,
+      "eco0Count": 1002,
+      "avgKw": 126,
+      "avgCo2": 95,
+      "topModel": "FORMENTOR"
+    },
+    {
+      "period": "2025-02",
+      "total": 1735,
+      "eco0Count": 1507,
+      "avgKw": 125,
+      "avgCo2": 95,
+      "topModel": "FORMENTOR"
+    },
+    {
+      "period": "2025-03",
+      "total": 2879,
+      "eco0Count": 2437,
+      "avgKw": 124,
+      "avgCo2": 111,
+      "topModel": "CUPRA LEON"
+    },
+    {
+      "period": "2025-04",
+      "total": 2237,
+      "eco0Count": 1911,
+      "avgKw": 124,
+      "avgCo2": 95,
+      "topModel": "FORMENTOR"
+    },
+    {
+      "period": "2025-05",
+      "total": 3585,
+      "eco0Count": 2943,
+      "avgKw": 121,
+      "avgCo2": 83,
+      "topModel": "FORMENTOR"
+    },
+    {
+      "period": "2025-06",
+      "total": 2841,
+      "eco0Count": 2452,
+      "avgKw": 118,
+      "avgCo2": 72,
+      "topModel": "FORMENTOR E-HYBRID"
+    },
+    {
+      "period": "2025-07",
+      "total": 2533,
+      "eco0Count": 2136,
+      "avgKw": 117,
+      "avgCo2": 84,
+      "topModel": "CUPRA LEON"
+    },
+    {
+      "period": "2025-08",
+      "total": 1058,
+      "eco0Count": 954,
+      "avgKw": 116,
+      "avgCo2": 85,
+      "topModel": "FORMENTOR"
+    },
+    {
+      "period": "2025-09",
+      "total": 1530,
+      "eco0Count": 1395,
+      "avgKw": 117,
+      "avgCo2": 77,
+      "topModel": "FORMENTOR E-HYBRID"
+    },
+    {
+      "period": "2025-10",
+      "total": 2609,
+      "eco0Count": 2211,
+      "avgKw": 118,
+      "avgCo2": 87,
+      "topModel": "CUPRA LEON"
+    },
+    {
+      "period": "2025-11",
+      "total": 2691,
+      "eco0Count": 2470,
+      "avgKw": 118,
+      "avgCo2": 84,
+      "topModel": "CUPRA LEON"
+    },
+    {
+      "period": "2025-12",
+      "total": 2116,
+      "eco0Count": 1741,
+      "avgKw": 116,
+      "avgCo2": 81,
+      "topModel": "FORMENTOR"
+    },
+    {
+      "period": "2026-01",
+      "total": 1977,
+      "eco0Count": 1645,
+      "avgKw": 115,
+      "avgCo2": 106,
+      "topModel": "FORMENTOR"
+    },
+    {
+      "period": "2026-02",
+      "total": 2437,
+      "eco0Count": 1727,
+      "avgKw": 115,
+      "avgCo2": 115,
+      "topModel": "FORMENTOR"
+    },
+    {
+      "period": "2026-03",
+      "total": 3044,
+      "eco0Count": 2491,
+      "avgKw": 117,
+      "avgCo2": 114,
+      "topModel": "FORMENTOR"
+    },
+    {
+      "period": "2026-04",
+      "total": 3566,
+      "eco0Count": 3030,
+      "avgKw": 115,
+      "avgCo2": 112,
+      "topModel": "FORMENTOR"
+    },
+    {
+      "period": "2026-05",
+      "total": 2742,
+      "eco0Count": 2351,
+      "avgKw": 119,
+      "avgCo2": 105,
+      "topModel": "FORMENTOR"
+    },
+    {
+      "period": "2026-06",
+      "total": 3657,
+      "eco0Count": 3272,
+      "avgKw": 120,
+      "avgCo2": 107,
+      "topModel": "FORMENTOR"
+    },
+    {
+      "period": "2026-07",
+      "total": 2584,
+      "eco0Count": 2320,
+      "avgKw": 121,
+      "avgCo2": 105,
+      "topModel": "FORMENTOR"
+    },
+    {
+      "period": "2026-08",
+      "total": 1588,
+      "eco0Count": 1471,
+      "avgKw": 120,
+      "avgCo2": 99,
+      "topModel": "FORMENTOR"
+    },
+    {
+      "period": "2026-09",
+      "total": 2119,
+      "eco0Count": 1951,
+      "avgKw": 119,
+      "avgCo2": 90,
+      "topModel": "FORMENTOR"
+    },
+    {
+      "period": "2026-10",
+      "total": 2298,
+      "eco0Count": 2088,
+      "avgKw": 121,
+      "avgCo2": 91,
+      "topModel": "FORMENTOR"
+    }
+  ],
+  "models": [
+    {
+      "brand": "CUPRA",
+      "brandSlug": "cupra",
+      "model": "FORMENTOR",
+      "modelSlug": "formentor",
+      "fullName": "CUPRA FORMENTOR",
+      "total": 6938,
+      "percentage": 0.13,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 112,
+      "avgCv": 153,
+      "avgCo2": 144
+    },
+    {
+      "brand": "CUPRA",
+      "brandSlug": "cupra",
+      "model": "CUPRA LEON",
+      "modelSlug": "cupra-leon",
+      "fullName": "CUPRA CUPRA LEON",
+      "total": 937,
+      "percentage": 0.02,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 114,
+      "avgCv": 155,
+      "avgCo2": 138
+    }
+  ],
+  "leadProvinces": []
+}

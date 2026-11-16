@@ -1,0 +1,25 @@
+{
+  "brand": "KIA",
+  "brandSlug": "kia",
+  "model": "CEED",
+  "modelSlug": "ceed",
+  "fullName": "KIA CEED",
+  "total": 853,
+  "percentage": 0.02,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 76,
+  "avgCv": 103,
+  "avgCo2": 119,
+  "evolution": [
+    {
+      "period": "2025-04",
+      "total": 853,
+      "avgKw": 76,
+      "avgCv": 103,
+      "avgCo2": 119,
+      "avgTara": 1324
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+{
+  "brand": "PEUGEOT",
+  "slug": "peugeot",
+  "total": 249442,
+  "percentage": 4.61,
+  "eco0Percentage": 35.2,
+  "avgKw": 84,
+  "monthlyEvolution": [
+    {
+      "period": "2024-01",
+      "total": 6030,
+      "eco0Count": 783,
+      "avgKw": 84,
+      "avgCo2": 131,
+      "topModel": "N2008 ALLURE PURETECH"
+    },
+    {
+      "period": "2024-02",
+      "total": 8386,
+      "eco0Count": 1395,
+      "avgKw": 87,
+      "avgCo2": 129,
+      "topModel": "N2008 ALLURE PURETECH"
+    },
+    {
+      "period": "2024-03",
+      "total": 8134,
+      "eco0Count": 573,
+      "avgKw": 84,
+      "avgCo2": 131,
+      "topModel": "NUEVO 2008 ALLURE PURE"
+    },
+    {
+      "period": "2024-04",
+      "total": 7741,
+      "eco0Count": 753,
+      "avgKw": 84,
+      "avgCo2": 130,
+      "topModel": "NUEVO 2008 ALLURE PURE"
+    },
+    {
+      "period": "2024-05",
+      "total": 8839,
+      "eco0Count": 1719,
+      "avgKw": 87,
+      "avgCo2": 127,
+      "topModel": "NUEVO 2008 ALLURE PURE"
+    },
+    {
+      "period": "2024-06",
+      "total": 7440,
+      "eco0Count": 1242,
+      "avgKw": 84,
+      "avgCo2": 128,
+      "topModel": "NUEVO 2008 ALLURE PURE"
+    },
+    {
+      "period": "2024-07",
+      "total": 6713,
+      "eco0Count": 1594,
+      "avgKw": 81,
+      "avgCo2": 130,
+      "topModel": "NUEVO 2008 ALLURE PURE"
+    },
+    {
+      "period": "2024-08",
+      "total": 3801,
+      "eco0Count": 733,
+      "avgKw": 78,
+      "avgCo2": 128,
+      "topModel": "NUEVO 2008 ALLURE PURE"
+    },
+    {
+      "period": "2024-09",
+      "total": 5623,
+      "eco0Count": 1647,
+      "avgKw": 84,
+      "avgCo2": 130,
+      "topModel": "NUEVO 2008 ALLURE PURE"
+    },
+    {
+      "period": "2024-10",
+      "total": 6549,
+      "eco0Count": 1477,
+      "avgKw": 82,
+      "avgCo2": 130,
+      "topModel": "208 5P ALLURE GASOLINA"
+    },
+    {
+      "period": "2024-11",
+      "total": 6000,
+      "eco0Count": 1623,
+      "avgKw": 83,
+      "avgCo2": 130,
+      "topModel": "2008 ALLURE GASOLINA 1"
+    },
+    {
+      "period": "2024-12",
+      "total": 7136,
+      "eco0Count": 1738,
+      "avgKw": 79,
+      "avgCo2": 125,
+      "topModel": "2008 ALLURE GASOLINA 1"
+    },
+    {
+      "period": "2025-01",
+      "total": 5630,
+      "eco0Count": 2188,
+      "avgKw": 87,
+      "avgCo2": 131,
+      "topModel": "NUEVO PARTNER STANDARD"
+    },
+    {
+      "period": "2025-02",
+      "total": 7570,
+      "eco0Count": 2882,
+      "avgKw": 85,
+      "avgCo2": 130,
+      "topModel": "208 5P ALLURE HYBRID 1"
+    },
+    {
+      "period": "2025-03",
+      "total": 9882,
+      "eco0Count": 5124,
+      "avgKw": 86,
+      "avgCo2": 123,
+      "topModel": "208 5P ALLURE GASOLINA"
+    },
+    {
+      "period": "2025-04",
+      "total": 8672,
+      "eco0Count": 3695,
+      "avgKw": 87,
+      "avgCo2": 125,
+      "topModel": "208 5P ALLURE GASOLINA"
+    },
+    {
+      "period": "2025-05",
+      "total": 9679,
+      "eco0Count": 4134,
+      "avgKw": 84,
+      "avgCo2": 123,
+      "topModel": "208 5P ALLURE GASOLINA"
+    },
+    {
+      "period": "2025-06",
+      "total": 9351,
+      "eco0Count": 4145,
+      "avgKw": 84,
+      "avgCo2": 122,
+      "topModel": "208 5P ALLURE GASOLINA"
+    },
+    {
+      "period": "2025-07",
+      "total": 8115,
+      "eco0Count": 2481,
+      "avgKw": 82,
+      "avgCo2": 127,
+      "topModel": "2008 ALLURE GASOLINA 1"
+    },
+    {
+      "period": "2025-08",
+      "total": 4305,
+      "eco0Count": 1297,
+      "avgKw": 82,
+      "avgCo2": 130,
+      "topModel": "2008 ALLURE GASOLINA 1"
+    },
+    {
+      "period": "2025-09",
+      "total": 5978,
+      "eco0Count": 1878,
+      "avgKw": 82,
+      "avgCo2": 127,
+      "topModel": "208 5P ALLURE GASOLINA"
+    },
+    {
+      "period": "2025-10",
+      "total": 8114,
+      "eco0Count": 3538,
+      "avgKw": 86,
+      "avgCo2": 124,
+      "topModel": "2008 ALLURE HYBRID 145"
+    },
+    {
+      "period": "2025-11",
+      "total": 7188,
+      "eco0Count": 3132,
+      "avgKw": 85,
+      "avgCo2": 124,
+      "topModel": "2008 ALLURE HYBRID 145"
+    },
+    {
+      "period": "2025-12",
+      "total": 7395,
+      "eco0Count": 3135,
+      "avgKw": 84,
+      "avgCo2": 123,
+      "topModel": "208 5P ALLURE GASOLINA"
+    },
+    {
+      "period": "2026-01",
+      "total": 6783,
+      "eco0Count": 3553,
+      "avgKw": 86,
+      "avgCo2": 121,
+      "topModel": "208 5P ALLURE GASOLINA"
+    },
+    {
+      "period": "2026-02",
+      "total": 7573,
+      "eco0Count": 3808,
+      "avgKw": 87,
+      "avgCo2": 125,
+      "topModel": "2008 ALLURE HYBRID 145"
+    },
+    {
+      "period": "2026-03",
+      "total": 9227,
+      "eco0Count": 5363,
+      "avgKw": 85,
+      "avgCo2": 121,
+      "topModel": "2008 ALLURE HYBRID 145"
+    },
+    {
+      "period": "2026-04",
+      "total": 9343,
+      "eco0Count": 5124,
+      "avgKw": 86,
+      "avgCo2": 121,
+      "topModel": "2008 ALLURE HYBRID 145"
+    },
+    {
+      "period": "2026-05",
+      "total": 7601,
+      "eco0Count": 3385,
+      "avgKw": 83,
+      "avgCo2": 123,
+      "topModel": "208 5P ALLURE TURBO 10"
+    },
+    {
+      "period": "2026-06",
+      "total": 9246,
+      "eco0Count": 3990,
+      "avgKw": 82,
+      "avgCo2": 122,
+      "topModel": "2008 ALLURE TURBO 100"
+    },
+    {
+      "period": "2026-07",
+      "total": 8208,
+      "eco0Count": 2905,
+      "avgKw": 81,
+      "avgCo2": 124,
+      "topModel": "208 5P ALLURE TURBO 10"
+    },
+    {
+      "period": "2026-08",
+      "total": 4416,
+      "eco0Count": 1692,
+      "avgKw": 82,
+      "avgCo2": 125,
+      "topModel": "208 5P ALLURE TURBO 10"
+    },
+    {
+      "period": "2026-09",
+      "total": 5982,
+      "eco0Count": 2168,
+      "avgKw": 81,
+      "avgCo2": 125,
+      "topModel": "208 5P ALLURE TURBO 10"
+    },
+    {
+      "period": "2026-10",
+      "total": 6792,
+      "eco0Count": 2856,
+      "avgKw": 84,
+      "avgCo2": 125,
+      "topModel": "2008 ALLURE HYBRID 145"
+    }
+  ],
+  "models": [
+    {
+      "brand": "PEUGEOT",
+      "brandSlug": "peugeot",
+      "model": "2008 ALLURE HYBRID 145",
+      "modelSlug": "2008-allure-hybrid-145",
+      "fullName": "PEUGEOT 2008 ALLURE HYBRID 145",
+      "total": 8557,
+      "percentage": 0.16,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 100,
+      "avgCv": 136,
+      "avgCo2": 111
+    },
+    {
+      "brand": "PEUGEOT",
+      "brandSlug": "peugeot",
+      "model": "208 5P ALLURE GASOLINA",
+      "modelSlug": "208-5p-allure-gasolina",
+      "fullName": "PEUGEOT 208 5P ALLURE GASOLINA",
+      "total": 7665,
+      "percentage": 0.14,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 118
+    },
+    {
+      "brand": "PEUGEOT",
+      "brandSlug": "peugeot",
+      "model": "NUEVO 2008 ALLURE PURE",
+      "modelSlug": "nuevo-2008-allure-pure",
+      "fullName": "PEUGEOT NUEVO 2008 ALLURE PURE",
+      "total": 3870,
+      "percentage": 0.07,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 86,
+      "avgCv": 118,
+      "avgCo2": 132
+    },
+    {
+      "brand": "PEUGEOT",
+      "brandSlug": "peugeot",
+      "model": "208 5P ALLURE TURBO 10",
+      "modelSlug": "208-5p-allure-turbo-10",
+      "fullName": "PEUGEOT 208 5P ALLURE TURBO 10",
+      "total": 2109,
+      "percentage": 0.04,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 116
+    },
+    {
+      "brand": "PEUGEOT",
+      "brandSlug": "peugeot",
+      "model": "2008 ALLURE GASOLINA 1",
+      "modelSlug": "2008-allure-gasolina-1",
+      "fullName": "PEUGEOT 2008 ALLURE GASOLINA 1",
+      "total": 1938,
+      "percentage": 0.04,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 129
+    },
+    {
+      "brand": "PEUGEOT",
+      "brandSlug": "peugeot",
+      "model": "N2008 ALLURE PURETECH",
+      "modelSlug": "n2008-allure-puretech",
+      "fullName": "PEUGEOT N2008 ALLURE PURETECH",
+      "total": 1734,
+      "percentage": 0.03,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 85,
+      "avgCv": 116,
+      "avgCo2": 128
+    }
+  ],
+  "leadProvinces": [
+    {
+      "province": "Toledo",
+      "slug": "toledo",
+      "monthsLeading": 18
+    },
+    {
+      "province": "Gipuzkoa",
+      "slug": "gipuzkoa",
+      "monthsLeading": 15
+    },
+    {
+      "province": "Castellón / Castelló",
+      "slug": "castellon-castello",
+      "monthsLeading": 8
+    },
+    {
+      "province": "Álava / Araba",
+      "slug": "alava-araba",
+      "monthsLeading": 7
+    },
+    {
+      "province": "Madrid",
+      "slug": "madrid",
+      "monthsLeading": 5
+    },
+    {
+      "province": "Santa Cruz de Tenerife",
+      "slug": "santa-cruz-de-tenerife",
+      "monthsLeading": 4
+    },
+    {
+      "province": "00",
+      "slug": "00",
+      "monthsLeading": 4
+    },
+    {
+      "province": "Illes Balears",
+      "slug": "illes-balears",
+      "monthsLeading": 3
+    },
+    {
+      "province": "La Rioja",
+      "slug": "la-rioja",
+      "monthsLeading": 3
+    },
+    {
+      "province": "Lleida",
+      "slug": "lleida",
+      "monthsLeading": 2
+    },
+    {
+      "province": "León",
+      "slug": "leon",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Tarragona",
+      "slug": "tarragona",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Navarra",
+      "slug": "navarra",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Alicante / Alacant",
+      "slug": "alicante-alacant",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Cantabria",
+      "slug": "cantabria",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Badajoz",
+      "slug": "badajoz",
+      "monthsLeading": 1
+    }
+  ]
+}

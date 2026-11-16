@@ -1,0 +1,89 @@
+{
+  "brand": "OMODA",
+  "brandSlug": "omoda",
+  "model": "OMODA5",
+  "modelSlug": "omoda5",
+  "fullName": "OMODA OMODA5",
+  "total": 8492,
+  "percentage": 0.16,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 117,
+  "avgCv": 159,
+  "avgCo2": 162,
+  "evolution": [
+    {
+      "period": "2024-07",
+      "total": 1016,
+      "avgKw": 137,
+      "avgCv": 186,
+      "avgCo2": 170,
+      "avgTara": 1498
+    },
+    {
+      "period": "2024-08",
+      "total": 743,
+      "avgKw": 137,
+      "avgCv": 186,
+      "avgCo2": 170,
+      "avgTara": 1498
+    },
+    {
+      "period": "2024-09",
+      "total": 830,
+      "avgKw": 134,
+      "avgCv": 182,
+      "avgCo2": 169,
+      "avgTara": 1501
+    },
+    {
+      "period": "2024-10",
+      "total": 908,
+      "avgKw": 113,
+      "avgCv": 154,
+      "avgCo2": 161,
+      "avgTara": 1525
+    },
+    {
+      "period": "2024-11",
+      "total": 932,
+      "avgKw": 108,
+      "avgCv": 147,
+      "avgCo2": 159,
+      "avgTara": 1530
+    },
+    {
+      "period": "2025-01",
+      "total": 896,
+      "avgKw": 108,
+      "avgCv": 147,
+      "avgCo2": 159,
+      "avgTara": 1530
+    },
+    {
+      "period": "2025-02",
+      "total": 887,
+      "avgKw": 108,
+      "avgCv": 147,
+      "avgCo2": 159,
+      "avgTara": 1530
+    },
+    {
+      "period": "2025-05",
+      "total": 1182,
+      "avgKw": 108,
+      "avgCv": 147,
+      "avgCo2": 159,
+      "avgTara": 1530
+    },
+    {
+      "period": "2025-06",
+      "total": 1098,
+      "avgKw": 108,
+      "avgCv": 147,
+      "avgCo2": 159,
+      "avgTara": 1530
+    }
+  ]
+}

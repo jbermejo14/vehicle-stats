@@ -88,13 +88,6 @@ export function Sidebar({ isMobileOpen, onCloseMobile }: SidebarProps) {
       sublabel: 'CO₂ & Impuestos',
       icon: Leaf,
       index: '07'
-    },
-    {
-      key: 'import',
-      label: 'Importar DGT (.TXT)',
-      sublabel: 'Cargar Archivo Fijo',
-      icon: UploadCloud,
-      index: '08'
     }
   ];
 

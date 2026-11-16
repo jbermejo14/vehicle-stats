@@ -1,0 +1,367 @@
+{
+  "months": [
+    {
+      "id": "2024-01",
+      "year": 2024,
+      "month": 1,
+      "monthName": "Enero",
+      "label": "Enero 2024",
+      "total": 117036,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA TOYOTA COROLLA"
+    },
+    {
+      "id": "2024-02",
+      "year": 2024,
+      "month": 2,
+      "monthName": "Febrero",
+      "label": "Febrero 2024",
+      "total": 134018,
+      "topBrand": "PEUGEOT",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "id": "2024-03",
+      "year": 2024,
+      "month": 3,
+      "monthName": "Marzo",
+      "label": "Marzo 2024",
+      "total": 148796,
+      "topBrand": "TOYOTA",
+      "topModel": "NISSAN NISSAN QASHQAI"
+    },
+    {
+      "id": "2024-04",
+      "year": 2024,
+      "month": 4,
+      "monthName": "Abril",
+      "label": "Abril 2024",
+      "total": 154004,
+      "topBrand": "TOYOTA",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "id": "2024-05",
+      "year": 2024,
+      "month": 5,
+      "monthName": "Mayo",
+      "label": "Mayo 2024",
+      "total": 158789,
+      "topBrand": "RENAULT",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "id": "2024-06",
+      "year": 2024,
+      "month": 6,
+      "monthName": "Junio",
+      "label": "Junio 2024",
+      "total": 166021,
+      "topBrand": "RENAULT",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "id": "2024-07",
+      "year": 2024,
+      "month": 7,
+      "monthName": "Julio",
+      "label": "Julio 2024",
+      "total": 150215,
+      "topBrand": "TOYOTA",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "id": "2024-08",
+      "year": 2024,
+      "month": 8,
+      "monthName": "Agosto",
+      "label": "Agosto 2024",
+      "total": 97890,
+      "topBrand": "TOYOTA",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "id": "2024-09",
+      "year": 2024,
+      "month": 9,
+      "monthName": "Septiembre",
+      "label": "Septiembre 2024",
+      "total": 130367,
+      "topBrand": "TOYOTA",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "id": "2024-10",
+      "year": 2024,
+      "month": 10,
+      "monthName": "Octubre",
+      "label": "Octubre 2024",
+      "total": 151548,
+      "topBrand": "TOYOTA",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "id": "2024-11",
+      "year": 2024,
+      "month": 11,
+      "monthName": "Noviembre",
+      "label": "Noviembre 2024",
+      "total": 140976,
+      "topBrand": "RENAULT",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "id": "2024-12",
+      "year": 2024,
+      "month": 12,
+      "monthName": "Diciembre",
+      "label": "Diciembre 2024",
+      "total": 166690,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA TOYOTA C-HR"
+    },
+    {
+      "id": "2025-01",
+      "year": 2025,
+      "month": 1,
+      "monthName": "Enero",
+      "label": "Enero 2025",
+      "total": 125425,
+      "topBrand": "TOYOTA",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "id": "2025-02",
+      "year": 2025,
+      "month": 2,
+      "monthName": "Febrero",
+      "label": "Febrero 2025",
+      "total": 147085,
+      "topBrand": "RENAULT",
+      "topModel": "MG MG ZS"
+    },
+    {
+      "id": "2025-03",
+      "year": 2025,
+      "month": 3,
+      "monthName": "Marzo",
+      "label": "Marzo 2025",
+      "total": 179345,
+      "topBrand": "RENAULT",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "id": "2025-04",
+      "year": 2025,
+      "month": 4,
+      "monthName": "Abril",
+      "label": "Abril 2025",
+      "total": 162550,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "id": "2025-05",
+      "year": 2025,
+      "month": 5,
+      "monthName": "Mayo",
+      "label": "Mayo 2025",
+      "total": 185750,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "id": "2025-06",
+      "year": 2025,
+      "month": 6,
+      "monthName": "Junio",
+      "label": "Junio 2025",
+      "total": 194021,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "id": "2025-07",
+      "year": 2025,
+      "month": 7,
+      "monthName": "Julio",
+      "label": "Julio 2025",
+      "total": 179039,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "id": "2025-08",
+      "year": 2025,
+      "month": 8,
+      "monthName": "Agosto",
+      "label": "Agosto 2025",
+      "total": 113138,
+      "topBrand": "TOYOTA",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "id": "2025-09",
+      "year": 2025,
+      "month": 9,
+      "monthName": "Septiembre",
+      "label": "Septiembre 2025",
+      "total": 154363,
+      "topBrand": "TOYOTA",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "id": "2025-10",
+      "year": 2025,
+      "month": 10,
+      "monthName": "Octubre",
+      "label": "Octubre 2025",
+      "total": 176870,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "id": "2025-11",
+      "year": 2025,
+      "month": 11,
+      "monthName": "Noviembre",
+      "label": "Noviembre 2025",
+      "total": 160698,
+      "topBrand": "RENAULT",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "id": "2025-12",
+      "year": 2025,
+      "month": 12,
+      "monthName": "Diciembre",
+      "label": "Diciembre 2025",
+      "total": 166146,
+      "topBrand": "RENAULT",
+      "topModel": "RENAULT CLIO"
+    },
+    {
+      "id": "2026-01",
+      "year": 2026,
+      "month": 1,
+      "monthName": "Enero",
+      "label": "Enero 2026",
+      "total": 130543,
+      "topBrand": "TOYOTA",
+      "topModel": "SEAT IBIZA"
+    },
+    {
+      "id": "2026-02",
+      "year": 2026,
+      "month": 2,
+      "monthName": "Febrero",
+      "label": "Febrero 2026",
+      "total": 161682,
+      "topBrand": "TOYOTA",
+      "topModel": "SEAT IBIZA"
+    },
+    {
+      "id": "2026-03",
+      "year": 2026,
+      "month": 3,
+      "monthName": "Marzo",
+      "label": "Marzo 2026",
+      "total": 210097,
+      "topBrand": "TOYOTA",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "id": "2026-04",
+      "year": 2026,
+      "month": 4,
+      "monthName": "Abril",
+      "label": "Abril 2026",
+      "total": 180135,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "id": "2026-05",
+      "year": 2026,
+      "month": 5,
+      "monthName": "Mayo",
+      "label": "Mayo 2026",
+      "total": 189626,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "id": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "monthName": "Junio",
+      "label": "Junio 2026",
+      "total": 217004,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "id": "2026-07",
+      "year": 2026,
+      "month": 7,
+      "monthName": "Julio",
+      "label": "Julio 2026",
+      "total": 189104,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DACIA SANDERO"
+    },
+    {
+      "id": "2026-08",
+      "year": 2026,
+      "month": 8,
+      "monthName": "Agosto",
+      "label": "Agosto 2026",
+      "total": 126610,
+      "topBrand": "TOYOTA",
+      "topModel": "ZONTES 125X"
+    },
+    {
+      "id": "2026-09",
+      "year": 2026,
+      "month": 9,
+      "monthName": "Septiembre",
+      "label": "Septiembre 2026",
+      "total": 169941,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA TOYOTA C-HR"
+    },
+    {
+      "id": "2026-10",
+      "year": 2026,
+      "month": 10,
+      "monthName": "Octubre",
+      "label": "Octubre 2026",
+      "total": 177323,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DACIA SANDERO"
+    }
+  ],
+  "years": [
+    {
+      "id": "2026",
+      "year": 2026,
+      "label": "Año 2026",
+      "total": 1752065,
+      "monthsCount": 10
+    },
+    {
+      "id": "2025",
+      "year": 2025,
+      "label": "Año 2025",
+      "total": 1944430,
+      "monthsCount": 12
+    },
+    {
+      "id": "2024",
+      "year": 2024,
+      "label": "Año 2024",
+      "total": 1716350,
+      "monthsCount": 12
+    }
+  ]
+}

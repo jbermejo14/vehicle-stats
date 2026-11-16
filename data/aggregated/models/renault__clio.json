@@ -1,0 +1,289 @@
+{
+  "brand": "RENAULT",
+  "brandSlug": "renault",
+  "model": "CLIO",
+  "modelSlug": "clio",
+  "fullName": "RENAULT CLIO",
+  "total": 57634,
+  "percentage": 1.06,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 72,
+  "avgCv": 97,
+  "avgCo2": 111,
+  "evolution": [
+    {
+      "period": "2024-01",
+      "total": 1050,
+      "avgKw": 68,
+      "avgCv": 93,
+      "avgCo2": 114,
+      "avgTara": 1211
+    },
+    {
+      "period": "2024-02",
+      "total": 1379,
+      "avgKw": 68,
+      "avgCv": 93,
+      "avgCo2": 116,
+      "avgTara": 1210
+    },
+    {
+      "period": "2024-03",
+      "total": 1363,
+      "avgKw": 69,
+      "avgCv": 94,
+      "avgCo2": 115,
+      "avgTara": 1217
+    },
+    {
+      "period": "2024-04",
+      "total": 2141,
+      "avgKw": 69,
+      "avgCv": 94,
+      "avgCo2": 113,
+      "avgTara": 1220
+    },
+    {
+      "period": "2024-05",
+      "total": 1888,
+      "avgKw": 68,
+      "avgCv": 93,
+      "avgCo2": 115,
+      "avgTara": 1211
+    },
+    {
+      "period": "2024-06",
+      "total": 1496,
+      "avgKw": 69,
+      "avgCv": 93,
+      "avgCo2": 115,
+      "avgTara": 1213
+    },
+    {
+      "period": "2024-07",
+      "total": 1210,
+      "avgKw": 68,
+      "avgCv": 93,
+      "avgCo2": 113,
+      "avgTara": 1214
+    },
+    {
+      "period": "2024-08",
+      "total": 1035,
+      "avgKw": 69,
+      "avgCv": 93,
+      "avgCo2": 113,
+      "avgTara": 1219
+    },
+    {
+      "period": "2024-09",
+      "total": 1485,
+      "avgKw": 68,
+      "avgCv": 93,
+      "avgCo2": 113,
+      "avgTara": 1220
+    },
+    {
+      "period": "2024-10",
+      "total": 1193,
+      "avgKw": 69,
+      "avgCv": 94,
+      "avgCo2": 113,
+      "avgTara": 1220
+    },
+    {
+      "period": "2024-11",
+      "total": 1605,
+      "avgKw": 69,
+      "avgCv": 94,
+      "avgCo2": 114,
+      "avgTara": 1217
+    },
+    {
+      "period": "2024-12",
+      "total": 1958,
+      "avgKw": 69,
+      "avgCv": 94,
+      "avgCo2": 113,
+      "avgTara": 1219
+    },
+    {
+      "period": "2025-01",
+      "total": 1058,
+      "avgKw": 68,
+      "avgCv": 93,
+      "avgCo2": 112,
+      "avgTara": 1226
+    },
+    {
+      "period": "2025-02",
+      "total": 2028,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 111,
+      "avgTara": 1230
+    },
+    {
+      "period": "2025-03",
+      "total": 1934,
+      "avgKw": 67,
+      "avgCv": 91,
+      "avgCo2": 112,
+      "avgTara": 1220
+    },
+    {
+      "period": "2025-04",
+      "total": 1557,
+      "avgKw": 69,
+      "avgCv": 94,
+      "avgCo2": 113,
+      "avgTara": 1231
+    },
+    {
+      "period": "2025-05",
+      "total": 2160,
+      "avgKw": 69,
+      "avgCv": 94,
+      "avgCo2": 110,
+      "avgTara": 1242
+    },
+    {
+      "period": "2025-06",
+      "total": 3031,
+      "avgKw": 70,
+      "avgCv": 95,
+      "avgCo2": 111,
+      "avgTara": 1235
+    },
+    {
+      "period": "2025-07",
+      "total": 1429,
+      "avgKw": 69,
+      "avgCv": 93,
+      "avgCo2": 111,
+      "avgTara": 1227
+    },
+    {
+      "period": "2025-08",
+      "total": 1135,
+      "avgKw": 68,
+      "avgCv": 93,
+      "avgCo2": 110,
+      "avgTara": 1235
+    },
+    {
+      "period": "2025-09",
+      "total": 1726,
+      "avgKw": 69,
+      "avgCv": 94,
+      "avgCo2": 111,
+      "avgTara": 1235
+    },
+    {
+      "period": "2025-10",
+      "total": 1952,
+      "avgKw": 70,
+      "avgCv": 95,
+      "avgCo2": 110,
+      "avgTara": 1240
+    },
+    {
+      "period": "2025-11",
+      "total": 2997,
+      "avgKw": 71,
+      "avgCv": 96,
+      "avgCo2": 110,
+      "avgTara": 1250
+    },
+    {
+      "period": "2025-12",
+      "total": 3764,
+      "avgKw": 70,
+      "avgCv": 96,
+      "avgCo2": 109,
+      "avgTara": 1246
+    },
+    {
+      "period": "2026-01",
+      "total": 1301,
+      "avgKw": 70,
+      "avgCv": 96,
+      "avgCo2": 107,
+      "avgTara": 1248
+    },
+    {
+      "period": "2026-02",
+      "total": 2093,
+      "avgKw": 76,
+      "avgCv": 103,
+      "avgCo2": 111,
+      "avgTara": 1247
+    },
+    {
+      "period": "2026-03",
+      "total": 2130,
+      "avgKw": 79,
+      "avgCv": 107,
+      "avgCo2": 109,
+      "avgTara": 1259
+    },
+    {
+      "period": "2026-04",
+      "total": 1672,
+      "avgKw": 79,
+      "avgCv": 107,
+      "avgCo2": 109,
+      "avgTara": 1258
+    },
+    {
+      "period": "2026-05",
+      "total": 1982,
+      "avgKw": 81,
+      "avgCv": 110,
+      "avgCo2": 110,
+      "avgTara": 1259
+    },
+    {
+      "period": "2026-06",
+      "total": 1518,
+      "avgKw": 80,
+      "avgCv": 109,
+      "avgCo2": 104,
+      "avgTara": 1282
+    },
+    {
+      "period": "2026-07",
+      "total": 1132,
+      "avgKw": 80,
+      "avgCv": 109,
+      "avgCo2": 105,
+      "avgTara": 1278
+    },
+    {
+      "period": "2026-08",
+      "total": 890,
+      "avgKw": 81,
+      "avgCv": 110,
+      "avgCo2": 105,
+      "avgTara": 1285
+    },
+    {
+      "period": "2026-09",
+      "total": 1064,
+      "avgKw": 80,
+      "avgCv": 109,
+      "avgCo2": 103,
+      "avgTara": 1292
+    },
+    {
+      "period": "2026-10",
+      "total": 1278,
+      "avgKw": 81,
+      "avgCv": 109,
+      "avgCo2": 103,
+      "avgTara": 1291
+    }
+  ]
+}

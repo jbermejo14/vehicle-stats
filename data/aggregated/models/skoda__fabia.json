@@ -1,0 +1,169 @@
+{
+  "brand": "SKODA",
+  "brandSlug": "skoda",
+  "model": "FABIA",
+  "modelSlug": "fabia",
+  "fullName": "SKODA FABIA",
+  "total": 19102,
+  "percentage": 0.35,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 75,
+  "avgCv": 102,
+  "avgCo2": 116,
+  "evolution": [
+    {
+      "period": "2024-10",
+      "total": 1119,
+      "avgKw": 71,
+      "avgCv": 96,
+      "avgCo2": 117,
+      "avgTara": 1158
+    },
+    {
+      "period": "2024-11",
+      "total": 1241,
+      "avgKw": 72,
+      "avgCv": 97,
+      "avgCo2": 117,
+      "avgTara": 1163
+    },
+    {
+      "period": "2024-12",
+      "total": 1293,
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 117,
+      "avgTara": 1169
+    },
+    {
+      "period": "2025-01",
+      "total": 866,
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 116,
+      "avgTara": 1170
+    },
+    {
+      "period": "2025-04",
+      "total": 869,
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 116,
+      "avgTara": 1171
+    },
+    {
+      "period": "2025-05",
+      "total": 1083,
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 115,
+      "avgTara": 1171
+    },
+    {
+      "period": "2025-06",
+      "total": 1161,
+      "avgKw": 78,
+      "avgCv": 107,
+      "avgCo2": 116,
+      "avgTara": 1179
+    },
+    {
+      "period": "2025-07",
+      "total": 1033,
+      "avgKw": 74,
+      "avgCv": 100,
+      "avgCo2": 116,
+      "avgTara": 1167
+    },
+    {
+      "period": "2025-08",
+      "total": 577,
+      "avgKw": 79,
+      "avgCv": 107,
+      "avgCo2": 117,
+      "avgTara": 1178
+    },
+    {
+      "period": "2025-09",
+      "total": 930,
+      "avgKw": 72,
+      "avgCv": 98,
+      "avgCo2": 116,
+      "avgTara": 1161
+    },
+    {
+      "period": "2025-10",
+      "total": 1092,
+      "avgKw": 73,
+      "avgCv": 100,
+      "avgCo2": 115,
+      "avgTara": 1166
+    },
+    {
+      "period": "2025-11",
+      "total": 842,
+      "avgKw": 76,
+      "avgCv": 104,
+      "avgCo2": 116,
+      "avgTara": 1172
+    },
+    {
+      "period": "2026-01",
+      "total": 670,
+      "avgKw": 74,
+      "avgCv": 100,
+      "avgCo2": 116,
+      "avgTara": 1166
+    },
+    {
+      "period": "2026-02",
+      "total": 1105,
+      "avgKw": 76,
+      "avgCv": 103,
+      "avgCo2": 116,
+      "avgTara": 1172
+    },
+    {
+      "period": "2026-03",
+      "total": 1173,
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 116,
+      "avgTara": 1170
+    },
+    {
+      "period": "2026-04",
+      "total": 1242,
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 116,
+      "avgTara": 1170
+    },
+    {
+      "period": "2026-05",
+      "total": 1018,
+      "avgKw": 77,
+      "avgCv": 105,
+      "avgCo2": 116,
+      "avgTara": 1175
+    },
+    {
+      "period": "2026-07",
+      "total": 877,
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 116,
+      "avgTara": 1169
+    },
+    {
+      "period": "2026-10",
+      "total": 911,
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 116,
+      "avgTara": 1165
+    }
+  ]
+}

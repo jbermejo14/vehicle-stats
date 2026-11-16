@@ -1,0 +1,361 @@
+{
+  "brand": "SEAT",
+  "slug": "seat",
+  "total": 199286,
+  "percentage": 3.68,
+  "eco0Percentage": 7.4,
+  "avgKw": 88,
+  "monthlyEvolution": [
+    {
+      "period": "2024-01",
+      "total": 5290,
+      "eco0Count": 682,
+      "avgKw": 89,
+      "avgCo2": 125,
+      "topModel": "ARONA"
+    },
+    {
+      "period": "2024-02",
+      "total": 5441,
+      "eco0Count": 289,
+      "avgKw": 86,
+      "avgCo2": 123,
+      "topModel": "ARONA"
+    },
+    {
+      "period": "2024-03",
+      "total": 5954,
+      "eco0Count": 856,
+      "avgKw": 91,
+      "avgCo2": 126,
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2024-04",
+      "total": 7081,
+      "eco0Count": 486,
+      "avgKw": 88,
+      "avgCo2": 125,
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2024-05",
+      "total": 5346,
+      "eco0Count": 257,
+      "avgKw": 90,
+      "avgCo2": 126,
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2024-06",
+      "total": 8314,
+      "eco0Count": 638,
+      "avgKw": 91,
+      "avgCo2": 125,
+      "topModel": "ARONA"
+    },
+    {
+      "period": "2024-07",
+      "total": 5478,
+      "eco0Count": 399,
+      "avgKw": 89,
+      "avgCo2": 127,
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2024-08",
+      "total": 3146,
+      "eco0Count": 198,
+      "avgKw": 89,
+      "avgCo2": 126,
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2024-09",
+      "total": 4358,
+      "eco0Count": 256,
+      "avgKw": 91,
+      "avgCo2": 127,
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2024-10",
+      "total": 4957,
+      "eco0Count": 407,
+      "avgKw": 89,
+      "avgCo2": 126,
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2024-11",
+      "total": 5490,
+      "eco0Count": 466,
+      "avgKw": 90,
+      "avgCo2": 125,
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2024-12",
+      "total": 7467,
+      "eco0Count": 758,
+      "avgKw": 92,
+      "avgCo2": 126,
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2025-01",
+      "total": 3990,
+      "eco0Count": 193,
+      "avgKw": 89,
+      "avgCo2": 125,
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2025-02",
+      "total": 6151,
+      "eco0Count": 402,
+      "avgKw": 88,
+      "avgCo2": 123,
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2025-03",
+      "total": 8869,
+      "eco0Count": 726,
+      "avgKw": 88,
+      "avgCo2": 124,
+      "topModel": "ARONA"
+    },
+    {
+      "period": "2025-04",
+      "total": 5914,
+      "eco0Count": 384,
+      "avgKw": 86,
+      "avgCo2": 122,
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2025-05",
+      "total": 6849,
+      "eco0Count": 573,
+      "avgKw": 88,
+      "avgCo2": 120,
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2025-06",
+      "total": 6897,
+      "eco0Count": 446,
+      "avgKw": 87,
+      "avgCo2": 122,
+      "topModel": "ARONA"
+    },
+    {
+      "period": "2025-07",
+      "total": 6443,
+      "eco0Count": 404,
+      "avgKw": 87,
+      "avgCo2": 121,
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2025-08",
+      "total": 3487,
+      "eco0Count": 219,
+      "avgKw": 89,
+      "avgCo2": 122,
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2025-09",
+      "total": 4954,
+      "eco0Count": 247,
+      "avgKw": 87,
+      "avgCo2": 122,
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2025-10",
+      "total": 5412,
+      "eco0Count": 359,
+      "avgKw": 88,
+      "avgCo2": 123,
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2025-11",
+      "total": 5493,
+      "eco0Count": 555,
+      "avgKw": 87,
+      "avgCo2": 122,
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2025-12",
+      "total": 5909,
+      "eco0Count": 527,
+      "avgKw": 88,
+      "avgCo2": 121,
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2026-01",
+      "total": 5411,
+      "eco0Count": 273,
+      "avgKw": 87,
+      "avgCo2": 122,
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2026-02",
+      "total": 6144,
+      "eco0Count": 353,
+      "avgKw": 87,
+      "avgCo2": 122,
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2026-03",
+      "total": 7821,
+      "eco0Count": 769,
+      "avgKw": 88,
+      "avgCo2": 122,
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2026-04",
+      "total": 7291,
+      "eco0Count": 500,
+      "avgKw": 88,
+      "avgCo2": 122,
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2026-05",
+      "total": 6061,
+      "eco0Count": 352,
+      "avgKw": 88,
+      "avgCo2": 122,
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2026-06",
+      "total": 8405,
+      "eco0Count": 457,
+      "avgKw": 87,
+      "avgCo2": 123,
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2026-07",
+      "total": 5878,
+      "eco0Count": 268,
+      "avgKw": 86,
+      "avgCo2": 122,
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2026-08",
+      "total": 4201,
+      "eco0Count": 316,
+      "avgKw": 87,
+      "avgCo2": 122,
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2026-09",
+      "total": 5220,
+      "eco0Count": 354,
+      "avgKw": 86,
+      "avgCo2": 122,
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2026-10",
+      "total": 4164,
+      "eco0Count": 357,
+      "avgKw": 88,
+      "avgCo2": 122,
+      "topModel": "IBIZA"
+    }
+  ],
+  "models": [
+    {
+      "brand": "SEAT",
+      "brandSlug": "seat",
+      "model": "IBIZA",
+      "modelSlug": "ibiza",
+      "fullName": "SEAT IBIZA",
+      "total": 70838,
+      "percentage": 1.31,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 80,
+      "avgCv": 108,
+      "avgCo2": 118
+    },
+    {
+      "brand": "SEAT",
+      "brandSlug": "seat",
+      "model": "ARONA",
+      "modelSlug": "arona",
+      "fullName": "SEAT ARONA",
+      "total": 58672,
+      "percentage": 1.08,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 85,
+      "avgCv": 116,
+      "avgCo2": 123
+    },
+    {
+      "brand": "SEAT",
+      "brandSlug": "seat",
+      "model": "SEAT LEON",
+      "modelSlug": "seat-leon",
+      "fullName": "SEAT SEAT LEON",
+      "total": 25332,
+      "percentage": 0.47,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 95,
+      "avgCv": 129,
+      "avgCo2": 125
+    },
+    {
+      "brand": "SEAT",
+      "brandSlug": "seat",
+      "model": "SEAT ATECA",
+      "modelSlug": "seat-ateca",
+      "fullName": "SEAT SEAT ATECA",
+      "total": 4087,
+      "percentage": 0.08,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 104,
+      "avgCv": 142,
+      "avgCo2": 146
+    }
+  ],
+  "leadProvinces": [
+    {
+      "province": "Las Palmas",
+      "slug": "las-palmas",
+      "monthsLeading": 3
+    },
+    {
+      "province": "Santa Cruz de Tenerife",
+      "slug": "santa-cruz-de-tenerife",
+      "monthsLeading": 3
+    },
+    {
+      "province": "Huesca",
+      "slug": "huesca",
+      "monthsLeading": 1
+    }
+  ]
+}

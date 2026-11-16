@@ -1,0 +1,137 @@
+{
+  "brand": "YAMAHA",
+  "brandSlug": "yamaha",
+  "model": "GPD125-A",
+  "modelSlug": "gpd125-a",
+  "fullName": "YAMAHA GPD125-A",
+  "total": 12677,
+  "percentage": 0.23,
+  "category": "Motocicleta",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 9,
+  "avgCv": 12,
+  "avgCo2": 52,
+  "evolution": [
+    {
+      "period": "2024-01",
+      "total": 615,
+      "avgKw": 9,
+      "avgCv": 12,
+      "avgCo2": 52,
+      "avgTara": 131
+    },
+    {
+      "period": "2024-04",
+      "total": 866,
+      "avgKw": 9,
+      "avgCv": 12,
+      "avgCo2": 52,
+      "avgTara": 131
+    },
+    {
+      "period": "2024-07",
+      "total": 852,
+      "avgKw": 9,
+      "avgCv": 12,
+      "avgCo2": 52,
+      "avgTara": 131
+    },
+    {
+      "period": "2024-08",
+      "total": 758,
+      "avgKw": 9,
+      "avgCv": 12,
+      "avgCo2": 52,
+      "avgTara": 131
+    },
+    {
+      "period": "2024-09",
+      "total": 926,
+      "avgKw": 9,
+      "avgCv": 12,
+      "avgCo2": 52,
+      "avgTara": 131
+    },
+    {
+      "period": "2024-10",
+      "total": 980,
+      "avgKw": 9,
+      "avgCv": 12,
+      "avgCo2": 52,
+      "avgTara": 131
+    },
+    {
+      "period": "2025-01",
+      "total": 804,
+      "avgKw": 9,
+      "avgCv": 12,
+      "avgCo2": 52,
+      "avgTara": 132
+    },
+    {
+      "period": "2025-02",
+      "total": 876,
+      "avgKw": 9,
+      "avgCv": 12,
+      "avgCo2": 52,
+      "avgTara": 132
+    },
+    {
+      "period": "2025-07",
+      "total": 895,
+      "avgKw": 9,
+      "avgCv": 12,
+      "avgCo2": 52,
+      "avgTara": 132
+    },
+    {
+      "period": "2025-08",
+      "total": 578,
+      "avgKw": 9,
+      "avgCv": 12,
+      "avgCo2": 52,
+      "avgTara": 132
+    },
+    {
+      "period": "2025-09",
+      "total": 819,
+      "avgKw": 9,
+      "avgCv": 12,
+      "avgCo2": 52,
+      "avgTara": 132
+    },
+    {
+      "period": "2026-07",
+      "total": 1060,
+      "avgKw": 9,
+      "avgCv": 12,
+      "avgCo2": 52,
+      "avgTara": 132
+    },
+    {
+      "period": "2026-08",
+      "total": 765,
+      "avgKw": 9,
+      "avgCv": 12,
+      "avgCo2": 52,
+      "avgTara": 132
+    },
+    {
+      "period": "2026-09",
+      "total": 975,
+      "avgKw": 9,
+      "avgCv": 12,
+      "avgCo2": 52,
+      "avgTara": 132
+    },
+    {
+      "period": "2026-10",
+      "total": 908,
+      "avgKw": 9,
+      "avgCv": 12,
+      "avgCo2": 52,
+      "avgTara": 132
+    }
+  ]
+}

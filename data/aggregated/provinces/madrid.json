@@ -1,0 +1,439 @@
+{
+  "code": "28",
+  "name": "Madrid",
+  "slug": "madrid",
+  "community": "Comunidad de Madrid",
+  "population": 7000621,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 1864641,
+  "percentageOfSpain": 34.45,
+  "per1000Habitantes": 266.35,
+  "ceroCount": 139725,
+  "ecoCount": 630287,
+  "bevCount": 127663,
+  "phevCount": 12062,
+  "hevCount": 630160,
+  "ceroPercentage": 7.5,
+  "ecoPercentage": 33.8,
+  "bevPercentage": 6.8,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 39166,
+      "cero": 1878,
+      "eco": 12338,
+      "bev": 1772,
+      "phev": 106,
+      "hev": 12335,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2024-02",
+      "total": 49746,
+      "cero": 2258,
+      "eco": 13104,
+      "bev": 2008,
+      "phev": 250,
+      "hev": 13102,
+      "topBrand": "PEUGEOT",
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2024-03",
+      "total": 58323,
+      "cero": 2416,
+      "eco": 17352,
+      "bev": 2299,
+      "phev": 117,
+      "hev": 17352,
+      "topBrand": "TOYOTA",
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2024-04",
+      "total": 59347,
+      "cero": 2310,
+      "eco": 15192,
+      "bev": 2186,
+      "phev": 124,
+      "hev": 15192,
+      "topBrand": "RENAULT",
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2024-05",
+      "total": 62266,
+      "cero": 2632,
+      "eco": 17570,
+      "bev": 2552,
+      "phev": 80,
+      "hev": 17570,
+      "topBrand": "RENAULT",
+      "topModel": "NUEVO 2008 ALLURE PURE"
+    },
+    {
+      "period": "2024-06",
+      "total": 67144,
+      "cero": 2985,
+      "eco": 18884,
+      "bev": 2942,
+      "phev": 43,
+      "hev": 18884,
+      "topBrand": "RENAULT",
+      "topModel": "ARONA"
+    },
+    {
+      "period": "2024-07",
+      "total": 47899,
+      "cero": 2493,
+      "eco": 14472,
+      "bev": 2456,
+      "phev": 37,
+      "hev": 14467,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2024-08",
+      "total": 26688,
+      "cero": 1566,
+      "eco": 8333,
+      "bev": 1532,
+      "phev": 34,
+      "hev": 8333,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2024-09",
+      "total": 41984,
+      "cero": 2975,
+      "eco": 13133,
+      "bev": 2905,
+      "phev": 70,
+      "hev": 13133,
+      "topBrand": "TOYOTA",
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2024-10",
+      "total": 47075,
+      "cero": 3022,
+      "eco": 14893,
+      "bev": 2982,
+      "phev": 40,
+      "hev": 14891,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2024-11",
+      "total": 46347,
+      "cero": 3001,
+      "eco": 16241,
+      "bev": 2952,
+      "phev": 49,
+      "hev": 16232,
+      "topBrand": "RENAULT",
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2024-12",
+      "total": 61369,
+      "cero": 4494,
+      "eco": 21608,
+      "bev": 4385,
+      "phev": 109,
+      "hev": 21606,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2025-01",
+      "total": 38351,
+      "cero": 2809,
+      "eco": 13638,
+      "bev": 2697,
+      "phev": 112,
+      "hev": 13626,
+      "topBrand": "RENAULT",
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2025-02",
+      "total": 52870,
+      "cero": 3661,
+      "eco": 18969,
+      "bev": 3495,
+      "phev": 166,
+      "hev": 18962,
+      "topBrand": "RENAULT",
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2025-03",
+      "total": 73946,
+      "cero": 4192,
+      "eco": 25170,
+      "bev": 4009,
+      "phev": 183,
+      "hev": 25162,
+      "topBrand": "RENAULT",
+      "topModel": "ARONA"
+    },
+    {
+      "period": "2025-04",
+      "total": 59944,
+      "cero": 4390,
+      "eco": 19692,
+      "bev": 3978,
+      "phev": 412,
+      "hev": 19688,
+      "topBrand": "RENAULT",
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2025-05",
+      "total": 69715,
+      "cero": 5518,
+      "eco": 22568,
+      "bev": 5109,
+      "phev": 409,
+      "hev": 22564,
+      "topBrand": "PEUGEOT",
+      "topModel": "ARONA"
+    },
+    {
+      "period": "2025-06",
+      "total": 73622,
+      "cero": 6609,
+      "eco": 23655,
+      "bev": 6321,
+      "phev": 288,
+      "hev": 23648,
+      "topBrand": "RENAULT",
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2025-07",
+      "total": 54316,
+      "cero": 4547,
+      "eco": 17375,
+      "bev": 4053,
+      "phev": 494,
+      "hev": 17368,
+      "topBrand": "TOYOTA",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-08",
+      "total": 30799,
+      "cero": 3340,
+      "eco": 9700,
+      "bev": 3045,
+      "phev": 295,
+      "hev": 9696,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2025-09",
+      "total": 48787,
+      "cero": 4713,
+      "eco": 15966,
+      "bev": 4328,
+      "phev": 385,
+      "hev": 15960,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2025-10",
+      "total": 54891,
+      "cero": 5229,
+      "eco": 18254,
+      "bev": 4540,
+      "phev": 689,
+      "hev": 18246,
+      "topBrand": "RENAULT",
+      "topModel": "TIGUAN"
+    },
+    {
+      "period": "2025-11",
+      "total": 50866,
+      "cero": 4879,
+      "eco": 18037,
+      "bev": 4280,
+      "phev": 599,
+      "hev": 18028,
+      "topBrand": "RENAULT",
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2025-12",
+      "total": 58659,
+      "cero": 5825,
+      "eco": 21513,
+      "bev": 5233,
+      "phev": 592,
+      "hev": 21508,
+      "topBrand": "RENAULT",
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2026-01",
+      "total": 42932,
+      "cero": 3653,
+      "eco": 15960,
+      "bev": 3281,
+      "phev": 372,
+      "hev": 15959,
+      "topBrand": "PEUGEOT",
+      "topModel": "ARONA"
+    },
+    {
+      "period": "2026-02",
+      "total": 60985,
+      "cero": 4878,
+      "eco": 23599,
+      "bev": 4417,
+      "phev": 461,
+      "hev": 23596,
+      "topBrand": "RENAULT",
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2026-03",
+      "total": 79449,
+      "cero": 5592,
+      "eco": 31465,
+      "bev": 5059,
+      "phev": 533,
+      "hev": 31461,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2026-04",
+      "total": 63045,
+      "cero": 4245,
+      "eco": 25334,
+      "bev": 3674,
+      "phev": 571,
+      "hev": 25333,
+      "topBrand": "PEUGEOT",
+      "topModel": "2008 ALLURE HYBRID 145"
+    },
+    {
+      "period": "2026-05",
+      "total": 67065,
+      "cero": 5133,
+      "eco": 26009,
+      "bev": 4634,
+      "phev": 499,
+      "hev": 26006,
+      "topBrand": "RENAULT",
+      "topModel": "MG3 HYBRID+"
+    },
+    {
+      "period": "2026-06",
+      "total": 78666,
+      "cero": 7104,
+      "eco": 29593,
+      "bev": 6015,
+      "phev": 1089,
+      "hev": 29593,
+      "topBrand": "PEUGEOT",
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2026-07",
+      "total": 57941,
+      "cero": 4986,
+      "eco": 21388,
+      "bev": 4101,
+      "phev": 885,
+      "hev": 21381,
+      "topBrand": "TOYOTA",
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2026-08",
+      "total": 35708,
+      "cero": 3669,
+      "eco": 12933,
+      "bev": 3313,
+      "phev": 356,
+      "hev": 12932,
+      "topBrand": "TOYOTA",
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2026-09",
+      "total": 51717,
+      "cero": 6229,
+      "eco": 17657,
+      "bev": 5424,
+      "phev": 805,
+      "hev": 17657,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2026-10",
+      "total": 53013,
+      "cero": 6494,
+      "eco": 18692,
+      "bev": 5686,
+      "phev": 808,
+      "hev": 18689,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TIGUAN"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 14
+    },
+    {
+      "brand": "RENAULT",
+      "slug": "renault",
+      "timesLeader": 14
+    },
+    {
+      "brand": "PEUGEOT",
+      "slug": "peugeot",
+      "timesLeader": 5
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "timesLeader": 1
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "IBIZA",
+      "timesLeader": 7
+    },
+    {
+      "model": "TOYOTA COROLLA",
+      "timesLeader": 6
+    },
+    {
+      "model": "ARONA",
+      "timesLeader": 4
+    },
+    {
+      "model": "TOYOTA C-HR",
+      "timesLeader": 4
+    },
+    {
+      "model": "NISSAN QASHQAI",
+      "timesLeader": 3
+    }
+  ]
+}

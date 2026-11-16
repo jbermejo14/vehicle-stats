@@ -1,0 +1,113 @@
+{
+  "brand": "NISSAN",
+  "brandSlug": "nissan",
+  "model": "NISSAN JUKE",
+  "modelSlug": "nissan-juke",
+  "fullName": "NISSAN NISSAN JUKE",
+  "total": 12564,
+  "percentage": 0.23,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 80,
+  "avgCv": 108,
+  "avgCo2": 127,
+  "evolution": [
+    {
+      "period": "2024-02",
+      "total": 908,
+      "avgKw": 80,
+      "avgCv": 108,
+      "avgCo2": 128,
+      "avgTara": 1308
+    },
+    {
+      "period": "2024-03",
+      "total": 1812,
+      "avgKw": 83,
+      "avgCv": 112,
+      "avgCo2": 132,
+      "avgTara": 1285
+    },
+    {
+      "period": "2024-08",
+      "total": 497,
+      "avgKw": 78,
+      "avgCv": 107,
+      "avgCo2": 125,
+      "avgTara": 1327
+    },
+    {
+      "period": "2024-09",
+      "total": 694,
+      "avgKw": 78,
+      "avgCv": 106,
+      "avgCo2": 125,
+      "avgTara": 1331
+    },
+    {
+      "period": "2024-10",
+      "total": 752,
+      "avgKw": 79,
+      "avgCv": 108,
+      "avgCo2": 127,
+      "avgTara": 1319
+    },
+    {
+      "period": "2024-11",
+      "total": 728,
+      "avgKw": 79,
+      "avgCv": 107,
+      "avgCo2": 125,
+      "avgTara": 1326
+    },
+    {
+      "period": "2025-01",
+      "total": 896,
+      "avgKw": 80,
+      "avgCv": 108,
+      "avgCo2": 127,
+      "avgTara": 1315
+    },
+    {
+      "period": "2025-02",
+      "total": 880,
+      "avgKw": 77,
+      "avgCv": 105,
+      "avgCo2": 122,
+      "avgTara": 1336
+    },
+    {
+      "period": "2025-03",
+      "total": 2086,
+      "avgKw": 81,
+      "avgCv": 110,
+      "avgCo2": 128,
+      "avgTara": 1311
+    },
+    {
+      "period": "2025-07",
+      "total": 900,
+      "avgKw": 79,
+      "avgCv": 108,
+      "avgCo2": 125,
+      "avgTara": 1321
+    },
+    {
+      "period": "2026-02",
+      "total": 921,
+      "avgKw": 79,
+      "avgCv": 108,
+      "avgCo2": 125,
+      "avgTara": 1322
+    },
+    {
+      "period": "2026-03",
+      "total": 1490,
+      "avgKw": 79,
+      "avgCv": 107,
+      "avgCo2": 123,
+      "avgTara": 1325
+    }
+  ]
+}

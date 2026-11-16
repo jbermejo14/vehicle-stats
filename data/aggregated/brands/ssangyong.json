@@ -1,0 +1,28 @@
+{
+  "brand": "SSANGYONG",
+  "slug": "ssangyong",
+  "total": 2165,
+  "percentage": 0.04,
+  "eco0Percentage": 0.2,
+  "avgKw": 110,
+  "monthlyEvolution": [
+    {
+      "period": "2024-04",
+      "total": 927,
+      "eco0Count": 2,
+      "avgKw": 108,
+      "avgCo2": 170,
+      "topModel": "TIVOLI"
+    },
+    {
+      "period": "2024-05",
+      "total": 1238,
+      "eco0Count": 2,
+      "avgKw": 112,
+      "avgCo2": 175,
+      "topModel": "TIVOLI"
+    }
+  ],
+  "models": [],
+  "leadProvinces": []
+}

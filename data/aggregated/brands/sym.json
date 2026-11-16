@@ -1,0 +1,172 @@
+{
+  "brand": "SYM",
+  "slug": "sym",
+  "total": 27264,
+  "percentage": 0.5,
+  "eco0Percentage": 0,
+  "avgKw": 9,
+  "monthlyEvolution": [
+    {
+      "period": "2024-04",
+      "total": 976,
+      "eco0Count": 0,
+      "avgKw": 9,
+      "avgCo2": 60,
+      "topModel": "SYMPHONY 125 SR E5"
+    },
+    {
+      "period": "2024-05",
+      "total": 1140,
+      "eco0Count": 0,
+      "avgKw": 9,
+      "avgCo2": 60,
+      "topModel": "SYMPHONY 125 SR E5"
+    },
+    {
+      "period": "2024-06",
+      "total": 1280,
+      "eco0Count": 0,
+      "avgKw": 9,
+      "avgCo2": 60,
+      "topModel": "SYMPHONY 125 SR E5"
+    },
+    {
+      "period": "2024-07",
+      "total": 1488,
+      "eco0Count": 0,
+      "avgKw": 9,
+      "avgCo2": 60,
+      "topModel": "SYMPHONY 125 SR E5"
+    },
+    {
+      "period": "2024-08",
+      "total": 951,
+      "eco0Count": 0,
+      "avgKw": 9,
+      "avgCo2": 60,
+      "topModel": "SYMPHONY 125 SR E5"
+    },
+    {
+      "period": "2024-09",
+      "total": 1168,
+      "eco0Count": 0,
+      "avgKw": 9,
+      "avgCo2": 60,
+      "topModel": "SYMPHONY 125 SR E5"
+    },
+    {
+      "period": "2024-10",
+      "total": 1196,
+      "eco0Count": 0,
+      "avgKw": 9,
+      "avgCo2": 59,
+      "topModel": "SYMPHONY 125 SR E5"
+    },
+    {
+      "period": "2024-12",
+      "total": 1438,
+      "eco0Count": 0,
+      "avgKw": 9,
+      "avgCo2": 60,
+      "topModel": "SYMPHONY 125 SR E5"
+    },
+    {
+      "period": "2025-01",
+      "total": 793,
+      "eco0Count": 0,
+      "avgKw": 9,
+      "avgCo2": 60,
+      "topModel": "SYMPHONY 125 SR E5"
+    },
+    {
+      "period": "2025-04",
+      "total": 1348,
+      "eco0Count": 0,
+      "avgKw": 9,
+      "avgCo2": 58,
+      "topModel": "SYMPHONY 125 SR E5+"
+    },
+    {
+      "period": "2025-05",
+      "total": 1493,
+      "eco0Count": 0,
+      "avgKw": 9,
+      "avgCo2": 58,
+      "topModel": "SYMPHONY 125 SR E5+"
+    },
+    {
+      "period": "2025-06",
+      "total": 1347,
+      "eco0Count": 0,
+      "avgKw": 9,
+      "avgCo2": 58,
+      "topModel": "SYMPHONY 125 SR E5+"
+    },
+    {
+      "period": "2025-07",
+      "total": 1853,
+      "eco0Count": 0,
+      "avgKw": 9,
+      "avgCo2": 58,
+      "topModel": "SYMPHONY 125 SR E5+"
+    },
+    {
+      "period": "2025-08",
+      "total": 1095,
+      "eco0Count": 0,
+      "avgKw": 9,
+      "avgCo2": 58,
+      "topModel": "SYMPHONY 125 SR E5+"
+    },
+    {
+      "period": "2025-09",
+      "total": 1510,
+      "eco0Count": 0,
+      "avgKw": 9,
+      "avgCo2": 58,
+      "topModel": "SYMPHONY 125 SR E5+"
+    },
+    {
+      "period": "2025-10",
+      "total": 1576,
+      "eco0Count": 0,
+      "avgKw": 9,
+      "avgCo2": 57,
+      "topModel": "SYMPHONY 125 SR E5+"
+    },
+    {
+      "period": "2026-04",
+      "total": 1293,
+      "eco0Count": 0,
+      "avgKw": 9,
+      "avgCo2": 58,
+      "topModel": "SYMPHONY  NEW 125 SR C"
+    },
+    {
+      "period": "2026-06",
+      "total": 2040,
+      "eco0Count": 0,
+      "avgKw": 9,
+      "avgCo2": 58,
+      "topModel": "SYMPHONY  NEW 125 SR C"
+    },
+    {
+      "period": "2026-07",
+      "total": 2018,
+      "eco0Count": 0,
+      "avgKw": 9,
+      "avgCo2": 58,
+      "topModel": "SYMPHONY  NEW 125 SR C"
+    },
+    {
+      "period": "2026-08",
+      "total": 1261,
+      "eco0Count": 0,
+      "avgKw": 9,
+      "avgCo2": 58,
+      "topModel": "SYMPHONY  NEW 125 SR C"
+    }
+  ],
+  "models": [],
+  "leadProvinces": []
+}

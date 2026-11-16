@@ -1,0 +1,81 @@
+{
+  "brand": "VOLVO",
+  "brandSlug": "volvo",
+  "model": "XC40",
+  "modelSlug": "xc40",
+  "fullName": "VOLVO XC40",
+  "total": 7786,
+  "percentage": 0.14,
+  "category": "Turismo",
+  "primaryFuel": "Híbrido (HEV)",
+  "primaryBadge": "ECO",
+  "avgKw": 122,
+  "avgCv": 165,
+  "avgCo2": 149,
+  "evolution": [
+    {
+      "period": "2024-03",
+      "total": 999,
+      "avgKw": 119,
+      "avgCv": 162,
+      "avgCo2": 152,
+      "avgTara": 1696
+    },
+    {
+      "period": "2024-04",
+      "total": 823,
+      "avgKw": 123,
+      "avgCv": 167,
+      "avgCo2": 151,
+      "avgTara": 1711
+    },
+    {
+      "period": "2024-07",
+      "total": 772,
+      "avgKw": 123,
+      "avgCv": 167,
+      "avgCo2": 148,
+      "avgTara": 1704
+    },
+    {
+      "period": "2024-08",
+      "total": 574,
+      "avgKw": 123,
+      "avgCv": 167,
+      "avgCo2": 148,
+      "avgTara": 1708
+    },
+    {
+      "period": "2024-11",
+      "total": 1063,
+      "avgKw": 122,
+      "avgCv": 165,
+      "avgCo2": 149,
+      "avgTara": 1693
+    },
+    {
+      "period": "2024-12",
+      "total": 1589,
+      "avgKw": 122,
+      "avgCv": 165,
+      "avgCo2": 149,
+      "avgTara": 1695
+    },
+    {
+      "period": "2025-11",
+      "total": 850,
+      "avgKw": 121,
+      "avgCv": 164,
+      "avgCo2": 149,
+      "avgTara": 1689
+    },
+    {
+      "period": "2025-12",
+      "total": 1116,
+      "avgKw": 121,
+      "avgCv": 164,
+      "avgCo2": 149,
+      "avgTara": 1689
+    }
+  ]
+}

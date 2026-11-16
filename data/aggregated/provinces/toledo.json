@@ -1,0 +1,444 @@
+{
+  "code": "45",
+  "name": "Toledo",
+  "slug": "toledo",
+  "community": "Castilla-La Mancha",
+  "population": 735150,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 58806,
+  "percentageOfSpain": 1.09,
+  "per1000Habitantes": 79.99,
+  "ceroCount": 6467,
+  "ecoCount": 15239,
+  "bevCount": 5631,
+  "phevCount": 836,
+  "hevCount": 15230,
+  "ceroPercentage": 11,
+  "ecoPercentage": 25.9,
+  "bevPercentage": 9.6,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 1418,
+      "cero": 96,
+      "eco": 313,
+      "bev": 78,
+      "phev": 18,
+      "hev": 313,
+      "topBrand": "PEUGEOT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-02",
+      "total": 1570,
+      "cero": 103,
+      "eco": 269,
+      "bev": 90,
+      "phev": 13,
+      "hev": 269,
+      "topBrand": "CITROEN",
+      "topModel": "NUEVO C4 PURETECH 130"
+    },
+    {
+      "period": "2024-03",
+      "total": 1615,
+      "cero": 296,
+      "eco": 364,
+      "bev": 224,
+      "phev": 72,
+      "hev": 364,
+      "topBrand": "RENAULT",
+      "topModel": "ASX 130T MHEV KAITEKI"
+    },
+    {
+      "period": "2024-04",
+      "total": 1512,
+      "cero": 90,
+      "eco": 338,
+      "bev": 76,
+      "phev": 14,
+      "hev": 338,
+      "topBrand": "TOYOTA",
+      "topModel": "FORESTER"
+    },
+    {
+      "period": "2024-05",
+      "total": 1614,
+      "cero": 149,
+      "eco": 331,
+      "bev": 145,
+      "phev": 4,
+      "hev": 331,
+      "topBrand": "PEUGEOT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-06",
+      "total": 1502,
+      "cero": 107,
+      "eco": 413,
+      "bev": 101,
+      "phev": 6,
+      "hev": 413,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-07",
+      "total": 1841,
+      "cero": 102,
+      "eco": 400,
+      "bev": 89,
+      "phev": 13,
+      "hev": 400,
+      "topBrand": "PEUGEOT",
+      "topModel": "NUEVO BERLINGO TALLA M"
+    },
+    {
+      "period": "2024-08",
+      "total": 1288,
+      "cero": 48,
+      "eco": 293,
+      "bev": 47,
+      "phev": 1,
+      "hev": 293,
+      "topBrand": "CITROEN",
+      "topModel": "C3 ORIGIN PURETECH 83"
+    },
+    {
+      "period": "2024-09",
+      "total": 1482,
+      "cero": 132,
+      "eco": 341,
+      "bev": 129,
+      "phev": 3,
+      "hev": 341,
+      "topBrand": "PEUGEOT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-10",
+      "total": 1665,
+      "cero": 110,
+      "eco": 437,
+      "bev": 106,
+      "phev": 4,
+      "hev": 437,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-11",
+      "total": 1605,
+      "cero": 138,
+      "eco": 505,
+      "bev": 133,
+      "phev": 5,
+      "hev": 504,
+      "topBrand": "RENAULT",
+      "topModel": "AUSTRAL"
+    },
+    {
+      "period": "2024-12",
+      "total": 1512,
+      "cero": 148,
+      "eco": 401,
+      "bev": 143,
+      "phev": 5,
+      "hev": 400,
+      "topBrand": "TOYOTA",
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2025-01",
+      "total": 1452,
+      "cero": 129,
+      "eco": 429,
+      "bev": 120,
+      "phev": 9,
+      "hev": 429,
+      "topBrand": "PEUGEOT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-02",
+      "total": 1582,
+      "cero": 134,
+      "eco": 432,
+      "bev": 123,
+      "phev": 11,
+      "hev": 432,
+      "topBrand": "PEUGEOT",
+      "topModel": "NUEVO C4 HYBRID 136 Ë-"
+    },
+    {
+      "period": "2025-03",
+      "total": 1691,
+      "cero": 159,
+      "eco": 532,
+      "bev": 146,
+      "phev": 13,
+      "hev": 531,
+      "topBrand": "PEUGEOT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-04",
+      "total": 1401,
+      "cero": 129,
+      "eco": 359,
+      "bev": 111,
+      "phev": 18,
+      "hev": 359,
+      "topBrand": "PEUGEOT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-05",
+      "total": 1668,
+      "cero": 169,
+      "eco": 393,
+      "bev": 134,
+      "phev": 35,
+      "hev": 393,
+      "topBrand": "PEUGEOT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-06",
+      "total": 1759,
+      "cero": 202,
+      "eco": 434,
+      "bev": 178,
+      "phev": 24,
+      "hev": 434,
+      "topBrand": "PEUGEOT",
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2025-07",
+      "total": 2229,
+      "cero": 351,
+      "eco": 579,
+      "bev": 309,
+      "phev": 42,
+      "hev": 579,
+      "topBrand": "PEUGEOT",
+      "topModel": "NUEVO C4 HYBRID 145 Ë-"
+    },
+    {
+      "period": "2025-08",
+      "total": 1768,
+      "cero": 153,
+      "eco": 465,
+      "bev": 127,
+      "phev": 26,
+      "hev": 464,
+      "topBrand": "OPEL",
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2025-09",
+      "total": 1677,
+      "cero": 233,
+      "eco": 444,
+      "bev": 200,
+      "phev": 33,
+      "hev": 444,
+      "topBrand": "PEUGEOT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-10",
+      "total": 2001,
+      "cero": 225,
+      "eco": 517,
+      "bev": 172,
+      "phev": 53,
+      "hev": 517,
+      "topBrand": "CITROEN",
+      "topModel": "NUEVO C4 HYBRID 145 Ë-"
+    },
+    {
+      "period": "2025-11",
+      "total": 1826,
+      "cero": 211,
+      "eco": 599,
+      "bev": 174,
+      "phev": 37,
+      "hev": 598,
+      "topBrand": "CITROEN",
+      "topModel": "NUEVO C4 HYBRID 145 Ë-"
+    },
+    {
+      "period": "2025-12",
+      "total": 1700,
+      "cero": 264,
+      "eco": 460,
+      "bev": 225,
+      "phev": 39,
+      "hev": 460,
+      "topBrand": "RENAULT",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2026-01",
+      "total": 1517,
+      "cero": 171,
+      "eco": 442,
+      "bev": 131,
+      "phev": 40,
+      "hev": 442,
+      "topBrand": "PEUGEOT",
+      "topModel": "NUEVO C4 HYBRID 145 Ë-"
+    },
+    {
+      "period": "2026-02",
+      "total": 1713,
+      "cero": 240,
+      "eco": 506,
+      "bev": 201,
+      "phev": 39,
+      "hev": 505,
+      "topBrand": "PEUGEOT",
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2026-03",
+      "total": 2341,
+      "cero": 263,
+      "eco": 629,
+      "bev": 234,
+      "phev": 29,
+      "hev": 628,
+      "topBrand": "CITROEN",
+      "topModel": "NUEVO C4 HYBRID 145 Ë-"
+    },
+    {
+      "period": "2026-04",
+      "total": 1658,
+      "cero": 206,
+      "eco": 403,
+      "bev": 182,
+      "phev": 24,
+      "hev": 401,
+      "topBrand": "PEUGEOT",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2026-05",
+      "total": 1896,
+      "cero": 241,
+      "eco": 504,
+      "bev": 219,
+      "phev": 22,
+      "hev": 504,
+      "topBrand": "PEUGEOT",
+      "topModel": "NUEVO C4 HYBRID 145 Ë-"
+    },
+    {
+      "period": "2026-06",
+      "total": 2064,
+      "cero": 260,
+      "eco": 480,
+      "bev": 220,
+      "phev": 40,
+      "hev": 480,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-07",
+      "total": 2311,
+      "cero": 235,
+      "eco": 649,
+      "bev": 196,
+      "phev": 39,
+      "hev": 649,
+      "topBrand": "PEUGEOT",
+      "topModel": "2008 ALLURE HYBRID 145"
+    },
+    {
+      "period": "2026-08",
+      "total": 1648,
+      "cero": 222,
+      "eco": 510,
+      "bev": 187,
+      "phev": 35,
+      "hev": 510,
+      "topBrand": "OPEL",
+      "topModel": "MOKKA GS 1.2 T XHT HYB"
+    },
+    {
+      "period": "2026-09",
+      "total": 2177,
+      "cero": 410,
+      "eco": 556,
+      "bev": 381,
+      "phev": 29,
+      "hev": 556,
+      "topBrand": "CITROEN",
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2026-10",
+      "total": 2103,
+      "cero": 341,
+      "eco": 512,
+      "bev": 300,
+      "phev": 41,
+      "hev": 512,
+      "topBrand": "PEUGEOT",
+      "topModel": "SANDERO"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "PEUGEOT",
+      "slug": "peugeot",
+      "timesLeader": 18
+    },
+    {
+      "brand": "CITROEN",
+      "slug": "citroen",
+      "timesLeader": 6
+    },
+    {
+      "brand": "RENAULT",
+      "slug": "renault",
+      "timesLeader": 4
+    },
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 4
+    },
+    {
+      "brand": "OPEL",
+      "slug": "opel",
+      "timesLeader": 2
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "SANDERO",
+      "timesLeader": 12
+    },
+    {
+      "model": "NUEVO C4 HYBRID 145 Ë-",
+      "timesLeader": 6
+    },
+    {
+      "model": "MODEL 3",
+      "timesLeader": 4
+    },
+    {
+      "model": "NUEVO C4 PURETECH 130",
+      "timesLeader": 1
+    },
+    {
+      "model": "ASX 130T MHEV KAITEKI",
+      "timesLeader": 1
+    }
+  ]
+}

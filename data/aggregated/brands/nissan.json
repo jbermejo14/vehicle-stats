@@ -1,0 +1,321 @@
+{
+  "brand": "NISSAN",
+  "slug": "nissan",
+  "total": 109738,
+  "percentage": 2.03,
+  "eco0Percentage": 69.2,
+  "avgKw": 102,
+  "monthlyEvolution": [
+    {
+      "period": "2024-01",
+      "total": 2334,
+      "eco0Count": 1648,
+      "avgKw": 103,
+      "avgCo2": 140,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2024-02",
+      "total": 4021,
+      "eco0Count": 2940,
+      "avgKw": 103,
+      "avgCo2": 140,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2024-03",
+      "total": 5495,
+      "eco0Count": 3398,
+      "avgKw": 100,
+      "avgCo2": 139,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2024-04",
+      "total": 2616,
+      "eco0Count": 1611,
+      "avgKw": 101,
+      "avgCo2": 142,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2024-05",
+      "total": 3028,
+      "eco0Count": 2085,
+      "avgKw": 101,
+      "avgCo2": 140,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2024-06",
+      "total": 2799,
+      "eco0Count": 1825,
+      "avgKw": 100,
+      "avgCo2": 140,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2024-07",
+      "total": 2847,
+      "eco0Count": 2007,
+      "avgKw": 101,
+      "avgCo2": 139,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2024-08",
+      "total": 1857,
+      "eco0Count": 1270,
+      "avgKw": 100,
+      "avgCo2": 138,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2024-09",
+      "total": 2536,
+      "eco0Count": 1723,
+      "avgKw": 99,
+      "avgCo2": 138,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2024-10",
+      "total": 3308,
+      "eco0Count": 2299,
+      "avgKw": 101,
+      "avgCo2": 140,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2024-11",
+      "total": 3140,
+      "eco0Count": 2196,
+      "avgKw": 101,
+      "avgCo2": 139,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2024-12",
+      "total": 3151,
+      "eco0Count": 2312,
+      "avgKw": 102,
+      "avgCo2": 138,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2025-01",
+      "total": 3457,
+      "eco0Count": 2382,
+      "avgKw": 101,
+      "avgCo2": 138,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2025-02",
+      "total": 3542,
+      "eco0Count": 2486,
+      "avgKw": 101,
+      "avgCo2": 136,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2025-03",
+      "total": 6879,
+      "eco0Count": 4656,
+      "avgKw": 101,
+      "avgCo2": 138,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2025-04",
+      "total": 2844,
+      "eco0Count": 1771,
+      "avgKw": 100,
+      "avgCo2": 139,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2025-05",
+      "total": 3079,
+      "eco0Count": 2134,
+      "avgKw": 102,
+      "avgCo2": 137,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2025-06",
+      "total": 3717,
+      "eco0Count": 2508,
+      "avgKw": 101,
+      "avgCo2": 139,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2025-07",
+      "total": 3506,
+      "eco0Count": 2397,
+      "avgKw": 102,
+      "avgCo2": 138,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2025-08",
+      "total": 1968,
+      "eco0Count": 1274,
+      "avgKw": 99,
+      "avgCo2": 138,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2025-09",
+      "total": 2874,
+      "eco0Count": 1961,
+      "avgKw": 102,
+      "avgCo2": 137,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2025-10",
+      "total": 3308,
+      "eco0Count": 2331,
+      "avgKw": 103,
+      "avgCo2": 136,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2025-11",
+      "total": 3190,
+      "eco0Count": 2214,
+      "avgKw": 102,
+      "avgCo2": 136,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2025-12",
+      "total": 3204,
+      "eco0Count": 2310,
+      "avgKw": 103,
+      "avgCo2": 135,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2026-01",
+      "total": 2694,
+      "eco0Count": 2002,
+      "avgKw": 103,
+      "avgCo2": 132,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2026-02",
+      "total": 3758,
+      "eco0Count": 2654,
+      "avgKw": 102,
+      "avgCo2": 134,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2026-03",
+      "total": 5231,
+      "eco0Count": 3718,
+      "avgKw": 101,
+      "avgCo2": 130,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2026-04",
+      "total": 2463,
+      "eco0Count": 1703,
+      "avgKw": 102,
+      "avgCo2": 134,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2026-05",
+      "total": 3160,
+      "eco0Count": 2096,
+      "avgKw": 101,
+      "avgCo2": 136,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2026-06",
+      "total": 2987,
+      "eco0Count": 2141,
+      "avgKw": 104,
+      "avgCo2": 132,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2026-07",
+      "total": 3544,
+      "eco0Count": 2669,
+      "avgKw": 107,
+      "avgCo2": 137,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2026-08",
+      "total": 1825,
+      "eco0Count": 1221,
+      "avgKw": 103,
+      "avgCo2": 132,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2026-09",
+      "total": 2491,
+      "eco0Count": 1862,
+      "avgKw": 105,
+      "avgCo2": 131,
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2026-10",
+      "total": 2885,
+      "eco0Count": 2152,
+      "avgKw": 105,
+      "avgCo2": 133,
+      "topModel": "NISSAN QASHQAI"
+    }
+  ],
+  "models": [
+    {
+      "brand": "NISSAN",
+      "brandSlug": "nissan",
+      "model": "NISSAN QASHQAI",
+      "modelSlug": "nissan-qashqai",
+      "fullName": "NISSAN NISSAN QASHQAI",
+      "total": 54486,
+      "percentage": 1.01,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 111,
+      "avgCv": 151,
+      "avgCo2": 133
+    },
+    {
+      "brand": "NISSAN",
+      "brandSlug": "nissan",
+      "model": "NISSAN JUKE",
+      "modelSlug": "nissan-juke",
+      "fullName": "NISSAN NISSAN JUKE",
+      "total": 12564,
+      "percentage": 0.23,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 80,
+      "avgCv": 108,
+      "avgCo2": 127
+    }
+  ],
+  "leadProvinces": [
+    {
+      "province": "Illes Balears",
+      "slug": "illes-balears",
+      "monthsLeading": 1
+    }
+  ]
+}

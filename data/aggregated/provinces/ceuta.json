@@ -1,0 +1,429 @@
+{
+  "code": "51",
+  "name": "Ceuta",
+  "slug": "ceuta",
+  "community": "Ceuta",
+  "population": 83039,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 7437,
+  "percentageOfSpain": 0.14,
+  "per1000Habitantes": 89.56,
+  "ceroCount": 210,
+  "ecoCount": 1492,
+  "bevCount": 173,
+  "phevCount": 37,
+  "hevCount": 1492,
+  "ceroPercentage": 2.8,
+  "ecoPercentage": 20.1,
+  "bevPercentage": 2.3,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 195,
+      "cero": 2,
+      "eco": 24,
+      "bev": 2,
+      "phev": 0,
+      "hev": 24,
+      "topBrand": "HONDA",
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2024-02",
+      "total": 193,
+      "cero": 1,
+      "eco": 39,
+      "bev": 1,
+      "phev": 0,
+      "hev": 39,
+      "topBrand": "HONDA",
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2024-03",
+      "total": 160,
+      "cero": 1,
+      "eco": 25,
+      "bev": 1,
+      "phev": 0,
+      "hev": 25,
+      "topBrand": "HONDA",
+      "topModel": "TOURAN"
+    },
+    {
+      "period": "2024-04",
+      "total": 204,
+      "cero": 0,
+      "eco": 33,
+      "bev": 0,
+      "phev": 0,
+      "hev": 33,
+      "topBrand": "HONDA",
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2024-05",
+      "total": 240,
+      "cero": 3,
+      "eco": 57,
+      "bev": 3,
+      "phev": 0,
+      "hev": 57,
+      "topBrand": "HONDA",
+      "topModel": "DUSTER"
+    },
+    {
+      "period": "2024-06",
+      "total": 180,
+      "cero": 1,
+      "eco": 31,
+      "bev": 1,
+      "phev": 0,
+      "hev": 31,
+      "topBrand": "HONDA",
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2024-07",
+      "total": 198,
+      "cero": 2,
+      "eco": 38,
+      "bev": 1,
+      "phev": 1,
+      "hev": 38,
+      "topBrand": "HONDA",
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2024-08",
+      "total": 192,
+      "cero": 2,
+      "eco": 37,
+      "bev": 1,
+      "phev": 1,
+      "hev": 37,
+      "topBrand": "HONDA",
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2024-09",
+      "total": 237,
+      "cero": 1,
+      "eco": 35,
+      "bev": 1,
+      "phev": 0,
+      "hev": 35,
+      "topBrand": "HONDA",
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2024-10",
+      "total": 244,
+      "cero": 10,
+      "eco": 41,
+      "bev": 10,
+      "phev": 0,
+      "hev": 41,
+      "topBrand": "HONDA",
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2024-11",
+      "total": 179,
+      "cero": 5,
+      "eco": 36,
+      "bev": 5,
+      "phev": 0,
+      "hev": 36,
+      "topBrand": "HONDA",
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2024-12",
+      "total": 201,
+      "cero": 4,
+      "eco": 35,
+      "bev": 4,
+      "phev": 0,
+      "hev": 35,
+      "topBrand": "HONDA",
+      "topModel": "ADV350A"
+    },
+    {
+      "period": "2025-01",
+      "total": 192,
+      "cero": 1,
+      "eco": 54,
+      "bev": 1,
+      "phev": 0,
+      "hev": 54,
+      "topBrand": "HONDA",
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2025-02",
+      "total": 181,
+      "cero": 8,
+      "eco": 46,
+      "bev": 5,
+      "phev": 3,
+      "hev": 46,
+      "topBrand": "HONDA",
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2025-03",
+      "total": 163,
+      "cero": 7,
+      "eco": 35,
+      "bev": 7,
+      "phev": 0,
+      "hev": 35,
+      "topBrand": "HONDA",
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2025-04",
+      "total": 215,
+      "cero": 5,
+      "eco": 44,
+      "bev": 5,
+      "phev": 0,
+      "hev": 44,
+      "topBrand": "HONDA",
+      "topModel": "SH350A"
+    },
+    {
+      "period": "2025-05",
+      "total": 260,
+      "cero": 4,
+      "eco": 46,
+      "bev": 4,
+      "phev": 0,
+      "hev": 46,
+      "topBrand": "HONDA",
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2025-06",
+      "total": 233,
+      "cero": 13,
+      "eco": 47,
+      "bev": 12,
+      "phev": 1,
+      "hev": 47,
+      "topBrand": "HONDA",
+      "topModel": "ADV750"
+    },
+    {
+      "period": "2025-07",
+      "total": 307,
+      "cero": 6,
+      "eco": 61,
+      "bev": 6,
+      "phev": 0,
+      "hev": 61,
+      "topBrand": "HONDA",
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2025-08",
+      "total": 193,
+      "cero": 7,
+      "eco": 39,
+      "bev": 7,
+      "phev": 0,
+      "hev": 39,
+      "topBrand": "HONDA",
+      "topModel": "368G"
+    },
+    {
+      "period": "2025-09",
+      "total": 237,
+      "cero": 5,
+      "eco": 45,
+      "bev": 4,
+      "phev": 1,
+      "hev": 45,
+      "topBrand": "HONDA",
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2025-10",
+      "total": 262,
+      "cero": 11,
+      "eco": 50,
+      "bev": 5,
+      "phev": 6,
+      "hev": 50,
+      "topBrand": "HONDA",
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2025-11",
+      "total": 254,
+      "cero": 13,
+      "eco": 53,
+      "bev": 11,
+      "phev": 2,
+      "hev": 53,
+      "topBrand": "HONDA",
+      "topModel": "SH350A"
+    },
+    {
+      "period": "2025-12",
+      "total": 235,
+      "cero": 9,
+      "eco": 47,
+      "bev": 7,
+      "phev": 2,
+      "hev": 47,
+      "topBrand": "HONDA",
+      "topModel": "160E"
+    },
+    {
+      "period": "2026-01",
+      "total": 202,
+      "cero": 7,
+      "eco": 35,
+      "bev": 7,
+      "phev": 0,
+      "hev": 35,
+      "topBrand": "HONDA",
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2026-02",
+      "total": 178,
+      "cero": 9,
+      "eco": 48,
+      "bev": 5,
+      "phev": 4,
+      "hev": 48,
+      "topBrand": "HONDA",
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2026-03",
+      "total": 236,
+      "cero": 10,
+      "eco": 50,
+      "bev": 5,
+      "phev": 5,
+      "hev": 50,
+      "topBrand": "HONDA",
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2026-04",
+      "total": 227,
+      "cero": 7,
+      "eco": 51,
+      "bev": 6,
+      "phev": 1,
+      "hev": 51,
+      "topBrand": "HONDA",
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2026-05",
+      "total": 242,
+      "cero": 9,
+      "eco": 59,
+      "bev": 9,
+      "phev": 0,
+      "hev": 59,
+      "topBrand": "HONDA",
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2026-06",
+      "total": 248,
+      "cero": 13,
+      "eco": 44,
+      "bev": 11,
+      "phev": 2,
+      "hev": 44,
+      "topBrand": "HONDA",
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2026-07",
+      "total": 301,
+      "cero": 9,
+      "eco": 79,
+      "bev": 7,
+      "phev": 2,
+      "hev": 79,
+      "topBrand": "HONDA",
+      "topModel": "SH125AD"
+    },
+    {
+      "period": "2026-08",
+      "total": 210,
+      "cero": 5,
+      "eco": 43,
+      "bev": 3,
+      "phev": 2,
+      "hev": 43,
+      "topBrand": "ZONTES",
+      "topModel": "125X"
+    },
+    {
+      "period": "2026-09",
+      "total": 209,
+      "cero": 4,
+      "eco": 37,
+      "bev": 3,
+      "phev": 1,
+      "hev": 37,
+      "topBrand": "HONDA",
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2026-10",
+      "total": 229,
+      "cero": 16,
+      "eco": 48,
+      "bev": 13,
+      "phev": 3,
+      "hev": 48,
+      "topBrand": "HONDA",
+      "topModel": "125X"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "HONDA",
+      "slug": "honda",
+      "timesLeader": 33
+    },
+    {
+      "brand": "ZONTES",
+      "slug": "zontes",
+      "timesLeader": 1
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "SH125AD",
+      "timesLeader": 22
+    },
+    {
+      "model": "SH350A",
+      "timesLeader": 2
+    },
+    {
+      "model": "125X",
+      "timesLeader": 2
+    },
+    {
+      "model": "TOURAN",
+      "timesLeader": 1
+    },
+    {
+      "model": "DUSTER",
+      "timesLeader": 1
+    }
+  ]
+}

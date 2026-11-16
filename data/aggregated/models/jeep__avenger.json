@@ -1,0 +1,49 @@
+{
+  "brand": "JEEP",
+  "brandSlug": "jeep",
+  "model": "AVENGER",
+  "modelSlug": "avenger",
+  "fullName": "JEEP AVENGER",
+  "total": 3198,
+  "percentage": 0.06,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 86,
+  "avgCv": 117,
+  "avgCo2": 117,
+  "evolution": [
+    {
+      "period": "2025-08",
+      "total": 541,
+      "avgKw": 85,
+      "avgCv": 116,
+      "avgCo2": 122,
+      "avgTara": 1381
+    },
+    {
+      "period": "2025-10",
+      "total": 864,
+      "avgKw": 93,
+      "avgCv": 127,
+      "avgCo2": 118,
+      "avgTara": 1456
+    },
+    {
+      "period": "2026-01",
+      "total": 692,
+      "avgKw": 94,
+      "avgCv": 128,
+      "avgCo2": 119,
+      "avgTara": 1457
+    },
+    {
+      "period": "2026-06",
+      "total": 1101,
+      "avgKw": 76,
+      "avgCv": 104,
+      "avgCo2": 112,
+      "avgTara": 1367
+    }
+  ]
+}

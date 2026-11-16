@@ -1,0 +1,33 @@
+{
+  "brand": "CITROEN",
+  "brandSlug": "citroen",
+  "model": "C3 ORIGIN BLUE HDI 100",
+  "modelSlug": "c3-origin-blue-hdi-100",
+  "fullName": "CITROEN C3 ORIGIN BLUE HDI 100",
+  "total": 2452,
+  "percentage": 0.05,
+  "category": "Turismo",
+  "primaryFuel": "Diésel",
+  "primaryBadge": "C",
+  "avgKw": 75,
+  "avgCv": 102,
+  "avgCo2": 117,
+  "evolution": [
+    {
+      "period": "2024-05",
+      "total": 1087,
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 117,
+      "avgTara": 1165
+    },
+    {
+      "period": "2024-06",
+      "total": 1365,
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 117,
+      "avgTara": 1165
+    }
+  ]
+}

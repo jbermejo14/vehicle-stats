@@ -1,0 +1,444 @@
+{
+  "code": "25",
+  "name": "Lleida",
+  "slug": "lleida",
+  "community": "Cataluña",
+  "population": 447343,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 43416,
+  "percentageOfSpain": 0.8,
+  "per1000Habitantes": 97.05,
+  "ceroCount": 3411,
+  "ecoCount": 8745,
+  "bevCount": 3004,
+  "phevCount": 407,
+  "hevCount": 8744,
+  "ceroPercentage": 7.9,
+  "ecoPercentage": 20.1,
+  "bevPercentage": 6.9,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 907,
+      "cero": 37,
+      "eco": 162,
+      "bev": 30,
+      "phev": 7,
+      "hev": 162,
+      "topBrand": "PEUGEOT",
+      "topModel": "DUSTER"
+    },
+    {
+      "period": "2024-02",
+      "total": 1072,
+      "cero": 47,
+      "eco": 178,
+      "bev": 44,
+      "phev": 3,
+      "hev": 178,
+      "topBrand": "CITROEN",
+      "topModel": "DUSTER"
+    },
+    {
+      "period": "2024-03",
+      "total": 1119,
+      "cero": 58,
+      "eco": 147,
+      "bev": 53,
+      "phev": 5,
+      "hev": 147,
+      "topBrand": "RENAULT",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-04",
+      "total": 1188,
+      "cero": 57,
+      "eco": 198,
+      "bev": 48,
+      "phev": 9,
+      "hev": 198,
+      "topBrand": "TOYOTA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-05",
+      "total": 1103,
+      "cero": 55,
+      "eco": 186,
+      "bev": 51,
+      "phev": 4,
+      "hev": 186,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "BOOMER 35"
+    },
+    {
+      "period": "2024-06",
+      "total": 1204,
+      "cero": 71,
+      "eco": 227,
+      "bev": 70,
+      "phev": 1,
+      "hev": 227,
+      "topBrand": "RENAULT",
+      "topModel": "FH"
+    },
+    {
+      "period": "2024-07",
+      "total": 1233,
+      "cero": 42,
+      "eco": 227,
+      "bev": 42,
+      "phev": 0,
+      "hev": 227,
+      "topBrand": "RENAULT",
+      "topModel": "FH"
+    },
+    {
+      "period": "2024-08",
+      "total": 901,
+      "cero": 50,
+      "eco": 193,
+      "bev": 48,
+      "phev": 2,
+      "hev": 193,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-09",
+      "total": 1022,
+      "cero": 62,
+      "eco": 187,
+      "bev": 62,
+      "phev": 0,
+      "hev": 187,
+      "topBrand": "VOLVO",
+      "topModel": "FH"
+    },
+    {
+      "period": "2024-10",
+      "total": 1368,
+      "cero": 54,
+      "eco": 243,
+      "bev": 52,
+      "phev": 2,
+      "hev": 243,
+      "topBrand": "VOLVO",
+      "topModel": "FH"
+    },
+    {
+      "period": "2024-11",
+      "total": 1127,
+      "cero": 76,
+      "eco": 207,
+      "bev": 74,
+      "phev": 2,
+      "hev": 207,
+      "topBrand": "RENAULT",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-12",
+      "total": 1256,
+      "cero": 96,
+      "eco": 325,
+      "bev": 95,
+      "phev": 1,
+      "hev": 325,
+      "topBrand": "RENAULT",
+      "topModel": "DUSTER"
+    },
+    {
+      "period": "2025-01",
+      "total": 990,
+      "cero": 45,
+      "eco": 220,
+      "bev": 45,
+      "phev": 0,
+      "hev": 220,
+      "topBrand": "PEUGEOT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-02",
+      "total": 1066,
+      "cero": 65,
+      "eco": 230,
+      "bev": 55,
+      "phev": 10,
+      "hev": 230,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-03",
+      "total": 1253,
+      "cero": 83,
+      "eco": 284,
+      "bev": 75,
+      "phev": 8,
+      "hev": 284,
+      "topBrand": "RENAULT",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-04",
+      "total": 1203,
+      "cero": 68,
+      "eco": 246,
+      "bev": 60,
+      "phev": 8,
+      "hev": 246,
+      "topBrand": "VOLVO",
+      "topModel": "FH"
+    },
+    {
+      "period": "2025-05",
+      "total": 1344,
+      "cero": 101,
+      "eco": 251,
+      "bev": 91,
+      "phev": 10,
+      "hev": 251,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "CK2630"
+    },
+    {
+      "period": "2025-06",
+      "total": 1488,
+      "cero": 120,
+      "eco": 322,
+      "bev": 109,
+      "phev": 11,
+      "hev": 322,
+      "topBrand": "RENAULT",
+      "topModel": "BERLINGO VAN TALLA M B"
+    },
+    {
+      "period": "2025-07",
+      "total": 1440,
+      "cero": 109,
+      "eco": 281,
+      "bev": 92,
+      "phev": 17,
+      "hev": 280,
+      "topBrand": "RENAULT",
+      "topModel": "NUEVO C4 HYBRID 145 Ë-"
+    },
+    {
+      "period": "2025-08",
+      "total": 1000,
+      "cero": 91,
+      "eco": 212,
+      "bev": 77,
+      "phev": 14,
+      "hev": 212,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-09",
+      "total": 1308,
+      "cero": 127,
+      "eco": 257,
+      "bev": 105,
+      "phev": 22,
+      "hev": 257,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "BERLINGOáTALLA M BLUEH"
+    },
+    {
+      "period": "2025-10",
+      "total": 1600,
+      "cero": 117,
+      "eco": 331,
+      "bev": 94,
+      "phev": 23,
+      "hev": 331,
+      "topBrand": "RENAULT",
+      "topModel": "LTM-GEN LSL-XL"
+    },
+    {
+      "period": "2025-11",
+      "total": 1378,
+      "cero": 111,
+      "eco": 363,
+      "bev": 85,
+      "phev": 26,
+      "hev": 363,
+      "topBrand": "CITROEN",
+      "topModel": "BERLINGOáTALLA M BLUEH"
+    },
+    {
+      "period": "2025-12",
+      "total": 1363,
+      "cero": 124,
+      "eco": 370,
+      "bev": 96,
+      "phev": 28,
+      "hev": 370,
+      "topBrand": "RENAULT",
+      "topModel": "XC40"
+    },
+    {
+      "period": "2026-01",
+      "total": 1252,
+      "cero": 84,
+      "eco": 266,
+      "bev": 67,
+      "phev": 17,
+      "hev": 266,
+      "topBrand": "SCANIA",
+      "topModel": "FH"
+    },
+    {
+      "period": "2026-02",
+      "total": 1346,
+      "cero": 106,
+      "eco": 292,
+      "bev": 91,
+      "phev": 15,
+      "hev": 292,
+      "topBrand": "RENAULT",
+      "topModel": "R420"
+    },
+    {
+      "period": "2026-03",
+      "total": 1655,
+      "cero": 156,
+      "eco": 307,
+      "bev": 128,
+      "phev": 28,
+      "hev": 307,
+      "topBrand": "SCANIA",
+      "topModel": "R420"
+    },
+    {
+      "period": "2026-04",
+      "total": 1453,
+      "cero": 157,
+      "eco": 279,
+      "bev": 145,
+      "phev": 12,
+      "hev": 279,
+      "topBrand": "RENAULT",
+      "topModel": "FH"
+    },
+    {
+      "period": "2026-05",
+      "total": 1462,
+      "cero": 140,
+      "eco": 298,
+      "bev": 128,
+      "phev": 12,
+      "hev": 298,
+      "topBrand": "RENAULT",
+      "topModel": "CK2630"
+    },
+    {
+      "period": "2026-06",
+      "total": 1619,
+      "cero": 166,
+      "eco": 336,
+      "bev": 147,
+      "phev": 19,
+      "hev": 336,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "LTM-GEN LSL-XL"
+    },
+    {
+      "period": "2026-07",
+      "total": 1624,
+      "cero": 144,
+      "eco": 298,
+      "bev": 125,
+      "phev": 19,
+      "hev": 298,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "LTM-GEN LSL-XL"
+    },
+    {
+      "period": "2026-08",
+      "total": 1066,
+      "cero": 128,
+      "eco": 228,
+      "bev": 111,
+      "phev": 17,
+      "hev": 228,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2026-09",
+      "total": 1381,
+      "cero": 240,
+      "eco": 290,
+      "bev": 217,
+      "phev": 23,
+      "hev": 290,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "MODEL Y"
+    },
+    {
+      "period": "2026-10",
+      "total": 1625,
+      "cero": 224,
+      "eco": 304,
+      "bev": 192,
+      "phev": 32,
+      "hev": 304,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "FH"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "RENAULT",
+      "slug": "renault",
+      "timesLeader": 14
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "timesLeader": 8
+    },
+    {
+      "brand": "VOLVO",
+      "slug": "volvo",
+      "timesLeader": 3
+    },
+    {
+      "brand": "PEUGEOT",
+      "slug": "peugeot",
+      "timesLeader": 2
+    },
+    {
+      "brand": "CITROEN",
+      "slug": "citroen",
+      "timesLeader": 2
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "FH",
+      "timesLeader": 8
+    },
+    {
+      "model": "DUSTER",
+      "timesLeader": 3
+    },
+    {
+      "model": "DESCONOCIDO",
+      "timesLeader": 3
+    },
+    {
+      "model": "SANDERO",
+      "timesLeader": 3
+    },
+    {
+      "model": "LTM-GEN LSL-XL",
+      "timesLeader": 3
+    }
+  ]
+}

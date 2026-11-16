@@ -1,0 +1,444 @@
+{
+  "code": "13",
+  "name": "Ciudad Real",
+  "slug": "ciudad-real",
+  "community": "Castilla-La Mancha",
+  "population": 491927,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 29348,
+  "percentageOfSpain": 0.54,
+  "per1000Habitantes": 59.66,
+  "ceroCount": 1694,
+  "ecoCount": 6259,
+  "bevCount": 1444,
+  "phevCount": 250,
+  "hevCount": 6256,
+  "ceroPercentage": 5.8,
+  "ecoPercentage": 21.3,
+  "bevPercentage": 4.9,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 696,
+      "cero": 21,
+      "eco": 148,
+      "bev": 19,
+      "phev": 2,
+      "hev": 148,
+      "topBrand": "TOYOTA",
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2024-02",
+      "total": 690,
+      "cero": 24,
+      "eco": 151,
+      "bev": 23,
+      "phev": 1,
+      "hev": 151,
+      "topBrand": "TOYOTA",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-03",
+      "total": 706,
+      "cero": 21,
+      "eco": 141,
+      "bev": 21,
+      "phev": 0,
+      "hev": 141,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-04",
+      "total": 801,
+      "cero": 23,
+      "eco": 149,
+      "bev": 18,
+      "phev": 5,
+      "hev": 149,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-05",
+      "total": 720,
+      "cero": 23,
+      "eco": 137,
+      "bev": 23,
+      "phev": 0,
+      "hev": 137,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-06",
+      "total": 806,
+      "cero": 39,
+      "eco": 142,
+      "bev": 39,
+      "phev": 0,
+      "hev": 142,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-07",
+      "total": 835,
+      "cero": 11,
+      "eco": 208,
+      "bev": 11,
+      "phev": 0,
+      "hev": 208,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-08",
+      "total": 636,
+      "cero": 18,
+      "eco": 129,
+      "bev": 16,
+      "phev": 2,
+      "hev": 129,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-09",
+      "total": 701,
+      "cero": 31,
+      "eco": 160,
+      "bev": 30,
+      "phev": 1,
+      "hev": 160,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2024-10",
+      "total": 850,
+      "cero": 23,
+      "eco": 197,
+      "bev": 22,
+      "phev": 1,
+      "hev": 197,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2024-11",
+      "total": 767,
+      "cero": 21,
+      "eco": 164,
+      "bev": 21,
+      "phev": 0,
+      "hev": 164,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2024-12",
+      "total": 908,
+      "cero": 36,
+      "eco": 218,
+      "bev": 36,
+      "phev": 0,
+      "hev": 218,
+      "topBrand": "TOYOTA",
+      "topModel": "DUSTER"
+    },
+    {
+      "period": "2025-01",
+      "total": 750,
+      "cero": 12,
+      "eco": 155,
+      "bev": 12,
+      "phev": 0,
+      "hev": 155,
+      "topBrand": "TOYOTA",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2025-02",
+      "total": 763,
+      "cero": 27,
+      "eco": 154,
+      "bev": 22,
+      "phev": 5,
+      "hev": 154,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2025-03",
+      "total": 792,
+      "cero": 45,
+      "eco": 191,
+      "bev": 42,
+      "phev": 3,
+      "hev": 190,
+      "topBrand": "TOYOTA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-04",
+      "total": 785,
+      "cero": 39,
+      "eco": 148,
+      "bev": 33,
+      "phev": 6,
+      "hev": 148,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-05",
+      "total": 902,
+      "cero": 47,
+      "eco": 156,
+      "bev": 39,
+      "phev": 8,
+      "hev": 156,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-06",
+      "total": 818,
+      "cero": 54,
+      "eco": 185,
+      "bev": 46,
+      "phev": 8,
+      "hev": 185,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-07",
+      "total": 1004,
+      "cero": 71,
+      "eco": 184,
+      "bev": 54,
+      "phev": 17,
+      "hev": 184,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-08",
+      "total": 799,
+      "cero": 42,
+      "eco": 148,
+      "bev": 36,
+      "phev": 6,
+      "hev": 148,
+      "topBrand": "TOYOTA",
+      "topModel": "SEAT LEON"
+    },
+    {
+      "period": "2025-09",
+      "total": 927,
+      "cero": 65,
+      "eco": 184,
+      "bev": 51,
+      "phev": 14,
+      "hev": 184,
+      "topBrand": "BMW",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-10",
+      "total": 1023,
+      "cero": 72,
+      "eco": 200,
+      "bev": 57,
+      "phev": 15,
+      "hev": 200,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-11",
+      "total": 905,
+      "cero": 61,
+      "eco": 227,
+      "bev": 51,
+      "phev": 10,
+      "hev": 227,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-12",
+      "total": 940,
+      "cero": 86,
+      "eco": 236,
+      "bev": 58,
+      "phev": 28,
+      "hev": 235,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2026-01",
+      "total": 790,
+      "cero": 39,
+      "eco": 179,
+      "bev": 30,
+      "phev": 9,
+      "hev": 179,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "ARONA"
+    },
+    {
+      "period": "2026-02",
+      "total": 907,
+      "cero": 64,
+      "eco": 210,
+      "bev": 56,
+      "phev": 8,
+      "hev": 210,
+      "topBrand": "TOYOTA",
+      "topModel": "SPRINTER"
+    },
+    {
+      "period": "2026-03",
+      "total": 998,
+      "cero": 76,
+      "eco": 226,
+      "bev": 54,
+      "phev": 22,
+      "hev": 225,
+      "topBrand": "TOYOTA",
+      "topModel": "ARONA"
+    },
+    {
+      "period": "2026-04",
+      "total": 915,
+      "cero": 81,
+      "eco": 199,
+      "bev": 69,
+      "phev": 12,
+      "hev": 199,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-05",
+      "total": 882,
+      "cero": 65,
+      "eco": 197,
+      "bev": 55,
+      "phev": 10,
+      "hev": 197,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2026-06",
+      "total": 1171,
+      "cero": 102,
+      "eco": 254,
+      "bev": 89,
+      "phev": 13,
+      "hev": 254,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2026-07",
+      "total": 1109,
+      "cero": 87,
+      "eco": 242,
+      "bev": 71,
+      "phev": 16,
+      "hev": 242,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-08",
+      "total": 774,
+      "cero": 47,
+      "eco": 178,
+      "bev": 42,
+      "phev": 5,
+      "hev": 178,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-09",
+      "total": 1042,
+      "cero": 105,
+      "eco": 222,
+      "bev": 92,
+      "phev": 13,
+      "hev": 222,
+      "topBrand": "BERGADANA",
+      "topModel": "FORD TRANSIT AMBULANCE"
+    },
+    {
+      "period": "2026-10",
+      "total": 1236,
+      "cero": 116,
+      "eco": 240,
+      "bev": 106,
+      "phev": 10,
+      "hev": 240,
+      "topBrand": "RODRIGUEZ LOPEZ AUTO",
+      "topModel": "VW CRAFTER STIL"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 12
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "timesLeader": 12
+    },
+    {
+      "brand": "RENAULT",
+      "slug": "renault",
+      "timesLeader": 4
+    },
+    {
+      "brand": "MERCEDES-BENZ",
+      "slug": "mercedes-benz",
+      "timesLeader": 3
+    },
+    {
+      "brand": "BMW",
+      "slug": "bmw",
+      "timesLeader": 1
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "SANDERO",
+      "timesLeader": 14
+    },
+    {
+      "model": "SPORTAGE",
+      "timesLeader": 4
+    },
+    {
+      "model": "TUCSON",
+      "timesLeader": 3
+    },
+    {
+      "model": "DESCONOCIDO",
+      "timesLeader": 3
+    },
+    {
+      "model": "TOYOTA C-HR",
+      "timesLeader": 2
+    }
+  ]
+}

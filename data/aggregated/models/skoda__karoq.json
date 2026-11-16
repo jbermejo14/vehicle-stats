@@ -1,0 +1,57 @@
+{
+  "brand": "SKODA",
+  "brandSlug": "skoda",
+  "model": "KAROQ",
+  "modelSlug": "karoq",
+  "fullName": "SKODA KAROQ",
+  "total": 3347,
+  "percentage": 0.06,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 107,
+  "avgCv": 145,
+  "avgCo2": 139,
+  "evolution": [
+    {
+      "period": "2024-01",
+      "total": 587,
+      "avgKw": 103,
+      "avgCv": 140,
+      "avgCo2": 137,
+      "avgTara": 1437
+    },
+    {
+      "period": "2024-02",
+      "total": 717,
+      "avgKw": 104,
+      "avgCv": 142,
+      "avgCo2": 138,
+      "avgTara": 1430
+    },
+    {
+      "period": "2024-08",
+      "total": 499,
+      "avgKw": 107,
+      "avgCv": 146,
+      "avgCo2": 140,
+      "avgTara": 1437
+    },
+    {
+      "period": "2024-11",
+      "total": 872,
+      "avgKw": 110,
+      "avgCv": 149,
+      "avgCo2": 142,
+      "avgTara": 1444
+    },
+    {
+      "period": "2026-01",
+      "total": 672,
+      "avgKw": 108,
+      "avgCv": 147,
+      "avgCo2": 138,
+      "avgTara": 1416
+    }
+  ]
+}

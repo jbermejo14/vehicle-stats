@@ -1,0 +1,25 @@
+{
+  "brand": "HYUNDAI",
+  "brandSlug": "hyundai",
+  "model": "I10",
+  "modelSlug": "i10",
+  "fullName": "HYUNDAI I10",
+  "total": 1455,
+  "percentage": 0.03,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 48,
+  "avgCv": 66,
+  "avgCo2": 117,
+  "evolution": [
+    {
+      "period": "2025-12",
+      "total": 1455,
+      "avgKw": 48,
+      "avgCv": 66,
+      "avgCo2": 117,
+      "avgTara": 998
+    }
+  ]
+}

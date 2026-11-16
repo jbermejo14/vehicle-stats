@@ -1,0 +1,586 @@
+{
+  "brand": "RENAULT",
+  "slug": "renault",
+  "total": 311131,
+  "percentage": 5.75,
+  "eco0Percentage": 41.3,
+  "avgKw": 92,
+  "monthlyEvolution": [
+    {
+      "period": "2024-01",
+      "total": 5705,
+      "eco0Count": 1731,
+      "avgKw": 95,
+      "avgCo2": 135,
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2024-02",
+      "total": 7834,
+      "eco0Count": 2991,
+      "avgKw": 92,
+      "avgCo2": 132,
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2024-03",
+      "total": 8108,
+      "eco0Count": 2302,
+      "avgKw": 92,
+      "avgCo2": 136,
+      "topModel": "CAPTUR"
+    },
+    {
+      "period": "2024-04",
+      "total": 9830,
+      "eco0Count": 2817,
+      "avgKw": 91,
+      "avgCo2": 132,
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2024-05",
+      "total": 10667,
+      "eco0Count": 3644,
+      "avgKw": 92,
+      "avgCo2": 137,
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2024-06",
+      "total": 11437,
+      "eco0Count": 4424,
+      "avgKw": 89,
+      "avgCo2": 133,
+      "topModel": "EXPRESS"
+    },
+    {
+      "period": "2024-07",
+      "total": 7333,
+      "eco0Count": 3018,
+      "avgKw": 94,
+      "avgCo2": 130,
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2024-08",
+      "total": 4991,
+      "eco0Count": 1789,
+      "avgKw": 89,
+      "avgCo2": 130,
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2024-09",
+      "total": 7636,
+      "eco0Count": 3439,
+      "avgKw": 91,
+      "avgCo2": 128,
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2024-10",
+      "total": 9215,
+      "eco0Count": 4123,
+      "avgKw": 101,
+      "avgCo2": 129,
+      "topModel": "AUSTRAL"
+    },
+    {
+      "period": "2024-11",
+      "total": 9661,
+      "eco0Count": 4262,
+      "avgKw": 95,
+      "avgCo2": 128,
+      "topModel": "CAPTUR"
+    },
+    {
+      "period": "2024-12",
+      "total": 10266,
+      "eco0Count": 4354,
+      "avgKw": 86,
+      "avgCo2": 128,
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2025-01",
+      "total": 6940,
+      "eco0Count": 3160,
+      "avgKw": 93,
+      "avgCo2": 125,
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2025-02",
+      "total": 10285,
+      "eco0Count": 4486,
+      "avgKw": 88,
+      "avgCo2": 120,
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2025-03",
+      "total": 13047,
+      "eco0Count": 6033,
+      "avgKw": 85,
+      "avgCo2": 121,
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2025-04",
+      "total": 10019,
+      "eco0Count": 4413,
+      "avgKw": 90,
+      "avgCo2": 122,
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2025-05",
+      "total": 10286,
+      "eco0Count": 3692,
+      "avgKw": 87,
+      "avgCo2": 123,
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2025-06",
+      "total": 13502,
+      "eco0Count": 5733,
+      "avgKw": 87,
+      "avgCo2": 122,
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2025-07",
+      "total": 8933,
+      "eco0Count": 3760,
+      "avgKw": 94,
+      "avgCo2": 123,
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2025-08",
+      "total": 5799,
+      "eco0Count": 2459,
+      "avgKw": 92,
+      "avgCo2": 124,
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2025-09",
+      "total": 8666,
+      "eco0Count": 3761,
+      "avgKw": 90,
+      "avgCo2": 124,
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2025-10",
+      "total": 10415,
+      "eco0Count": 4366,
+      "avgKw": 94,
+      "avgCo2": 122,
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2025-11",
+      "total": 10343,
+      "eco0Count": 3734,
+      "avgKw": 91,
+      "avgCo2": 122,
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2025-12",
+      "total": 11428,
+      "eco0Count": 4327,
+      "avgKw": 88,
+      "avgCo2": 122,
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2026-01",
+      "total": 6688,
+      "eco0Count": 2648,
+      "avgKw": 99,
+      "avgCo2": 127,
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2026-02",
+      "total": 9841,
+      "eco0Count": 4007,
+      "avgKw": 93,
+      "avgCo2": 121,
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2026-03",
+      "total": 11671,
+      "eco0Count": 5289,
+      "avgKw": 93,
+      "avgCo2": 123,
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2026-04",
+      "total": 8910,
+      "eco0Count": 4176,
+      "avgKw": 93,
+      "avgCo2": 123,
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2026-05",
+      "total": 10403,
+      "eco0Count": 4316,
+      "avgKw": 93,
+      "avgCo2": 125,
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2026-06",
+      "total": 9974,
+      "eco0Count": 5040,
+      "avgKw": 95,
+      "avgCo2": 124,
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2026-07",
+      "total": 8276,
+      "eco0Count": 3658,
+      "avgKw": 97,
+      "avgCo2": 128,
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2026-08",
+      "total": 5901,
+      "eco0Count": 2769,
+      "avgKw": 94,
+      "avgCo2": 128,
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2026-09",
+      "total": 8612,
+      "eco0Count": 4184,
+      "avgKw": 94,
+      "avgCo2": 127,
+      "topModel": "SYMBIOZ"
+    },
+    {
+      "period": "2026-10",
+      "total": 8509,
+      "eco0Count": 3679,
+      "avgKw": 99,
+      "avgCo2": 128,
+      "topModel": "CLIO"
+    }
+  ],
+  "models": [
+    {
+      "brand": "RENAULT",
+      "brandSlug": "renault",
+      "model": "CLIO",
+      "modelSlug": "clio",
+      "fullName": "RENAULT CLIO",
+      "total": 57634,
+      "percentage": 1.06,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 72,
+      "avgCv": 97,
+      "avgCo2": 111
+    },
+    {
+      "brand": "RENAULT",
+      "brandSlug": "renault",
+      "model": "CAPTUR",
+      "modelSlug": "captur",
+      "fullName": "RENAULT CAPTUR",
+      "total": 25268,
+      "percentage": 0.47,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 78,
+      "avgCv": 106,
+      "avgCo2": 126
+    },
+    {
+      "brand": "RENAULT",
+      "brandSlug": "renault",
+      "model": "AUSTRAL",
+      "modelSlug": "austral",
+      "fullName": "RENAULT AUSTRAL",
+      "total": 24616,
+      "percentage": 0.45,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 103,
+      "avgCv": 140,
+      "avgCo2": 119
+    },
+    {
+      "brand": "RENAULT",
+      "brandSlug": "renault",
+      "model": "SYMBIOZ",
+      "modelSlug": "symbioz",
+      "fullName": "RENAULT SYMBIOZ",
+      "total": 8298,
+      "percentage": 0.15,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 84,
+      "avgCv": 115,
+      "avgCo2": 109
+    },
+    {
+      "brand": "RENAULT",
+      "brandSlug": "renault",
+      "model": "EXPRESS",
+      "modelSlug": "express",
+      "fullName": "RENAULT EXPRESS",
+      "total": 6651,
+      "percentage": 0.12,
+      "category": "Comercial",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 67,
+      "avgCv": 91,
+      "avgCo2": 132
+    },
+    {
+      "brand": "RENAULT",
+      "brandSlug": "renault",
+      "model": "CAPTUR E-TECH HYBRID",
+      "modelSlug": "captur-e-tech-hybrid",
+      "fullName": "RENAULT CAPTUR E-TECH HYBRID",
+      "total": 2971,
+      "percentage": 0.05,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 75,
+      "avgCv": 101,
+      "avgCo2": 102
+    },
+    {
+      "brand": "RENAULT",
+      "brandSlug": "renault",
+      "model": "TRAFIC",
+      "modelSlug": "trafic",
+      "fullName": "RENAULT TRAFIC",
+      "total": 1575,
+      "percentage": 0.03,
+      "category": "Comercial",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 95,
+      "avgCv": 130,
+      "avgCo2": 182
+    }
+  ],
+  "leadProvinces": [
+    {
+      "province": "Valladolid",
+      "slug": "valladolid",
+      "monthsLeading": 29
+    },
+    {
+      "province": "Huesca",
+      "slug": "huesca",
+      "monthsLeading": 27
+    },
+    {
+      "province": "Pontevedra",
+      "slug": "pontevedra",
+      "monthsLeading": 20
+    },
+    {
+      "province": "Bizkaia",
+      "slug": "bizkaia",
+      "monthsLeading": 20
+    },
+    {
+      "province": "Palencia",
+      "slug": "palencia",
+      "monthsLeading": 15
+    },
+    {
+      "province": "Lleida",
+      "slug": "lleida",
+      "monthsLeading": 14
+    },
+    {
+      "province": "Madrid",
+      "slug": "madrid",
+      "monthsLeading": 14
+    },
+    {
+      "province": "Salamanca",
+      "slug": "salamanca",
+      "monthsLeading": 13
+    },
+    {
+      "province": "Segovia",
+      "slug": "segovia",
+      "monthsLeading": 10
+    },
+    {
+      "province": "Soria",
+      "slug": "soria",
+      "monthsLeading": 9
+    },
+    {
+      "province": "Teruel",
+      "slug": "teruel",
+      "monthsLeading": 9
+    },
+    {
+      "province": "León",
+      "slug": "leon",
+      "monthsLeading": 8
+    },
+    {
+      "province": "Córdoba",
+      "slug": "cordoba",
+      "monthsLeading": 8
+    },
+    {
+      "province": "Álava / Araba",
+      "slug": "alava-araba",
+      "monthsLeading": 7
+    },
+    {
+      "province": "Zamora",
+      "slug": "zamora",
+      "monthsLeading": 7
+    },
+    {
+      "province": "Lugo",
+      "slug": "lugo",
+      "monthsLeading": 6
+    },
+    {
+      "province": "Guadalajara",
+      "slug": "guadalajara",
+      "monthsLeading": 6
+    },
+    {
+      "province": "Cantabria",
+      "slug": "cantabria",
+      "monthsLeading": 6
+    },
+    {
+      "province": "Asturias",
+      "slug": "asturias",
+      "monthsLeading": 5
+    },
+    {
+      "province": "Albacete",
+      "slug": "albacete",
+      "monthsLeading": 5
+    },
+    {
+      "province": "Toledo",
+      "slug": "toledo",
+      "monthsLeading": 4
+    },
+    {
+      "province": "Burgos",
+      "slug": "burgos",
+      "monthsLeading": 4
+    },
+    {
+      "province": "Ciudad Real",
+      "slug": "ciudad-real",
+      "monthsLeading": 4
+    },
+    {
+      "province": "Illes Balears",
+      "slug": "illes-balears",
+      "monthsLeading": 3
+    },
+    {
+      "province": "Huelva",
+      "slug": "huelva",
+      "monthsLeading": 3
+    },
+    {
+      "province": "Las Palmas",
+      "slug": "las-palmas",
+      "monthsLeading": 3
+    },
+    {
+      "province": "Cuenca",
+      "slug": "cuenca",
+      "monthsLeading": 3
+    },
+    {
+      "province": "Zaragoza",
+      "slug": "zaragoza",
+      "monthsLeading": 3
+    },
+    {
+      "province": "Valencia / València",
+      "slug": "valencia-valencia",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Ávila",
+      "slug": "avila",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Alicante / Alacant",
+      "slug": "alicante-alacant",
+      "monthsLeading": 2
+    },
+    {
+      "province": "La Rioja",
+      "slug": "la-rioja",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Gipuzkoa",
+      "slug": "gipuzkoa",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Murcia",
+      "slug": "murcia",
+      "monthsLeading": 1
+    },
+    {
+      "province": "00",
+      "slug": "00",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Santa Cruz de Tenerife",
+      "slug": "santa-cruz-de-tenerife",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Cádiz",
+      "slug": "cadiz",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Sevilla",
+      "slug": "sevilla",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Ourense",
+      "slug": "ourense",
+      "monthsLeading": 1
+    }
+  ]
+}

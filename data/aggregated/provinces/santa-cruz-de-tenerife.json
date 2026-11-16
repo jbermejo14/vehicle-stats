@@ -1,0 +1,444 @@
+{
+  "code": "38",
+  "name": "Santa Cruz de Tenerife",
+  "slug": "santa-cruz-de-tenerife",
+  "community": "Canarias",
+  "population": 1058304,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 97835,
+  "percentageOfSpain": 1.81,
+  "per1000Habitantes": 92.45,
+  "ceroCount": 6249,
+  "ecoCount": 16778,
+  "bevCount": 5724,
+  "phevCount": 525,
+  "hevCount": 16777,
+  "ceroPercentage": 6.4,
+  "ecoPercentage": 17.1,
+  "bevPercentage": 5.9,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 2589,
+      "cero": 106,
+      "eco": 334,
+      "bev": 102,
+      "phev": 4,
+      "hev": 334,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA YARIS CROSS"
+    },
+    {
+      "period": "2024-02",
+      "total": 2633,
+      "cero": 157,
+      "eco": 297,
+      "bev": 148,
+      "phev": 9,
+      "hev": 297,
+      "topBrand": "HONDA",
+      "topModel": "BERLINGO TALLA M BLUEH"
+    },
+    {
+      "period": "2024-03",
+      "total": 2721,
+      "cero": 123,
+      "eco": 257,
+      "bev": 115,
+      "phev": 8,
+      "hev": 257,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TAIGO"
+    },
+    {
+      "period": "2024-04",
+      "total": 2746,
+      "cero": 113,
+      "eco": 371,
+      "bev": 108,
+      "phev": 5,
+      "hev": 371,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-05",
+      "total": 2909,
+      "cero": 133,
+      "eco": 384,
+      "bev": 129,
+      "phev": 4,
+      "hev": 384,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA YARIS"
+    },
+    {
+      "period": "2024-06",
+      "total": 2875,
+      "cero": 118,
+      "eco": 502,
+      "bev": 116,
+      "phev": 2,
+      "hev": 502,
+      "topBrand": "PEUGEOT",
+      "topModel": "NUEVO 208 5P ALLURE PU"
+    },
+    {
+      "period": "2024-07",
+      "total": 3083,
+      "cero": 174,
+      "eco": 449,
+      "bev": 168,
+      "phev": 6,
+      "hev": 449,
+      "topBrand": "HONDA",
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2024-08",
+      "total": 2454,
+      "cero": 87,
+      "eco": 290,
+      "bev": 84,
+      "phev": 3,
+      "hev": 290,
+      "topBrand": "HONDA",
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2024-09",
+      "total": 2892,
+      "cero": 125,
+      "eco": 406,
+      "bev": 124,
+      "phev": 1,
+      "hev": 406,
+      "topBrand": "PEUGEOT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-10",
+      "total": 3368,
+      "cero": 147,
+      "eco": 490,
+      "bev": 143,
+      "phev": 4,
+      "hev": 490,
+      "topBrand": "PEUGEOT",
+      "topModel": "I20"
+    },
+    {
+      "period": "2024-11",
+      "total": 3053,
+      "cero": 148,
+      "eco": 478,
+      "bev": 147,
+      "phev": 1,
+      "hev": 478,
+      "topBrand": "SEAT",
+      "topModel": "ARONA"
+    },
+    {
+      "period": "2024-12",
+      "total": 3106,
+      "cero": 172,
+      "eco": 431,
+      "bev": 170,
+      "phev": 2,
+      "hev": 431,
+      "topBrand": "HONDA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-01",
+      "total": 2678,
+      "cero": 135,
+      "eco": 448,
+      "bev": 133,
+      "phev": 2,
+      "hev": 448,
+      "topBrand": "RENAULT",
+      "topModel": "CAPTUR"
+    },
+    {
+      "period": "2025-02",
+      "total": 2517,
+      "cero": 107,
+      "eco": 451,
+      "bev": 104,
+      "phev": 3,
+      "hev": 451,
+      "topBrand": "HONDA",
+      "topModel": "NIRO"
+    },
+    {
+      "period": "2025-03",
+      "total": 2795,
+      "cero": 134,
+      "eco": 500,
+      "bev": 126,
+      "phev": 8,
+      "hev": 500,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "T-CROSS"
+    },
+    {
+      "period": "2025-04",
+      "total": 2559,
+      "cero": 136,
+      "eco": 439,
+      "bev": 130,
+      "phev": 6,
+      "hev": 439,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2025-05",
+      "total": 2408,
+      "cero": 146,
+      "eco": 335,
+      "bev": 137,
+      "phev": 9,
+      "hev": 335,
+      "topBrand": "HONDA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-06",
+      "total": 3092,
+      "cero": 201,
+      "eco": 574,
+      "bev": 187,
+      "phev": 14,
+      "hev": 574,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA YARIS CROSS"
+    },
+    {
+      "period": "2025-07",
+      "total": 3449,
+      "cero": 239,
+      "eco": 546,
+      "bev": 224,
+      "phev": 15,
+      "hev": 546,
+      "topBrand": "HONDA",
+      "topModel": "C4 PURETECH 130 S&S 6V"
+    },
+    {
+      "period": "2025-08",
+      "total": 2505,
+      "cero": 152,
+      "eco": 503,
+      "bev": 138,
+      "phev": 14,
+      "hev": 503,
+      "topBrand": "HONDA",
+      "topModel": "2008 ALLURE GASOLINA 1"
+    },
+    {
+      "period": "2025-09",
+      "total": 2734,
+      "cero": 180,
+      "eco": 439,
+      "bev": 167,
+      "phev": 13,
+      "hev": 439,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-10",
+      "total": 3509,
+      "cero": 238,
+      "eco": 628,
+      "bev": 208,
+      "phev": 30,
+      "hev": 628,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TAIGO"
+    },
+    {
+      "period": "2025-11",
+      "total": 2985,
+      "cero": 220,
+      "eco": 559,
+      "bev": 193,
+      "phev": 27,
+      "hev": 559,
+      "topBrand": "SEAT",
+      "topModel": "ARONA"
+    },
+    {
+      "period": "2025-12",
+      "total": 3032,
+      "cero": 236,
+      "eco": 622,
+      "bev": 218,
+      "phev": 18,
+      "hev": 622,
+      "topBrand": "HONDA",
+      "topModel": "ARONA"
+    },
+    {
+      "period": "2026-01",
+      "total": 2302,
+      "cero": 134,
+      "eco": 495,
+      "bev": 118,
+      "phev": 16,
+      "hev": 495,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA YARIS CROSS"
+    },
+    {
+      "period": "2026-02",
+      "total": 2256,
+      "cero": 143,
+      "eco": 439,
+      "bev": 116,
+      "phev": 27,
+      "hev": 439,
+      "topBrand": "HONDA",
+      "topModel": "I20"
+    },
+    {
+      "period": "2026-03",
+      "total": 3508,
+      "cero": 269,
+      "eco": 815,
+      "bev": 221,
+      "phev": 48,
+      "hev": 815,
+      "topBrand": "SEAT",
+      "topModel": "ARONA"
+    },
+    {
+      "period": "2026-04",
+      "total": 2924,
+      "cero": 202,
+      "eco": 743,
+      "bev": 184,
+      "phev": 18,
+      "hev": 743,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA YARIS CROSS"
+    },
+    {
+      "period": "2026-05",
+      "total": 2674,
+      "cero": 253,
+      "eco": 567,
+      "bev": 215,
+      "phev": 38,
+      "hev": 567,
+      "topBrand": "HONDA",
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2026-06",
+      "total": 3544,
+      "cero": 338,
+      "eco": 590,
+      "bev": 279,
+      "phev": 59,
+      "hev": 590,
+      "topBrand": "HONDA",
+      "topModel": "ARONA"
+    },
+    {
+      "period": "2026-07",
+      "total": 3434,
+      "cero": 269,
+      "eco": 714,
+      "bev": 238,
+      "phev": 31,
+      "hev": 714,
+      "topBrand": "PEUGEOT",
+      "topModel": "RIFTER ALLURE BLUEHDI"
+    },
+    {
+      "period": "2026-08",
+      "total": 2579,
+      "cero": 235,
+      "eco": 515,
+      "bev": 208,
+      "phev": 27,
+      "hev": 515,
+      "topBrand": "HONDA",
+      "topModel": "TOYOTA YARIS CROSS"
+    },
+    {
+      "period": "2026-09",
+      "total": 2913,
+      "cero": 304,
+      "eco": 591,
+      "bev": 280,
+      "phev": 24,
+      "hev": 590,
+      "topBrand": "HONDA",
+      "topModel": "TOYOTA YARIS CROSS"
+    },
+    {
+      "period": "2026-10",
+      "total": 3009,
+      "cero": 375,
+      "eco": 576,
+      "bev": 346,
+      "phev": 29,
+      "hev": 576,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "HONDA",
+      "slug": "honda",
+      "timesLeader": 14
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "timesLeader": 7
+    },
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 5
+    },
+    {
+      "brand": "PEUGEOT",
+      "slug": "peugeot",
+      "timesLeader": 4
+    },
+    {
+      "brand": "SEAT",
+      "slug": "seat",
+      "timesLeader": 3
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "TOYOTA YARIS CROSS",
+      "timesLeader": 6
+    },
+    {
+      "model": "SANDERO",
+      "timesLeader": 6
+    },
+    {
+      "model": "ARONA",
+      "timesLeader": 5
+    },
+    {
+      "model": "WW125A",
+      "timesLeader": 3
+    },
+    {
+      "model": "TAIGO",
+      "timesLeader": 2
+    }
+  ]
+}

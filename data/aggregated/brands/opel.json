@@ -1,0 +1,316 @@
+{
+  "brand": "OPEL",
+  "slug": "opel",
+  "total": 112504,
+  "percentage": 2.08,
+  "eco0Percentage": 22.3,
+  "avgKw": 83,
+  "monthlyEvolution": [
+    {
+      "period": "2024-01",
+      "total": 2359,
+      "eco0Count": 114,
+      "avgKw": 82,
+      "avgCo2": 126,
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2024-02",
+      "total": 3265,
+      "eco0Count": 148,
+      "avgKw": 84,
+      "avgCo2": 123,
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2024-03",
+      "total": 3163,
+      "eco0Count": 204,
+      "avgKw": 82,
+      "avgCo2": 125,
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2024-04",
+      "total": 3708,
+      "eco0Count": 148,
+      "avgKw": 81,
+      "avgCo2": 128,
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2024-05",
+      "total": 4129,
+      "eco0Count": 146,
+      "avgKw": 81,
+      "avgCo2": 129,
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2024-06",
+      "total": 3787,
+      "eco0Count": 112,
+      "avgKw": 82,
+      "avgCo2": 130,
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2024-07",
+      "total": 3094,
+      "eco0Count": 279,
+      "avgKw": 80,
+      "avgCo2": 130,
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2024-08",
+      "total": 1555,
+      "eco0Count": 189,
+      "avgKw": 83,
+      "avgCo2": 134,
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2024-09",
+      "total": 2897,
+      "eco0Count": 457,
+      "avgKw": 82,
+      "avgCo2": 135,
+      "topModel": "NUEVO COMBO EDITION N1"
+    },
+    {
+      "period": "2024-10",
+      "total": 2515,
+      "eco0Count": 376,
+      "avgKw": 82,
+      "avgCo2": 130,
+      "topModel": "NUEVO COMBO EDITION N1"
+    },
+    {
+      "period": "2024-11",
+      "total": 2338,
+      "eco0Count": 250,
+      "avgKw": 80,
+      "avgCo2": 131,
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2024-12",
+      "total": 2964,
+      "eco0Count": 225,
+      "avgKw": 80,
+      "avgCo2": 128,
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2025-01",
+      "total": 2214,
+      "eco0Count": 358,
+      "avgKw": 84,
+      "avgCo2": 125,
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2025-02",
+      "total": 3271,
+      "eco0Count": 570,
+      "avgKw": 84,
+      "avgCo2": 130,
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2025-03",
+      "total": 3732,
+      "eco0Count": 666,
+      "avgKw": 83,
+      "avgCo2": 130,
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2025-04",
+      "total": 3328,
+      "eco0Count": 854,
+      "avgKw": 84,
+      "avgCo2": 130,
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2025-05",
+      "total": 4300,
+      "eco0Count": 1118,
+      "avgKw": 84,
+      "avgCo2": 130,
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2025-06",
+      "total": 5164,
+      "eco0Count": 814,
+      "avgKw": 83,
+      "avgCo2": 128,
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2025-07",
+      "total": 4125,
+      "eco0Count": 1011,
+      "avgKw": 82,
+      "avgCo2": 129,
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2025-08",
+      "total": 2403,
+      "eco0Count": 607,
+      "avgKw": 83,
+      "avgCo2": 135,
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2025-09",
+      "total": 3208,
+      "eco0Count": 844,
+      "avgKw": 82,
+      "avgCo2": 133,
+      "topModel": "CORSA EDITION 1.2T XHL"
+    },
+    {
+      "period": "2025-10",
+      "total": 3040,
+      "eco0Count": 939,
+      "avgKw": 83,
+      "avgCo2": 131,
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2025-11",
+      "total": 3488,
+      "eco0Count": 997,
+      "avgKw": 81,
+      "avgCo2": 129,
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2025-12",
+      "total": 3231,
+      "eco0Count": 1052,
+      "avgKw": 83,
+      "avgCo2": 130,
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2026-01",
+      "total": 2750,
+      "eco0Count": 876,
+      "avgKw": 83,
+      "avgCo2": 130,
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2026-02",
+      "total": 2991,
+      "eco0Count": 1184,
+      "avgKw": 85,
+      "avgCo2": 127,
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2026-03",
+      "total": 4771,
+      "eco0Count": 1682,
+      "avgKw": 84,
+      "avgCo2": 126,
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2026-04",
+      "total": 3975,
+      "eco0Count": 1606,
+      "avgKw": 85,
+      "avgCo2": 126,
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2026-05",
+      "total": 4199,
+      "eco0Count": 1620,
+      "avgKw": 83,
+      "avgCo2": 125,
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2026-06",
+      "total": 5005,
+      "eco0Count": 1451,
+      "avgKw": 84,
+      "avgCo2": 126,
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2026-07",
+      "total": 3486,
+      "eco0Count": 1276,
+      "avgKw": 85,
+      "avgCo2": 127,
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2026-08",
+      "total": 2177,
+      "eco0Count": 884,
+      "avgKw": 85,
+      "avgCo2": 130,
+      "topModel": "CORSA GS 1.2T XHL HYBR"
+    },
+    {
+      "period": "2026-09",
+      "total": 3126,
+      "eco0Count": 973,
+      "avgKw": 82,
+      "avgCo2": 129,
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    },
+    {
+      "period": "2026-10",
+      "total": 2746,
+      "eco0Count": 1012,
+      "avgKw": 84,
+      "avgCo2": 131,
+      "topModel": "CORSA GS 1.2T XHL MT6"
+    }
+  ],
+  "models": [
+    {
+      "brand": "OPEL",
+      "brandSlug": "opel",
+      "model": "CORSA GS 1.2T XHL MT6",
+      "modelSlug": "corsa-gs-1-2t-xhl-mt6",
+      "fullName": "OPEL CORSA GS 1.2T XHL MT6",
+      "total": 14304,
+      "percentage": 0.26,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 117
+    }
+  ],
+  "leadProvinces": [
+    {
+      "province": "Toledo",
+      "slug": "toledo",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Cáceres",
+      "slug": "caceres",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Cantabria",
+      "slug": "cantabria",
+      "monthsLeading": 1
+    }
+  ]
+}

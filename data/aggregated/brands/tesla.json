@@ -1,0 +1,211 @@
+{
+  "brand": "TESLA",
+  "slug": "tesla",
+  "total": 42638,
+  "percentage": 0.79,
+  "eco0Percentage": 99.6,
+  "avgKw": 237,
+  "monthlyEvolution": [
+    {
+      "period": "2024-01",
+      "total": 1132,
+      "eco0Count": 1128,
+      "avgKw": 255,
+      "avgCo2": 0,
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2024-02",
+      "total": 1087,
+      "eco0Count": 1076,
+      "avgKw": 265,
+      "avgCo2": 0,
+      "topModel": "MODEL Y"
+    },
+    {
+      "period": "2024-03",
+      "total": 1532,
+      "eco0Count": 1526,
+      "avgKw": 250,
+      "avgCo2": 0,
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2024-04",
+      "total": 959,
+      "eco0Count": 951,
+      "avgKw": 256,
+      "avgCo2": 1,
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2024-05",
+      "total": 1175,
+      "eco0Count": 1166,
+      "avgKw": 241,
+      "avgCo2": 0,
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2024-06",
+      "total": 1703,
+      "eco0Count": 1697,
+      "avgKw": 254,
+      "avgCo2": 0,
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2024-09",
+      "total": 2980,
+      "eco0Count": 2969,
+      "avgKw": 230,
+      "avgCo2": 1,
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2024-11",
+      "total": 1750,
+      "eco0Count": 1744,
+      "avgKw": 229,
+      "avgCo2": 136,
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2024-12",
+      "total": 3304,
+      "eco0Count": 3294,
+      "avgKw": 230,
+      "avgCo2": 169,
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2025-02",
+      "total": 1023,
+      "eco0Count": 1012,
+      "avgKw": 240,
+      "avgCo2": 0,
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2025-03",
+      "total": 2163,
+      "eco0Count": 2147,
+      "avgKw": 246,
+      "avgCo2": 1,
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2025-06",
+      "total": 2783,
+      "eco0Count": 2774,
+      "avgKw": 229,
+      "avgCo2": 0,
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2025-08",
+      "total": 1530,
+      "eco0Count": 1523,
+      "avgKw": 215,
+      "avgCo2": 1,
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2025-09",
+      "total": 3109,
+      "eco0Count": 3100,
+      "avgKw": 226,
+      "avgCo2": 205,
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2025-11",
+      "total": 1648,
+      "eco0Count": 1641,
+      "avgKw": 226,
+      "avgCo2": 1,
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2025-12",
+      "total": 1900,
+      "eco0Count": 1889,
+      "avgKw": 248,
+      "avgCo2": 1,
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2026-02",
+      "total": 1712,
+      "eco0Count": 1703,
+      "avgKw": 224,
+      "avgCo2": 1,
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2026-03",
+      "total": 2612,
+      "eco0Count": 2602,
+      "avgKw": 253,
+      "avgCo2": 0,
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2026-05",
+      "total": 1802,
+      "eco0Count": 1797,
+      "avgKw": 232,
+      "avgCo2": 565,
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2026-06",
+      "total": 2911,
+      "eco0Count": 2898,
+      "avgKw": 235,
+      "avgCo2": 0,
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2026-09",
+      "total": 3823,
+      "eco0Count": 3815,
+      "avgKw": 235,
+      "avgCo2": 0,
+      "topModel": "MODEL 3"
+    }
+  ],
+  "models": [
+    {
+      "brand": "TESLA",
+      "brandSlug": "tesla",
+      "model": "MODEL 3",
+      "modelSlug": "model-3",
+      "fullName": "TESLA MODEL 3",
+      "total": 27234,
+      "percentage": 0.5,
+      "category": "Turismo",
+      "primaryFuel": "Eléctrico Puro (BEV)",
+      "primaryBadge": "0 CERO",
+      "avgKw": 217,
+      "avgCv": 295,
+      "avgCo2": 37
+    },
+    {
+      "brand": "TESLA",
+      "brandSlug": "tesla",
+      "model": "MODEL Y",
+      "modelSlug": "model-y",
+      "fullName": "TESLA MODEL Y",
+      "total": 5297,
+      "percentage": 0.1,
+      "category": "Turismo",
+      "primaryFuel": "Eléctrico Puro (BEV)",
+      "primaryBadge": "0 CERO",
+      "avgKw": 267,
+      "avgCv": 363,
+      "avgCo2": 0
+    }
+  ],
+  "leadProvinces": []
+}

@@ -1,0 +1,217 @@
+{
+  "brand": "SEAT",
+  "brandSlug": "seat",
+  "model": "SEAT LEON",
+  "modelSlug": "seat-leon",
+  "fullName": "SEAT SEAT LEON",
+  "total": 25332,
+  "percentage": 0.47,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 95,
+  "avgCv": 129,
+  "avgCo2": 125,
+  "evolution": [
+    {
+      "period": "2024-01",
+      "total": 1235,
+      "avgKw": 100,
+      "avgCv": 137,
+      "avgCo2": 127,
+      "avgTara": 1358
+    },
+    {
+      "period": "2024-03",
+      "total": 939,
+      "avgKw": 102,
+      "avgCv": 138,
+      "avgCo2": 129,
+      "avgTara": 1354
+    },
+    {
+      "period": "2024-04",
+      "total": 757,
+      "avgKw": 95,
+      "avgCv": 129,
+      "avgCo2": 127,
+      "avgTara": 1345
+    },
+    {
+      "period": "2024-07",
+      "total": 933,
+      "avgKw": 90,
+      "avgCv": 122,
+      "avgCo2": 129,
+      "avgTara": 1329
+    },
+    {
+      "period": "2024-10",
+      "total": 825,
+      "avgKw": 95,
+      "avgCv": 130,
+      "avgCo2": 128,
+      "avgTara": 1364
+    },
+    {
+      "period": "2024-11",
+      "total": 829,
+      "avgKw": 98,
+      "avgCv": 134,
+      "avgCo2": 128,
+      "avgTara": 1362
+    },
+    {
+      "period": "2024-12",
+      "total": 1283,
+      "avgKw": 99,
+      "avgCv": 135,
+      "avgCo2": 127,
+      "avgTara": 1366
+    },
+    {
+      "period": "2025-02",
+      "total": 907,
+      "avgKw": 93,
+      "avgCv": 127,
+      "avgCo2": 126,
+      "avgTara": 1368
+    },
+    {
+      "period": "2025-03",
+      "total": 1744,
+      "avgKw": 89,
+      "avgCv": 121,
+      "avgCo2": 125,
+      "avgTara": 1369
+    },
+    {
+      "period": "2025-04",
+      "total": 900,
+      "avgKw": 92,
+      "avgCv": 126,
+      "avgCo2": 125,
+      "avgTara": 1378
+    },
+    {
+      "period": "2025-05",
+      "total": 1115,
+      "avgKw": 92,
+      "avgCv": 125,
+      "avgCo2": 126,
+      "avgTara": 1371
+    },
+    {
+      "period": "2025-07",
+      "total": 1146,
+      "avgKw": 94,
+      "avgCv": 128,
+      "avgCo2": 125,
+      "avgTara": 1376
+    },
+    {
+      "period": "2025-08",
+      "total": 622,
+      "avgKw": 94,
+      "avgCv": 128,
+      "avgCo2": 124,
+      "avgTara": 1376
+    },
+    {
+      "period": "2025-09",
+      "total": 746,
+      "avgKw": 93,
+      "avgCv": 127,
+      "avgCo2": 124,
+      "avgTara": 1379
+    },
+    {
+      "period": "2025-10",
+      "total": 1014,
+      "avgKw": 95,
+      "avgCv": 130,
+      "avgCo2": 125,
+      "avgTara": 1375
+    },
+    {
+      "period": "2025-11",
+      "total": 1017,
+      "avgKw": 98,
+      "avgCv": 134,
+      "avgCo2": 124,
+      "avgTara": 1366
+    },
+    {
+      "period": "2025-12",
+      "total": 1304,
+      "avgKw": 94,
+      "avgCv": 128,
+      "avgCo2": 124,
+      "avgTara": 1376
+    },
+    {
+      "period": "2026-01",
+      "total": 807,
+      "avgKw": 95,
+      "avgCv": 130,
+      "avgCo2": 125,
+      "avgTara": 1370
+    },
+    {
+      "period": "2026-02",
+      "total": 874,
+      "avgKw": 94,
+      "avgCv": 128,
+      "avgCo2": 123,
+      "avgTara": 1378
+    },
+    {
+      "period": "2026-03",
+      "total": 1628,
+      "avgKw": 94,
+      "avgCv": 128,
+      "avgCo2": 123,
+      "avgTara": 1371
+    },
+    {
+      "period": "2026-04",
+      "total": 1114,
+      "avgKw": 96,
+      "avgCv": 130,
+      "avgCo2": 123,
+      "avgTara": 1373
+    },
+    {
+      "period": "2026-05",
+      "total": 964,
+      "avgKw": 93,
+      "avgCv": 126,
+      "avgCo2": 123,
+      "avgTara": 1380
+    },
+    {
+      "period": "2026-06",
+      "total": 1184,
+      "avgKw": 94,
+      "avgCv": 128,
+      "avgCo2": 123,
+      "avgTara": 1376
+    },
+    {
+      "period": "2026-08",
+      "total": 659,
+      "avgKw": 92,
+      "avgCv": 126,
+      "avgCo2": 123,
+      "avgTara": 1369
+    },
+    {
+      "period": "2026-09",
+      "total": 786,
+      "avgKw": 93,
+      "avgCv": 126,
+      "avgCo2": 123,
+      "avgTara": 1372
+    }
+  ]
+}

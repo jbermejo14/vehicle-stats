@@ -1,0 +1,89 @@
+{
+  "brand": "MG",
+  "brandSlug": "mg",
+  "model": "MG HS",
+  "modelSlug": "mg-hs",
+  "fullName": "MG MG HS",
+  "total": 9586,
+  "percentage": 0.18,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 109,
+  "avgCv": 148,
+  "avgCo2": 46,
+  "evolution": [
+    {
+      "period": "2025-02",
+      "total": 957,
+      "avgKw": 121,
+      "avgCv": 164,
+      "avgCo2": 135,
+      "avgTara": 1707
+    },
+    {
+      "period": "2025-05",
+      "total": 1189,
+      "avgKw": 109,
+      "avgCv": 149,
+      "avgCo2": 48,
+      "avgTara": 1864
+    },
+    {
+      "period": "2025-06",
+      "total": 1091,
+      "avgKw": 107,
+      "avgCv": 146,
+      "avgCo2": 35,
+      "avgTara": 1883
+    },
+    {
+      "period": "2025-07",
+      "total": 1128,
+      "avgKw": 107,
+      "avgCv": 146,
+      "avgCo2": 35,
+      "avgTara": 1883
+    },
+    {
+      "period": "2025-08",
+      "total": 1001,
+      "avgKw": 107,
+      "avgCv": 145,
+      "avgCo2": 27,
+      "avgTara": 1899
+    },
+    {
+      "period": "2025-09",
+      "total": 1229,
+      "avgKw": 107,
+      "avgCv": 145,
+      "avgCo2": 30,
+      "avgTara": 1890
+    },
+    {
+      "period": "2025-10",
+      "total": 1127,
+      "avgKw": 106,
+      "avgCv": 145,
+      "avgCo2": 25,
+      "avgTara": 1898
+    },
+    {
+      "period": "2025-11",
+      "total": 878,
+      "avgKw": 108,
+      "avgCv": 147,
+      "avgCo2": 40,
+      "avgTara": 1865
+    },
+    {
+      "period": "2025-12",
+      "total": 986,
+      "avgKw": 108,
+      "avgCv": 147,
+      "avgCo2": 51,
+      "avgTara": 1858
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "brand": "RENAULT",
+  "brandSlug": "renault",
+  "model": "EXPRESS",
+  "modelSlug": "express",
+  "fullName": "RENAULT EXPRESS",
+  "total": 6651,
+  "percentage": 0.12,
+  "category": "Comercial",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 67,
+  "avgCv": 91,
+  "avgCo2": 132,
+  "evolution": [
+    {
+      "period": "2024-01",
+      "total": 721,
+      "avgKw": 63,
+      "avgCv": 86,
+      "avgCo2": 132,
+      "avgTara": 1376
+    },
+    {
+      "period": "2024-03",
+      "total": 1077,
+      "avgKw": 69,
+      "avgCv": 93,
+      "avgCo2": 133,
+      "avgTara": 1377
+    },
+    {
+      "period": "2024-04",
+      "total": 1360,
+      "avgKw": 67,
+      "avgCv": 91,
+      "avgCo2": 133,
+      "avgTara": 1377
+    },
+    {
+      "period": "2024-05",
+      "total": 1286,
+      "avgKw": 66,
+      "avgCv": 90,
+      "avgCo2": 132,
+      "avgTara": 1377
+    },
+    {
+      "period": "2024-06",
+      "total": 1750,
+      "avgKw": 67,
+      "avgCv": 92,
+      "avgCo2": 132,
+      "avgTara": 1378
+    },
+    {
+      "period": "2024-08",
+      "total": 457,
+      "avgKw": 66,
+      "avgCv": 89,
+      "avgCo2": 132,
+      "avgTara": 1376
+    }
+  ]
+}

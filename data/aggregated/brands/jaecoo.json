@@ -1,0 +1,44 @@
+{
+  "brand": "JAECOO",
+  "slug": "jaecoo",
+  "total": 3161,
+  "percentage": 0.06,
+  "eco0Percentage": 93.2,
+  "avgKw": 109,
+  "monthlyEvolution": [
+    {
+      "period": "2026-05",
+      "total": 1545,
+      "eco0Count": 1405,
+      "avgKw": 108,
+      "avgCo2": 99,
+      "topModel": "JAECOO5 HEV"
+    },
+    {
+      "period": "2026-09",
+      "total": 1616,
+      "eco0Count": 1540,
+      "avgKw": 109,
+      "avgCo2": 94,
+      "topModel": "JAECOO5 HEV"
+    }
+  ],
+  "models": [
+    {
+      "brand": "JAECOO",
+      "brandSlug": "jaecoo",
+      "model": "JAECOO7 PHEV",
+      "modelSlug": "jaecoo7-phev",
+      "fullName": "JAECOO JAECOO7 PHEV",
+      "total": 567,
+      "percentage": 0.01,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido Enchufable (PHEV)",
+      "primaryBadge": "0 CERO",
+      "avgKw": 105,
+      "avgCv": 143,
+      "avgCo2": 23
+    }
+  ],
+  "leadProvinces": []
+}

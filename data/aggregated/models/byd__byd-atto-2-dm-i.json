@@ -1,0 +1,89 @@
+{
+  "brand": "BYD",
+  "brandSlug": "byd",
+  "model": "BYD ATTO 2  DM-I",
+  "modelSlug": "byd-atto-2-dm-i",
+  "fullName": "BYD BYD ATTO 2  DM-I",
+  "total": 10410,
+  "percentage": 0.19,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 72,
+  "avgCv": 98,
+  "avgCo2": 44,
+  "evolution": [
+    {
+      "period": "2026-02",
+      "total": 969,
+      "avgKw": 72,
+      "avgCv": 98,
+      "avgCo2": 47,
+      "avgTara": 1695
+    },
+    {
+      "period": "2026-03",
+      "total": 1550,
+      "avgKw": 72,
+      "avgCv": 98,
+      "avgCo2": 41,
+      "avgTara": 1695
+    },
+    {
+      "period": "2026-04",
+      "total": 967,
+      "avgKw": 72,
+      "avgCv": 98,
+      "avgCo2": 41,
+      "avgTara": 1694
+    },
+    {
+      "period": "2026-05",
+      "total": 1289,
+      "avgKw": 72,
+      "avgCv": 98,
+      "avgCo2": 43,
+      "avgTara": 1687
+    },
+    {
+      "period": "2026-06",
+      "total": 1673,
+      "avgKw": 72,
+      "avgCv": 98,
+      "avgCo2": 43,
+      "avgTara": 1686
+    },
+    {
+      "period": "2026-07",
+      "total": 1088,
+      "avgKw": 72,
+      "avgCv": 98,
+      "avgCo2": 44,
+      "avgTara": 1686
+    },
+    {
+      "period": "2026-08",
+      "total": 784,
+      "avgKw": 72,
+      "avgCv": 98,
+      "avgCo2": 44,
+      "avgTara": 1688
+    },
+    {
+      "period": "2026-09",
+      "total": 781,
+      "avgKw": 72,
+      "avgCv": 98,
+      "avgCo2": 44,
+      "avgTara": 1688
+    },
+    {
+      "period": "2026-10",
+      "total": 1309,
+      "avgKw": 72,
+      "avgCv": 98,
+      "avgCo2": 46,
+      "avgTara": 1685
+    }
+  ]
+}

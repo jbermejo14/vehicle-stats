@@ -1,0 +1,444 @@
+{
+  "code": "12",
+  "name": "Castellón / Castelló",
+  "slug": "castellon",
+  "community": "Comunitat Valenciana",
+  "population": 604399,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 60228,
+  "percentageOfSpain": 1.11,
+  "per1000Habitantes": 99.65,
+  "ceroCount": 4032,
+  "ecoCount": 12403,
+  "bevCount": 3533,
+  "phevCount": 499,
+  "hevCount": 12403,
+  "ceroPercentage": 6.7,
+  "ecoPercentage": 20.6,
+  "bevPercentage": 5.9,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 1068,
+      "cero": 36,
+      "eco": 219,
+      "bev": 36,
+      "phev": 0,
+      "hev": 219,
+      "topBrand": "PEUGEOT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-02",
+      "total": 1305,
+      "cero": 52,
+      "eco": 236,
+      "bev": 45,
+      "phev": 7,
+      "hev": 236,
+      "topBrand": "PEUGEOT",
+      "topModel": "T-CROSS"
+    },
+    {
+      "period": "2024-03",
+      "total": 1565,
+      "cero": 82,
+      "eco": 429,
+      "bev": 75,
+      "phev": 7,
+      "hev": 429,
+      "topBrand": "KIA",
+      "topModel": "XCEED"
+    },
+    {
+      "period": "2024-04",
+      "total": 1926,
+      "cero": 55,
+      "eco": 284,
+      "bev": 52,
+      "phev": 3,
+      "hev": 284,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "T-CROSS"
+    },
+    {
+      "period": "2024-05",
+      "total": 1600,
+      "cero": 46,
+      "eco": 253,
+      "bev": 45,
+      "phev": 1,
+      "hev": 253,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "KOMBI"
+    },
+    {
+      "period": "2024-06",
+      "total": 1905,
+      "cero": 44,
+      "eco": 205,
+      "bev": 43,
+      "phev": 1,
+      "hev": 205,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "I10"
+    },
+    {
+      "period": "2024-07",
+      "total": 1695,
+      "cero": 68,
+      "eco": 366,
+      "bev": 66,
+      "phev": 2,
+      "hev": 366,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TIGUAN"
+    },
+    {
+      "period": "2024-08",
+      "total": 1086,
+      "cero": 37,
+      "eco": 197,
+      "bev": 36,
+      "phev": 1,
+      "hev": 197,
+      "topBrand": "PEUGEOT",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-09",
+      "total": 1318,
+      "cero": 64,
+      "eco": 246,
+      "bev": 64,
+      "phev": 0,
+      "hev": 246,
+      "topBrand": "PEUGEOT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-10",
+      "total": 1591,
+      "cero": 40,
+      "eco": 346,
+      "bev": 36,
+      "phev": 4,
+      "hev": 346,
+      "topBrand": "PEUGEOT",
+      "topModel": "KUGA"
+    },
+    {
+      "period": "2024-11",
+      "total": 1448,
+      "cero": 76,
+      "eco": 252,
+      "bev": 76,
+      "phev": 0,
+      "hev": 252,
+      "topBrand": "TOYOTA",
+      "topModel": "PROACE CITY"
+    },
+    {
+      "period": "2024-12",
+      "total": 1504,
+      "cero": 80,
+      "eco": 354,
+      "bev": 78,
+      "phev": 2,
+      "hev": 354,
+      "topBrand": "PEUGEOT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-01",
+      "total": 1345,
+      "cero": 82,
+      "eco": 212,
+      "bev": 81,
+      "phev": 1,
+      "hev": 212,
+      "topBrand": "PEUGEOT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-02",
+      "total": 1489,
+      "cero": 126,
+      "eco": 288,
+      "bev": 116,
+      "phev": 10,
+      "hev": 288,
+      "topBrand": "PEUGEOT",
+      "topModel": "NUEVO PARTNER STANDARD"
+    },
+    {
+      "period": "2025-03",
+      "total": 1914,
+      "cero": 99,
+      "eco": 321,
+      "bev": 96,
+      "phev": 3,
+      "hev": 321,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TAIGO"
+    },
+    {
+      "period": "2025-04",
+      "total": 2617,
+      "cero": 81,
+      "eco": 586,
+      "bev": 67,
+      "phev": 14,
+      "hev": 586,
+      "topBrand": "KIA",
+      "topModel": "I20"
+    },
+    {
+      "period": "2025-05",
+      "total": 1902,
+      "cero": 109,
+      "eco": 324,
+      "bev": 98,
+      "phev": 11,
+      "hev": 324,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-06",
+      "total": 1870,
+      "cero": 159,
+      "eco": 379,
+      "bev": 145,
+      "phev": 14,
+      "hev": 379,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-07",
+      "total": 2043,
+      "cero": 147,
+      "eco": 424,
+      "bev": 108,
+      "phev": 39,
+      "hev": 424,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TIGUAN"
+    },
+    {
+      "period": "2025-08",
+      "total": 1273,
+      "cero": 134,
+      "eco": 260,
+      "bev": 119,
+      "phev": 15,
+      "hev": 260,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "E35L"
+    },
+    {
+      "period": "2025-09",
+      "total": 1769,
+      "cero": 148,
+      "eco": 338,
+      "bev": 114,
+      "phev": 34,
+      "hev": 338,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2025-10",
+      "total": 1862,
+      "cero": 128,
+      "eco": 383,
+      "bev": 83,
+      "phev": 45,
+      "hev": 383,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "PROACE CITY"
+    },
+    {
+      "period": "2025-11",
+      "total": 1820,
+      "cero": 133,
+      "eco": 383,
+      "bev": 111,
+      "phev": 22,
+      "hev": 383,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-12",
+      "total": 1827,
+      "cero": 160,
+      "eco": 403,
+      "bev": 139,
+      "phev": 21,
+      "hev": 403,
+      "topBrand": "AUDI",
+      "topModel": "A1 SPORTBACK"
+    },
+    {
+      "period": "2026-01",
+      "total": 1708,
+      "cero": 95,
+      "eco": 338,
+      "bev": 79,
+      "phev": 16,
+      "hev": 338,
+      "topBrand": "AUDI",
+      "topModel": "A1 SPORTBACK"
+    },
+    {
+      "period": "2026-02",
+      "total": 1821,
+      "cero": 118,
+      "eco": 437,
+      "bev": 94,
+      "phev": 24,
+      "hev": 437,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TIGUAN"
+    },
+    {
+      "period": "2026-03",
+      "total": 2447,
+      "cero": 166,
+      "eco": 847,
+      "bev": 157,
+      "phev": 9,
+      "hev": 847,
+      "topBrand": "KIA",
+      "topModel": "STONIC"
+    },
+    {
+      "period": "2026-04",
+      "total": 2652,
+      "cero": 129,
+      "eco": 666,
+      "bev": 115,
+      "phev": 14,
+      "hev": 666,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "CADDY"
+    },
+    {
+      "period": "2026-05",
+      "total": 2423,
+      "cero": 221,
+      "eco": 478,
+      "bev": 204,
+      "phev": 17,
+      "hev": 478,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "Q2"
+    },
+    {
+      "period": "2026-06",
+      "total": 2181,
+      "cero": 264,
+      "eco": 426,
+      "bev": 172,
+      "phev": 92,
+      "hev": 426,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "JAECOO7 PHEV"
+    },
+    {
+      "period": "2026-07",
+      "total": 2161,
+      "cero": 216,
+      "eco": 381,
+      "bev": 194,
+      "phev": 22,
+      "hev": 381,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-08",
+      "total": 1340,
+      "cero": 126,
+      "eco": 308,
+      "bev": 118,
+      "phev": 8,
+      "hev": 308,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-09",
+      "total": 1884,
+      "cero": 264,
+      "eco": 411,
+      "bev": 243,
+      "phev": 21,
+      "hev": 411,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-10",
+      "total": 1869,
+      "cero": 247,
+      "eco": 423,
+      "bev": 228,
+      "phev": 19,
+      "hev": 423,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "timesLeader": 20
+    },
+    {
+      "brand": "PEUGEOT",
+      "slug": "peugeot",
+      "timesLeader": 8
+    },
+    {
+      "brand": "KIA",
+      "slug": "kia",
+      "timesLeader": 3
+    },
+    {
+      "brand": "AUDI",
+      "slug": "audi",
+      "timesLeader": 2
+    },
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 1
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "SANDERO",
+      "timesLeader": 11
+    },
+    {
+      "model": "TIGUAN",
+      "timesLeader": 3
+    },
+    {
+      "model": "T-CROSS",
+      "timesLeader": 2
+    },
+    {
+      "model": "PROACE CITY",
+      "timesLeader": 2
+    },
+    {
+      "model": "A1 SPORTBACK",
+      "timesLeader": 2
+    }
+  ]
+}

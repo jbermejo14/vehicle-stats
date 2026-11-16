@@ -1,0 +1,97 @@
+{
+  "brand": "OMODA",
+  "brandSlug": "omoda",
+  "model": "OMODA5 HEV",
+  "modelSlug": "omoda5-hev",
+  "fullName": "OMODA OMODA5 HEV",
+  "total": 12091,
+  "percentage": 0.22,
+  "category": "Turismo",
+  "primaryFuel": "Híbrido (HEV)",
+  "primaryBadge": "ECO",
+  "avgKw": 105,
+  "avgCv": 143,
+  "avgCo2": 120,
+  "evolution": [
+    {
+      "period": "2026-01",
+      "total": 921,
+      "avgKw": 105,
+      "avgCv": 143,
+      "avgCo2": 120,
+      "avgTara": 1621
+    },
+    {
+      "period": "2026-02",
+      "total": 1157,
+      "avgKw": 105,
+      "avgCv": 143,
+      "avgCo2": 120,
+      "avgTara": 1621
+    },
+    {
+      "period": "2026-03",
+      "total": 1350,
+      "avgKw": 105,
+      "avgCv": 143,
+      "avgCo2": 120,
+      "avgTara": 1621
+    },
+    {
+      "period": "2026-04",
+      "total": 1096,
+      "avgKw": 105,
+      "avgCv": 143,
+      "avgCo2": 120,
+      "avgTara": 1621
+    },
+    {
+      "period": "2026-05",
+      "total": 1442,
+      "avgKw": 105,
+      "avgCv": 143,
+      "avgCo2": 120,
+      "avgTara": 1621
+    },
+    {
+      "period": "2026-06",
+      "total": 1550,
+      "avgKw": 105,
+      "avgCv": 143,
+      "avgCo2": 120,
+      "avgTara": 1621
+    },
+    {
+      "period": "2026-07",
+      "total": 1187,
+      "avgKw": 105,
+      "avgCv": 143,
+      "avgCo2": 120,
+      "avgTara": 1621
+    },
+    {
+      "period": "2026-08",
+      "total": 814,
+      "avgKw": 105,
+      "avgCv": 143,
+      "avgCo2": 120,
+      "avgTara": 1621
+    },
+    {
+      "period": "2026-09",
+      "total": 1320,
+      "avgKw": 105,
+      "avgCv": 143,
+      "avgCo2": 120,
+      "avgTara": 1621
+    },
+    {
+      "period": "2026-10",
+      "total": 1254,
+      "avgKw": 105,
+      "avgCv": 143,
+      "avgCo2": 120,
+      "avgTara": 1621
+    }
+  ]
+}

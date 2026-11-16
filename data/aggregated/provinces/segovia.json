@@ -1,0 +1,439 @@
+{
+  "code": "40",
+  "name": "Segovia",
+  "slug": "segovia",
+  "community": "Castilla y León",
+  "population": 155332,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 10209,
+  "percentageOfSpain": 0.19,
+  "per1000Habitantes": 65.72,
+  "ceroCount": 736,
+  "ecoCount": 2390,
+  "bevCount": 634,
+  "phevCount": 102,
+  "hevCount": 2390,
+  "ceroPercentage": 7.2,
+  "ecoPercentage": 23.4,
+  "bevPercentage": 6.2,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 244,
+      "cero": 7,
+      "eco": 62,
+      "bev": 6,
+      "phev": 1,
+      "hev": 62,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-02",
+      "total": 255,
+      "cero": 10,
+      "eco": 68,
+      "bev": 9,
+      "phev": 1,
+      "hev": 68,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2024-03",
+      "total": 220,
+      "cero": 11,
+      "eco": 46,
+      "bev": 10,
+      "phev": 1,
+      "hev": 46,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-04",
+      "total": 261,
+      "cero": 8,
+      "eco": 45,
+      "bev": 7,
+      "phev": 1,
+      "hev": 45,
+      "topBrand": "TOYOTA",
+      "topModel": "FH"
+    },
+    {
+      "period": "2024-05",
+      "total": 280,
+      "cero": 9,
+      "eco": 66,
+      "bev": 8,
+      "phev": 1,
+      "hev": 66,
+      "topBrand": "TOYOTA",
+      "topModel": "XG 480 FT"
+    },
+    {
+      "period": "2024-06",
+      "total": 276,
+      "cero": 13,
+      "eco": 72,
+      "bev": 13,
+      "phev": 0,
+      "hev": 72,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-07",
+      "total": 281,
+      "cero": 13,
+      "eco": 73,
+      "bev": 12,
+      "phev": 1,
+      "hev": 73,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-08",
+      "total": 230,
+      "cero": 6,
+      "eco": 64,
+      "bev": 5,
+      "phev": 1,
+      "hev": 64,
+      "topBrand": "RENAULT",
+      "topModel": "---"
+    },
+    {
+      "period": "2024-09",
+      "total": 287,
+      "cero": 12,
+      "eco": 56,
+      "bev": 12,
+      "phev": 0,
+      "hev": 56,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-10",
+      "total": 304,
+      "cero": 9,
+      "eco": 67,
+      "bev": 9,
+      "phev": 0,
+      "hev": 67,
+      "topBrand": "TOYOTA",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2024-11",
+      "total": 280,
+      "cero": 7,
+      "eco": 67,
+      "bev": 7,
+      "phev": 0,
+      "hev": 67,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA YARIS CROSS"
+    },
+    {
+      "period": "2024-12",
+      "total": 322,
+      "cero": 16,
+      "eco": 87,
+      "bev": 16,
+      "phev": 0,
+      "hev": 87,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA HILUX"
+    },
+    {
+      "period": "2025-01",
+      "total": 260,
+      "cero": 17,
+      "eco": 59,
+      "bev": 17,
+      "phev": 0,
+      "hev": 59,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-02",
+      "total": 264,
+      "cero": 16,
+      "eco": 62,
+      "bev": 14,
+      "phev": 2,
+      "hev": 62,
+      "topBrand": "TOYOTA",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-03",
+      "total": 259,
+      "cero": 23,
+      "eco": 62,
+      "bev": 21,
+      "phev": 2,
+      "hev": 62,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-04",
+      "total": 295,
+      "cero": 11,
+      "eco": 63,
+      "bev": 8,
+      "phev": 3,
+      "hev": 63,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TIGUAN"
+    },
+    {
+      "period": "2025-05",
+      "total": 312,
+      "cero": 9,
+      "eco": 69,
+      "bev": 6,
+      "phev": 3,
+      "hev": 69,
+      "topBrand": "RENAULT",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-06",
+      "total": 370,
+      "cero": 24,
+      "eco": 80,
+      "bev": 23,
+      "phev": 1,
+      "hev": 80,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-07",
+      "total": 353,
+      "cero": 23,
+      "eco": 67,
+      "bev": 16,
+      "phev": 7,
+      "hev": 67,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-08",
+      "total": 269,
+      "cero": 25,
+      "eco": 74,
+      "bev": 23,
+      "phev": 2,
+      "hev": 74,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA RAV4"
+    },
+    {
+      "period": "2025-09",
+      "total": 286,
+      "cero": 26,
+      "eco": 54,
+      "bev": 24,
+      "phev": 2,
+      "hev": 54,
+      "topBrand": "RENAULT",
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2025-10",
+      "total": 359,
+      "cero": 28,
+      "eco": 92,
+      "bev": 21,
+      "phev": 7,
+      "hev": 92,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "N/A"
+    },
+    {
+      "period": "2025-11",
+      "total": 310,
+      "cero": 28,
+      "eco": 80,
+      "bev": 22,
+      "phev": 6,
+      "hev": 80,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-12",
+      "total": 338,
+      "cero": 31,
+      "eco": 75,
+      "bev": 24,
+      "phev": 7,
+      "hev": 75,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2026-01",
+      "total": 236,
+      "cero": 21,
+      "eco": 58,
+      "bev": 17,
+      "phev": 4,
+      "hev": 58,
+      "topBrand": "RENAULT",
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2026-02",
+      "total": 297,
+      "cero": 26,
+      "eco": 71,
+      "bev": 20,
+      "phev": 6,
+      "hev": 71,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2026-03",
+      "total": 374,
+      "cero": 33,
+      "eco": 92,
+      "bev": 30,
+      "phev": 3,
+      "hev": 92,
+      "topBrand": "RENAULT",
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2026-04",
+      "total": 301,
+      "cero": 23,
+      "eco": 71,
+      "bev": 18,
+      "phev": 5,
+      "hev": 71,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2026-05",
+      "total": 351,
+      "cero": 37,
+      "eco": 97,
+      "bev": 29,
+      "phev": 8,
+      "hev": 97,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-06",
+      "total": 402,
+      "cero": 40,
+      "eco": 83,
+      "bev": 33,
+      "phev": 7,
+      "hev": 83,
+      "topBrand": "RENAULT",
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2026-07",
+      "total": 382,
+      "cero": 33,
+      "eco": 85,
+      "bev": 30,
+      "phev": 3,
+      "hev": 85,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-08",
+      "total": 261,
+      "cero": 30,
+      "eco": 64,
+      "bev": 26,
+      "phev": 4,
+      "hev": 64,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-09",
+      "total": 327,
+      "cero": 54,
+      "eco": 82,
+      "bev": 46,
+      "phev": 8,
+      "hev": 82,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2026-10",
+      "total": 363,
+      "cero": 57,
+      "eco": 77,
+      "bev": 52,
+      "phev": 5,
+      "hev": 77,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 17
+    },
+    {
+      "brand": "RENAULT",
+      "slug": "renault",
+      "timesLeader": 10
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "timesLeader": 6
+    },
+    {
+      "brand": "MERCEDES-BENZ",
+      "slug": "mercedes-benz",
+      "timesLeader": 1
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "SANDERO",
+      "timesLeader": 13
+    },
+    {
+      "model": "TOYOTA C-HR",
+      "timesLeader": 6
+    },
+    {
+      "model": "DESCONOCIDO",
+      "timesLeader": 2
+    },
+    {
+      "model": "TOYOTA COROLLA",
+      "timesLeader": 1
+    },
+    {
+      "model": "FH",
+      "timesLeader": 1
+    }
+  ]
+}

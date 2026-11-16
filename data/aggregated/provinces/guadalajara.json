@@ -1,0 +1,444 @@
+{
+  "code": "19",
+  "name": "Guadalajara",
+  "slug": "guadalajara",
+  "community": "Castilla-La Mancha",
+  "population": 275082,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 21045,
+  "percentageOfSpain": 0.39,
+  "per1000Habitantes": 76.5,
+  "ceroCount": 2584,
+  "ecoCount": 5888,
+  "bevCount": 2294,
+  "phevCount": 290,
+  "hevCount": 5870,
+  "ceroPercentage": 12.3,
+  "ecoPercentage": 28,
+  "bevPercentage": 10.9,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 385,
+      "cero": 28,
+      "eco": 107,
+      "bev": 26,
+      "phev": 2,
+      "hev": 107,
+      "topBrand": "TOYOTA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-02",
+      "total": 452,
+      "cero": 37,
+      "eco": 126,
+      "bev": 32,
+      "phev": 5,
+      "hev": 126,
+      "topBrand": "TOYOTA",
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2024-03",
+      "total": 506,
+      "cero": 44,
+      "eco": 138,
+      "bev": 39,
+      "phev": 5,
+      "hev": 138,
+      "topBrand": "TOYOTA",
+      "topModel": "FH"
+    },
+    {
+      "period": "2024-04",
+      "total": 538,
+      "cero": 40,
+      "eco": 125,
+      "bev": 36,
+      "phev": 4,
+      "hev": 125,
+      "topBrand": "RENAULT",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-05",
+      "total": 613,
+      "cero": 45,
+      "eco": 159,
+      "bev": 43,
+      "phev": 2,
+      "hev": 159,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-06",
+      "total": 571,
+      "cero": 45,
+      "eco": 189,
+      "bev": 42,
+      "phev": 3,
+      "hev": 189,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2024-07",
+      "total": 582,
+      "cero": 37,
+      "eco": 155,
+      "bev": 37,
+      "phev": 0,
+      "hev": 155,
+      "topBrand": "TOYOTA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-08",
+      "total": 384,
+      "cero": 24,
+      "eco": 100,
+      "bev": 23,
+      "phev": 1,
+      "hev": 100,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-09",
+      "total": 507,
+      "cero": 47,
+      "eco": 143,
+      "bev": 47,
+      "phev": 0,
+      "hev": 143,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-10",
+      "total": 595,
+      "cero": 20,
+      "eco": 179,
+      "bev": 20,
+      "phev": 0,
+      "hev": 179,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2024-11",
+      "total": 547,
+      "cero": 56,
+      "eco": 179,
+      "bev": 55,
+      "phev": 1,
+      "hev": 177,
+      "topBrand": "RENAULT",
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2024-12",
+      "total": 580,
+      "cero": 69,
+      "eco": 168,
+      "bev": 68,
+      "phev": 1,
+      "hev": 167,
+      "topBrand": "KIA",
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2025-01",
+      "total": 481,
+      "cero": 42,
+      "eco": 133,
+      "bev": 41,
+      "phev": 1,
+      "hev": 132,
+      "topBrand": "TOYOTA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-02",
+      "total": 497,
+      "cero": 49,
+      "eco": 162,
+      "bev": 42,
+      "phev": 7,
+      "hev": 160,
+      "topBrand": "TOYOTA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-03",
+      "total": 583,
+      "cero": 52,
+      "eco": 184,
+      "bev": 49,
+      "phev": 3,
+      "hev": 184,
+      "topBrand": "TOYOTA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-04",
+      "total": 573,
+      "cero": 48,
+      "eco": 156,
+      "bev": 46,
+      "phev": 2,
+      "hev": 154,
+      "topBrand": "KIA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-05",
+      "total": 592,
+      "cero": 68,
+      "eco": 151,
+      "bev": 64,
+      "phev": 4,
+      "hev": 151,
+      "topBrand": "MG",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-06",
+      "total": 674,
+      "cero": 81,
+      "eco": 192,
+      "bev": 68,
+      "phev": 13,
+      "hev": 192,
+      "topBrand": "TOYOTA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-07",
+      "total": 764,
+      "cero": 88,
+      "eco": 215,
+      "bev": 68,
+      "phev": 20,
+      "hev": 215,
+      "topBrand": "TOYOTA",
+      "topModel": "FH16"
+    },
+    {
+      "period": "2025-08",
+      "total": 546,
+      "cero": 83,
+      "eco": 147,
+      "bev": 73,
+      "phev": 10,
+      "hev": 147,
+      "topBrand": "TOYOTA",
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2025-09",
+      "total": 653,
+      "cero": 92,
+      "eco": 174,
+      "bev": 71,
+      "phev": 21,
+      "hev": 174,
+      "topBrand": "DACIA",
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2025-10",
+      "total": 791,
+      "cero": 100,
+      "eco": 225,
+      "bev": 83,
+      "phev": 17,
+      "hev": 222,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-11",
+      "total": 727,
+      "cero": 106,
+      "eco": 191,
+      "bev": 86,
+      "phev": 20,
+      "hev": 190,
+      "topBrand": "KIA",
+      "topModel": "LTM-GEN FCH"
+    },
+    {
+      "period": "2025-12",
+      "total": 709,
+      "cero": 133,
+      "eco": 197,
+      "bev": 110,
+      "phev": 23,
+      "hev": 195,
+      "topBrand": "RENAULT",
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2026-01",
+      "total": 536,
+      "cero": 58,
+      "eco": 172,
+      "bev": 52,
+      "phev": 6,
+      "hev": 171,
+      "topBrand": "TOYOTA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2026-02",
+      "total": 644,
+      "cero": 74,
+      "eco": 200,
+      "bev": 64,
+      "phev": 10,
+      "hev": 200,
+      "topBrand": "TOYOTA",
+      "topModel": "OMODA5 HEV"
+    },
+    {
+      "period": "2026-03",
+      "total": 784,
+      "cero": 113,
+      "eco": 213,
+      "bev": 96,
+      "phev": 17,
+      "hev": 212,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2026-04",
+      "total": 717,
+      "cero": 104,
+      "eco": 179,
+      "bev": 92,
+      "phev": 12,
+      "hev": 179,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-05",
+      "total": 785,
+      "cero": 118,
+      "eco": 226,
+      "bev": 110,
+      "phev": 8,
+      "hev": 225,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2026-06",
+      "total": 800,
+      "cero": 150,
+      "eco": 224,
+      "bev": 141,
+      "phev": 9,
+      "hev": 224,
+      "topBrand": "TOYOTA",
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2026-07",
+      "total": 791,
+      "cero": 99,
+      "eco": 231,
+      "bev": 83,
+      "phev": 16,
+      "hev": 230,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-08",
+      "total": 585,
+      "cero": 97,
+      "eco": 171,
+      "bev": 85,
+      "phev": 12,
+      "hev": 171,
+      "topBrand": "BYD",
+      "topModel": "OMODA5 HEV"
+    },
+    {
+      "period": "2026-09",
+      "total": 754,
+      "cero": 167,
+      "eco": 174,
+      "bev": 152,
+      "phev": 15,
+      "hev": 174,
+      "topBrand": "TOYOTA",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2026-10",
+      "total": 799,
+      "cero": 170,
+      "eco": 203,
+      "bev": 150,
+      "phev": 20,
+      "hev": 203,
+      "topBrand": "KIA",
+      "topModel": "NIRO"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 21
+    },
+    {
+      "brand": "RENAULT",
+      "slug": "renault",
+      "timesLeader": 6
+    },
+    {
+      "brand": "KIA",
+      "slug": "kia",
+      "timesLeader": 4
+    },
+    {
+      "brand": "MG",
+      "slug": "mg",
+      "timesLeader": 1
+    },
+    {
+      "brand": "DACIA",
+      "slug": "dacia",
+      "timesLeader": 1
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "MG ZS",
+      "timesLeader": 10
+    },
+    {
+      "model": "SANDERO",
+      "timesLeader": 6
+    },
+    {
+      "model": "TOYOTA C-HR",
+      "timesLeader": 4
+    },
+    {
+      "model": "MODEL 3",
+      "timesLeader": 3
+    },
+    {
+      "model": "CLIO",
+      "timesLeader": 2
+    }
+  ]
+}

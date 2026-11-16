@@ -1,0 +1,185 @@
+{
+  "brand": "HYUNDAI",
+  "brandSlug": "hyundai",
+  "model": "I20",
+  "modelSlug": "i20",
+  "fullName": "HYUNDAI I20",
+  "total": 23745,
+  "percentage": 0.44,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 68,
+  "avgCv": 93,
+  "avgCo2": 121,
+  "evolution": [
+    {
+      "period": "2024-01",
+      "total": 642,
+      "avgKw": 70,
+      "avgCv": 95,
+      "avgCo2": 119,
+      "avgTara": 1135
+    },
+    {
+      "period": "2024-02",
+      "total": 728,
+      "avgKw": 69,
+      "avgCv": 94,
+      "avgCo2": 119,
+      "avgTara": 1128
+    },
+    {
+      "period": "2024-03",
+      "total": 905,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 119,
+      "avgTara": 1118
+    },
+    {
+      "period": "2024-04",
+      "total": 1191,
+      "avgKw": 71,
+      "avgCv": 97,
+      "avgCo2": 119,
+      "avgTara": 1135
+    },
+    {
+      "period": "2024-05",
+      "total": 1225,
+      "avgKw": 68,
+      "avgCv": 92,
+      "avgCo2": 119,
+      "avgTara": 1118
+    },
+    {
+      "period": "2024-06",
+      "total": 1149,
+      "avgKw": 68,
+      "avgCv": 93,
+      "avgCo2": 119,
+      "avgTara": 1127
+    },
+    {
+      "period": "2024-07",
+      "total": 1216,
+      "avgKw": 66,
+      "avgCv": 90,
+      "avgCo2": 120,
+      "avgTara": 1123
+    },
+    {
+      "period": "2024-08",
+      "total": 460,
+      "avgKw": 71,
+      "avgCv": 96,
+      "avgCo2": 119,
+      "avgTara": 1145
+    },
+    {
+      "period": "2024-09",
+      "total": 829,
+      "avgKw": 70,
+      "avgCv": 96,
+      "avgCo2": 119,
+      "avgTara": 1142
+    },
+    {
+      "period": "2024-10",
+      "total": 979,
+      "avgKw": 70,
+      "avgCv": 95,
+      "avgCo2": 119,
+      "avgTara": 1137
+    },
+    {
+      "period": "2024-12",
+      "total": 1284,
+      "avgKw": 69,
+      "avgCv": 94,
+      "avgCo2": 119,
+      "avgTara": 1138
+    },
+    {
+      "period": "2025-02",
+      "total": 937,
+      "avgKw": 69,
+      "avgCv": 94,
+      "avgCo2": 120,
+      "avgTara": 1131
+    },
+    {
+      "period": "2025-04",
+      "total": 2638,
+      "avgKw": 67,
+      "avgCv": 92,
+      "avgCo2": 120,
+      "avgTara": 1123
+    },
+    {
+      "period": "2025-05",
+      "total": 1264,
+      "avgKw": 71,
+      "avgCv": 97,
+      "avgCo2": 118,
+      "avgTara": 1147
+    },
+    {
+      "period": "2025-07",
+      "total": 1081,
+      "avgKw": 71,
+      "avgCv": 96,
+      "avgCo2": 119,
+      "avgTara": 1148
+    },
+    {
+      "period": "2025-10",
+      "total": 903,
+      "avgKw": 67,
+      "avgCv": 91,
+      "avgCo2": 120,
+      "avgTara": 1128
+    },
+    {
+      "period": "2025-12",
+      "total": 1407,
+      "avgKw": 72,
+      "avgCv": 98,
+      "avgCo2": 118,
+      "avgTara": 1153
+    },
+    {
+      "period": "2026-03",
+      "total": 1435,
+      "avgKw": 67,
+      "avgCv": 91,
+      "avgCo2": 128,
+      "avgTara": 1147
+    },
+    {
+      "period": "2026-04",
+      "total": 1132,
+      "avgKw": 66,
+      "avgCv": 90,
+      "avgCo2": 129,
+      "avgTara": 1151
+    },
+    {
+      "period": "2026-06",
+      "total": 1289,
+      "avgKw": 66,
+      "avgCv": 90,
+      "avgCo2": 130,
+      "avgTara": 1146
+    },
+    {
+      "period": "2026-07",
+      "total": 1051,
+      "avgKw": 66,
+      "avgCv": 90,
+      "avgCo2": 130,
+      "avgTara": 1147
+    }
+  ]
+}

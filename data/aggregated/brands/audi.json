@@ -1,0 +1,361 @@
+{
+  "brand": "AUDI",
+  "slug": "audi",
+  "total": 166863,
+  "percentage": 3.08,
+  "eco0Percentage": 29,
+  "avgKw": 129,
+  "monthlyEvolution": [
+    {
+      "period": "2024-01",
+      "total": 3626,
+      "eco0Count": 969,
+      "avgKw": 126,
+      "avgCo2": 137,
+      "topModel": "A3 SPORTBACK"
+    },
+    {
+      "period": "2024-02",
+      "total": 4477,
+      "eco0Count": 1020,
+      "avgKw": 122,
+      "avgCo2": 136,
+      "topModel": "Q2"
+    },
+    {
+      "period": "2024-03",
+      "total": 4286,
+      "eco0Count": 865,
+      "avgKw": 121,
+      "avgCo2": 131,
+      "topModel": "A3 SPORTBACK"
+    },
+    {
+      "period": "2024-04",
+      "total": 4291,
+      "eco0Count": 779,
+      "avgKw": 122,
+      "avgCo2": 135,
+      "topModel": "Q2"
+    },
+    {
+      "period": "2024-05",
+      "total": 4672,
+      "eco0Count": 843,
+      "avgKw": 120,
+      "avgCo2": 136,
+      "topModel": "Q3 SPORTBACK"
+    },
+    {
+      "period": "2024-06",
+      "total": 5353,
+      "eco0Count": 1224,
+      "avgKw": 121,
+      "avgCo2": 140,
+      "topModel": "Q3 SPORTBACK"
+    },
+    {
+      "period": "2024-07",
+      "total": 5257,
+      "eco0Count": 1172,
+      "avgKw": 128,
+      "avgCo2": 140,
+      "topModel": "Q3 SPORTBACK"
+    },
+    {
+      "period": "2024-08",
+      "total": 3582,
+      "eco0Count": 931,
+      "avgKw": 128,
+      "avgCo2": 141,
+      "topModel": "Q3 SPORTBACK"
+    },
+    {
+      "period": "2024-09",
+      "total": 4041,
+      "eco0Count": 1166,
+      "avgKw": 125,
+      "avgCo2": 141,
+      "topModel": "Q3 SPORTBACK"
+    },
+    {
+      "period": "2024-10",
+      "total": 4952,
+      "eco0Count": 1310,
+      "avgKw": 127,
+      "avgCo2": 144,
+      "topModel": "Q3 SPORTBACK"
+    },
+    {
+      "period": "2024-11",
+      "total": 4192,
+      "eco0Count": 1226,
+      "avgKw": 132,
+      "avgCo2": 143,
+      "topModel": "Q3 SPORTBACK"
+    },
+    {
+      "period": "2024-12",
+      "total": 4520,
+      "eco0Count": 1267,
+      "avgKw": 131,
+      "avgCo2": 145,
+      "topModel": "Q3 SPORTBACK"
+    },
+    {
+      "period": "2025-01",
+      "total": 4008,
+      "eco0Count": 1017,
+      "avgKw": 130,
+      "avgCo2": 145,
+      "topModel": "A1 SPORTBACK"
+    },
+    {
+      "period": "2025-02",
+      "total": 4428,
+      "eco0Count": 1233,
+      "avgKw": 128,
+      "avgCo2": 145,
+      "topModel": "Q2"
+    },
+    {
+      "period": "2025-03",
+      "total": 5074,
+      "eco0Count": 1684,
+      "avgKw": 129,
+      "avgCo2": 143,
+      "topModel": "A1 SPORTBACK"
+    },
+    {
+      "period": "2025-04",
+      "total": 5069,
+      "eco0Count": 1819,
+      "avgKw": 130,
+      "avgCo2": 134,
+      "topModel": "A1 SPORTBACK"
+    },
+    {
+      "period": "2025-05",
+      "total": 5398,
+      "eco0Count": 1894,
+      "avgKw": 127,
+      "avgCo2": 129,
+      "topModel": "A1 SPORTBACK"
+    },
+    {
+      "period": "2025-06",
+      "total": 5327,
+      "eco0Count": 1823,
+      "avgKw": 130,
+      "avgCo2": 133,
+      "topModel": "A1 SPORTBACK"
+    },
+    {
+      "period": "2025-07",
+      "total": 5169,
+      "eco0Count": 1657,
+      "avgKw": 130,
+      "avgCo2": 136,
+      "topModel": "A3 SPORTBACK"
+    },
+    {
+      "period": "2025-08",
+      "total": 3576,
+      "eco0Count": 1233,
+      "avgKw": 131,
+      "avgCo2": 133,
+      "topModel": "A3 SPORTBACK"
+    },
+    {
+      "period": "2025-09",
+      "total": 4301,
+      "eco0Count": 1444,
+      "avgKw": 135,
+      "avgCo2": 131,
+      "topModel": "A3 SPORTBACK"
+    },
+    {
+      "period": "2025-10",
+      "total": 5414,
+      "eco0Count": 1698,
+      "avgKw": 133,
+      "avgCo2": 129,
+      "topModel": "Q3 SPORTBACK"
+    },
+    {
+      "period": "2025-11",
+      "total": 5514,
+      "eco0Count": 1559,
+      "avgKw": 130,
+      "avgCo2": 127,
+      "topModel": "A1 SPORTBACK"
+    },
+    {
+      "period": "2025-12",
+      "total": 6424,
+      "eco0Count": 2049,
+      "avgKw": 129,
+      "avgCo2": 124,
+      "topModel": "A1 SPORTBACK"
+    },
+    {
+      "period": "2026-01",
+      "total": 4395,
+      "eco0Count": 1256,
+      "avgKw": 132,
+      "avgCo2": 123,
+      "topModel": "A1 SPORTBACK"
+    },
+    {
+      "period": "2026-02",
+      "total": 5780,
+      "eco0Count": 1673,
+      "avgKw": 131,
+      "avgCo2": 123,
+      "topModel": "Q2"
+    },
+    {
+      "period": "2026-03",
+      "total": 6045,
+      "eco0Count": 1797,
+      "avgKw": 133,
+      "avgCo2": 125,
+      "topModel": "Q2"
+    },
+    {
+      "period": "2026-04",
+      "total": 6190,
+      "eco0Count": 1844,
+      "avgKw": 135,
+      "avgCo2": 124,
+      "topModel": "A1 SPORTBACK"
+    },
+    {
+      "period": "2026-05",
+      "total": 6384,
+      "eco0Count": 1996,
+      "avgKw": 136,
+      "avgCo2": 123,
+      "topModel": "Q2"
+    },
+    {
+      "period": "2026-06",
+      "total": 6633,
+      "eco0Count": 1976,
+      "avgKw": 130,
+      "avgCo2": 122,
+      "topModel": "A1 SPORTBACK"
+    },
+    {
+      "period": "2026-07",
+      "total": 5465,
+      "eco0Count": 1739,
+      "avgKw": 133,
+      "avgCo2": 121,
+      "topModel": "A3 SPORTBACK"
+    },
+    {
+      "period": "2026-08",
+      "total": 3526,
+      "eco0Count": 1125,
+      "avgKw": 134,
+      "avgCo2": 126,
+      "topModel": "A3 SPORTBACK"
+    },
+    {
+      "period": "2026-09",
+      "total": 4261,
+      "eco0Count": 1308,
+      "avgKw": 132,
+      "avgCo2": 124,
+      "topModel": "A3 SPORTBACK"
+    },
+    {
+      "period": "2026-10",
+      "total": 5233,
+      "eco0Count": 1838,
+      "avgKw": 134,
+      "avgCo2": 125,
+      "topModel": "A3 SPORTBACK"
+    }
+  ],
+  "models": [
+    {
+      "brand": "AUDI",
+      "brandSlug": "audi",
+      "model": "Q3 SPORTBACK",
+      "modelSlug": "q3-sportback",
+      "fullName": "AUDI Q3 SPORTBACK",
+      "total": 1373,
+      "percentage": 0.03,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 115,
+      "avgCv": 157,
+      "avgCo2": 157
+    },
+    {
+      "brand": "AUDI",
+      "brandSlug": "audi",
+      "model": "Q2",
+      "modelSlug": "q2",
+      "fullName": "AUDI Q2",
+      "total": 756,
+      "percentage": 0.01,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 96,
+      "avgCv": 131,
+      "avgCo2": 137
+    },
+    {
+      "brand": "AUDI",
+      "brandSlug": "audi",
+      "model": "A3 SPORTBACK",
+      "modelSlug": "a3-sportback",
+      "fullName": "AUDI A3 SPORTBACK",
+      "total": 755,
+      "percentage": 0.01,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 101,
+      "avgCv": 137,
+      "avgCo2": 126
+    },
+    {
+      "brand": "AUDI",
+      "brandSlug": "audi",
+      "model": "A1 SPORTBACK",
+      "modelSlug": "a1-sportback",
+      "fullName": "AUDI A1 SPORTBACK",
+      "total": 642,
+      "percentage": 0.01,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 85,
+      "avgCv": 116,
+      "avgCo2": 128
+    }
+  ],
+  "leadProvinces": [
+    {
+      "province": "Castellón / Castelló",
+      "slug": "castellon-castello",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Asturias",
+      "slug": "asturias",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Alicante / Alacant",
+      "slug": "alicante-alacant",
+      "monthsLeading": 1
+    }
+  ]
+}

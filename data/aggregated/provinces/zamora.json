@@ -1,0 +1,444 @@
+{
+  "code": "49",
+  "name": "Zamora",
+  "slug": "zamora",
+  "community": "Castilla y León",
+  "population": 166200,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 9918,
+  "percentageOfSpain": 0.18,
+  "per1000Habitantes": 59.68,
+  "ceroCount": 500,
+  "ecoCount": 2103,
+  "bevCount": 451,
+  "phevCount": 49,
+  "hevCount": 2103,
+  "ceroPercentage": 5,
+  "ecoPercentage": 21.2,
+  "bevPercentage": 4.5,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 238,
+      "cero": 7,
+      "eco": 39,
+      "bev": 7,
+      "phev": 0,
+      "hev": 39,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-02",
+      "total": 237,
+      "cero": 12,
+      "eco": 47,
+      "bev": 10,
+      "phev": 2,
+      "hev": 47,
+      "topBrand": "TOYOTA",
+      "topModel": "DUSTER"
+    },
+    {
+      "period": "2024-03",
+      "total": 238,
+      "cero": 10,
+      "eco": 48,
+      "bev": 10,
+      "phev": 0,
+      "hev": 48,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-04",
+      "total": 269,
+      "cero": 13,
+      "eco": 47,
+      "bev": 13,
+      "phev": 0,
+      "hev": 47,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-05",
+      "total": 258,
+      "cero": 10,
+      "eco": 45,
+      "bev": 10,
+      "phev": 0,
+      "hev": 45,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2024-06",
+      "total": 271,
+      "cero": 7,
+      "eco": 49,
+      "bev": 7,
+      "phev": 0,
+      "hev": 49,
+      "topBrand": "RENAULT",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-07",
+      "total": 311,
+      "cero": 9,
+      "eco": 61,
+      "bev": 9,
+      "phev": 0,
+      "hev": 61,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "SPORTAGE"
+    },
+    {
+      "period": "2024-08",
+      "total": 247,
+      "cero": 0,
+      "eco": 53,
+      "bev": 0,
+      "phev": 0,
+      "hev": 53,
+      "topBrand": "RENAULT",
+      "topModel": "DUSTER"
+    },
+    {
+      "period": "2024-09",
+      "total": 265,
+      "cero": 10,
+      "eco": 60,
+      "bev": 9,
+      "phev": 1,
+      "hev": 60,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2024-10",
+      "total": 302,
+      "cero": 4,
+      "eco": 81,
+      "bev": 4,
+      "phev": 0,
+      "hev": 81,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-11",
+      "total": 279,
+      "cero": 5,
+      "eco": 52,
+      "bev": 5,
+      "phev": 0,
+      "hev": 52,
+      "topBrand": "RENAULT",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-12",
+      "total": 292,
+      "cero": 14,
+      "eco": 71,
+      "bev": 14,
+      "phev": 0,
+      "hev": 71,
+      "topBrand": "RENAULT",
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2025-01",
+      "total": 268,
+      "cero": 7,
+      "eco": 57,
+      "bev": 7,
+      "phev": 0,
+      "hev": 57,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-02",
+      "total": 234,
+      "cero": 6,
+      "eco": 49,
+      "bev": 6,
+      "phev": 0,
+      "hev": 49,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2025-03",
+      "total": 320,
+      "cero": 17,
+      "eco": 67,
+      "bev": 16,
+      "phev": 1,
+      "hev": 67,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-04",
+      "total": 279,
+      "cero": 11,
+      "eco": 47,
+      "bev": 9,
+      "phev": 2,
+      "hev": 47,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-05",
+      "total": 332,
+      "cero": 20,
+      "eco": 65,
+      "bev": 16,
+      "phev": 4,
+      "hev": 65,
+      "topBrand": "RENAULT",
+      "topModel": "DUSTER"
+    },
+    {
+      "period": "2025-06",
+      "total": 319,
+      "cero": 17,
+      "eco": 62,
+      "bev": 16,
+      "phev": 1,
+      "hev": 62,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2025-07",
+      "total": 309,
+      "cero": 12,
+      "eco": 61,
+      "bev": 12,
+      "phev": 0,
+      "hev": 61,
+      "topBrand": "HYUNDAI",
+      "topModel": "KONA"
+    },
+    {
+      "period": "2025-08",
+      "total": 259,
+      "cero": 10,
+      "eco": 62,
+      "bev": 9,
+      "phev": 1,
+      "hev": 62,
+      "topBrand": "BMW",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-09",
+      "total": 267,
+      "cero": 24,
+      "eco": 67,
+      "bev": 21,
+      "phev": 3,
+      "hev": 67,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-10",
+      "total": 328,
+      "cero": 14,
+      "eco": 77,
+      "bev": 11,
+      "phev": 3,
+      "hev": 77,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-11",
+      "total": 322,
+      "cero": 20,
+      "eco": 76,
+      "bev": 16,
+      "phev": 4,
+      "hev": 76,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-12",
+      "total": 319,
+      "cero": 21,
+      "eco": 84,
+      "bev": 16,
+      "phev": 5,
+      "hev": 84,
+      "topBrand": "RENAULT",
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2026-01",
+      "total": 255,
+      "cero": 15,
+      "eco": 49,
+      "bev": 14,
+      "phev": 1,
+      "hev": 49,
+      "topBrand": "TOYOTA",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2026-02",
+      "total": 279,
+      "cero": 4,
+      "eco": 74,
+      "bev": 4,
+      "phev": 0,
+      "hev": 74,
+      "topBrand": "TOYOTA",
+      "topModel": "OMODA5 HEV"
+    },
+    {
+      "period": "2026-03",
+      "total": 374,
+      "cero": 23,
+      "eco": 94,
+      "bev": 21,
+      "phev": 2,
+      "hev": 94,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "MAZDA CX-30"
+    },
+    {
+      "period": "2026-04",
+      "total": 321,
+      "cero": 20,
+      "eco": 63,
+      "bev": 19,
+      "phev": 1,
+      "hev": 63,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA YARIS CROSS"
+    },
+    {
+      "period": "2026-05",
+      "total": 316,
+      "cero": 12,
+      "eco": 75,
+      "bev": 11,
+      "phev": 1,
+      "hev": 75,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2026-06",
+      "total": 373,
+      "cero": 19,
+      "eco": 84,
+      "bev": 19,
+      "phev": 0,
+      "hev": 84,
+      "topBrand": "BMW",
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2026-07",
+      "total": 344,
+      "cero": 19,
+      "eco": 62,
+      "bev": 14,
+      "phev": 5,
+      "hev": 62,
+      "topBrand": "DACIA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-08",
+      "total": 243,
+      "cero": 26,
+      "eco": 48,
+      "bev": 23,
+      "phev": 3,
+      "hev": 48,
+      "topBrand": "KIA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-09",
+      "total": 318,
+      "cero": 39,
+      "eco": 72,
+      "bev": 35,
+      "phev": 4,
+      "hev": 72,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2026-10",
+      "total": 332,
+      "cero": 43,
+      "eco": 55,
+      "bev": 38,
+      "phev": 5,
+      "hev": 55,
+      "topBrand": "DACIA",
+      "topModel": "SANDERO"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "MERCEDES-BENZ",
+      "slug": "mercedes-benz",
+      "timesLeader": 11
+    },
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 10
+    },
+    {
+      "brand": "RENAULT",
+      "slug": "renault",
+      "timesLeader": 7
+    },
+    {
+      "brand": "BMW",
+      "slug": "bmw",
+      "timesLeader": 2
+    },
+    {
+      "brand": "DACIA",
+      "slug": "dacia",
+      "timesLeader": 2
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "SANDERO",
+      "timesLeader": 9
+    },
+    {
+      "model": "MG ZS",
+      "timesLeader": 5
+    },
+    {
+      "model": "DUSTER",
+      "timesLeader": 3
+    },
+    {
+      "model": "DESCONOCIDO",
+      "timesLeader": 3
+    },
+    {
+      "model": "TOYOTA C-HR",
+      "timesLeader": 3
+    }
+  ]
+}

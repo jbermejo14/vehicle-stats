@@ -1,0 +1,81 @@
+{
+  "brand": "BYD",
+  "brandSlug": "byd",
+  "model": "BYD SEAL U DM-I",
+  "modelSlug": "byd-seal-u-dm-i",
+  "fullName": "BYD BYD SEAL U DM-I",
+  "total": 8060,
+  "percentage": 0.15,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 75,
+  "avgCv": 101,
+  "avgCo2": 19,
+  "evolution": [
+    {
+      "period": "2025-04",
+      "total": 906,
+      "avgKw": 74,
+      "avgCv": 100,
+      "avgCo2": 13,
+      "avgTara": 2067
+    },
+    {
+      "period": "2025-05",
+      "total": 1415,
+      "avgKw": 73,
+      "avgCv": 99,
+      "avgCo2": 12,
+      "avgTara": 2063
+    },
+    {
+      "period": "2025-11",
+      "total": 851,
+      "avgKw": 76,
+      "avgCv": 103,
+      "avgCo2": 12,
+      "avgTara": 2085
+    },
+    {
+      "period": "2025-12",
+      "total": 980,
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 10,
+      "avgTara": 2079
+    },
+    {
+      "period": "2026-01",
+      "total": 679,
+      "avgKw": 77,
+      "avgCv": 105,
+      "avgCo2": 13,
+      "avgTara": 2090
+    },
+    {
+      "period": "2026-04",
+      "total": 1253,
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 26,
+      "avgTara": 2083
+    },
+    {
+      "period": "2026-05",
+      "total": 1394,
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 29,
+      "avgTara": 2082
+    },
+    {
+      "period": "2026-08",
+      "total": 582,
+      "avgKw": 74,
+      "avgCv": 101,
+      "avgCo2": 34,
+      "avgTara": 2076
+    }
+  ]
+}

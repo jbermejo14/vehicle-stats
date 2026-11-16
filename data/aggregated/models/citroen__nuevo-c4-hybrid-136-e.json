@@ -1,0 +1,41 @@
+{
+  "brand": "CITROEN",
+  "brandSlug": "citroen",
+  "model": "NUEVO C4 HYBRID 136 Ë-",
+  "modelSlug": "nuevo-c4-hybrid-136-e",
+  "fullName": "CITROEN NUEVO C4 HYBRID 136 Ë-",
+  "total": 2983,
+  "percentage": 0.06,
+  "category": "Turismo",
+  "primaryFuel": "Híbrido (HEV)",
+  "primaryBadge": "ECO",
+  "avgKw": 100,
+  "avgCv": 136,
+  "avgCo2": 106,
+  "evolution": [
+    {
+      "period": "2025-01",
+      "total": 677,
+      "avgKw": 100,
+      "avgCv": 136,
+      "avgCo2": 106,
+      "avgTara": 1403
+    },
+    {
+      "period": "2025-02",
+      "total": 1033,
+      "avgKw": 100,
+      "avgCv": 136,
+      "avgCo2": 106,
+      "avgTara": 1403
+    },
+    {
+      "period": "2025-03",
+      "total": 1273,
+      "avgKw": 100,
+      "avgCv": 136,
+      "avgCo2": 106,
+      "avgTara": 1403
+    }
+  ]
+}

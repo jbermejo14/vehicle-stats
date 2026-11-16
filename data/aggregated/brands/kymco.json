@@ -1,0 +1,156 @@
+{
+  "brand": "KYMCO",
+  "slug": "kymco",
+  "total": 26229,
+  "percentage": 0.48,
+  "eco0Percentage": 0,
+  "avgKw": 10,
+  "monthlyEvolution": [
+    {
+      "period": "2024-01",
+      "total": 918,
+      "eco0Count": 0,
+      "avgKw": 10,
+      "avgCo2": 83,
+      "topModel": "AGILITY CITY 125"
+    },
+    {
+      "period": "2024-02",
+      "total": 1213,
+      "eco0Count": 0,
+      "avgKw": 10,
+      "avgCo2": 76,
+      "topModel": "AGILITY CITY 125"
+    },
+    {
+      "period": "2024-03",
+      "total": 1299,
+      "eco0Count": 0,
+      "avgKw": 10,
+      "avgCo2": 72,
+      "topModel": "AGILITY CITY 125"
+    },
+    {
+      "period": "2024-04",
+      "total": 1418,
+      "eco0Count": 0,
+      "avgKw": 11,
+      "avgCo2": 80,
+      "topModel": "AGILITY CITY 125"
+    },
+    {
+      "period": "2024-05",
+      "total": 1683,
+      "eco0Count": 0,
+      "avgKw": 11,
+      "avgCo2": 75,
+      "topModel": "AGILITY CITY 125"
+    },
+    {
+      "period": "2024-06",
+      "total": 1128,
+      "eco0Count": 0,
+      "avgKw": 11,
+      "avgCo2": 77,
+      "topModel": "AGILITY CITY 125"
+    },
+    {
+      "period": "2024-07",
+      "total": 1610,
+      "eco0Count": 1,
+      "avgKw": 10,
+      "avgCo2": 71,
+      "topModel": "AGILITY CITY 125"
+    },
+    {
+      "period": "2024-08",
+      "total": 1131,
+      "eco0Count": 0,
+      "avgKw": 10,
+      "avgCo2": 78,
+      "topModel": "AGILITY CITY 125"
+    },
+    {
+      "period": "2024-09",
+      "total": 1702,
+      "eco0Count": 0,
+      "avgKw": 9,
+      "avgCo2": 68,
+      "topModel": "AGILITY CITY 125"
+    },
+    {
+      "period": "2024-10",
+      "total": 1261,
+      "eco0Count": 0,
+      "avgKw": 10,
+      "avgCo2": 74,
+      "topModel": "SKYTOWN 125"
+    },
+    {
+      "period": "2025-05",
+      "total": 1395,
+      "eco0Count": 0,
+      "avgKw": 10,
+      "avgCo2": 74,
+      "topModel": "AGILITY S"
+    },
+    {
+      "period": "2025-06",
+      "total": 1622,
+      "eco0Count": 0,
+      "avgKw": 10,
+      "avgCo2": 67,
+      "topModel": "AGILITY S"
+    },
+    {
+      "period": "2025-07",
+      "total": 2145,
+      "eco0Count": 0,
+      "avgKw": 11,
+      "avgCo2": 72,
+      "topModel": "AGILITY S"
+    },
+    {
+      "period": "2025-08",
+      "total": 1308,
+      "eco0Count": 0,
+      "avgKw": 10,
+      "avgCo2": 73,
+      "topModel": "AGILITY S"
+    },
+    {
+      "period": "2025-09",
+      "total": 1716,
+      "eco0Count": 0,
+      "avgKw": 10,
+      "avgCo2": 74,
+      "topModel": "AGILITY S"
+    },
+    {
+      "period": "2025-10",
+      "total": 1560,
+      "eco0Count": 0,
+      "avgKw": 10,
+      "avgCo2": 75,
+      "topModel": "AGILITY S"
+    },
+    {
+      "period": "2026-07",
+      "total": 1890,
+      "eco0Count": 0,
+      "avgKw": 11,
+      "avgCo2": 67,
+      "topModel": "AGILITY S"
+    },
+    {
+      "period": "2026-08",
+      "total": 1230,
+      "eco0Count": 0,
+      "avgKw": 13,
+      "avgCo2": 71,
+      "topModel": "DTX"
+    }
+  ],
+  "models": [],
+  "leadProvinces": []
+}

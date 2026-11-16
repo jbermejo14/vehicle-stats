@@ -1,0 +1,421 @@
+{
+  "brand": "DACIA",
+  "slug": "dacia",
+  "total": 174901,
+  "percentage": 3.23,
+  "eco0Percentage": 24.9,
+  "avgKw": 75,
+  "monthlyEvolution": [
+    {
+      "period": "2024-01",
+      "total": 3885,
+      "eco0Count": 243,
+      "avgKw": 71,
+      "avgCo2": 120,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-02",
+      "total": 4152,
+      "eco0Count": 275,
+      "avgKw": 70,
+      "avgCo2": 122,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-03",
+      "total": 4193,
+      "eco0Count": 251,
+      "avgKw": 70,
+      "avgCo2": 122,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-04",
+      "total": 5250,
+      "eco0Count": 313,
+      "avgKw": 71,
+      "avgCo2": 122,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-05",
+      "total": 4831,
+      "eco0Count": 314,
+      "avgKw": 73,
+      "avgCo2": 124,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-06",
+      "total": 5717,
+      "eco0Count": 727,
+      "avgKw": 73,
+      "avgCo2": 122,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-07",
+      "total": 4599,
+      "eco0Count": 846,
+      "avgKw": 72,
+      "avgCo2": 120,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-08",
+      "total": 3647,
+      "eco0Count": 457,
+      "avgKw": 70,
+      "avgCo2": 119,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-09",
+      "total": 4191,
+      "eco0Count": 535,
+      "avgKw": 71,
+      "avgCo2": 121,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-10",
+      "total": 4877,
+      "eco0Count": 883,
+      "avgKw": 71,
+      "avgCo2": 120,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-11",
+      "total": 5149,
+      "eco0Count": 1186,
+      "avgKw": 71,
+      "avgCo2": 120,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-12",
+      "total": 5674,
+      "eco0Count": 1977,
+      "avgKw": 74,
+      "avgCo2": 120,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-01",
+      "total": 4776,
+      "eco0Count": 1548,
+      "avgKw": 69,
+      "avgCo2": 118,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-02",
+      "total": 4637,
+      "eco0Count": 1506,
+      "avgKw": 71,
+      "avgCo2": 118,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-03",
+      "total": 5999,
+      "eco0Count": 1223,
+      "avgKw": 70,
+      "avgCo2": 116,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-04",
+      "total": 5154,
+      "eco0Count": 1506,
+      "avgKw": 71,
+      "avgCo2": 116,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-05",
+      "total": 7058,
+      "eco0Count": 2037,
+      "avgKw": 71,
+      "avgCo2": 116,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-06",
+      "total": 7376,
+      "eco0Count": 2075,
+      "avgKw": 72,
+      "avgCo2": 116,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-07",
+      "total": 5393,
+      "eco0Count": 1810,
+      "avgKw": 72,
+      "avgCo2": 117,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-08",
+      "total": 3836,
+      "eco0Count": 1310,
+      "avgKw": 70,
+      "avgCo2": 115,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-09",
+      "total": 5516,
+      "eco0Count": 1409,
+      "avgKw": 71,
+      "avgCo2": 115,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-10",
+      "total": 6493,
+      "eco0Count": 2090,
+      "avgKw": 72,
+      "avgCo2": 116,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-11",
+      "total": 5777,
+      "eco0Count": 1543,
+      "avgKw": 71,
+      "avgCo2": 114,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-12",
+      "total": 5176,
+      "eco0Count": 1977,
+      "avgKw": 72,
+      "avgCo2": 114,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-01",
+      "total": 3136,
+      "eco0Count": 1162,
+      "avgKw": 76,
+      "avgCo2": 116,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-02",
+      "total": 4476,
+      "eco0Count": 1439,
+      "avgKw": 79,
+      "avgCo2": 118,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-03",
+      "total": 6068,
+      "eco0Count": 1961,
+      "avgKw": 83,
+      "avgCo2": 116,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-04",
+      "total": 5676,
+      "eco0Count": 1459,
+      "avgKw": 82,
+      "avgCo2": 116,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-05",
+      "total": 5464,
+      "eco0Count": 1648,
+      "avgKw": 84,
+      "avgCo2": 117,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-06",
+      "total": 7619,
+      "eco0Count": 2208,
+      "avgKw": 86,
+      "avgCo2": 117,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-07",
+      "total": 5496,
+      "eco0Count": 1520,
+      "avgKw": 85,
+      "avgCo2": 116,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-08",
+      "total": 3737,
+      "eco0Count": 1022,
+      "avgKw": 85,
+      "avgCo2": 117,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-09",
+      "total": 4315,
+      "eco0Count": 1538,
+      "avgKw": 86,
+      "avgCo2": 116,
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-10",
+      "total": 5558,
+      "eco0Count": 1540,
+      "avgKw": 85,
+      "avgCo2": 115,
+      "topModel": "SANDERO"
+    }
+  ],
+  "models": [
+    {
+      "brand": "DACIA",
+      "brandSlug": "dacia",
+      "model": "SANDERO",
+      "modelSlug": "sandero",
+      "fullName": "DACIA SANDERO",
+      "total": 102217,
+      "percentage": 1.89,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 71,
+      "avgCv": 97,
+      "avgCo2": 115
+    },
+    {
+      "brand": "DACIA",
+      "brandSlug": "dacia",
+      "model": "DUSTER",
+      "modelSlug": "duster",
+      "fullName": "DACIA DUSTER",
+      "total": 39078,
+      "percentage": 0.72,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 86,
+      "avgCv": 118,
+      "avgCo2": 125
+    },
+    {
+      "brand": "DACIA",
+      "brandSlug": "dacia",
+      "model": "JOGGER",
+      "modelSlug": "jogger",
+      "fullName": "DACIA JOGGER",
+      "total": 953,
+      "percentage": 0.02,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 71,
+      "avgCv": 96,
+      "avgCo2": 117
+    }
+  ],
+  "leadProvinces": [
+    {
+      "province": "Ávila",
+      "slug": "avila",
+      "monthsLeading": 3
+    },
+    {
+      "province": "Teruel",
+      "slug": "teruel",
+      "monthsLeading": 3
+    },
+    {
+      "province": "Valencia / València",
+      "slug": "valencia-valencia",
+      "monthsLeading": 3
+    },
+    {
+      "province": "Palencia",
+      "slug": "palencia",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Lugo",
+      "slug": "lugo",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Soria",
+      "slug": "soria",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Bizkaia",
+      "slug": "bizkaia",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Zamora",
+      "slug": "zamora",
+      "monthsLeading": 2
+    },
+    {
+      "province": "Asturias",
+      "slug": "asturias",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Gipuzkoa",
+      "slug": "gipuzkoa",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Salamanca",
+      "slug": "salamanca",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Guadalajara",
+      "slug": "guadalajara",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Huelva",
+      "slug": "huelva",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Cantabria",
+      "slug": "cantabria",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Álava / Araba",
+      "slug": "alava-araba",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Huesca",
+      "slug": "huesca",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Cuenca",
+      "slug": "cuenca",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Tarragona",
+      "slug": "tarragona",
+      "monthsLeading": 1
+    }
+  ]
+}

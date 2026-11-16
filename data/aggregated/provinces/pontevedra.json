@@ -1,0 +1,444 @@
+{
+  "code": "36",
+  "name": "Pontevedra",
+  "slug": "pontevedra",
+  "community": "Galicia",
+  "population": 944275,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 61242,
+  "percentageOfSpain": 1.13,
+  "per1000Habitantes": 64.86,
+  "ceroCount": 5242,
+  "ecoCount": 12881,
+  "bevCount": 4788,
+  "phevCount": 454,
+  "hevCount": 12878,
+  "ceroPercentage": 8.6,
+  "ecoPercentage": 21,
+  "bevPercentage": 7.8,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 1406,
+      "cero": 46,
+      "eco": 248,
+      "bev": 43,
+      "phev": 3,
+      "hev": 248,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-02",
+      "total": 1462,
+      "cero": 53,
+      "eco": 316,
+      "bev": 48,
+      "phev": 5,
+      "hev": 316,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-03",
+      "total": 1574,
+      "cero": 60,
+      "eco": 311,
+      "bev": 54,
+      "phev": 6,
+      "hev": 311,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-04",
+      "total": 1746,
+      "cero": 63,
+      "eco": 314,
+      "bev": 57,
+      "phev": 6,
+      "hev": 314,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-05",
+      "total": 1649,
+      "cero": 58,
+      "eco": 273,
+      "bev": 56,
+      "phev": 2,
+      "hev": 273,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "WW125A"
+    },
+    {
+      "period": "2024-06",
+      "total": 1786,
+      "cero": 75,
+      "eco": 345,
+      "bev": 74,
+      "phev": 1,
+      "hev": 345,
+      "topBrand": "BMW",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-07",
+      "total": 1720,
+      "cero": 58,
+      "eco": 334,
+      "bev": 55,
+      "phev": 3,
+      "hev": 334,
+      "topBrand": "HONDA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-08",
+      "total": 1477,
+      "cero": 113,
+      "eco": 266,
+      "bev": 113,
+      "phev": 0,
+      "hev": 266,
+      "topBrand": "MERCEDES-BENZ",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-09",
+      "total": 1614,
+      "cero": 104,
+      "eco": 329,
+      "bev": 103,
+      "phev": 1,
+      "hev": 328,
+      "topBrand": "BMW",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-10",
+      "total": 1785,
+      "cero": 69,
+      "eco": 401,
+      "bev": 63,
+      "phev": 6,
+      "hev": 401,
+      "topBrand": "RENAULT",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2024-11",
+      "total": 1560,
+      "cero": 99,
+      "eco": 336,
+      "bev": 93,
+      "phev": 6,
+      "hev": 336,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-12",
+      "total": 1771,
+      "cero": 148,
+      "eco": 415,
+      "bev": 143,
+      "phev": 5,
+      "hev": 415,
+      "topBrand": "RENAULT",
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2025-01",
+      "total": 1424,
+      "cero": 100,
+      "eco": 320,
+      "bev": 93,
+      "phev": 7,
+      "hev": 320,
+      "topBrand": "TOYOTA",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-02",
+      "total": 1464,
+      "cero": 75,
+      "eco": 322,
+      "bev": 73,
+      "phev": 2,
+      "hev": 322,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-03",
+      "total": 1625,
+      "cero": 106,
+      "eco": 381,
+      "bev": 97,
+      "phev": 9,
+      "hev": 381,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-04",
+      "total": 1716,
+      "cero": 132,
+      "eco": 368,
+      "bev": 118,
+      "phev": 14,
+      "hev": 368,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-05",
+      "total": 1869,
+      "cero": 172,
+      "eco": 338,
+      "bev": 161,
+      "phev": 11,
+      "hev": 338,
+      "topBrand": "BMW",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-06",
+      "total": 2083,
+      "cero": 166,
+      "eco": 427,
+      "bev": 152,
+      "phev": 14,
+      "hev": 427,
+      "topBrand": "BMW",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-07",
+      "total": 1962,
+      "cero": 176,
+      "eco": 344,
+      "bev": 156,
+      "phev": 20,
+      "hev": 344,
+      "topBrand": "HONDA",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2025-08",
+      "total": 1571,
+      "cero": 119,
+      "eco": 331,
+      "bev": 107,
+      "phev": 12,
+      "hev": 331,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-09",
+      "total": 1803,
+      "cero": 161,
+      "eco": 379,
+      "bev": 145,
+      "phev": 16,
+      "hev": 378,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-10",
+      "total": 1997,
+      "cero": 154,
+      "eco": 460,
+      "bev": 128,
+      "phev": 26,
+      "hev": 460,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-11",
+      "total": 1767,
+      "cero": 160,
+      "eco": 444,
+      "bev": 132,
+      "phev": 28,
+      "hev": 444,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-12",
+      "total": 1820,
+      "cero": 219,
+      "eco": 399,
+      "bev": 194,
+      "phev": 25,
+      "hev": 399,
+      "topBrand": "RENAULT",
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2026-01",
+      "total": 1619,
+      "cero": 129,
+      "eco": 424,
+      "bev": 114,
+      "phev": 15,
+      "hev": 424,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-02",
+      "total": 1793,
+      "cero": 182,
+      "eco": 502,
+      "bev": 163,
+      "phev": 19,
+      "hev": 502,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-03",
+      "total": 2112,
+      "cero": 232,
+      "eco": 457,
+      "bev": 203,
+      "phev": 29,
+      "hev": 457,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-04",
+      "total": 2063,
+      "cero": 189,
+      "eco": 491,
+      "bev": 169,
+      "phev": 20,
+      "hev": 491,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-05",
+      "total": 2148,
+      "cero": 257,
+      "eco": 443,
+      "bev": 237,
+      "phev": 20,
+      "hev": 443,
+      "topBrand": "BMW",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-06",
+      "total": 2398,
+      "cero": 305,
+      "eco": 484,
+      "bev": 285,
+      "phev": 20,
+      "hev": 484,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-07",
+      "total": 2318,
+      "cero": 260,
+      "eco": 466,
+      "bev": 241,
+      "phev": 19,
+      "hev": 465,
+      "topBrand": "TOYOTA",
+      "topModel": "125X"
+    },
+    {
+      "period": "2026-08",
+      "total": 1819,
+      "cero": 223,
+      "eco": 356,
+      "bev": 212,
+      "phev": 11,
+      "hev": 356,
+      "topBrand": "RENAULT",
+      "topModel": "125X"
+    },
+    {
+      "period": "2026-09",
+      "total": 2130,
+      "cero": 391,
+      "eco": 448,
+      "bev": 353,
+      "phev": 38,
+      "hev": 448,
+      "topBrand": "RENAULT",
+      "topModel": "GOLF"
+    },
+    {
+      "period": "2026-10",
+      "total": 2191,
+      "cero": 388,
+      "eco": 409,
+      "bev": 353,
+      "phev": 35,
+      "hev": 409,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "RENAULT",
+      "slug": "renault",
+      "timesLeader": 20
+    },
+    {
+      "brand": "BMW",
+      "slug": "bmw",
+      "timesLeader": 5
+    },
+    {
+      "brand": "MERCEDES-BENZ",
+      "slug": "mercedes-benz",
+      "timesLeader": 3
+    },
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 3
+    },
+    {
+      "brand": "HONDA",
+      "slug": "honda",
+      "timesLeader": 2
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "SANDERO",
+      "timesLeader": 25
+    },
+    {
+      "model": "GOLF",
+      "timesLeader": 3
+    },
+    {
+      "model": "125X",
+      "timesLeader": 2
+    },
+    {
+      "model": "WW125A",
+      "timesLeader": 1
+    },
+    {
+      "model": "MODEL 3",
+      "timesLeader": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "brand": "DEEPAL",
+  "brandSlug": "deepal",
+  "model": "DEEPAL S05",
+  "modelSlug": "deepal-s05",
+  "fullName": "DEEPAL DEEPAL S05",
+  "total": 1646,
+  "percentage": 0.03,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 131,
+  "avgCv": 178,
+  "avgCo2": 47,
+  "evolution": [
+    {
+      "period": "2026-09",
+      "total": 776,
+      "avgKw": 126,
+      "avgCv": 171,
+      "avgCo2": 47,
+      "avgTara": 1966
+    },
+    {
+      "period": "2026-10",
+      "total": 870,
+      "avgKw": 136,
+      "avgCv": 185,
+      "avgCo2": 47,
+      "avgTara": 1973
+    }
+  ]
+}

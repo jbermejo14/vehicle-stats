@@ -1,0 +1,65 @@
+{
+  "brand": "MG",
+  "brandSlug": "mg",
+  "model": "MG3 HYBRID+",
+  "modelSlug": "mg3-hybrid",
+  "fullName": "MG MG3 HYBRID+",
+  "total": 7546,
+  "percentage": 0.14,
+  "category": "Turismo",
+  "primaryFuel": "Híbrido (HEV)",
+  "primaryBadge": "ECO",
+  "avgKw": 75,
+  "avgCv": 102,
+  "avgCo2": 100,
+  "evolution": [
+    {
+      "period": "2025-02",
+      "total": 1030,
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 100,
+      "avgTara": 1377
+    },
+    {
+      "period": "2026-02",
+      "total": 1329,
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 100,
+      "avgTara": 1376
+    },
+    {
+      "period": "2026-03",
+      "total": 1222,
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 100,
+      "avgTara": 1376
+    },
+    {
+      "period": "2026-04",
+      "total": 1016,
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 100,
+      "avgTara": 1376
+    },
+    {
+      "period": "2026-05",
+      "total": 1671,
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 100,
+      "avgTara": 1378
+    },
+    {
+      "period": "2026-06",
+      "total": 1278,
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 100,
+      "avgTara": 1377
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "brand": "RENAULT",
+  "brandSlug": "renault",
+  "model": "AUSTRAL",
+  "modelSlug": "austral",
+  "fullName": "RENAULT AUSTRAL",
+  "total": 24616,
+  "percentage": 0.45,
+  "category": "Turismo",
+  "primaryFuel": "Híbrido (HEV)",
+  "primaryBadge": "ECO",
+  "avgKw": 103,
+  "avgCv": 140,
+  "avgCo2": 119,
+  "evolution": [
+    {
+      "period": "2024-02",
+      "total": 773,
+      "avgKw": 106,
+      "avgCv": 144,
+      "avgCo2": 125,
+      "avgTara": 1556
+    },
+    {
+      "period": "2024-03",
+      "total": 890,
+      "avgKw": 102,
+      "avgCv": 139,
+      "avgCo2": 120,
+      "avgTara": 1553
+    },
+    {
+      "period": "2024-04",
+      "total": 961,
+      "avgKw": 103,
+      "avgCv": 140,
+      "avgCo2": 120,
+      "avgTara": 1555
+    },
+    {
+      "period": "2024-05",
+      "total": 1074,
+      "avgKw": 104,
+      "avgCv": 142,
+      "avgCo2": 121,
+      "avgTara": 1557
+    },
+    {
+      "period": "2024-06",
+      "total": 1323,
+      "avgKw": 106,
+      "avgCv": 145,
+      "avgCo2": 125,
+      "avgTara": 1543
+    },
+    {
+      "period": "2024-07",
+      "total": 1031,
+      "avgKw": 107,
+      "avgCv": 146,
+      "avgCo2": 124,
+      "avgTara": 1547
+    },
+    {
+      "period": "2024-08",
+      "total": 488,
+      "avgKw": 109,
+      "avgCv": 149,
+      "avgCo2": 128,
+      "avgTara": 1539
+    },
+    {
+      "period": "2024-09",
+      "total": 1324,
+      "avgKw": 107,
+      "avgCv": 146,
+      "avgCo2": 125,
+      "avgTara": 1546
+    },
+    {
+      "period": "2024-10",
+      "total": 1519,
+      "avgKw": 106,
+      "avgCv": 145,
+      "avgCo2": 123,
+      "avgTara": 1551
+    },
+    {
+      "period": "2024-11",
+      "total": 1133,
+      "avgKw": 107,
+      "avgCv": 146,
+      "avgCo2": 124,
+      "avgTara": 1547
+    },
+    {
+      "period": "2024-12",
+      "total": 1115,
+      "avgKw": 106,
+      "avgCv": 145,
+      "avgCo2": 123,
+      "avgTara": 1550
+    },
+    {
+      "period": "2025-01",
+      "total": 648,
+      "avgKw": 102,
+      "avgCv": 139,
+      "avgCo2": 115,
+      "avgTara": 1570
+    },
+    {
+      "period": "2025-02",
+      "total": 922,
+      "avgKw": 100,
+      "avgCv": 136,
+      "avgCo2": 112,
+      "avgTara": 1578
+    },
+    {
+      "period": "2025-03",
+      "total": 1063,
+      "avgKw": 99,
+      "avgCv": 135,
+      "avgCo2": 110,
+      "avgTara": 1583
+    },
+    {
+      "period": "2025-04",
+      "total": 989,
+      "avgKw": 98,
+      "avgCv": 134,
+      "avgCo2": 109,
+      "avgTara": 1585
+    },
+    {
+      "period": "2025-06",
+      "total": 1136,
+      "avgKw": 101,
+      "avgCv": 137,
+      "avgCo2": 114,
+      "avgTara": 1588
+    },
+    {
+      "period": "2025-07",
+      "total": 999,
+      "avgKw": 100,
+      "avgCv": 137,
+      "avgCo2": 114,
+      "avgTara": 1593
+    },
+    {
+      "period": "2025-08",
+      "total": 665,
+      "avgKw": 101,
+      "avgCv": 137,
+      "avgCo2": 115,
+      "avgTara": 1592
+    },
+    {
+      "period": "2025-09",
+      "total": 965,
+      "avgKw": 100,
+      "avgCv": 136,
+      "avgCo2": 114,
+      "avgTara": 1596
+    },
+    {
+      "period": "2025-10",
+      "total": 1212,
+      "avgKw": 100,
+      "avgCv": 137,
+      "avgCo2": 115,
+      "avgTara": 1595
+    },
+    {
+      "period": "2025-11",
+      "total": 1042,
+      "avgKw": 101,
+      "avgCv": 138,
+      "avgCo2": 116,
+      "avgTara": 1592
+    },
+    {
+      "period": "2025-12",
+      "total": 1139,
+      "avgKw": 104,
+      "avgCv": 141,
+      "avgCo2": 121,
+      "avgTara": 1583
+    },
+    {
+      "period": "2026-02",
+      "total": 881,
+      "avgKw": 98,
+      "avgCv": 134,
+      "avgCo2": 113,
+      "avgTara": 1603
+    },
+    {
+      "period": "2026-03",
+      "total": 1324,
+      "avgKw": 99,
+      "avgCv": 135,
+      "avgCo2": 116,
+      "avgTara": 1598
+    }
+  ]
+}

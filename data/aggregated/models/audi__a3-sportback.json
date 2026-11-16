@@ -1,0 +1,25 @@
+{
+  "brand": "AUDI",
+  "brandSlug": "audi",
+  "model": "A3 SPORTBACK",
+  "modelSlug": "a3-sportback",
+  "fullName": "AUDI A3 SPORTBACK",
+  "total": 755,
+  "percentage": 0.01,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 101,
+  "avgCv": 137,
+  "avgCo2": 126,
+  "evolution": [
+    {
+      "period": "2024-02",
+      "total": 755,
+      "avgKw": 101,
+      "avgCv": 137,
+      "avgCo2": 126,
+      "avgTara": 1408
+    }
+  ]
+}

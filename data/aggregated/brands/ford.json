@@ -1,0 +1,381 @@
+{
+  "brand": "FORD",
+  "slug": "ford",
+  "total": 160486,
+  "percentage": 2.96,
+  "eco0Percentage": 34.7,
+  "avgKw": 107,
+  "monthlyEvolution": [
+    {
+      "period": "2024-01",
+      "total": 3388,
+      "eco0Count": 1559,
+      "avgKw": 108,
+      "avgCo2": 150,
+      "topModel": "FOCUS"
+    },
+    {
+      "period": "2024-02",
+      "total": 3828,
+      "eco0Count": 1583,
+      "avgKw": 103,
+      "avgCo2": 145,
+      "topModel": "PUMA"
+    },
+    {
+      "period": "2024-03",
+      "total": 3712,
+      "eco0Count": 1542,
+      "avgKw": 105,
+      "avgCo2": 145,
+      "topModel": "PUMA"
+    },
+    {
+      "period": "2024-04",
+      "total": 4271,
+      "eco0Count": 1960,
+      "avgKw": 104,
+      "avgCo2": 140,
+      "topModel": "PUMA"
+    },
+    {
+      "period": "2024-05",
+      "total": 5651,
+      "eco0Count": 2765,
+      "avgKw": 105,
+      "avgCo2": 139,
+      "topModel": "FOCUS"
+    },
+    {
+      "period": "2024-06",
+      "total": 4272,
+      "eco0Count": 1937,
+      "avgKw": 107,
+      "avgCo2": 141,
+      "topModel": "FOCUS"
+    },
+    {
+      "period": "2024-07",
+      "total": 4360,
+      "eco0Count": 1708,
+      "avgKw": 107,
+      "avgCo2": 149,
+      "topModel": "PUMA"
+    },
+    {
+      "period": "2024-08",
+      "total": 3134,
+      "eco0Count": 1223,
+      "avgKw": 103,
+      "avgCo2": 153,
+      "topModel": "PUMA"
+    },
+    {
+      "period": "2024-09",
+      "total": 4070,
+      "eco0Count": 1538,
+      "avgKw": 109,
+      "avgCo2": 150,
+      "topModel": "PUMA"
+    },
+    {
+      "period": "2024-10",
+      "total": 4390,
+      "eco0Count": 1465,
+      "avgKw": 110,
+      "avgCo2": 154,
+      "topModel": "KUGA"
+    },
+    {
+      "period": "2024-11",
+      "total": 3742,
+      "eco0Count": 1493,
+      "avgKw": 110,
+      "avgCo2": 155,
+      "topModel": "FOCUS"
+    },
+    {
+      "period": "2024-12",
+      "total": 4685,
+      "eco0Count": 2549,
+      "avgKw": 107,
+      "avgCo2": 139,
+      "topModel": "PUMA"
+    },
+    {
+      "period": "2025-01",
+      "total": 5574,
+      "eco0Count": 1993,
+      "avgKw": 109,
+      "avgCo2": 152,
+      "topModel": "FOCUS"
+    },
+    {
+      "period": "2025-02",
+      "total": 6132,
+      "eco0Count": 2313,
+      "avgKw": 107,
+      "avgCo2": 143,
+      "topModel": "KUGA"
+    },
+    {
+      "period": "2025-03",
+      "total": 6089,
+      "eco0Count": 2217,
+      "avgKw": 106,
+      "avgCo2": 133,
+      "topModel": "KUGA"
+    },
+    {
+      "period": "2025-04",
+      "total": 5258,
+      "eco0Count": 1769,
+      "avgKw": 105,
+      "avgCo2": 139,
+      "topModel": "KUGA"
+    },
+    {
+      "period": "2025-05",
+      "total": 5890,
+      "eco0Count": 2080,
+      "avgKw": 103,
+      "avgCo2": 136,
+      "topModel": "PUMA"
+    },
+    {
+      "period": "2025-06",
+      "total": 6042,
+      "eco0Count": 2213,
+      "avgKw": 105,
+      "avgCo2": 131,
+      "topModel": "KUGA"
+    },
+    {
+      "period": "2025-07",
+      "total": 5443,
+      "eco0Count": 1638,
+      "avgKw": 105,
+      "avgCo2": 143,
+      "topModel": "PUMA"
+    },
+    {
+      "period": "2025-08",
+      "total": 3340,
+      "eco0Count": 863,
+      "avgKw": 101,
+      "avgCo2": 140,
+      "topModel": "PUMA"
+    },
+    {
+      "period": "2025-09",
+      "total": 5065,
+      "eco0Count": 1552,
+      "avgKw": 103,
+      "avgCo2": 141,
+      "topModel": "PUMA"
+    },
+    {
+      "period": "2025-10",
+      "total": 5276,
+      "eco0Count": 1556,
+      "avgKw": 105,
+      "avgCo2": 130,
+      "topModel": "KUGA"
+    },
+    {
+      "period": "2025-11",
+      "total": 4280,
+      "eco0Count": 1396,
+      "avgKw": 108,
+      "avgCo2": 130,
+      "topModel": "KUGA"
+    },
+    {
+      "period": "2025-12",
+      "total": 3767,
+      "eco0Count": 1314,
+      "avgKw": 114,
+      "avgCo2": 130,
+      "topModel": "PUMA"
+    },
+    {
+      "period": "2026-01",
+      "total": 4331,
+      "eco0Count": 1045,
+      "avgKw": 108,
+      "avgCo2": 160,
+      "topModel": "RANGER"
+    },
+    {
+      "period": "2026-02",
+      "total": 4957,
+      "eco0Count": 1102,
+      "avgKw": 107,
+      "avgCo2": 146,
+      "topModel": "KUGA"
+    },
+    {
+      "period": "2026-03",
+      "total": 5463,
+      "eco0Count": 1515,
+      "avgKw": 107,
+      "avgCo2": 143,
+      "topModel": "PUMA"
+    },
+    {
+      "period": "2026-04",
+      "total": 5582,
+      "eco0Count": 1648,
+      "avgKw": 105,
+      "avgCo2": 148,
+      "topModel": "PUMA"
+    },
+    {
+      "period": "2026-05",
+      "total": 5364,
+      "eco0Count": 1532,
+      "avgKw": 106,
+      "avgCo2": 145,
+      "topModel": "PUMA"
+    },
+    {
+      "period": "2026-06",
+      "total": 5589,
+      "eco0Count": 1451,
+      "avgKw": 108,
+      "avgCo2": 148,
+      "topModel": "KUGA"
+    },
+    {
+      "period": "2026-07",
+      "total": 5282,
+      "eco0Count": 1538,
+      "avgKw": 112,
+      "avgCo2": 152,
+      "topModel": "KUGA"
+    },
+    {
+      "period": "2026-08",
+      "total": 3238,
+      "eco0Count": 871,
+      "avgKw": 109,
+      "avgCo2": 153,
+      "topModel": "PUMA"
+    },
+    {
+      "period": "2026-09",
+      "total": 4562,
+      "eco0Count": 1404,
+      "avgKw": 112,
+      "avgCo2": 153,
+      "topModel": "PUMA"
+    },
+    {
+      "period": "2026-10",
+      "total": 4459,
+      "eco0Count": 1410,
+      "avgKw": 110,
+      "avgCo2": 148,
+      "topModel": "PUMA"
+    }
+  ],
+  "models": [
+    {
+      "brand": "FORD",
+      "brandSlug": "ford",
+      "model": "PUMA",
+      "modelSlug": "puma",
+      "fullName": "FORD PUMA",
+      "total": 16294,
+      "percentage": 0.3,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 95,
+      "avgCv": 129,
+      "avgCo2": 126
+    },
+    {
+      "brand": "FORD",
+      "brandSlug": "ford",
+      "model": "KUGA",
+      "modelSlug": "kuga",
+      "fullName": "FORD KUGA",
+      "total": 13273,
+      "percentage": 0.25,
+      "category": "Turismo",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 111,
+      "avgCv": 150,
+      "avgCo2": 72
+    },
+    {
+      "brand": "FORD",
+      "brandSlug": "ford",
+      "model": "FOCUS",
+      "modelSlug": "focus",
+      "fullName": "FORD FOCUS",
+      "total": 5913,
+      "percentage": 0.11,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 114,
+      "avgCv": 155,
+      "avgCo2": 131
+    },
+    {
+      "brand": "FORD",
+      "brandSlug": "ford",
+      "model": "RANGER",
+      "modelSlug": "ranger",
+      "fullName": "FORD RANGER",
+      "total": 664,
+      "percentage": 0.01,
+      "category": "Comercial",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 146,
+      "avgCv": 198,
+      "avgCo2": 227
+    },
+    {
+      "brand": "FORD",
+      "brandSlug": "ford",
+      "model": "TRANSIT CUSTOM",
+      "modelSlug": "transit-custom",
+      "fullName": "FORD TRANSIT CUSTOM",
+      "total": 614,
+      "percentage": 0.01,
+      "category": "Comercial",
+      "primaryFuel": "Gasolina",
+      "primaryBadge": "C",
+      "avgKw": 100,
+      "avgCv": 136,
+      "avgCo2": 178
+    }
+  ],
+  "leadProvinces": [
+    {
+      "province": "Valencia / València",
+      "slug": "valencia-valencia",
+      "monthsLeading": 5
+    },
+    {
+      "province": "Córdoba",
+      "slug": "cordoba",
+      "monthsLeading": 1
+    },
+    {
+      "province": "Illes Balears",
+      "slug": "illes-balears",
+      "monthsLeading": 1
+    },
+    {
+      "province": "00",
+      "slug": "00",
+      "monthsLeading": 1
+    }
+  ]
+}

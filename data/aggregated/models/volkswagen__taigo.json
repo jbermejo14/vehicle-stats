@@ -1,0 +1,185 @@
+{
+  "brand": "VOLKSWAGEN",
+  "brandSlug": "volkswagen",
+  "model": "TAIGO",
+  "modelSlug": "taigo",
+  "fullName": "VOLKSWAGEN TAIGO",
+  "total": 26136,
+  "percentage": 0.48,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 84,
+  "avgCv": 114,
+  "avgCo2": 126,
+  "evolution": [
+    {
+      "period": "2024-05",
+      "total": 1293,
+      "avgKw": 83,
+      "avgCv": 113,
+      "avgCo2": 127,
+      "avgTara": 1248
+    },
+    {
+      "period": "2024-10",
+      "total": 1057,
+      "avgKw": 82,
+      "avgCv": 112,
+      "avgCo2": 127,
+      "avgTara": 1251
+    },
+    {
+      "period": "2024-11",
+      "total": 1044,
+      "avgKw": 81,
+      "avgCv": 110,
+      "avgCo2": 127,
+      "avgTara": 1247
+    },
+    {
+      "period": "2024-12",
+      "total": 1818,
+      "avgKw": 83,
+      "avgCv": 113,
+      "avgCo2": 127,
+      "avgTara": 1253
+    },
+    {
+      "period": "2025-01",
+      "total": 676,
+      "avgKw": 84,
+      "avgCv": 114,
+      "avgCo2": 126,
+      "avgTara": 1250
+    },
+    {
+      "period": "2025-02",
+      "total": 1174,
+      "avgKw": 85,
+      "avgCv": 116,
+      "avgCo2": 126,
+      "avgTara": 1254
+    },
+    {
+      "period": "2025-03",
+      "total": 2002,
+      "avgKw": 83,
+      "avgCv": 113,
+      "avgCo2": 126,
+      "avgTara": 1254
+    },
+    {
+      "period": "2025-04",
+      "total": 1396,
+      "avgKw": 84,
+      "avgCv": 114,
+      "avgCo2": 126,
+      "avgTara": 1256
+    },
+    {
+      "period": "2025-05",
+      "total": 1468,
+      "avgKw": 84,
+      "avgCv": 115,
+      "avgCo2": 126,
+      "avgTara": 1254
+    },
+    {
+      "period": "2025-06",
+      "total": 1912,
+      "avgKw": 81,
+      "avgCv": 110,
+      "avgCo2": 125,
+      "avgTara": 1249
+    },
+    {
+      "period": "2025-07",
+      "total": 1433,
+      "avgKw": 84,
+      "avgCv": 115,
+      "avgCo2": 126,
+      "avgTara": 1254
+    },
+    {
+      "period": "2025-08",
+      "total": 687,
+      "avgKw": 84,
+      "avgCv": 115,
+      "avgCo2": 125,
+      "avgTara": 1253
+    },
+    {
+      "period": "2025-09",
+      "total": 745,
+      "avgKw": 83,
+      "avgCv": 113,
+      "avgCo2": 125,
+      "avgTara": 1250
+    },
+    {
+      "period": "2025-10",
+      "total": 1101,
+      "avgKw": 81,
+      "avgCv": 111,
+      "avgCo2": 125,
+      "avgTara": 1246
+    },
+    {
+      "period": "2025-11",
+      "total": 867,
+      "avgKw": 84,
+      "avgCv": 114,
+      "avgCo2": 125,
+      "avgTara": 1249
+    },
+    {
+      "period": "2025-12",
+      "total": 1345,
+      "avgKw": 88,
+      "avgCv": 120,
+      "avgCo2": 127,
+      "avgTara": 1259
+    },
+    {
+      "period": "2026-03",
+      "total": 1738,
+      "avgKw": 85,
+      "avgCv": 116,
+      "avgCo2": 126,
+      "avgTara": 1253
+    },
+    {
+      "period": "2026-04",
+      "total": 1034,
+      "avgKw": 84,
+      "avgCv": 114,
+      "avgCo2": 126,
+      "avgTara": 1251
+    },
+    {
+      "period": "2026-05",
+      "total": 1078,
+      "avgKw": 83,
+      "avgCv": 113,
+      "avgCo2": 125,
+      "avgTara": 1250
+    },
+    {
+      "period": "2026-06",
+      "total": 1359,
+      "avgKw": 84,
+      "avgCv": 115,
+      "avgCo2": 126,
+      "avgTara": 1253
+    },
+    {
+      "period": "2026-07",
+      "total": 909,
+      "avgKw": 85,
+      "avgCv": 116,
+      "avgCo2": 126,
+      "avgTara": 1252
+    }
+  ]
+}

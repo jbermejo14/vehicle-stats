@@ -1,0 +1,439 @@
+{
+  "code": "47",
+  "name": "Valladolid",
+  "slug": "valladolid",
+  "community": "Castilla y León",
+  "population": 521333,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 35864,
+  "percentageOfSpain": 0.66,
+  "per1000Habitantes": 68.79,
+  "ceroCount": 2657,
+  "ecoCount": 9728,
+  "bevCount": 2333,
+  "phevCount": 324,
+  "hevCount": 9722,
+  "ceroPercentage": 7.4,
+  "ecoPercentage": 27.1,
+  "bevPercentage": 6.5,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 773,
+      "cero": 31,
+      "eco": 192,
+      "bev": 28,
+      "phev": 3,
+      "hev": 192,
+      "topBrand": "BMW",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-02",
+      "total": 852,
+      "cero": 41,
+      "eco": 203,
+      "bev": 38,
+      "phev": 3,
+      "hev": 203,
+      "topBrand": "RENAULT",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-03",
+      "total": 791,
+      "cero": 35,
+      "eco": 183,
+      "bev": 31,
+      "phev": 4,
+      "hev": 183,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-04",
+      "total": 896,
+      "cero": 23,
+      "eco": 235,
+      "bev": 21,
+      "phev": 2,
+      "hev": 235,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-05",
+      "total": 1031,
+      "cero": 44,
+      "eco": 244,
+      "bev": 40,
+      "phev": 4,
+      "hev": 244,
+      "topBrand": "RENAULT",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-06",
+      "total": 987,
+      "cero": 34,
+      "eco": 258,
+      "bev": 34,
+      "phev": 0,
+      "hev": 258,
+      "topBrand": "RENAULT",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-07",
+      "total": 1021,
+      "cero": 22,
+      "eco": 236,
+      "bev": 22,
+      "phev": 0,
+      "hev": 236,
+      "topBrand": "RENAULT",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-08",
+      "total": 735,
+      "cero": 30,
+      "eco": 179,
+      "bev": 29,
+      "phev": 1,
+      "hev": 179,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-09",
+      "total": 970,
+      "cero": 55,
+      "eco": 223,
+      "bev": 43,
+      "phev": 12,
+      "hev": 223,
+      "topBrand": "RENAULT",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-10",
+      "total": 1163,
+      "cero": 26,
+      "eco": 270,
+      "bev": 26,
+      "phev": 0,
+      "hev": 270,
+      "topBrand": "RENAULT",
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2024-11",
+      "total": 983,
+      "cero": 31,
+      "eco": 295,
+      "bev": 31,
+      "phev": 0,
+      "hev": 295,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-12",
+      "total": 1121,
+      "cero": 57,
+      "eco": 344,
+      "bev": 56,
+      "phev": 1,
+      "hev": 343,
+      "topBrand": "RENAULT",
+      "topModel": "DUSTER"
+    },
+    {
+      "period": "2025-01",
+      "total": 911,
+      "cero": 55,
+      "eco": 217,
+      "bev": 54,
+      "phev": 1,
+      "hev": 217,
+      "topBrand": "TOYOTA",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-02",
+      "total": 915,
+      "cero": 47,
+      "eco": 301,
+      "bev": 42,
+      "phev": 5,
+      "hev": 301,
+      "topBrand": "TOYOTA",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-03",
+      "total": 1062,
+      "cero": 65,
+      "eco": 282,
+      "bev": 60,
+      "phev": 5,
+      "hev": 280,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-04",
+      "total": 962,
+      "cero": 56,
+      "eco": 294,
+      "bev": 48,
+      "phev": 8,
+      "hev": 294,
+      "topBrand": "RENAULT",
+      "topModel": "NISSAN QASHQAI"
+    },
+    {
+      "period": "2025-05",
+      "total": 1163,
+      "cero": 81,
+      "eco": 269,
+      "bev": 74,
+      "phev": 7,
+      "hev": 269,
+      "topBrand": "SIN MARCA",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-06",
+      "total": 1245,
+      "cero": 106,
+      "eco": 310,
+      "bev": 101,
+      "phev": 5,
+      "hev": 309,
+      "topBrand": "RENAULT",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-07",
+      "total": 1270,
+      "cero": 118,
+      "eco": 336,
+      "bev": 91,
+      "phev": 27,
+      "hev": 336,
+      "topBrand": "RENAULT",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-08",
+      "total": 907,
+      "cero": 81,
+      "eco": 248,
+      "bev": 68,
+      "phev": 13,
+      "hev": 248,
+      "topBrand": "RENAULT",
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2025-09",
+      "total": 1030,
+      "cero": 107,
+      "eco": 312,
+      "bev": 94,
+      "phev": 13,
+      "hev": 312,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-10",
+      "total": 1261,
+      "cero": 113,
+      "eco": 350,
+      "bev": 94,
+      "phev": 19,
+      "hev": 350,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-11",
+      "total": 1129,
+      "cero": 95,
+      "eco": 355,
+      "bev": 80,
+      "phev": 15,
+      "hev": 355,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-12",
+      "total": 1149,
+      "cero": 128,
+      "eco": 352,
+      "bev": 101,
+      "phev": 27,
+      "hev": 352,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-01",
+      "total": 934,
+      "cero": 76,
+      "eco": 342,
+      "bev": 66,
+      "phev": 10,
+      "hev": 342,
+      "topBrand": "TOYOTA",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2026-02",
+      "total": 966,
+      "cero": 78,
+      "eco": 286,
+      "bev": 62,
+      "phev": 16,
+      "hev": 286,
+      "topBrand": "RENAULT",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2026-03",
+      "total": 1263,
+      "cero": 106,
+      "eco": 392,
+      "bev": 90,
+      "phev": 16,
+      "hev": 391,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-04",
+      "total": 1141,
+      "cero": 117,
+      "eco": 316,
+      "bev": 102,
+      "phev": 15,
+      "hev": 316,
+      "topBrand": "RENAULT",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2026-05",
+      "total": 1204,
+      "cero": 117,
+      "eco": 336,
+      "bev": 99,
+      "phev": 18,
+      "hev": 335,
+      "topBrand": "RENAULT",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2026-06",
+      "total": 1446,
+      "cero": 135,
+      "eco": 375,
+      "bev": 123,
+      "phev": 12,
+      "hev": 375,
+      "topBrand": "RENAULT",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2026-07",
+      "total": 1283,
+      "cero": 101,
+      "eco": 339,
+      "bev": 87,
+      "phev": 14,
+      "hev": 339,
+      "topBrand": "RENAULT",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2026-08",
+      "total": 935,
+      "cero": 109,
+      "eco": 249,
+      "bev": 95,
+      "phev": 14,
+      "hev": 249,
+      "topBrand": "RENAULT",
+      "topModel": "125X"
+    },
+    {
+      "period": "2026-09",
+      "total": 1145,
+      "cero": 175,
+      "eco": 286,
+      "bev": 155,
+      "phev": 20,
+      "hev": 286,
+      "topBrand": "RENAULT",
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2026-10",
+      "total": 1220,
+      "cero": 162,
+      "eco": 319,
+      "bev": 148,
+      "phev": 14,
+      "hev": 319,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "RENAULT",
+      "slug": "renault",
+      "timesLeader": 29
+    },
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 3
+    },
+    {
+      "brand": "BMW",
+      "slug": "bmw",
+      "timesLeader": 1
+    },
+    {
+      "brand": "SIN MARCA",
+      "slug": "sin-marca",
+      "timesLeader": 1
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "DESCONOCIDO",
+      "timesLeader": 17
+    },
+    {
+      "model": "SANDERO",
+      "timesLeader": 11
+    },
+    {
+      "model": "TOYOTA COROLLA",
+      "timesLeader": 2
+    },
+    {
+      "model": "IBIZA",
+      "timesLeader": 1
+    },
+    {
+      "model": "DUSTER",
+      "timesLeader": 1
+    }
+  ]
+}

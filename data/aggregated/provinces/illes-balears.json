@@ -1,0 +1,444 @@
+{
+  "code": "07",
+  "name": "Illes Balears",
+  "slug": "illes-balears",
+  "community": "Illes Balears",
+  "population": 1223961,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 153365,
+  "percentageOfSpain": 2.83,
+  "per1000Habitantes": 125.3,
+  "ceroCount": 12468,
+  "ecoCount": 27586,
+  "bevCount": 11771,
+  "phevCount": 697,
+  "hevCount": 27582,
+  "ceroPercentage": 8.1,
+  "ecoPercentage": 18,
+  "bevPercentage": 7.7,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 2784,
+      "cero": 179,
+      "eco": 453,
+      "bev": 172,
+      "phev": 7,
+      "hev": 453,
+      "topBrand": "TOYOTA",
+      "topModel": "BAYON"
+    },
+    {
+      "period": "2024-02",
+      "total": 3496,
+      "cero": 159,
+      "eco": 587,
+      "bev": 157,
+      "phev": 2,
+      "hev": 587,
+      "topBrand": "PEUGEOT",
+      "topModel": "PANDA"
+    },
+    {
+      "period": "2024-03",
+      "total": 4642,
+      "cero": 180,
+      "eco": 451,
+      "bev": 176,
+      "phev": 4,
+      "hev": 451,
+      "topBrand": "CITROEN",
+      "topModel": "CAPTUR"
+    },
+    {
+      "period": "2024-04",
+      "total": 4409,
+      "cero": 200,
+      "eco": 523,
+      "bev": 192,
+      "phev": 8,
+      "hev": 523,
+      "topBrand": "RENAULT",
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2024-05",
+      "total": 5099,
+      "cero": 198,
+      "eco": 545,
+      "bev": 194,
+      "phev": 4,
+      "hev": 545,
+      "topBrand": "HYUNDAI",
+      "topModel": "I20"
+    },
+    {
+      "period": "2024-06",
+      "total": 4305,
+      "cero": 181,
+      "eco": 577,
+      "bev": 180,
+      "phev": 1,
+      "hev": 577,
+      "topBrand": "HONDA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-07",
+      "total": 4399,
+      "cero": 194,
+      "eco": 599,
+      "bev": 192,
+      "phev": 2,
+      "hev": 599,
+      "topBrand": "HYUNDAI",
+      "topModel": "I20"
+    },
+    {
+      "period": "2024-08",
+      "total": 3149,
+      "cero": 158,
+      "eco": 420,
+      "bev": 156,
+      "phev": 2,
+      "hev": 420,
+      "topBrand": "HONDA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-09",
+      "total": 4027,
+      "cero": 224,
+      "eco": 627,
+      "bev": 222,
+      "phev": 2,
+      "hev": 627,
+      "topBrand": "HYUNDAI",
+      "topModel": "I20"
+    },
+    {
+      "period": "2024-10",
+      "total": 3966,
+      "cero": 236,
+      "eco": 657,
+      "bev": 233,
+      "phev": 3,
+      "hev": 657,
+      "topBrand": "HYUNDAI",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-11",
+      "total": 3455,
+      "cero": 218,
+      "eco": 642,
+      "bev": 217,
+      "phev": 1,
+      "hev": 642,
+      "topBrand": "NISSAN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-12",
+      "total": 4183,
+      "cero": 354,
+      "eco": 620,
+      "bev": 352,
+      "phev": 2,
+      "hev": 620,
+      "topBrand": "PIAGGIO",
+      "topModel": "MEDLEY 125"
+    },
+    {
+      "period": "2025-01",
+      "total": 2968,
+      "cero": 239,
+      "eco": 615,
+      "bev": 238,
+      "phev": 1,
+      "hev": 615,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-02",
+      "total": 4283,
+      "cero": 246,
+      "eco": 884,
+      "bev": 237,
+      "phev": 9,
+      "hev": 884,
+      "topBrand": "HYUNDAI",
+      "topModel": "I20"
+    },
+    {
+      "period": "2025-03",
+      "total": 4854,
+      "cero": 418,
+      "eco": 1031,
+      "bev": 409,
+      "phev": 9,
+      "hev": 1031,
+      "topBrand": "PEUGEOT",
+      "topModel": "208 5P ALLURE GASOLINA"
+    },
+    {
+      "period": "2025-04",
+      "total": 4487,
+      "cero": 363,
+      "eco": 969,
+      "bev": 356,
+      "phev": 7,
+      "hev": 969,
+      "topBrand": "PEUGEOT",
+      "topModel": "208 5P STYLE HYBRID 10"
+    },
+    {
+      "period": "2025-05",
+      "total": 5275,
+      "cero": 394,
+      "eco": 1022,
+      "bev": 379,
+      "phev": 15,
+      "hev": 1022,
+      "topBrand": "HYUNDAI",
+      "topModel": "I20"
+    },
+    {
+      "period": "2025-06",
+      "total": 5782,
+      "cero": 485,
+      "eco": 1132,
+      "bev": 469,
+      "phev": 16,
+      "hev": 1132,
+      "topBrand": "HONDA",
+      "topModel": "NISSAN JUKE"
+    },
+    {
+      "period": "2025-07",
+      "total": 5384,
+      "cero": 405,
+      "eco": 918,
+      "bev": 379,
+      "phev": 26,
+      "hev": 918,
+      "topBrand": "HYUNDAI",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-08",
+      "total": 3407,
+      "cero": 347,
+      "eco": 530,
+      "bev": 319,
+      "phev": 28,
+      "hev": 529,
+      "topBrand": "YAMAHA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-09",
+      "total": 3851,
+      "cero": 447,
+      "eco": 605,
+      "bev": 406,
+      "phev": 41,
+      "hev": 605,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2025-10",
+      "total": 4424,
+      "cero": 456,
+      "eco": 756,
+      "bev": 421,
+      "phev": 35,
+      "hev": 756,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-11",
+      "total": 4009,
+      "cero": 452,
+      "eco": 778,
+      "bev": 410,
+      "phev": 42,
+      "hev": 778,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-12",
+      "total": 3982,
+      "cero": 499,
+      "eco": 824,
+      "bev": 465,
+      "phev": 34,
+      "hev": 824,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-01",
+      "total": 2970,
+      "cero": 248,
+      "eco": 561,
+      "bev": 230,
+      "phev": 18,
+      "hev": 561,
+      "topBrand": "FORD",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-02",
+      "total": 3772,
+      "cero": 368,
+      "eco": 751,
+      "bev": 335,
+      "phev": 33,
+      "hev": 750,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-03",
+      "total": 6674,
+      "cero": 444,
+      "eco": 1699,
+      "bev": 382,
+      "phev": 62,
+      "hev": 1699,
+      "topBrand": "HYUNDAI",
+      "topModel": "I20"
+    },
+    {
+      "period": "2026-04",
+      "total": 6765,
+      "cero": 573,
+      "eco": 1285,
+      "bev": 551,
+      "phev": 22,
+      "hev": 1285,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2026-05",
+      "total": 6180,
+      "cero": 682,
+      "eco": 1731,
+      "bev": 531,
+      "phev": 151,
+      "hev": 1731,
+      "topBrand": "OMODA",
+      "topModel": "OMODA5 HEV"
+    },
+    {
+      "period": "2026-06",
+      "total": 7164,
+      "cero": 693,
+      "eco": 1270,
+      "bev": 668,
+      "phev": 25,
+      "hev": 1270,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "BYD ATTO 2  DM-I"
+    },
+    {
+      "period": "2026-07",
+      "total": 5704,
+      "cero": 496,
+      "eco": 1319,
+      "bev": 473,
+      "phev": 23,
+      "hev": 1318,
+      "topBrand": "YAMAHA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2026-08",
+      "total": 4264,
+      "cero": 446,
+      "eco": 749,
+      "bev": 427,
+      "phev": 19,
+      "hev": 748,
+      "topBrand": "HONDA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-09",
+      "total": 4449,
+      "cero": 625,
+      "eco": 684,
+      "bev": 605,
+      "phev": 20,
+      "hev": 684,
+      "topBrand": "HONDA",
+      "topModel": "125V"
+    },
+    {
+      "period": "2026-10",
+      "total": 4803,
+      "cero": 661,
+      "eco": 772,
+      "bev": 638,
+      "phev": 23,
+      "hev": 772,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "BYD ATTO 2  DM-I"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "HYUNDAI",
+      "slug": "hyundai",
+      "timesLeader": 8
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "timesLeader": 6
+    },
+    {
+      "brand": "HONDA",
+      "slug": "honda",
+      "timesLeader": 5
+    },
+    {
+      "brand": "PEUGEOT",
+      "slug": "peugeot",
+      "timesLeader": 3
+    },
+    {
+      "brand": "RENAULT",
+      "slug": "renault",
+      "timesLeader": 3
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "SANDERO",
+      "timesLeader": 13
+    },
+    {
+      "model": "I20",
+      "timesLeader": 6
+    },
+    {
+      "model": "CLIO",
+      "timesLeader": 2
+    },
+    {
+      "model": "BYD ATTO 2  DM-I",
+      "timesLeader": 2
+    },
+    {
+      "model": "BAYON",
+      "timesLeader": 1
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "brand": "RENAULT",
+  "brandSlug": "renault",
+  "model": "CAPTUR",
+  "modelSlug": "captur",
+  "fullName": "RENAULT CAPTUR",
+  "total": 25268,
+  "percentage": 0.47,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 78,
+  "avgCv": 106,
+  "avgCo2": 126,
+  "evolution": [
+    {
+      "period": "2024-02",
+      "total": 1357,
+      "avgKw": 82,
+      "avgCv": 112,
+      "avgCo2": 129,
+      "avgTara": 1317
+    },
+    {
+      "period": "2024-03",
+      "total": 1432,
+      "avgKw": 77,
+      "avgCv": 105,
+      "avgCo2": 130,
+      "avgTara": 1309
+    },
+    {
+      "period": "2024-04",
+      "total": 1279,
+      "avgKw": 80,
+      "avgCv": 109,
+      "avgCo2": 126,
+      "avgTara": 1324
+    },
+    {
+      "period": "2024-05",
+      "total": 1228,
+      "avgKw": 83,
+      "avgCv": 112,
+      "avgCo2": 131,
+      "avgTara": 1320
+    },
+    {
+      "period": "2024-06",
+      "total": 1344,
+      "avgKw": 84,
+      "avgCv": 115,
+      "avgCo2": 130,
+      "avgTara": 1330
+    },
+    {
+      "period": "2024-08",
+      "total": 569,
+      "avgKw": 82,
+      "avgCv": 112,
+      "avgCo2": 128,
+      "avgTara": 1332
+    },
+    {
+      "period": "2024-09",
+      "total": 991,
+      "avgKw": 83,
+      "avgCv": 113,
+      "avgCo2": 128,
+      "avgTara": 1340
+    },
+    {
+      "period": "2024-10",
+      "total": 1233,
+      "avgKw": 79,
+      "avgCv": 108,
+      "avgCo2": 127,
+      "avgTara": 1339
+    },
+    {
+      "period": "2024-11",
+      "total": 1621,
+      "avgKw": 84,
+      "avgCv": 114,
+      "avgCo2": 129,
+      "avgTara": 1338
+    },
+    {
+      "period": "2024-12",
+      "total": 1635,
+      "avgKw": 79,
+      "avgCv": 107,
+      "avgCo2": 129,
+      "avgTara": 1327
+    },
+    {
+      "period": "2025-01",
+      "total": 916,
+      "avgKw": 75,
+      "avgCv": 103,
+      "avgCo2": 128,
+      "avgTara": 1327
+    },
+    {
+      "period": "2025-02",
+      "total": 1315,
+      "avgKw": 73,
+      "avgCv": 99,
+      "avgCo2": 124,
+      "avgTara": 1339
+    },
+    {
+      "period": "2025-03",
+      "total": 1859,
+      "avgKw": 70,
+      "avgCv": 95,
+      "avgCo2": 121,
+      "avgTara": 1346
+    },
+    {
+      "period": "2025-04",
+      "total": 906,
+      "avgKw": 70,
+      "avgCv": 95,
+      "avgCo2": 121,
+      "avgTara": 1343
+    },
+    {
+      "period": "2025-05",
+      "total": 1265,
+      "avgKw": 69,
+      "avgCv": 93,
+      "avgCo2": 120,
+      "avgTara": 1349
+    },
+    {
+      "period": "2025-10",
+      "total": 918,
+      "avgKw": 71,
+      "avgCv": 96,
+      "avgCo2": 121,
+      "avgTara": 1343
+    },
+    {
+      "period": "2026-02",
+      "total": 1128,
+      "avgKw": 72,
+      "avgCv": 98,
+      "avgCo2": 123,
+      "avgTara": 1344
+    },
+    {
+      "period": "2026-03",
+      "total": 1480,
+      "avgKw": 78,
+      "avgCv": 105,
+      "avgCo2": 126,
+      "avgTara": 1336
+    },
+    {
+      "period": "2026-05",
+      "total": 1250,
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 122,
+      "avgTara": 1354
+    },
+    {
+      "period": "2026-08",
+      "total": 612,
+      "avgKw": 89,
+      "avgCv": 121,
+      "avgCo2": 124,
+      "avgTara": 1362
+    },
+    {
+      "period": "2026-09",
+      "total": 930,
+      "avgKw": 87,
+      "avgCv": 119,
+      "avgCo2": 121,
+      "avgTara": 1370
+    }
+  ]
+}

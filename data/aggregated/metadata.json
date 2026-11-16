@@ -1,0 +1,15 @@
+{
+  "source": "Dirección General de Tráfico (DGT) - Microdatos Oficiales MATRABA",
+  "sourceUrl": "https://sedeinvestigacion.dgt.es/es/datos-abiertos/microdatos/",
+  "lastIngestDate": "2026-11-16T14:30:24.535Z",
+  "startPeriod": "2024-01",
+  "endPeriod": "2026-10",
+  "totalRegistrations": 5412845,
+  "totalMonths": 34,
+  "threshold": 50,
+  "coveredYears": [
+    "2026",
+    "2025",
+    "2024"
+  ]
+}

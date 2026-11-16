@@ -1,0 +1,439 @@
+{
+  "code": "48",
+  "name": "Bizkaia",
+  "slug": "bizkaia",
+  "community": "País Vasco",
+  "population": 1153285,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 71227,
+  "percentageOfSpain": 1.32,
+  "per1000Habitantes": 61.76,
+  "ceroCount": 6838,
+  "ecoCount": 21147,
+  "bevCount": 5975,
+  "phevCount": 863,
+  "hevCount": 21143,
+  "ceroPercentage": 9.6,
+  "ecoPercentage": 29.7,
+  "bevPercentage": 8.4,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 1592,
+      "cero": 85,
+      "eco": 386,
+      "bev": 75,
+      "phev": 10,
+      "hev": 386,
+      "topBrand": "TOYOTA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-02",
+      "total": 1822,
+      "cero": 89,
+      "eco": 468,
+      "bev": 85,
+      "phev": 4,
+      "hev": 468,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-03",
+      "total": 1927,
+      "cero": 121,
+      "eco": 493,
+      "bev": 114,
+      "phev": 7,
+      "hev": 493,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-04",
+      "total": 1839,
+      "cero": 87,
+      "eco": 467,
+      "bev": 79,
+      "phev": 8,
+      "hev": 467,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-05",
+      "total": 2059,
+      "cero": 108,
+      "eco": 557,
+      "bev": 104,
+      "phev": 4,
+      "hev": 557,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-06",
+      "total": 1984,
+      "cero": 113,
+      "eco": 552,
+      "bev": 110,
+      "phev": 3,
+      "hev": 552,
+      "topBrand": "RENAULT",
+      "topModel": "TUCSON"
+    },
+    {
+      "period": "2024-07",
+      "total": 1913,
+      "cero": 77,
+      "eco": 550,
+      "bev": 77,
+      "phev": 0,
+      "hev": 550,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-08",
+      "total": 1336,
+      "cero": 67,
+      "eco": 407,
+      "bev": 64,
+      "phev": 3,
+      "hev": 407,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-09",
+      "total": 1970,
+      "cero": 133,
+      "eco": 578,
+      "bev": 132,
+      "phev": 1,
+      "hev": 578,
+      "topBrand": "RENAULT",
+      "topModel": "CLIO"
+    },
+    {
+      "period": "2024-10",
+      "total": 2103,
+      "cero": 102,
+      "eco": 681,
+      "bev": 99,
+      "phev": 3,
+      "hev": 681,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-11",
+      "total": 1962,
+      "cero": 119,
+      "eco": 612,
+      "bev": 115,
+      "phev": 4,
+      "hev": 612,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-12",
+      "total": 2454,
+      "cero": 180,
+      "eco": 757,
+      "bev": 178,
+      "phev": 2,
+      "hev": 757,
+      "topBrand": "BMW",
+      "topModel": "X1 XDRIVE25E"
+    },
+    {
+      "period": "2025-01",
+      "total": 1704,
+      "cero": 116,
+      "eco": 551,
+      "bev": 114,
+      "phev": 2,
+      "hev": 551,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-02",
+      "total": 1731,
+      "cero": 117,
+      "eco": 592,
+      "bev": 102,
+      "phev": 15,
+      "hev": 592,
+      "topBrand": "TOYOTA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-03",
+      "total": 2078,
+      "cero": 165,
+      "eco": 701,
+      "bev": 149,
+      "phev": 16,
+      "hev": 701,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-04",
+      "total": 2072,
+      "cero": 202,
+      "eco": 662,
+      "bev": 181,
+      "phev": 21,
+      "hev": 662,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-05",
+      "total": 2329,
+      "cero": 185,
+      "eco": 758,
+      "bev": 161,
+      "phev": 24,
+      "hev": 758,
+      "topBrand": "DACIA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-06",
+      "total": 2560,
+      "cero": 250,
+      "eco": 686,
+      "bev": 215,
+      "phev": 35,
+      "hev": 686,
+      "topBrand": "DACIA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-07",
+      "total": 2476,
+      "cero": 237,
+      "eco": 745,
+      "bev": 190,
+      "phev": 47,
+      "hev": 745,
+      "topBrand": "RENAULT",
+      "topModel": "AUSTRAL"
+    },
+    {
+      "period": "2025-08",
+      "total": 1489,
+      "cero": 189,
+      "eco": 452,
+      "bev": 148,
+      "phev": 41,
+      "hev": 452,
+      "topBrand": "TOYOTA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-09",
+      "total": 2290,
+      "cero": 309,
+      "eco": 679,
+      "bev": 254,
+      "phev": 55,
+      "hev": 679,
+      "topBrand": "RENAULT",
+      "topModel": "AUSTRAL"
+    },
+    {
+      "period": "2025-10",
+      "total": 2311,
+      "cero": 233,
+      "eco": 677,
+      "bev": 171,
+      "phev": 62,
+      "hev": 677,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-11",
+      "total": 2108,
+      "cero": 196,
+      "eco": 661,
+      "bev": 152,
+      "phev": 44,
+      "hev": 661,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-12",
+      "total": 2189,
+      "cero": 254,
+      "eco": 699,
+      "bev": 201,
+      "phev": 53,
+      "hev": 699,
+      "topBrand": "RENAULT",
+      "topModel": "TOYOTA RAV4"
+    },
+    {
+      "period": "2026-01",
+      "total": 1793,
+      "cero": 185,
+      "eco": 593,
+      "bev": 147,
+      "phev": 38,
+      "hev": 593,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2026-02",
+      "total": 1937,
+      "cero": 234,
+      "eco": 587,
+      "bev": 197,
+      "phev": 37,
+      "hev": 586,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-03",
+      "total": 2478,
+      "cero": 289,
+      "eco": 767,
+      "bev": 241,
+      "phev": 48,
+      "hev": 767,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-04",
+      "total": 2228,
+      "cero": 302,
+      "eco": 648,
+      "bev": 270,
+      "phev": 32,
+      "hev": 646,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-05",
+      "total": 2406,
+      "cero": 332,
+      "eco": 720,
+      "bev": 287,
+      "phev": 45,
+      "hev": 719,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-06",
+      "total": 2942,
+      "cero": 389,
+      "eco": 811,
+      "bev": 356,
+      "phev": 33,
+      "hev": 811,
+      "topBrand": "RENAULT",
+      "topModel": "125X"
+    },
+    {
+      "period": "2026-07",
+      "total": 2766,
+      "cero": 317,
+      "eco": 746,
+      "bev": 259,
+      "phev": 58,
+      "hev": 746,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-08",
+      "total": 1651,
+      "cero": 231,
+      "eco": 496,
+      "bev": 205,
+      "phev": 26,
+      "hev": 496,
+      "topBrand": "TOYOTA",
+      "topModel": "125X"
+    },
+    {
+      "period": "2026-09",
+      "total": 2422,
+      "cero": 428,
+      "eco": 718,
+      "bev": 386,
+      "phev": 42,
+      "hev": 718,
+      "topBrand": "TOYOTA",
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2026-10",
+      "total": 2306,
+      "cero": 397,
+      "eco": 690,
+      "bev": 357,
+      "phev": 40,
+      "hev": 690,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "RENAULT",
+      "slug": "renault",
+      "timesLeader": 20
+    },
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 11
+    },
+    {
+      "brand": "DACIA",
+      "slug": "dacia",
+      "timesLeader": 2
+    },
+    {
+      "brand": "BMW",
+      "slug": "bmw",
+      "timesLeader": 1
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "SANDERO",
+      "timesLeader": 21
+    },
+    {
+      "model": "MG ZS",
+      "timesLeader": 3
+    },
+    {
+      "model": "AUSTRAL",
+      "timesLeader": 2
+    },
+    {
+      "model": "125X",
+      "timesLeader": 2
+    },
+    {
+      "model": "TUCSON",
+      "timesLeader": 1
+    }
+  ]
+}

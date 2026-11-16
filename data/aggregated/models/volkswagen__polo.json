@@ -1,0 +1,65 @@
+{
+  "brand": "VOLKSWAGEN",
+  "brandSlug": "volkswagen",
+  "model": "POLO",
+  "modelSlug": "polo",
+  "fullName": "VOLKSWAGEN POLO",
+  "total": 6384,
+  "percentage": 0.12,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 72,
+  "avgCv": 98,
+  "avgCo2": 119,
+  "evolution": [
+    {
+      "period": "2024-06",
+      "total": 1238,
+      "avgKw": 73,
+      "avgCv": 100,
+      "avgCo2": 120,
+      "avgTara": 1182
+    },
+    {
+      "period": "2024-07",
+      "total": 814,
+      "avgKw": 70,
+      "avgCv": 95,
+      "avgCo2": 120,
+      "avgTara": 1176
+    },
+    {
+      "period": "2026-06",
+      "total": 1202,
+      "avgKw": 75,
+      "avgCv": 102,
+      "avgCo2": 119,
+      "avgTara": 1191
+    },
+    {
+      "period": "2026-07",
+      "total": 953,
+      "avgKw": 72,
+      "avgCv": 98,
+      "avgCo2": 118,
+      "avgTara": 1182
+    },
+    {
+      "period": "2026-08",
+      "total": 726,
+      "avgKw": 70,
+      "avgCv": 96,
+      "avgCo2": 119,
+      "avgTara": 1181
+    },
+    {
+      "period": "2026-10",
+      "total": 1451,
+      "avgKw": 70,
+      "avgCv": 96,
+      "avgCo2": 118,
+      "avgTara": 1177
+    }
+  ]
+}

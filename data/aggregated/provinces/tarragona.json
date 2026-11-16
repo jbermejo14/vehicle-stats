@@ -1,0 +1,439 @@
+{
+  "code": "43",
+  "name": "Tarragona",
+  "slug": "tarragona",
+  "community": "Cataluña",
+  "population": 850986,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 77367,
+  "percentageOfSpain": 1.43,
+  "per1000Habitantes": 90.91,
+  "ceroCount": 7178,
+  "ecoCount": 17039,
+  "bevCount": 6586,
+  "phevCount": 592,
+  "hevCount": 17027,
+  "ceroPercentage": 9.3,
+  "ecoPercentage": 22,
+  "bevPercentage": 8.5,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 1691,
+      "cero": 96,
+      "eco": 348,
+      "bev": 90,
+      "phev": 6,
+      "hev": 348,
+      "topBrand": "TOYOTA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2024-02",
+      "total": 1737,
+      "cero": 89,
+      "eco": 342,
+      "bev": 84,
+      "phev": 5,
+      "hev": 342,
+      "topBrand": "PEUGEOT",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-03",
+      "total": 1896,
+      "cero": 128,
+      "eco": 364,
+      "bev": 117,
+      "phev": 11,
+      "hev": 364,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-04",
+      "total": 1961,
+      "cero": 90,
+      "eco": 337,
+      "bev": 84,
+      "phev": 6,
+      "hev": 337,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-05",
+      "total": 2108,
+      "cero": 105,
+      "eco": 384,
+      "bev": 101,
+      "phev": 4,
+      "hev": 384,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-06",
+      "total": 1982,
+      "cero": 118,
+      "eco": 405,
+      "bev": 116,
+      "phev": 2,
+      "hev": 405,
+      "topBrand": "TOYOTA",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-07",
+      "total": 2191,
+      "cero": 85,
+      "eco": 487,
+      "bev": 83,
+      "phev": 2,
+      "hev": 487,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-08",
+      "total": 1691,
+      "cero": 74,
+      "eco": 359,
+      "bev": 72,
+      "phev": 2,
+      "hev": 359,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-09",
+      "total": 1809,
+      "cero": 152,
+      "eco": 354,
+      "bev": 150,
+      "phev": 2,
+      "hev": 354,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-10",
+      "total": 2450,
+      "cero": 139,
+      "eco": 533,
+      "bev": 134,
+      "phev": 5,
+      "hev": 533,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-11",
+      "total": 1900,
+      "cero": 123,
+      "eco": 381,
+      "bev": 120,
+      "phev": 3,
+      "hev": 381,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-12",
+      "total": 2228,
+      "cero": 189,
+      "eco": 555,
+      "bev": 186,
+      "phev": 3,
+      "hev": 555,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-01",
+      "total": 1905,
+      "cero": 114,
+      "eco": 451,
+      "bev": 112,
+      "phev": 2,
+      "hev": 451,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-02",
+      "total": 2024,
+      "cero": 121,
+      "eco": 470,
+      "bev": 108,
+      "phev": 13,
+      "hev": 470,
+      "topBrand": "TOYOTA",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-03",
+      "total": 2049,
+      "cero": 147,
+      "eco": 500,
+      "bev": 137,
+      "phev": 10,
+      "hev": 500,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-04",
+      "total": 1940,
+      "cero": 151,
+      "eco": 425,
+      "bev": 139,
+      "phev": 12,
+      "hev": 425,
+      "topBrand": "TOYOTA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-05",
+      "total": 2455,
+      "cero": 209,
+      "eco": 531,
+      "bev": 200,
+      "phev": 9,
+      "hev": 530,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-06",
+      "total": 2564,
+      "cero": 234,
+      "eco": 468,
+      "bev": 212,
+      "phev": 22,
+      "hev": 467,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-07",
+      "total": 2805,
+      "cero": 227,
+      "eco": 547,
+      "bev": 205,
+      "phev": 22,
+      "hev": 546,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-08",
+      "total": 1768,
+      "cero": 209,
+      "eco": 404,
+      "bev": 198,
+      "phev": 11,
+      "hev": 404,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-09",
+      "total": 2191,
+      "cero": 245,
+      "eco": 502,
+      "bev": 224,
+      "phev": 21,
+      "hev": 501,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-10",
+      "total": 2733,
+      "cero": 239,
+      "eco": 642,
+      "bev": 200,
+      "phev": 39,
+      "hev": 641,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-11",
+      "total": 2364,
+      "cero": 227,
+      "eco": 630,
+      "bev": 195,
+      "phev": 32,
+      "hev": 628,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-12",
+      "total": 2264,
+      "cero": 233,
+      "eco": 614,
+      "bev": 195,
+      "phev": 38,
+      "hev": 614,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-01",
+      "total": 1964,
+      "cero": 134,
+      "eco": 532,
+      "bev": 114,
+      "phev": 20,
+      "hev": 532,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-02",
+      "total": 2325,
+      "cero": 250,
+      "eco": 599,
+      "bev": 224,
+      "phev": 26,
+      "hev": 599,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-03",
+      "total": 2984,
+      "cero": 345,
+      "eco": 698,
+      "bev": 307,
+      "phev": 38,
+      "hev": 698,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-04",
+      "total": 2502,
+      "cero": 336,
+      "eco": 556,
+      "bev": 308,
+      "phev": 28,
+      "hev": 555,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-05",
+      "total": 2850,
+      "cero": 387,
+      "eco": 644,
+      "bev": 353,
+      "phev": 34,
+      "hev": 642,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-06",
+      "total": 3053,
+      "cero": 361,
+      "eco": 658,
+      "bev": 331,
+      "phev": 30,
+      "hev": 657,
+      "topBrand": "DACIA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-07",
+      "total": 3160,
+      "cero": 328,
+      "eco": 631,
+      "bev": 289,
+      "phev": 39,
+      "hev": 630,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "BERLINGOáTALLA M BLUEH"
+    },
+    {
+      "period": "2026-08",
+      "total": 2249,
+      "cero": 268,
+      "eco": 475,
+      "bev": 246,
+      "phev": 22,
+      "hev": 475,
+      "topBrand": "TOYOTA",
+      "topModel": "RH PLA-7000TD"
+    },
+    {
+      "period": "2026-09",
+      "total": 2541,
+      "cero": 480,
+      "eco": 498,
+      "bev": 446,
+      "phev": 34,
+      "hev": 498,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "MODEL 3"
+    },
+    {
+      "period": "2026-10",
+      "total": 3033,
+      "cero": 545,
+      "eco": 715,
+      "bev": 506,
+      "phev": 39,
+      "hev": 715,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 25
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "timesLeader": 7
+    },
+    {
+      "brand": "PEUGEOT",
+      "slug": "peugeot",
+      "timesLeader": 1
+    },
+    {
+      "brand": "DACIA",
+      "slug": "dacia",
+      "timesLeader": 1
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "SANDERO",
+      "timesLeader": 25
+    },
+    {
+      "model": "MG ZS",
+      "timesLeader": 3
+    },
+    {
+      "model": "DESCONOCIDO",
+      "timesLeader": 3
+    },
+    {
+      "model": "BERLINGOáTALLA M BLUEH",
+      "timesLeader": 1
+    },
+    {
+      "model": "RH PLA-7000TD",
+      "timesLeader": 1
+    }
+  ]
+}

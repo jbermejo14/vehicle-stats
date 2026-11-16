@@ -1,0 +1,444 @@
+{
+  "code": "10",
+  "name": "Cáceres",
+  "slug": "caceres",
+  "community": "Extremadura",
+  "population": 389558,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 23075,
+  "percentageOfSpain": 0.43,
+  "per1000Habitantes": 59.23,
+  "ceroCount": 1077,
+  "ecoCount": 5263,
+  "bevCount": 919,
+  "phevCount": 158,
+  "hevCount": 5262,
+  "ceroPercentage": 4.7,
+  "ecoPercentage": 22.8,
+  "bevPercentage": 4,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 551,
+      "cero": 12,
+      "eco": 102,
+      "bev": 12,
+      "phev": 0,
+      "hev": 102,
+      "topBrand": "TOYOTA",
+      "topModel": "NUEVO C3 PURETECH 83 S"
+    },
+    {
+      "period": "2024-02",
+      "total": 562,
+      "cero": 9,
+      "eco": 105,
+      "bev": 9,
+      "phev": 0,
+      "hev": 105,
+      "topBrand": "CITROEN",
+      "topModel": "NUEVO C4 PURETECH 130"
+    },
+    {
+      "period": "2024-03",
+      "total": 498,
+      "cero": 15,
+      "eco": 108,
+      "bev": 14,
+      "phev": 1,
+      "hev": 108,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA RAV4"
+    },
+    {
+      "period": "2024-04",
+      "total": 562,
+      "cero": 13,
+      "eco": 106,
+      "bev": 11,
+      "phev": 2,
+      "hev": 106,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA COROLLA"
+    },
+    {
+      "period": "2024-05",
+      "total": 542,
+      "cero": 21,
+      "eco": 90,
+      "bev": 20,
+      "phev": 1,
+      "hev": 90,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-06",
+      "total": 635,
+      "cero": 23,
+      "eco": 109,
+      "bev": 22,
+      "phev": 1,
+      "hev": 109,
+      "topBrand": "SIN MARCA",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-07",
+      "total": 613,
+      "cero": 8,
+      "eco": 107,
+      "bev": 8,
+      "phev": 0,
+      "hev": 107,
+      "topBrand": "CITROEN",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2024-08",
+      "total": 417,
+      "cero": 15,
+      "eco": 74,
+      "bev": 15,
+      "phev": 0,
+      "hev": 74,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-09",
+      "total": 560,
+      "cero": 15,
+      "eco": 120,
+      "bev": 14,
+      "phev": 1,
+      "hev": 120,
+      "topBrand": "CITROEN",
+      "topModel": "C4 PURETECH 130 S&S 6V"
+    },
+    {
+      "period": "2024-10",
+      "total": 629,
+      "cero": 13,
+      "eco": 124,
+      "bev": 13,
+      "phev": 0,
+      "hev": 124,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-11",
+      "total": 597,
+      "cero": 20,
+      "eco": 138,
+      "bev": 20,
+      "phev": 0,
+      "hev": 138,
+      "topBrand": "TOYOTA",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-12",
+      "total": 617,
+      "cero": 18,
+      "eco": 162,
+      "bev": 18,
+      "phev": 0,
+      "hev": 162,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA HILUX"
+    },
+    {
+      "period": "2025-01",
+      "total": 567,
+      "cero": 22,
+      "eco": 149,
+      "bev": 22,
+      "phev": 0,
+      "hev": 149,
+      "topBrand": "TOYOTA",
+      "topModel": "MG ZS"
+    },
+    {
+      "period": "2025-02",
+      "total": 571,
+      "cero": 12,
+      "eco": 159,
+      "bev": 9,
+      "phev": 3,
+      "hev": 159,
+      "topBrand": "TOYOTA",
+      "topModel": "NUEVO C4 HYBRID 136 Ë-"
+    },
+    {
+      "period": "2025-03",
+      "total": 595,
+      "cero": 22,
+      "eco": 154,
+      "bev": 22,
+      "phev": 0,
+      "hev": 154,
+      "topBrand": "OPEL",
+      "topModel": "CORSA EDITION 1.2T XHL"
+    },
+    {
+      "period": "2025-04",
+      "total": 521,
+      "cero": 27,
+      "eco": 121,
+      "bev": 25,
+      "phev": 2,
+      "hev": 121,
+      "topBrand": "TOYOTA",
+      "topModel": "CORSA EDITION 1.2T XHL"
+    },
+    {
+      "period": "2025-05",
+      "total": 718,
+      "cero": 30,
+      "eco": 162,
+      "bev": 26,
+      "phev": 4,
+      "hev": 162,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-06",
+      "total": 800,
+      "cero": 39,
+      "eco": 149,
+      "bev": 34,
+      "phev": 5,
+      "hev": 149,
+      "topBrand": "SIN MARCA",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-07",
+      "total": 867,
+      "cero": 46,
+      "eco": 180,
+      "bev": 28,
+      "phev": 18,
+      "hev": 180,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2025-08",
+      "total": 552,
+      "cero": 22,
+      "eco": 115,
+      "bev": 16,
+      "phev": 6,
+      "hev": 115,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "408 ALLURE HYBRID 145"
+    },
+    {
+      "period": "2025-09",
+      "total": 831,
+      "cero": 57,
+      "eco": 236,
+      "bev": 44,
+      "phev": 13,
+      "hev": 236,
+      "topBrand": "CITROEN",
+      "topModel": "NUEVO C4 HYBRID 145 Ë-"
+    },
+    {
+      "period": "2025-10",
+      "total": 808,
+      "cero": 43,
+      "eco": 175,
+      "bev": 30,
+      "phev": 13,
+      "hev": 175,
+      "topBrand": "TOYOTA",
+      "topModel": "BYD SEAL U DM-I"
+    },
+    {
+      "period": "2025-11",
+      "total": 720,
+      "cero": 54,
+      "eco": 189,
+      "bev": 43,
+      "phev": 11,
+      "hev": 189,
+      "topBrand": "TOYOTA",
+      "topModel": "BYD SEAL U DM-I"
+    },
+    {
+      "period": "2025-12",
+      "total": 788,
+      "cero": 41,
+      "eco": 217,
+      "bev": 34,
+      "phev": 7,
+      "hev": 217,
+      "topBrand": "HYUNDAI",
+      "topModel": "BAYON"
+    },
+    {
+      "period": "2026-01",
+      "total": 557,
+      "cero": 23,
+      "eco": 116,
+      "bev": 21,
+      "phev": 2,
+      "hev": 116,
+      "topBrand": "TOYOTA",
+      "topModel": "CORSA EDITION 1.2T XHL"
+    },
+    {
+      "period": "2026-02",
+      "total": 704,
+      "cero": 44,
+      "eco": 171,
+      "bev": 29,
+      "phev": 15,
+      "hev": 170,
+      "topBrand": "TOYOTA",
+      "topModel": "BYD ATTO 2  DM-I"
+    },
+    {
+      "period": "2026-03",
+      "total": 932,
+      "cero": 57,
+      "eco": 298,
+      "bev": 49,
+      "phev": 8,
+      "hev": 298,
+      "topBrand": "CITROEN",
+      "topModel": "NUEVO C4 HYBRID 145 Ë-"
+    },
+    {
+      "period": "2026-04",
+      "total": 746,
+      "cero": 43,
+      "eco": 152,
+      "bev": 37,
+      "phev": 6,
+      "hev": 152,
+      "topBrand": "TOYOTA",
+      "topModel": "BYD ATTO 2  DM-I"
+    },
+    {
+      "period": "2026-05",
+      "total": 828,
+      "cero": 51,
+      "eco": 250,
+      "bev": 44,
+      "phev": 7,
+      "hev": 250,
+      "topBrand": "CITROEN",
+      "topModel": "NUEVO C4 HYBRID 145 Ë-"
+    },
+    {
+      "period": "2026-06",
+      "total": 866,
+      "cero": 53,
+      "eco": 184,
+      "bev": 49,
+      "phev": 4,
+      "hev": 184,
+      "topBrand": "SIN MARCA",
+      "topModel": "DESCONOCIDO"
+    },
+    {
+      "period": "2026-07",
+      "total": 987,
+      "cero": 35,
+      "eco": 247,
+      "bev": 31,
+      "phev": 4,
+      "hev": 247,
+      "topBrand": "BYD",
+      "topModel": "NUEVO C4 HYBRID 145 Ë-"
+    },
+    {
+      "period": "2026-08",
+      "total": 608,
+      "cero": 46,
+      "eco": 140,
+      "bev": 39,
+      "phev": 7,
+      "hev": 140,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "BYD ATTO 2  DM-I"
+    },
+    {
+      "period": "2026-09",
+      "total": 913,
+      "cero": 59,
+      "eco": 210,
+      "bev": 51,
+      "phev": 8,
+      "hev": 210,
+      "topBrand": "BYD",
+      "topModel": "BYD SEAL U DM-I"
+    },
+    {
+      "period": "2026-10",
+      "total": 813,
+      "cero": 69,
+      "eco": 144,
+      "bev": 60,
+      "phev": 9,
+      "hev": 144,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "DEEPAL S05"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 15
+    },
+    {
+      "brand": "CITROEN",
+      "slug": "citroen",
+      "timesLeader": 6
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "timesLeader": 6
+    },
+    {
+      "brand": "SIN MARCA",
+      "slug": "sin-marca",
+      "timesLeader": 3
+    },
+    {
+      "brand": "BYD",
+      "slug": "byd",
+      "timesLeader": 2
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "DESCONOCIDO",
+      "timesLeader": 6
+    },
+    {
+      "model": "SANDERO",
+      "timesLeader": 4
+    },
+    {
+      "model": "NUEVO C4 HYBRID 145 Ë-",
+      "timesLeader": 4
+    },
+    {
+      "model": "CORSA EDITION 1.2T XHL",
+      "timesLeader": 3
+    },
+    {
+      "model": "BYD SEAL U DM-I",
+      "timesLeader": 3
+    }
+  ]
+}

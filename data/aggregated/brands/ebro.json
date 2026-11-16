@@ -1,0 +1,148 @@
+{
+  "brand": "EBRO",
+  "slug": "ebro",
+  "total": 29809,
+  "percentage": 0.55,
+  "eco0Percentage": 87,
+  "avgKw": 92,
+  "monthlyEvolution": [
+    {
+      "period": "2025-07",
+      "total": 1392,
+      "eco0Count": 691,
+      "avgKw": 101,
+      "avgCo2": 108,
+      "topModel": "S700"
+    },
+    {
+      "period": "2025-09",
+      "total": 1192,
+      "eco0Count": 773,
+      "avgKw": 98,
+      "avgCo2": 94,
+      "topModel": "S700 PHEV"
+    },
+    {
+      "period": "2025-10",
+      "total": 1653,
+      "eco0Count": 1123,
+      "avgKw": 97,
+      "avgCo2": 102,
+      "topModel": "S400 HEV"
+    },
+    {
+      "period": "2025-11",
+      "total": 1635,
+      "eco0Count": 1365,
+      "avgKw": 90,
+      "avgCo2": 98,
+      "topModel": "S400 HEV"
+    },
+    {
+      "period": "2025-12",
+      "total": 2146,
+      "eco0Count": 1773,
+      "avgKw": 90,
+      "avgCo2": 100,
+      "topModel": "S400 HEV"
+    },
+    {
+      "period": "2026-01",
+      "total": 1706,
+      "eco0Count": 1431,
+      "avgKw": 86,
+      "avgCo2": 106,
+      "topModel": "S400 HEV"
+    },
+    {
+      "period": "2026-02",
+      "total": 2361,
+      "eco0Count": 1863,
+      "avgKw": 89,
+      "avgCo2": 109,
+      "topModel": "S400 HEV"
+    },
+    {
+      "period": "2026-03",
+      "total": 2560,
+      "eco0Count": 2228,
+      "avgKw": 90,
+      "avgCo2": 99,
+      "topModel": "S400 HEV"
+    },
+    {
+      "period": "2026-04",
+      "total": 2092,
+      "eco0Count": 1896,
+      "avgKw": 92,
+      "avgCo2": 97,
+      "topModel": "S400 HEV"
+    },
+    {
+      "period": "2026-05",
+      "total": 2416,
+      "eco0Count": 2337,
+      "avgKw": 89,
+      "avgCo2": 99,
+      "topModel": "S400 HEV"
+    },
+    {
+      "period": "2026-06",
+      "total": 2808,
+      "eco0Count": 2750,
+      "avgKw": 92,
+      "avgCo2": 93,
+      "topModel": "S400 HEV"
+    },
+    {
+      "period": "2026-07",
+      "total": 2511,
+      "eco0Count": 2478,
+      "avgKw": 93,
+      "avgCo2": 91,
+      "topModel": "S400 HEV"
+    },
+    {
+      "period": "2026-08",
+      "total": 1541,
+      "eco0Count": 1516,
+      "avgKw": 91,
+      "avgCo2": 95,
+      "topModel": "S400 HEV"
+    },
+    {
+      "period": "2026-09",
+      "total": 2097,
+      "eco0Count": 2037,
+      "avgKw": 91,
+      "avgCo2": 94,
+      "topModel": "S400 HEV"
+    },
+    {
+      "period": "2026-10",
+      "total": 1699,
+      "eco0Count": 1676,
+      "avgKw": 93,
+      "avgCo2": 89,
+      "topModel": "S400 HEV"
+    }
+  ],
+  "models": [
+    {
+      "brand": "EBRO",
+      "brandSlug": "ebro",
+      "model": "S400 HEV",
+      "modelSlug": "s400-hev",
+      "fullName": "EBRO S400 HEV",
+      "total": 5593,
+      "percentage": 0.1,
+      "category": "Turismo",
+      "primaryFuel": "Híbrido (HEV)",
+      "primaryBadge": "ECO",
+      "avgKw": 70,
+      "avgCv": 95,
+      "avgCo2": 120
+    }
+  ],
+  "leadProvinces": []
+}

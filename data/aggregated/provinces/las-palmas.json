@@ -1,0 +1,444 @@
+{
+  "code": "35",
+  "name": "Las Palmas",
+  "slug": "las-palmas",
+  "community": "Canarias",
+  "population": 1140258,
+  "populationSource": "INE Padrón Municipal 2024",
+  "total": 144629,
+  "percentageOfSpain": 2.67,
+  "per1000Habitantes": 126.84,
+  "ceroCount": 9337,
+  "ecoCount": 26831,
+  "bevCount": 8631,
+  "phevCount": 706,
+  "hevCount": 26831,
+  "ceroPercentage": 6.5,
+  "ecoPercentage": 18.6,
+  "bevPercentage": 6,
+  "monthlyTimeline": [
+    {
+      "period": "2024-01",
+      "total": 3008,
+      "cero": 162,
+      "eco": 433,
+      "bev": 156,
+      "phev": 6,
+      "hev": 433,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TAIGO"
+    },
+    {
+      "period": "2024-02",
+      "total": 3191,
+      "cero": 192,
+      "eco": 509,
+      "bev": 190,
+      "phev": 2,
+      "hev": 509,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TAIGO"
+    },
+    {
+      "period": "2024-03",
+      "total": 2989,
+      "cero": 201,
+      "eco": 333,
+      "bev": 194,
+      "phev": 7,
+      "hev": 333,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2024-04",
+      "total": 3388,
+      "cero": 206,
+      "eco": 443,
+      "bev": 198,
+      "phev": 8,
+      "hev": 443,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-05",
+      "total": 3612,
+      "cero": 214,
+      "eco": 469,
+      "bev": 212,
+      "phev": 2,
+      "hev": 469,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2024-06",
+      "total": 5392,
+      "cero": 235,
+      "eco": 673,
+      "bev": 233,
+      "phev": 2,
+      "hev": 673,
+      "topBrand": "SEAT",
+      "topModel": "ARONA"
+    },
+    {
+      "period": "2024-07",
+      "total": 4324,
+      "cero": 222,
+      "eco": 582,
+      "bev": 220,
+      "phev": 2,
+      "hev": 582,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "POLO"
+    },
+    {
+      "period": "2024-08",
+      "total": 2722,
+      "cero": 164,
+      "eco": 429,
+      "bev": 164,
+      "phev": 0,
+      "hev": 429,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA YARIS"
+    },
+    {
+      "period": "2024-09",
+      "total": 3540,
+      "cero": 171,
+      "eco": 605,
+      "bev": 169,
+      "phev": 2,
+      "hev": 605,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TOYOTA C-HR"
+    },
+    {
+      "period": "2024-10",
+      "total": 5848,
+      "cero": 233,
+      "eco": 834,
+      "bev": 229,
+      "phev": 4,
+      "hev": 834,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TAIGO"
+    },
+    {
+      "period": "2024-11",
+      "total": 5644,
+      "cero": 240,
+      "eco": 771,
+      "bev": 238,
+      "phev": 2,
+      "hev": 771,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TAIGO"
+    },
+    {
+      "period": "2024-12",
+      "total": 4780,
+      "cero": 237,
+      "eco": 705,
+      "bev": 234,
+      "phev": 3,
+      "hev": 705,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TAIGO"
+    },
+    {
+      "period": "2025-01",
+      "total": 3416,
+      "cero": 201,
+      "eco": 447,
+      "bev": 196,
+      "phev": 5,
+      "hev": 447,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "I10"
+    },
+    {
+      "period": "2025-02",
+      "total": 3305,
+      "cero": 184,
+      "eco": 440,
+      "bev": 172,
+      "phev": 12,
+      "hev": 440,
+      "topBrand": "KIA",
+      "topModel": "STONIC"
+    },
+    {
+      "period": "2025-03",
+      "total": 4016,
+      "cero": 261,
+      "eco": 683,
+      "bev": 250,
+      "phev": 11,
+      "hev": 683,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "STONIC"
+    },
+    {
+      "period": "2025-04",
+      "total": 3853,
+      "cero": 209,
+      "eco": 622,
+      "bev": 198,
+      "phev": 11,
+      "hev": 622,
+      "topBrand": "SEAT",
+      "topModel": "ARONA"
+    },
+    {
+      "period": "2025-05",
+      "total": 4459,
+      "cero": 263,
+      "eco": 1029,
+      "bev": 245,
+      "phev": 18,
+      "hev": 1029,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA YARIS"
+    },
+    {
+      "period": "2025-06",
+      "total": 6457,
+      "cero": 273,
+      "eco": 1306,
+      "bev": 253,
+      "phev": 20,
+      "hev": 1306,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TAIGO"
+    },
+    {
+      "period": "2025-07",
+      "total": 5565,
+      "cero": 378,
+      "eco": 866,
+      "bev": 343,
+      "phev": 35,
+      "hev": 866,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2025-08",
+      "total": 3341,
+      "cero": 232,
+      "eco": 591,
+      "bev": 203,
+      "phev": 29,
+      "hev": 591,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "STONIC"
+    },
+    {
+      "period": "2025-09",
+      "total": 4592,
+      "cero": 258,
+      "eco": 746,
+      "bev": 231,
+      "phev": 27,
+      "hev": 746,
+      "topBrand": "KIA",
+      "topModel": "STONIC"
+    },
+    {
+      "period": "2025-10",
+      "total": 5239,
+      "cero": 308,
+      "eco": 1371,
+      "bev": 282,
+      "phev": 26,
+      "hev": 1371,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "TAIGO"
+    },
+    {
+      "period": "2025-11",
+      "total": 5637,
+      "cero": 321,
+      "eco": 1021,
+      "bev": 284,
+      "phev": 37,
+      "hev": 1021,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "NUEVO CITROËN C3 AIRCR"
+    },
+    {
+      "period": "2025-12",
+      "total": 4264,
+      "cero": 328,
+      "eco": 946,
+      "bev": 292,
+      "phev": 36,
+      "hev": 946,
+      "topBrand": "TOYOTA",
+      "topModel": "A1 SPORTBACK"
+    },
+    {
+      "period": "2026-01",
+      "total": 2800,
+      "cero": 199,
+      "eco": 748,
+      "bev": 167,
+      "phev": 32,
+      "hev": 748,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA YARIS"
+    },
+    {
+      "period": "2026-02",
+      "total": 2799,
+      "cero": 264,
+      "eco": 587,
+      "bev": 219,
+      "phev": 45,
+      "hev": 587,
+      "topBrand": "RENAULT",
+      "topModel": "SANDERO"
+    },
+    {
+      "period": "2026-03",
+      "total": 4594,
+      "cero": 364,
+      "eco": 1238,
+      "bev": 319,
+      "phev": 45,
+      "hev": 1238,
+      "topBrand": "SEAT",
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2026-04",
+      "total": 3173,
+      "cero": 320,
+      "eco": 687,
+      "bev": 298,
+      "phev": 22,
+      "hev": 687,
+      "topBrand": "RENAULT",
+      "topModel": "IBIZA"
+    },
+    {
+      "period": "2026-05",
+      "total": 3544,
+      "cero": 387,
+      "eco": 912,
+      "bev": 340,
+      "phev": 47,
+      "hev": 912,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA YARIS CROSS"
+    },
+    {
+      "period": "2026-06",
+      "total": 5253,
+      "cero": 374,
+      "eco": 1251,
+      "bev": 336,
+      "phev": 38,
+      "hev": 1251,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "ARONA"
+    },
+    {
+      "period": "2026-07",
+      "total": 5992,
+      "cero": 377,
+      "eco": 1320,
+      "bev": 323,
+      "phev": 54,
+      "hev": 1320,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "PICANTO"
+    },
+    {
+      "period": "2026-08",
+      "total": 3417,
+      "cero": 400,
+      "eco": 761,
+      "bev": 361,
+      "phev": 39,
+      "hev": 761,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA YARIS CROSS"
+    },
+    {
+      "period": "2026-09",
+      "total": 3872,
+      "cero": 416,
+      "eco": 1096,
+      "bev": 371,
+      "phev": 45,
+      "hev": 1096,
+      "topBrand": "TOYOTA",
+      "topModel": "TOYOTA YARIS CROSS"
+    },
+    {
+      "period": "2026-10",
+      "total": 6603,
+      "cero": 543,
+      "eco": 1377,
+      "bev": 511,
+      "phev": 32,
+      "hev": 1377,
+      "topBrand": "VOLKSWAGEN",
+      "topModel": "POLO"
+    }
+  ],
+  "topBrandsSummary": [
+    {
+      "brand": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "timesLeader": 19
+    },
+    {
+      "brand": "TOYOTA",
+      "slug": "toyota",
+      "timesLeader": 7
+    },
+    {
+      "brand": "RENAULT",
+      "slug": "renault",
+      "timesLeader": 3
+    },
+    {
+      "brand": "SEAT",
+      "slug": "seat",
+      "timesLeader": 3
+    },
+    {
+      "brand": "KIA",
+      "slug": "kia",
+      "timesLeader": 2
+    }
+  ],
+  "topModelsSummary": [
+    {
+      "model": "TAIGO",
+      "timesLeader": 7
+    },
+    {
+      "model": "SANDERO",
+      "timesLeader": 4
+    },
+    {
+      "model": "STONIC",
+      "timesLeader": 4
+    },
+    {
+      "model": "IBIZA",
+      "timesLeader": 3
+    },
+    {
+      "model": "ARONA",
+      "timesLeader": 3
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "brand": "VOLKSWAGEN",
+  "brandSlug": "volkswagen",
+  "model": "CADDY",
+  "modelSlug": "caddy",
+  "fullName": "VOLKSWAGEN CADDY",
+  "total": 6821,
+  "percentage": 0.13,
+  "category": "Comercial",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 81,
+  "avgCv": 110,
+  "avgCo2": 116,
+  "evolution": [
+    {
+      "period": "2024-04",
+      "total": 804,
+      "avgKw": 78,
+      "avgCv": 106,
+      "avgCo2": 135,
+      "avgTara": 1626
+    },
+    {
+      "period": "2025-04",
+      "total": 847,
+      "avgKw": 81,
+      "avgCv": 110,
+      "avgCo2": 124,
+      "avgTara": 1679
+    },
+    {
+      "period": "2025-08",
+      "total": 525,
+      "avgKw": 81,
+      "avgCv": 110,
+      "avgCo2": 122,
+      "avgTara": 1678
+    },
+    {
+      "period": "2025-10",
+      "total": 1026,
+      "avgKw": 81,
+      "avgCv": 110,
+      "avgCo2": 102,
+      "avgTara": 1692
+    },
+    {
+      "period": "2025-12",
+      "total": 971,
+      "avgKw": 81,
+      "avgCv": 110,
+      "avgCo2": 111,
+      "avgTara": 1687
+    },
+    {
+      "period": "2026-04",
+      "total": 951,
+      "avgKw": 83,
+      "avgCv": 113,
+      "avgCo2": 102,
+      "avgTara": 1722
+    },
+    {
+      "period": "2026-07",
+      "total": 887,
+      "avgKw": 80,
+      "avgCv": 108,
+      "avgCo2": 123,
+      "avgTara": 1660
+    },
+    {
+      "period": "2026-10",
+      "total": 810,
+      "avgKw": 81,
+      "avgCv": 110,
+      "avgCo2": 119,
+      "avgTara": 1676
+    }
+  ]
+}

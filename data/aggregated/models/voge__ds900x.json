@@ -1,0 +1,33 @@
+{
+  "brand": "VOGE",
+  "brandSlug": "voge",
+  "model": "DS900X",
+  "modelSlug": "ds900x",
+  "fullName": "VOGE DS900X",
+  "total": 1681,
+  "percentage": 0.03,
+  "category": "Motocicleta",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 66,
+  "avgCv": 90,
+  "avgCo2": 99,
+  "evolution": [
+    {
+      "period": "2024-09",
+      "total": 674,
+      "avgKw": 70,
+      "avgCv": 95,
+      "avgCo2": 99,
+      "avgTara": 238
+    },
+    {
+      "period": "2025-07",
+      "total": 1007,
+      "avgKw": 64,
+      "avgCv": 87,
+      "avgCo2": 99,
+      "avgTara": 238
+    }
+  ]
+}

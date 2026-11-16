@@ -1,17 +1,14 @@
-const path = require('path');
+process.env.NAPI_RS_FORCE_WASI = 'true';
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
-  experimental: {
-    serverComponentsExternalPackages: ['node:sqlite'],
-  },
-  webpack: (config, { isServer }) => {
-    config.resolve.alias['@'] = path.resolve(__dirname);
-    if (isServer) {
-      config.externals.push('node:sqlite');
-    }
-    return config;
+  turbopack: {
+    rules: {
+      '*.css': {
+        loaders: ['@tailwindcss/turbopack'],
+        as: '*.css',
+      },
+    },
   },
 };
 

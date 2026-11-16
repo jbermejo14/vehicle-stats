@@ -1,0 +1,25 @@
+{
+  "brand": "JAECOO",
+  "brandSlug": "jaecoo",
+  "model": "JAECOO7 PHEV",
+  "modelSlug": "jaecoo7-phev",
+  "fullName": "JAECOO JAECOO7 PHEV",
+  "total": 567,
+  "percentage": 0.01,
+  "category": "Turismo",
+  "primaryFuel": "Híbrido Enchufable (PHEV)",
+  "primaryBadge": "0 CERO",
+  "avgKw": 105,
+  "avgCv": 143,
+  "avgCo2": 23,
+  "evolution": [
+    {
+      "period": "2025-08",
+      "total": 567,
+      "avgKw": 105,
+      "avgCv": 143,
+      "avgCo2": 23,
+      "avgTara": 1870
+    }
+  ]
+}

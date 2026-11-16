@@ -1,0 +1,25 @@
+{
+  "brand": "CITROEN",
+  "brandSlug": "citroen",
+  "model": "NUEVO C3 PURETECH 83 S",
+  "modelSlug": "nuevo-c3-puretech-83-s",
+  "fullName": "CITROEN NUEVO C3 PURETECH 83 S",
+  "total": 873,
+  "percentage": 0.02,
+  "category": "Turismo",
+  "primaryFuel": "Gasolina",
+  "primaryBadge": "C",
+  "avgKw": 61,
+  "avgCv": 83,
+  "avgCo2": 123,
+  "evolution": [
+    {
+      "period": "2024-02",
+      "total": 873,
+      "avgKw": 61,
+      "avgCv": 83,
+      "avgCo2": 123,
+      "avgTara": 1055
+    }
+  ]
+}
